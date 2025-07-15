@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-24 after:2024-06-23 \"nifty\"",
+    "results_cnt": 368000,
+    "search_time": 0.55,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:55:33.862456Z"
+  },
+  "organic": [
+    {
+      "title": "Zerodha Nifty Midcap Share Price Live Chart Today",
+      "description": "Zerodha Nifty Midcap 150 ETF Share Price Chart - View today's MID150CASE Stock Price Chart for BSE and NSE at Groww Terminal. Track Zerodha Nifty Midcap 150 ETF",
+      "link": "https://groww.in/charts/etfs/zerodha-nifty-midcap-etf",
+      "display_link": "https://groww.in › charts › etfs › zerodha-nifty-midcap-etf",
+      "date": "23 Jun 2024",
+      "rank": 8
+    }
+  ]
+}

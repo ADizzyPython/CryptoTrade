@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-16 after:2024-09-15 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.32,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:10:39.505897Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY hits record high, SENSEX up 100 pts; power, utility ...",
+      "description": "NIFTY hits record high, SENSEX up 100 pts; power, utility stocks jump ... The top five gainers on the NSE were Adani Enterprises, NTPC, Hindalco, Wipro, and Bajaj ...",
+      "link": "https://upstox.com/news/market-news/trading/sensex-up-100-pts-nifty-tests-25-400-power-utility-stocks-jump/article-116677/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "Sep 15, 2024",
+      "rank": 17
+    }
+  ]
+}

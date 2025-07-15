@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-30 after:2024-12-29 \"nifty\"",
+    "results_cnt": 545000,
+    "search_time": 0.51,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:28:55.375003Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty ETF: Key Insights and Everything You Should Know",
+      "description": "The NIFTY ETF tracks the 50 largest companies listed on the NSE by replicating the strategy of the NIFTY 50 index.",
+      "link": "https://www.motilaloswal.com/learning-centre/2024/12/nifty-etf-key-insights-and-everything-you-should-know",
+      "display_link": "https://www.motilaloswal.com › 2024/12 › nifty-etf-ke...",
+      "date": "29 Dec 2024",
+      "rank": 17
+    }
+  ]
+}

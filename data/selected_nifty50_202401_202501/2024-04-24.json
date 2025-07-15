@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-25 after:2024-04-24 \"nifty\"",
+    "results_cnt": 947000,
+    "search_time": 0.51,
+    "language": "en-TW",
+    "country": "Taiwan",
+    "location": "India",
+    "timestamp": "2025-07-15T15:46:16.437051Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Financial Services value and PE ratio",
+      "description": "Nifty Financial Services · Market Cap ₹ 65,36,732 Cr. · Current Price ₹ 26,943 · High / Low ₹ 27,370 / 22,321 · P/E 17.8 · Price to Book value 2.95 ...",
+      "link": "https://www.screener.in/company/CNXFINANCE/",
+      "display_link": "https://www.screener.in › company › CNXFINANCE",
+      "date": "Apr 24, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 31 JUL 2025 CE 22750",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%).",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-22750-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Apr 24, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 23800",
+      "description": "NIFTY Expires 31 Jul; ₹ 25139.9 -83.50 (-0.33%). NIFTY Expires 28 Aug; ₹ 25250 -77.50 (-0.31%). NIFTY Expires 25 Sep; ₹ 25405.1 -84.70 (-0.33%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-23800-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Apr 24, 2024",
+      "rank": 4
+    },
+    {
+      "title": "NSE launches derivative contracts on Nifty Next 50, gets ...",
+      "description": "National Stock Exchange (NSE) on Wednesday introduced derivative contracts on Nifty Next 50 index, which received a positive response from market participants.",
+      "link": "https://www.business-standard.com/markets/news/nse-launches-derivative-contracts-on-nifty-next-50-gets-positive-response-124042401069_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Apr 24, 2024",
+      "rank": 9
+    },
+    {
+      "title": "National Stock Exchange of India April 2024",
+      "description": "In the world of indices, the Nifty 50 index comprises of the largely capitalised and liquid stocks in the Indian Capital Market, selected from the constituents ...",
+      "link": "https://nsearchives.nseindia.com/web/sites/default/files/inline-files/NIFTYNXT50%20Index%20Derivatives%20-%20White%20Paper.pdf",
+      "display_link": "https://nsearchives.nseindia.com › files › inline-files",
+      "date": "Apr 24, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open higher on Wednesday following gains in global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-april-24-11713923175016.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 24, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty rise for 4th day; focus on key earnings this week",
+      "description": "The 30-share BSE benchmark Sensex closed 114 points or 0.16% higher at 73852. The broader NSE Nifty closed 34 points or 0.15% higher at 22402.",
+      "link": "https://m.economictimes.com/markets/stocks/news/sensex-nifty-rise-for-4th-day-focus-on-key-earnings-this-week/articleshow/109561883.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Apr 24, 2024",
+      "rank": 14
+    },
+    {
+      "title": "NSE launches derivative contracts on Nifty Next 50 index",
+      "description": "The Nifty Next 50 index provides representation to large capitalisation stocks beyond the Nifty 50 index. The stocks part of the Nifty Next 50 are the ...",
+      "link": "https://www.deccanherald.com/business/economy/nse-launches-derivative-contracts-on-nifty-next-50-index-gets-positive-response-from-participants-2993021",
+      "display_link": "https://www.deccanherald.com › Business › Economy",
+      "date": "Apr 24, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Nifty swings above 20-DEMA; check key support, ...",
+      "description": "The Nifty index has reclaimed its level above 20-DEMA, placed at 22,309. Nifty Smallcap 100 index, meanwhile, rose more than 1 per cent and registered fresh all ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-swings-above-20-dema-check-key-support-resistance-levels-here-124042400097_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Apr 24, 2024",
+      "rank": 18
+    }
+  ]
+}

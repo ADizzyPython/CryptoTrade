@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-27 after:2024-10-26 \"nifty\"",
+    "results_cnt": 17,
+    "search_time": 0.29,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:17:07.242350Z"
+  },
+  "organic": [
+    {
+      "title": "After falling for 4 weeks, a pullback is possible in Nifty. ...",
+      "description": "The recent Nifty 50 downturn has raised concerns. Historically, the Nifty has shown a pattern of retracing to its moving averages before resuming its uptrend.",
+      "link": "https://m.economictimes.com/markets/stocks/news/after-falling-for-4-weeks-a-pullback-is-possible-in-nifty-heres-why/articleshow/114611723.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Oct 26, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Oil and Gas is a stock market index in India ...",
+      "description": "Nifty Oil and Gas is a stock market index in India that tracks the performance of the top companies in the oil, natural gas and petroleum sectors",
+      "link": "https://aliceblueonline.com/nifty-oil-and-gas-stocks-list/",
+      "display_link": "https://aliceblueonline.com › Finance",
+      "date": "Oct 26, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Bank Nifty Chart Patterns",
+      "description": "bank nifty options trading books · bank nifty options trading books hindi · trading chart patterns books · bank+nifty+chart+patterns · bank nifty chart patterns ...",
+      "link": "https://www.amazon.in/bank-nifty-chart-patterns/s?k=bank+nifty+chart+patterns",
+      "display_link": "https://www.amazon.in › bank-nifty-chart-patterns › k=...",
+      "date": "Oct 26, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock Market Crash: Significant Decline in ...",
+      "description": "The Nifty has seen a decline of more than 8%, and the Sensex has also seen a decline of around 8%. The defence index has fallen by 26% from its peak. At the ...",
+      "link": "https://www.patrika.com/en/business-news/stock-market-crash-significant-decline-in-stock-market-before-diwali-rs-40-lakh-crore-lost-find-out-the-main-reasons-19099501",
+      "display_link": "https://www.patrika.com › English News › Business",
+      "date": "Oct 26, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Latest Retirement-plann News, Photos, Videos and Podcasts",
+      "description": "... Nifty 50, Sensex snap 4-day losing streak to end in greenSensex, Nifty snap 4-day losing run; investors earn over ₹2 lakh crore— 10 key highlights from ...",
+      "link": "https://www.livemint.com/topic/retirement-plann",
+      "display_link": "https://www.livemint.com › Topic",
+      "date": "Oct 26, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Latest Episode of BT's Behind The Scenes, BT Magazine",
+      "description": "The Indian stock market has posted remarkable gains through Samvat 2080, with both the Nifty 50 and BSE Sensex climbing by around 25%—a standout achievement ...",
+      "link": "https://www.businesstoday.in/bt-tv/behind-the-scenes",
+      "display_link": "https://www.businesstoday.in › BT TV",
+      "date": "Oct 26, 2024",
+      "rank": 17
+    }
+  ]
+}

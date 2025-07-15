@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-01 after:2024-08-31 \"nifty\"",
+    "results_cnt": 15,
+    "search_time": 0.47,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:08:22.008425Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Fifty Mineral | Mineral Sunscreen",
+      "description": "A mineral daily SPF 50 broad spectrum sunscreen for UVA/UVB protection. Loaded with antioxidants and zinc oxide for 'physical' protection, Nifty Fifty ...",
+      "link": "https://uk.gotoskincare.com/products/nifty-fifty-mineral",
+      "display_link": "https://uk.gotoskincare.com › Nifty Fifty Mineral",
+      "date": "31 Aug 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty rallies for 12th day - its longest winning run ever",
+      "description": "Buying by India-focused funds after MSCI updated the weights for some Indian stocks also boosted sentiment. Nifty closed at 25,236, marking its 12th straight ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/nifty-rallies-for-12th-day-its-longest-winning-run-ever/articleshow/112938530.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "31 Aug 2024",
+      "rank": 5
+    },
+    {
+      "title": "Dual Momentum Strategy using Python",
+      "description": "Implementation of Dual Momentum Strategy in Python ; # Calculate the 200-day EMA for Nifty 50 · '200_EMA'] = nifty50_data[ ; # Generate trading signals based on ...",
+      "link": "https://python.plainenglish.io/dual-momentum-strategy-using-python-a3a7dd337ae3",
+      "display_link": "https://python.plainenglish.io › ...",
+      "date": "31 Aug 2024",
+      "rank": 13
+    },
+    {
+      "title": "New-age-tech-stocks News",
+      "description": "... Nifty 50 companies. ADANI ENTERPRISES share priceADANI PORTS share priceAPOLLO HOSPITALS share priceASIAN PAINTS share priceAXIS BANK share priceBAJAJ AUTO ...",
+      "link": "https://www.livemint.com/topic/new-age-tech-stocks",
+      "display_link": "https://www.livemint.com › Topic",
+      "date": "31 Aug 2024",
+      "rank": 14
+    }
+  ]
+}

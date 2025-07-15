@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-13 after:2024-03-12 \"nifty\"",
+    "results_cnt": 2850000,
+    "search_time": 0.3,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:43.042300Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Positional Strategy | Streak - Systematic Trading",
+      "description": "Nifty Positional Strategy. The strategy takes a long position when stocks trade higher than multiple long term weighted moving averages. Order Type. CNC/NRML ...",
+      "link": "https://www.streak.tech/strategy/nifty-positional-strategy",
+      "display_link": "https://www.streak.tech › strategy › nifty-positional-stra...",
+      "date": "Mar 12, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 500 beats key global indices over last 10 years",
+      "description": "The Nifty 500 index emerged as one of the top-performing global indexes over the past decade, delivering a return of approximately 16 per cent.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-500-beats-key-global-indices-over-last-10-years-midcap-outperforms-smallcap-largecap-indices-motilal-oswal-amc-11710230999459.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 12, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Get Nifty 50 Price using Dhan API",
+      "description": "Question 1: How do we get Nifty 50 price in our code using Dhan API? Question 2: Security Id for Nifty 50?",
+      "link": "https://madefortrade.in/t/get-nifty-50-price-using-dhan-api/23462",
+      "display_link": "https://madefortrade.in › get-nifty-50-price-using-dhan-...",
+      "date": "Mar 12, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 500 beats S&P 500, other leading global indices over ...",
+      "description": "Over the past 10 years, India's broadest index the Nifty 500 has outperformed most of the world's leading indices except the US' Nasdaq 100, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-500-beats-sp-500-other-leading-global-indices-over-10-years-motilal-oswal-12445031.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 12, 2024",
+      "rank": 7
+    },
+    {
+      "title": "ICICI Securities predicts Nifty 50 to reach 24800 by March ...",
+      "description": "Nifty 50 soared 31% since March 2023, lifting forward values to 20x earnings. ICICI Securities eyes a 24800 target by March 2025, expecting a 10% upside.",
+      "link": "https://www.5paisa.com/news/icici-securities-predicts-nifty-50-to-reach-24800-by-march-2025-top-picks-include-lt-bhel",
+      "display_link": "https://www.5paisa.com › News",
+      "date": "Mar 12, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50 Top Losers - Systematic Trading",
+      "description": "This scanner filter out stocks within Nifty 50 whose current day Close is down by 1.5% from the previous day Close.",
+      "link": "https://www.streak.tech/scanner/nifty-50-top-losers",
+      "display_link": "https://www.streak.tech › scanner › nifty-50-top-losers",
+      "date": "Mar 12, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty fifties sessions",
+      "description": "Both Banks and Burscough Leisure Centres have weekly 'nifty fifties' clubs. These sessions are run by 'voluntary members' and include activities such as circuit ...",
+      "link": "https://www.westlancs.gov.uk/leisure-recreation/keeping-fit/nifty-fifties-sessions.aspx",
+      "display_link": "https://www.westlancs.gov.uk › keeping-fit › nifty-fifties...",
+      "date": "Mar 12, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty Next 50 outperforms all major indexes in Feb and is ...",
+      "description": "In February 2024, the Nifty Next 50 index stood out as the top performer, boasting a remarkable growth of 6.7%.",
+      "link": "https://www.business-standard.com/finance/personal-finance/nifty-next-50-outperforms-all-major-indexes-in-feb-and-is-up-58-4-in-a-yr-124031200317_1.html",
+      "display_link": "https://www.business-standard.com › personal-finance",
+      "date": "Mar 12, 2024",
+      "rank": 17
+    }
+  ]
+}

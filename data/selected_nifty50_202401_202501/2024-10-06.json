@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-07 after:2024-10-06 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.3,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:13:48.549025Z"
+  },
+  "organic": [
+    {
+      "title": "Jigar Patel sees Nifty bouncing back toward ...",
+      "description": "The Nifty 50 index plunged by more than 1,100 points in just four trading sessions, falling back to the 25,000 mark in the week ended October 4. We have ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/jigar-patel-sees-nifty-bouncing-back-toward-25500-after-steep-fall-last-week-bets-on-these-3-stocks-12836572.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "6 Oct 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty Auto Live Chart Today",
+      "description": "Stay ahead in the market with the Nifty Auto live chart, providing real-time updates on today's performance. Customise your experience with multiple chart types ...",
+      "link": "https://in.investing.com/indices/cnx-auto-chart",
+      "display_link": "https://in.investing.com › indices › cnx-auto-chart",
+      "date": "6 Oct 2024",
+      "rank": 8
+    },
+    {
+      "title": "India Has Moved On, But Nifty Hasn't!",
+      "description": "The Nifty 50 is an ageing index. The average age of the top 10 constituents of the Nifty 50 is 62 years old. Sixty per cent of the Nifty's constituents have ...",
+      "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/india-has-moved-on-nifty-hasnt/article68718582.ece",
+      "display_link": "https://www.thehindubusinessline.com › article68718582",
+      "date": "6 Oct 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trading Plan: Will Nifty consolidate above 25000, Bank ...",
+      "description": "According to experts, if the Nifty 50 sustains and consolidates above 25000 going forward, a strong rebound could be possible towards 25300–25500.",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-consolidate-above-25000-bank-nifty-sustain-51500-amid-likely-consolidation-12836428.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "6 Oct 2024",
+      "rank": 15
+    }
+  ]
+}

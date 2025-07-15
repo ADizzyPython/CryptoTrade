@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-10 after:2024-07-09 \"nifty\"",
+    "results_cnt": 366000,
+    "search_time": 0.31,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:58:06.770469Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 PE 26100",
+      "description": "NIFTY Expires 31 Jul; ₹ 25208 -213.90 (-0.84%). NIFTY Expires 28 Aug; ₹ 25310 -222.20 (-0.87%). NIFTY Expires 25 Sep; ₹ 25470 -218.00 (-0.85%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26100-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jul 9, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 26150",
+      "description": "Get the live update of Nifty 17 JUL 2025 CE 26150 Call Option with open interest, analysis, premium, volume, lot size, OI change, strike price on 5paisa.",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26150-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jul 9, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock market news: Nifty 50 logs highest monthly gain post ...",
+      "description": "Stock market news: Nifty 50 has risen from the 21884 to the 24286 mark, recording around an 11% rise in one month post-Lok Sabha Election result.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-news-nifty-50-logs-highest-monthly-gain-post-lok-sabha-election-result-explained-with-5-reasons-11720508376571.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jul 9, 2024",
+      "rank": 5
+    },
+    {
+      "title": "nifty dental solutions laboratory ltd - Companies House",
+      "description": "NIFTY DENTAL SOLUTIONS LABORATORY LTD - Free company information from Companies House including registered office address, filing history, accounts, ...",
+      "link": "https://find-and-update.company-information.service.gov.uk/company/15827921",
+      "display_link": "https://find-and-update.company-information.service.gov.uk › ...",
+      "date": "Jul 9, 2024",
+      "rank": 6
+    },
+    {
+      "title": "India Sensex, Nifty 50 Set New Record But Consumer ...",
+      "description": "The market is due for a breather after the Nifty 50 set another record Tuesday. The regional backdrop is supportive following fresh highs for US equities.",
+      "link": "https://www.bloomberg.com/news/articles/2024-07-10/india-stock-market-today-consumer-giants-sit-out-market-rally",
+      "display_link": "https://www.bloomberg.com › news › articles › india-sto...",
+      "date": "Jul 9, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights: Tech View: Nifty forms long bull ...",
+      "description": "Nifty on Tuesday ended 113 points higher to form a long bull candle on the daily chart and also hit a fresh record high intraday.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-9-july-2024/liveblog/111592340.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jul 9, 2024",
+      "rank": 9
+    },
+    {
+      "title": "nifty bmark exch. trd fnd (niftybees-eq.ns) - Singapore",
+      "description": "Discover historical prices for NIFTYBEES-EQ.NS stock on Yahoo Finance. View daily, weekly or monthly formats back to when NIFTY BMARK EXCH. TRD FND stock was",
+      "link": "https://sg.finance.yahoo.com/quote/NIFTYBEES-EQ.NS/history/",
+      "display_link": "https://sg.finance.yahoo.com › quote › history",
+      "date": "Jul 9, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Market outlook July 09: Positive start likely; Nifty key levels ...",
+      "description": "Benchmark equity indices – the BSE Sensex and the Nifty – are likely to start today's trading session on a mildly positive note amid firm cues from Asian peers.",
+      "link": "https://www.business-standard.com/markets/news/market-outlook-july-09-positive-start-likely-nifty-key-levels-to-watch-124070900057_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 9, 2024",
+      "rank": 15
+    }
+  ]
+}

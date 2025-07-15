@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-15 after:2024-02-14 \"nifty\"",
+    "results_cnt": 287000,
+    "search_time": 0.54,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:34:39.495706Z"
+  },
+  "organic": [
+    {
+      "title": "I want to invest in the Nifty Healthcare Index. What are its ...",
+      "description": "The Nifty Healthcare Index is a sectoral index on the NSE that captures the behavior and performance of healthcare companies in India.",
+      "link": "https://www.livemint.com/mutual-fund/your-questions-answered-i-want-to-invest-in-the-nifty-healthcare-index-what-are-its-pros-and-cons-11707464646090.html",
+      "display_link": "https://www.livemint.com › Mutual Funds",
+      "date": "Feb 14, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Closing Bell: Nifty at 21850, Sensex up 268 pts",
+      "description": "The Nifty opened deep in the red, however bulls rushed in to support the index and helped it to close with gains of ~97 points. On the daily charts we can ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-14-02-2024-liveblog-12262481.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Feb 14, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Momentum Factor – A Long-Term Outperformer!",
+      "description": "NSE Indices has developed the “NIFTY200 Momentum 30 Index”, which aims to track the performance of the top 30 companies within the NIFTY 200 Index selected ...",
+      "link": "https://www.hdfcfund.com/knowledge-stack/deep-dives/tuesdays-talking-points/momentum-factor-long-term-outperformer",
+      "display_link": "https://www.hdfcfund.com › ... › tuesdays talking points",
+      "date": "Feb 14, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock Market Live: Sensex, Nifty witness sharp recovery ...",
+      "description": "Share Market Today Live Updates: Indian benchmark indices BSE Sensex and Nifty 50 opened today's trade by slipping over 0.5 per cent on global cues.",
+      "link": "https://indianexpress.com/article/business/market/stock-market-today-live-gift-nifty-sensex-nifty-50-brent-oil-price-rupee-vs-dollar-us-market-asian-market-9160388/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "Feb 14, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Share Market Highlights 14 February 2024: Sensex, Nifty ...",
+      "description": "Stock market live updates: Sensex, Nifty trade flat. Nifty 50 trades at 21,799.10, up by 55.85 points or 0.26%, and BSE Sensex trades at 71,682.66, up by 127.47 ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-14-february-2024/article67842737.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Feb 14, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Share Market In Red As US Inflation Raises Rate Cut Worries",
+      "description": "The NSE Nifty 50 index was down 0.63% at 21,607.45, while BSE Sensex fell 0.70% to 71,066.01, as of 10:15 am IST. Eight of the 13 major sectors logged ...",
+      "link": "https://www.ndtv.com/business-news/sensex-opens-700-points-lower-amid-worries-over-us-inflation-nifty-falls-200-points-5054277",
+      "display_link": "https://www.ndtv.com › Business News",
+      "date": "Feb 14, 2024",
+      "rank": 17
+    }
+  ]
+}

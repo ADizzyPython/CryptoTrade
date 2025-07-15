@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-02 after:2024-05-01 \"nifty\"",
+    "results_cnt": 1700000,
+    "search_time": 0.32,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:47:18.228116Z"
+  },
+  "organic": [
+    {
+      "title": "DSP Nifty 50 ETF (NIFTY50ADD.NS)",
+      "description": "Find the latest DSP Nifty 50 ETF (NIFTY50ADD.NS) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+      "link": "https://finance.yahoo.com/quote/NIFTY50ADD.NS/",
+      "display_link": "https://finance.yahoo.com › quote › NIFTY50ADD",
+      "date": "May 1, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Bank Nifty outperforms Nifty 50 in April",
+      "description": "Bank Nifty outperforms Nifty 50 in April; Can the banking index hit 50,000 soon? Analysts weigh in. Bank Nifty soared to a fresh peak of 49,974.75 on April 30.",
+      "link": "https://www.livemint.com/market/stock-market-news/bank-nifty-outperforms-nifty-50-in-april-can-the-banking-index-hit-50-000-soon-analysts-weigh-in-11714546659321.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "May 1, 2024",
+      "rank": 15
+    }
+  ]
+}

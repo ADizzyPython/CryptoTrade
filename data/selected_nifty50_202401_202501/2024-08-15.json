@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-16 after:2024-08-15 \"nifty\"",
+    "results_cnt": 317000,
+    "search_time": 0.32,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:05:35.089110Z"
+  },
+  "organic": [
+    {
+      "title": "GIFT Nifty Sets an All-Time High Monthly Turnover of US ...",
+      "description": "GIFT Nifty recorded all-time high monthly turnover of $100.13 billion in August, setting a new benchmark to the growth story of Indian equity market. The feat ...",
+      "link": "https://www.nseindia.com/resources/nse-gift-nifty-sets-an-all-time-high-monthly-turnover-of-us-$100-13-billion-for-month-of-august-2024",
+      "display_link": "https://www.nseindia.com › resources › nse-gift-nifty-se...",
+      "date": "Aug 15, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Bandhan Nifty 50 Index Fund Direct Plan-IDCW",
+      "description": "Investment Objective - The scheme seeks to replicate the Nifty 50 Index by investing in securities of the Nifty 50 in the same proportion. Fund House, Bandhan ...",
+      "link": "https://m.economictimes.com/bandhan-nifty-50-index-fund-direct-plan/mffactsheet/schemeid-17427.cms",
+      "display_link": "https://m.economictimes.com › schemeid-17427",
+      "date": "Aug 15, 2024",
+      "rank": 2
+    },
+    {
+      "title": "52 WEEK LOW - NSE",
+      "description": "1-Jul-2025. 19.5 -0.95 (-4.87). 29-Jun-2025. 19.3 0.2 (1.04). Indices Graph. Sensex; Nifty. No Data Found. intraday. NSE. Advance. Decline. Created with ...",
+      "link": "https://www.moneycontrol.com/stocks/marketstats/nselow/index.php",
+      "display_link": "https://www.moneycontrol.com › Marketstats",
+      "date": "Aug 15, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Market Watch",
+      "description": "NIFTY 100 is a diversified 100 stock index representing major sectors of the economy. NIFTY 100 represents top 100 companies based on full market capitalisation ...",
+      "link": "https://www.sharekhan.com/faq/Market-Watch",
+      "display_link": "https://www.sharekhan.com › faq › Market-Watch",
+      "date": "Aug 15, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty 50 jumps over 24% since last Independence Day",
+      "description": "The Nifty 50 has increased by 24.23% in the year since Independence Day 2023. The Nifty 50 ended the Wednesday, August 14, 2024, session slightly higher.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-jumps-over-24-since-last-independence-day-will-it-touch-29-000-in-the-next-one-year-11723697424204.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Aug 15, 2024",
+      "rank": 9
+    }
+  ]
+}

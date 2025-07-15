@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-17 after:2024-12-16 \"nifty\"",
+    "results_cnt": 548000,
+    "search_time": 0.4,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:26:58.206013Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 index fund: Meaning, advantages, and how to invest",
+      "description": "Nifty 50 index funds stand out for their simplicity access and potential for relatively stable returns in line with the broader market.",
+      "link": "https://www.bajajamc.com/knowledge-centre/nifty-50-index-fund",
+      "display_link": "https://www.bajajamc.com › Knowledge Centre",
+      "date": "16 Dec 2024",
+      "rank": 2
+    },
+    {
+      "title": "LTIMindtree Limited Share Price Today, Stock ...",
+      "description": "NSE - NIFTY 50. 25,189.10. 106.80 (0.43%). 15-Jul-2025 13:28. Streaming ... NIFTY NEXT 50. Basic Industry, Computers - Software & Consulting. Dashboard ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=LTIM",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "16 Dec 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty India New Age Consumption Index - NSE",
+      "description": "The Nifty India New Age Consumption Index Index contains total of 75 companies which are also called its Constituents. 11,632.95. +74.80 (0.65%).",
+      "link": "https://ticker.finology.in/market/index/nse/nftindage",
+      "display_link": "https://ticker.finology.in › Market › NSE",
+      "date": "16 Dec 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open lower on Monday following weak global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-december-16-11734287810645.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "16 Dec 2024",
+      "rank": 6
+    },
+    {
+      "title": "Closing Bell: Sensex falls 385 pts, Nifty below 24700",
+      "description": "Indian equity indices ended on a negative note on December 16 with Nifty below 24,700. At close, the Sensex was down 384.55 points or 0.47 percent at 81,748.57, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-16-12-2024-liveblog-12890503.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "16 Dec 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty IT can rally till 49000 in near term: Anand James",
+      "description": "Nifty IT Index has been on an upside since the middle of November after it broke above the trendline resistance of 42960 and is currently trading in uncharted ...",
+      "link": "https://m.economictimes.com/markets/expert-view/nifty-it-can-rally-till-49000-in-near-term-anand-james/articleshow/116351802.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "16 Dec 2024",
+      "rank": 13
+    }
+  ]
+}

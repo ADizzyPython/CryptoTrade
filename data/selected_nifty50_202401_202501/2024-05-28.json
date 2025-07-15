@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-29 after:2024-05-28 \"nifty\"",
+    "results_cnt": 2040000,
+    "search_time": 0.55,
+    "language": "en-NL",
+    "country": "Netherlands",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:29.339812Z"
+  },
+  "organic": [
+    {
+      "title": "Unveiling the Nifty 50 TRI: A Deeper Look at India's Total ...",
+      "description": "The Nifty 50 TRI (Total Return Index) tracks the performance of the 50 largest companies listed on the National Stock Exchange (NSE) of India.",
+      "link": "https://metainvestment.in/2024/05/28/nifty-50-tri/",
+      "display_link": "https://metainvestment.in › 2024/05/28 › nifty-50-tri",
+      "date": "28 May 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock market today: Trade setup for Nifty 50 to India VIX ...",
+      "description": "The Nifty 50 index finished 24 points lower at 22,932 after touching a new peak of 23,110 mark. The BSE Sensex ended 19 points lower at the 75,390 mark after ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-india-vix-eight-stocks-to-buy-or-sell-on-tuesday-may-28-11716862522500.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "28 May 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty Firms' Earnings May Dip Below Three-Year Average ...",
+      "description": "The NSE Nifty's corporate earnings may shrink by less than 15% below the three-year average in fiscal 2025, according to Ambit Asset Management's Sushant ...",
+      "link": "https://www.ndtvprofit.com/markets/nifty-firms-earnings-may-dip-below-three-year-average-in-fy25-ambit-assets-bhansali",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "28 May 2024",
+      "rank": 12
+    },
+    {
+      "title": "Benchmark indices off day's high, Bank Nifty in red",
+      "description": "The Bank Nifty which had outperformed yesterday is witnessing profit booking today and is trading down by 60 points or 0.12% at 49,230. India VIX has risen by ...",
+      "link": "https://upstox.com/news/market-news/stocks/sensex-and-nifty-remain-positive-despite-midday-dip/article-90277/",
+      "display_link": "https://upstox.com › News › Market News › Stocks",
+      "date": "28 May 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty see small rise amid high volatility",
+      "description": "Sensex, Nifty see small rise amid high volatility; metal stocks gain. The S&P BSE Sensex was up 108.39 points at 75,498.89 at around 10:20 am, while the NSE ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-opening-sensex-nifty-gains-volatility-metal-shares-2544647-2024-05-28",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "28 May 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-15 after:2024-06-14 \"nifty\"",
+    "results_cnt": 341000,
+    "search_time": 0.25,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:54:00.517945Z"
+  },
+  "organic": [
+    {
+      "title": "The NIFTY Defence Index has risen more than 6x in 6 ...",
+      "description": "This article discusses the blistering performance of the Nifty Defence index and how much defence stocks have beaten the broad market since its launch.",
+      "link": "https://arthgyaan.com/blog/nifty-defence-index-has-risen-more-than-6x-in-6-years-should-you-invest.html",
+      "display_link": "https://arthgyaan.com › Review",
+      "date": "Jun 14, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE launches the Nifty EV & New Age Automotive Index. ...",
+      "description": "The Nifty EV & New Age Automotive index is an index (like the SENSEX or Nifty 50) tracking a new theme of EV and specific Automotive stocks.",
+      "link": "https://arthgyaan.com/blog/should-you-invest-in-the-nse-nifty-ev-and-new-age-automotive-index-stocks-and-index-funds.html",
+      "display_link": "https://arthgyaan.com › Review",
+      "date": "Jun 14, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Nifty above 23450, Sensex up 182 pts",
+      "description": "The Sensex was up 181.87 points or 0.24 percent at 76,992.77, and the Nifty was up 66.70 points or 0.29 percent at 23,465.60. We wrap up today's edition of the ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-gift-nifty-indicates-a-flat-start-us-asian-markets-mixed-liveblog-12748339.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jun 14, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms long-legged Doji ...",
+      "description": "The NSE Nifty 50 settled at 23,465.60, while the S&P BSE Sensex at 76,992.77. The Nifty 50 and Sensex gained 0.75% and 0.39%, respectively, this week.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-14-june-2024/liveblog/110982420.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jun 14, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Stock Market Highlights | Nifty 50 hits life high for third ...",
+      "description": "The overall market performance was positive, with the Sensex and Nifty each gaining 1% this week. The Nifty Bank also showed an uptick of 0.3%. Notably, the ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-adani-ambuja-vodafone-idea-suzlon-share-price-liveblog-19428215.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Jun 14, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Share Market Highlights 14 June 2024: Sensex, Nifty hit ...",
+      "description": "Nifty has demonstrated consolidation with a 4.4 per cent upmove over the past two months, despite market volatility during the elections. 15:39 | June 14, 2024 ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-14-june-2024/article68285480.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Jun 14, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock Market Highlights, June 14: Sensex, Nifty rises for ...",
+      "description": "On the daily charts, we can observe that the Nifty has been consolidating in the broad range of 23,200 – 23,500. The more it consolidates around this level, the ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-june-14-sensex-nifty-gift-nifty-ambuja-cement-lic-nasdaq-dow-jones-124061400053_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jun 14, 2024",
+      "rank": 16
+    },
+    {
+      "title": "70% of Nifty Realty stocks delivered multibagger returns in ...",
+      "description": "In the past eight trading sessions alone, the Nifty Realty index surged by 15%. Today, it reached a new peak of 1,134 points. Year-to-date, the index has ...",
+      "link": "https://www.livemint.com/market/stock-market-news/70-of-nifty-realty-stocks-delivered-multibagger-returns-in-one-year-with-sobha-leading-the-pack-prestige-estates-11718344616518.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 14, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Stock Market Highlight: Markets end at record highs! Nifty ...",
+      "description": "Stock Market Highlight: Markets end at record highs! Nifty above 23,450, Sensex near 77,000; Nifty Midcap 100 below 55,200. Share Market News Today | Sensex, ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-traded-mixed-on-june-14-2024-friday-3524473/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Jun 14, 2024",
+      "rank": 20
+    }
+  ]
+}

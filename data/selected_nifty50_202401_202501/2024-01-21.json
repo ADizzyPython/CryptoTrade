@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-22 after:2024-01-21 \"nifty\"",
+    "results_cnt": 7,
+    "search_time": 0.27,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:30:06.209719Z"
+  },
+  "organic": [
+    {
+      "title": "All Reports- Equities, Indices, Mutual Fund, Securities ...",
+      "description": "NSE - NIFTY 50. 25,145.75. 63.45 (0.25%). 15-Jul-2025 09:28. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac Crs ...",
+      "link": "https://www.nseindia.com/all-reports-debt",
+      "display_link": "https://www.nseindia.com › all-reports-debt",
+      "date": "21 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "Page 43114 of - The Financial Express",
+      "description": "Nifty 50 · BSE Sensex Performance · Stock Market Quotes · Top NSE/BSE Companies Share Price · TOP NSE/BSE COMPANIES SHARE PRICE · Tata Motors share price · Tata ...",
+      "link": "https://www.financialexpress.com/about-news/page/43114/",
+      "display_link": "https://www.financialexpress.com › about-news › page",
+      "date": "21 Jan 2024",
+      "rank": 5
+    },
+    {
+      "title": "Idbi Bank Q3 Results 2025",
+      "description": "... Nifty 50 companies. ADANI ENTERPRISES share priceADANI PORTS share priceAPOLLO HOSPITALS share priceASIAN PAINTS share priceAXIS BANK share priceBAJAJ AUTO ...",
+      "link": "https://www.livemint.com/market/market-stats/idbi-bank-q3-results-s0003240",
+      "display_link": "https://www.livemint.com › Market › Market Stats",
+      "date": "21 Jan 2024",
+      "rank": 6
+    }
+  ]
+}

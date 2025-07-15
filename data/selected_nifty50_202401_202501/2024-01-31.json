@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-01 after:2024-01-31 \"nifty\"",
+    "results_cnt": 287000,
+    "search_time": 0.48,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:31:41.412047Z"
+  },
+  "organic": [
+    {
+      "title": "HDFC Nifty Next 50 Index Fund Direct Growth",
+      "description": "The Nifty Next 50 Index comprises the next 50 large-cap and liquid stocks in India after the Nifty 50. These companies are typically ranked between the 51st and ...",
+      "link": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-nifty-next-50-index-fund/direct",
+      "display_link": "https://www.hdfcfund.com › explore › mutual-funds › di...",
+      "date": "31 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Live Nifty Midcap 50 Index, Share Price, Chart & Stock List.",
+      "description": "NIFTY Midcap 50 is a share market index that represents the performance of the mid-cap companies of the Indian market. It is part of the NIFTY Index family ...",
+      "link": "https://upstox.com/indices/nifty-midcap-50-share-price/",
+      "display_link": "https://upstox.com › indices › nifty-midcap-50-share-pr...",
+      "date": "31 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "NIFTY 50 INDEX FUND.pdf",
+      "description": "An index fund that seeks to track returns by investing in Nifty 50. Index stocks and aims to achieve returns ... TATA NIFTY 50 INDEX FUND - Reg. Nifty 50 TRI.",
+      "link": "https://betacms.tatamutualfund.com/system/files/2024-01/NIFTY%2050%20INDEX%20FUND.pdf",
+      "display_link": "https://betacms.tatamutualfund.com › system › files",
+      "date": "31 Jan 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nippon India Index Fund - Nifty 50 Plan",
+      "description": "▻. The Nifty 50 is a well-diversified 50 stock index accurately reflecting overall market conditions. The reward-to-risk ratio of Nifty 50 is higher than other ...",
+      "link": "https://mf.nipponindiaim.com/FundsAndPerformance/ProductNotes/NipponIndia-Index-Fund-Nifty-50-Plan-Jan-2024.pdf",
+      "display_link": "https://mf.nipponindiaim.com › ProductNotes",
+      "date": "31 Jan 2024",
+      "rank": 5
+    },
+    {
+      "title": "Stock Market - Union Budget",
+      "description": "Budget 2024: Positive announcements could push Nifty beyond 21,850, and that the index could aim for all-time high levels around 22,100. A break below 21,400 ...",
+      "link": "https://www.businesstoday.in/union-budget/share-market",
+      "display_link": "https://www.businesstoday.in › Union Budget",
+      "date": "31 Jan 2024",
+      "rank": 6
+    },
+    {
+      "title": "Share Market Today | Latest Stock ...",
+      "description": "Nifty (-0.68%). 24718.60 -169.60 · Nifty Midcap (-0.37%). 58227.45 -213.40 · Nifty Smallcap (-0.66%). 8842.35 -59.05 · Nifty Bank (-0.99%). 55527.35 -555.20.",
+      "link": "https://www.business-standard.com/markets/null-share-price-44282/announcements/bse-exchange-41560416",
+      "display_link": "https://www.business-standard.com › announcements",
+      "date": "31 Jan 2024",
+      "rank": 7
+    },
+    {
+      "title": "Constituents of NIFTY 50 – January 31, 2024.",
+      "description": "ind_nifty50list. A, B, C. 1, Disclosure Pursuant to SEBI circular dated January 10, 2019. 2, Constituents of Nifty 50 as on January 31, 2024. 3. 4, Sr # ...",
+      "link": "https://invescomutualfund.com/docs/default-source/default-document-library/constituents-of-nifty-50-as-on-january-31-2024.xlsx?sfvrsn=db9d93c2_2",
+      "display_link": "https://invescomutualfund.com › default-source",
+      "date": "31 Jan 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50, Sensex on January 31: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open flat on Wednesday tracking mixed global market cues ahead of events.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-january-31-11706666386332.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "31 Jan 2024",
+      "rank": 10
+    },
+    {
+      "title": "Bearish engulfing pattern in Nifty50; Are these early signs ...",
+      "description": "Nifty 50 shows bearish signs as a notable retreat follows record highs; technical patterns hint at a potential reversal, global factors causing concern ...",
+      "link": "https://www.angelone.in/news/bearish-engulfing-pattern-in-nifty50",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "31 Jan 2024",
+      "rank": 15
+    }
+  ]
+}

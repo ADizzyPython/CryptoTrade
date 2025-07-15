@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-18 after:2024-04-17 \"nifty\"",
+    "results_cnt": 2610000,
+    "search_time": 0.29,
+    "language": "en-IQ",
+    "country": "Iraq",
+    "location": "India",
+    "timestamp": "2025-07-15T15:45:07.298232Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY MID SELECT (NIFTY_MID_SELECT.NS) components",
+      "description": "NIFTY MID SELECT. 13,026.85 -1.39%. Summary · News · Chart · Historical data · Options · Components. NSE - Delayed Quote • INR. NIFTY MID SELECT ( ...",
+      "link": "https://au.finance.yahoo.com/quote/NIFTY_MID_SELECT.NS/components/",
+      "display_link": "https://au.finance.yahoo.com › quote › components",
+      "date": "Apr 17, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Fifty's - Grant Ave - Order Online",
+      "description": "Nifty Fifty's - Grant Ave · Shake Of The Month · Party Trays · Nifty Burgers · Philly Steaks · Specialty Sandwiches · Coney Island Hot Dogs · Chicken Nuggets and ...",
+      "link": "https://order.niftyfiftys.com/menu/nifty-fiftys-grant-ave-2",
+      "display_link": "https://order.niftyfiftys.com › nifty-fiftys-grant-ave-2",
+      "date": "Apr 17, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Fifty Nifty (Ire) | Race Record, Statistics & Wins",
+      "description": "Fifty Nifty (IRE). details. Jockey: Oisin Murphy. Form: 1541. Owner: Mr O Humphrey. Age: 3. Sex: Gelding. Colour: Bay. Official Rating: 87. Last Ran:.",
+      "link": "https://www.racingtv.com/profiles/horse/fifty-nifty-ireland",
+      "display_link": "https://www.racingtv.com › profiles › horse › fifty-nifty-...",
+      "date": "Apr 17, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Announcing the Launch of Nifty Gateway Studio - Gemini",
+      "description": "Nifty Gateway Studio is a Web3 creative studio working with today's leading creative minds to push the boundaries of human experiences and connection through ...",
+      "link": "https://www.gemini.com/fr-FR/blog/announcing-the-launch-of-nifty-gateway-studio",
+      "display_link": "https://www.gemini.com › fr-FR › blog › announcing-th...",
+      "date": "Apr 17, 2024",
+      "rank": 14
+    }
+  ]
+}

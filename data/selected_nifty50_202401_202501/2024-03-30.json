@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-31 after:2024-03-30 \"nifty\"",
+    "results_cnt": 3020000,
+    "search_time": 0.31,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:42:16.063702Z"
+  },
+  "organic": [
+    {
+      "title": "SENSEX Futures - Live Nifty/NSE Future Price Chart",
+      "description": "SENSEX Futures - Latest updates on live Nifty/NSE Futures chart, Nifty Future prices, Bank Nifty Future, Nifty Stock Futures & more on Groww.in.",
+      "link": "https://groww.in/futures/sp-bse-sensex",
+      "display_link": "https://groww.in › Futures & Options › Option Chain",
+      "date": "Mar 30, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Tata Nifty Financial Services Index Fund Regular Growth",
+      "description": "Learn about Tata Nifty Financial Services Index Fund Regular Growth with our data and independent analysis including NAV, star rating, portfolio, ...",
+      "link": "https://www.morningstar.in/mutualfunds/F00001KBJI/Tata-Nifty-Financial-Services-Index-Fund-Regular-Growth/overview.aspx",
+      "display_link": "https://www.morningstar.in › mutualfunds › overview",
+      "date": "Mar 30, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Worst Performing Nifty 50 Stocks of FY24. Could it Get ...",
+      "description": "In FY24, benchmark indices Nifty 50 and Sensex 30 registered 28% and 25% gains, respectively. Among prominent names, the best performing stocks were Tata ...",
+      "link": "https://www.equitymaster.com/detail.asp?date=03/30/2024&story=2&title=Worst-Performing-Nifty-50-Stocks-of-FY24-Could-it-Get-Worse-Before-It-Gets-Better",
+      "display_link": "https://www.equitymaster.com › Home › Views On News",
+      "date": "Mar 30, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Half of Nifty defence index stocks turn multibaggers in ...",
+      "description": "The Nifty India defence index is one of the top performing sectoral indices of the financial year 2023-24, gaining an impressive 119 percent from the previous ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/half-of-nifty-defence-index-stocks-turn-multibaggers-in-fy24-5-of-them-psus-12542921.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 30, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Closure of Trading Window",
+      "description": "Nifty (-0.81%). 25149.85-205.40 · Nifty Midcap (-0.88%). 58642.20-517.75 · Nifty Smallcap (-1.04%). 9061.30-95.20 · Nifty Bank (-0.35%). 56754.70-201.30 · Nifty ...",
+      "link": "https://www.business-standard.com/markets/null-share-price-6976/announcements/bse-exchange-41962389",
+      "display_link": "https://www.business-standard.com › announcements",
+      "date": "Mar 30, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Alphaa mpt plus fund - NAV, Performance, Portfolio, Ratings",
+      "description": "Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors Share Price · Adani Power Share Price · HDFC Bank Share Price · Tata Steel ...",
+      "link": "https://www.businesstoday.in/pms/alphaa-mpt-plus-fund-352",
+      "display_link": "https://www.businesstoday.in › PMS",
+      "date": "Mar 30, 2024",
+      "rank": 18
+    }
+  ]
+}

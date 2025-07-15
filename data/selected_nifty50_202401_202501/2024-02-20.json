@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-21 after:2024-02-20 \"nifty\"",
+    "results_cnt": 318000,
+    "search_time": 0.35,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:35:41.079499Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 hits record high, crosses 22k for the first time",
+      "description": "Stock market today: Nifty 50 crossed the coveted 22,000 mark for the first time, hitting its fresh record high of 22,215.60, in intraday trade on Tuesday.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-hits-record-high-crosses-22k-first-time-ever-11708422828754.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "20 Feb 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 at a record high, up 13% in 3 months; is it time to ...",
+      "description": "Benchmark Nifty 50 hit a record high of 22,215.60 on Tuesday. It has gained nearly 13 per cent in 3 months. Market analysts are positive about long-term ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-at-a-record-high-up-13-in-3-months-is-it-time-to-book-profit-heres-what-top-experts-say-11708429286955.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "20 Feb 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty hits all-time high: should you invest?",
+      "description": "Analyze the implications of Nifty reaching record highs, considering market conditions, valuation metrics, and investment strategies.",
+      "link": "https://www.venturasecurities.com/blog/nifty-hits-all-time-high-should-you-invest/",
+      "display_link": "https://www.venturasecurities.com › blog › nifty-hits-all-...",
+      "date": "20 Feb 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty surges to new high of 22186, analysts expect further ...",
+      "description": "The NSE Nifty rose 81.5 points, or 0.37%, to close at 22,122, off its fresh all-time high of 22,186. The Sensex rose 281.5 points, or 0.39%, to end at 72,708.",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-surges-to-new-high-of-22186-analysts-expect-further-upside/articleshow/107834825.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "20 Feb 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex ends wild session 349 pts up, Nifty at record ...",
+      "description": "Sensex ends wild session 349 pts up, Nifty at record closing high of 22,197 · Stock market highlights on February 20, 2024: The Nifty50 index hit record high of ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-feb-20-sensex-nifty-zee-whirlpool-godrej-consumer-124022000073_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "20 Feb 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex ends above 73000, Nifty crosses 22000 for 1st time",
+      "description": "The Nifty 50 index surged by 0.42 per cent, reaching a record peak of 22,215.60, marking its seventh such high this year. The index closed at 22,196.95, while ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-opening-update-sensex-nifty-fall-opening-higher-paytm-jumps-5-percent-2504686-2024-02-20",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "20 Feb 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock markets extend winning run to 6th day, Nifty scales ...",
+      "description": "Nifty rose further by 74.70 points or 0.34% to close at a new record level of 22,196.95. Updated - February 20, 2024 04:57 pm IST - Mumbai. PTI. Copy link ...",
+      "link": "https://www.thehindu.com/business/markets/stock-markets-extend-winning-run-to-6th-day-nifty-scales-fresh-lifetime-high/article67866853.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "20 Feb 2024",
+      "rank": 15
+    },
+    {
+      "title": "Closing Bell: Nifty tops 22200 for the first time, Sensex up 349",
+      "description": "... Nifty tops 22,200 for the first time, Sensex up 349; realty, banks outshine ... The Nifty opened on a weak note however as the day progressed the Nifty ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-20-02-2024-liveblog-12307471.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "20 Feb 2024",
+      "rank": 17
+    },
+    {
+      "title": "Nifty50 Rejig: Tracking The Rise And Fall Of Index Titans",
+      "description": "This article delves into the dynamic composition of the Nifty 50 Index, exploring the weight changes witnessed by its constituents between July 2023 and January ...",
+      "link": "https://www.angelone.in/news/nifty-50-rejig-tracking-rise-and-fall-index-titans",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "20 Feb 2024",
+      "rank": 18
+    }
+  ]
+}

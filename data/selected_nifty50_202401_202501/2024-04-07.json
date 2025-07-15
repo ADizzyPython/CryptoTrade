@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-08 after:2024-04-07 \"nifty\"",
+    "results_cnt": 3300000,
+    "search_time": 0.53,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:43:27.793405Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 200 Index Components – NSE:CNX200 Stocks",
+      "description": "TradingView India. See the full list of companies included in Nifty 200 Index. Track their stock prices and other financial metrics to better understand ...",
+      "link": "https://in.tradingview.com/symbols/NSE-CNX200/components/",
+      "display_link": "https://in.tradingview.com › ... › Indices › CNX200",
+      "date": "7 Apr 2024",
+      "rank": 3
+    },
+    {
+      "title": "Tata Nifty Financial Services Index Fund Direct Growth",
+      "description": "Tata Nifty Financial Services Index Fund ; Financials. 59.07% ; Finance - Banks - Private Sector. 32.94% ; Non-Banking Financial Company (NBFC). 6.19% ; Holding ...",
+      "link": "https://coin.zerodha.com/mf/fund/INF277KA1BA6/tata-nifty-financial-services-index-fund-direct-growth",
+      "display_link": "https://coin.zerodha.com › fund › tata-nifty-financial-se...",
+      "date": "7 Apr 2024",
+      "rank": 8
+    }
+  ]
+}

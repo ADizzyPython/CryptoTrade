@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-28 after:2024-07-27 \"nifty\"",
+    "results_cnt": 11,
+    "search_time": 0.34,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:16.434950Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex gains over 1200 points, Nifty ends at record high",
+      "description": "The index broke its five-day losing streak. The broader Nifty 50 rose 428.75 points, or 1.76 per cent to close at record high 24,834.85. “The domestic ...",
+      "link": "https://indianexpress.com/article/business/market/sensex-gains-over-1200-points-nifty-ends-at-record-high-9478133/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "Jul 27, 2024",
+      "rank": 1
+    },
+    {
+      "title": "F&O Talk| Nifty Bank may witness pullback rally if it stays ...",
+      "description": "Nifty witnessed a sharp recovery a day after monthly F&O expiry, to close near the all-time high with gains of 429 points or 1.7% at 24,835.",
+      "link": "https://m.economictimes.com/markets/expert-view/fo-talk-nifty-bank-may-witness-pullback-rally-if-it-stays-above-50400-sudeep-shah-of-sbi-securities/articleshow/112063475.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "Jul 27, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Sensex recovers from setbacks, Nifty surges 428.75 points ...",
+      "description": "On the NSE, records were broken as the broader Nifty surged 428.75 points to finish at an all-time closing high of 24834.85. The markets reversed gear after ...",
+      "link": "https://www.telegraphindia.com/business/sensex-recovers-from-setbacks-nifty-surges-428-75-points-to-finish-at-all-time-closing-high/cid/2036624",
+      "display_link": "https://www.telegraphindia.com › Business",
+      "date": "Jul 27, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex, Nifty at all time high: Vijay Kedia, Dhirendra Kumar ...",
+      "description": "Sensex, Nifty at all-time high: Vijay ... The 30-share index Sensex closed at around 81,333 on July 26, while the 50-share Nifty index settled at 24,834.",
+      "link": "https://www.businesstoday.in/union-budget/story/sensex-nifty-at-all-time-high-vijay-kedia-dhirendra-kumar-ashu-madan-tells-how-to-create-wealth-in-this-market-439071-2024-07-27",
+      "display_link": "https://www.businesstoday.in › Union Budget",
+      "date": "Jul 27, 2024",
+      "rank": 6
+    }
+  ]
+}

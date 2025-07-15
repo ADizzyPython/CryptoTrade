@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-05 after:2024-12-04 \"nifty\"",
+    "results_cnt": 659000,
+    "search_time": 0.5,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:23:14.177714Z"
+  },
+  "organic": [
+    {
+      "title": "Tech View: Nifty forms a spinning top candle on daily chart. ...",
+      "description": "Nifty opened on a positive note and witnessed volatile intraday price action. It managed to close on a positive note up 10 points. On the daily charts, we can ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-forms-a-spinning-top-candle-on-daily-chart-what-traders-should-do-on-thursday/articleshow/115975397.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "4 Dec 2024",
+      "rank": 4
+    },
+    {
+      "title": "Technical View: Nifty should breach 24700 for upward ...",
+      "description": "Technical View: Nifty should breach 24,700 for upward journey to sustain, CRR cut hopes lift Bank Nifty above 53,000 · The Nifty 50 needs to decisively surpass ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-should-breach-24-700-for-upward-journey-to-sustain-crr-cut-hopes-lift-bank-nifty-above-53-000-12883253.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "4 Dec 2024",
+      "rank": 5
+    },
+    {
+      "title": "One 97 Communications Limited Share Price Today, Stock ...",
+      "description": "NSE - NIFTY 50. 25,204.65. 122.35 (0.49%). 15-Jul-2025 12:12. Streaming ... NIFTY MIDCAP 50. Basic Industry, Financial Technology (Fintech). Dashboard ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=PAYTM",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "4 Dec 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "... Nifty 50 and Bank Nifty today: Nifty OI Data. The highest Nifty call open interest was at 24,800 and 25,000 levels, indicating significant resistance zones.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-december-4-ahead-of-rbi-policy-meeting-11733277002927.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Dec 2024",
+      "rank": 13
+    },
+    {
+      "title": "Bank Nifty resilient despite sharp market swings; eyes all- ...",
+      "description": "Bank Nifty is particularly interesting because it is going past the 61% retracement of the entire fall that we saw from the October top.",
+      "link": "https://m.economictimes.com/markets/expert-view/bank-nifty-resilient-despite-sharp-market-swings-eyes-all-time-high-rohit-srivastava/articleshow/115965608.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "4 Dec 2024",
+      "rank": 16
+    }
+  ]
+}

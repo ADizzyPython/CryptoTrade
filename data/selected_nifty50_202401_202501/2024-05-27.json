@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-28 after:2024-05-27 \"nifty\"",
+    "results_cnt": 1120000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:20.495180Z"
+  },
+  "organic": [
+    {
+      "title": "Kotak Nifty Alpha 50 ETF (ALPHA.NS)",
+      "description": "Find the latest Kotak Nifty Alpha 50 ETF (ALPHA.NS) stock quote, history, news and other vital information to help you with your stock trading and ...",
+      "link": "https://finance.yahoo.com/quote/ALPHA.NS/",
+      "display_link": "https://finance.yahoo.com › quote › ALPHA",
+      "date": "May 27, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty at record high but these 9 stocks are still lagging behind",
+      "description": "Nifty's journey from 22000 to 23000 took only seven months. During this up move, Bajaj Auto, Coal India, BPCL, Hero MotoCorp, Mahindra, and Mahindra, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-at-record-high-but-these-9-stocks-are-still-lagging-behind/top-laggards/slideshow/110471659.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "May 27, 2024",
+      "rank": 5
+    },
+    {
+      "title": "What is the Nifty 100 Low Volatility 30 Index and its pros ...",
+      "description": "The Nifty 100 Low Volatility 30 Index is an index developed by the National Stock Exchange of India, designed to track the performance of the 30 least volatile ...",
+      "link": "https://www.livemint.com/mutual-fund/your-questions-answered-what-is-the-nifty-100-low-volatility-30-index-and-its-pros-and-cons-mutual-funds-index-funds-11716366946412.html",
+      "display_link": "https://www.livemint.com › Mutual Funds",
+      "date": "May 27, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty May futures trade at premium - May 27, 2024",
+      "description": "The Nifty May 2024 futures closed at 23,001.10, a premium of 68.65 points compared with the Nifty`s closing 22,932.45 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-may-futures-trade-at-premium/1514399",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "May 27, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex hits 76000, Nifty crosses 23100: Major reasons why",
+      "description": "Sensex hit new lifetime high of 75,679 while the Nifty50 reached a new peak of 23,043. Nifty Bank, Financial Services, FMCG, Metal Pharma, and Healthcare surged ...",
+      "link": "https://www.hindustantimes.com/business/sensex-nifty-hit-fresh-lifetime-highs-on-strong-global-cues-major-reasons-why-101716793150337.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "May 27, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Midcpnifty 31 JUL 2025 CE 13000",
+      "description": "... Nifty 50 Stock List · Indian ADRs · LIC · Tata Motors · IRFC · ITC · Tata Steel · Adani ... Nifty 50 · Bank Nifty · FINNIFTY · Nifty Midcap · India VIX · Know ...",
+      "link": "https://www.5paisa.com/derivatives/midcpnifty-option-chain/midcpnifty-13000-ce",
+      "display_link": "https://www.5paisa.com › ... › Midcpnifty option chain",
+      "date": "May 27, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Share Market Highlights on 27 May 2024: Nifty, Sensex ...",
+      "description": "BSE Sensex trades at 75,868.35, higher by 457.96 pts or 0.61% as of 2 pm; Nifty 50 trades at 23,080.60, up 123.50 pts or 0.54%. 14:06 | May 27, 2024. Stock ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-27-may-2024/article68218103.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "May 27, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Is it time to sell Nifty50, MidCap select index? What ...",
+      "description": "The Nifty 50 Index is currently trading at 22,952.00 and has rallied significantly in the near term, bringing it close to a stiff resistance zone around 23,050.",
+      "link": "https://www.business-standard.com/markets/news/is-it-time-to-sell-nifty50-midcap-select-index-what-analysts-say-124052700051_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "May 27, 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-29 after:2024-12-28 \"nifty\"",
+    "results_cnt": 6,
+    "search_time": 0.26,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:28:38.212760Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Weightage: How It Works, Main Purpose and Examples",
+      "description": "The nifty weightage represents the share and strength of each component in the Nifty 50 index. It is calculated on the basis of the free-float market ...",
+      "link": "https://www.bajajbroking.in/blog/what-is-nifty-weightage",
+      "display_link": "https://www.bajajbroking.in › Blogs Overview › News",
+      "date": "Dec 28, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Outlook 2025: Cautiously optimistic on India stock market ...",
+      "description": "Nifty has risen over 10% this year so far but has seen a sharp correction recently from its peak due to the heavy FII selling. Do you think most of the selling ...",
+      "link": "https://www.livemint.com/market/stock-market-news/outlook-2025-cautiously-optimistic-on-india-stock-market-nifty-50-valuations-suggest-modest-upside-says-dhiraj-relli-11735317323205.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 28, 2024",
+      "rank": 2
+    },
+    {
+      "title": "5 Nifty-50 stocks trading at discount of up to 45% to keep ...",
+      "description": "The NIFTY 50 increased by about 63.2 points, marking an increase of nearly 0.27 percent, and ended the day in the green at 23,813.4. Over the last five trading ...",
+      "link": "https://tradebrains.in/5-nifty-50-stocks-trading-at-discount-of-up-to-45-to-keep-an-eye-on/",
+      "display_link": "https://tradebrains.in › Blog",
+      "date": "Dec 28, 2024",
+      "rank": 4
+    }
+  ]
+}

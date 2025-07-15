@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-08 after:2024-01-07 \"nifty\"",
+    "results_cnt": 199000,
+    "search_time": 0.26,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:28:04.741798Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 100 value and PE ratio",
+      "description": "Nifty 100 · Market Cap ₹ 2,74,11,346 Cr. · Current Price ₹ 25,724 · High / Low ₹ 27,336 / 22,177 · P/E 22.4 · Price to Book value 3.62 · Dividend Yield ...",
+      "link": "https://www.screener.in/company/CNX100/",
+      "display_link": "https://www.screener.in › company › CNX100",
+      "date": "Jan 7, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Trade Setup for July 1 Will Banks Lead the Next Downturn for ...",
+      "description": "Nifty Bank's July futures added 0.8% or 19,350 shares in Open Interest. Nifty 50's Put-Call Ratio is at 1.2 from 1.49 earlier. India Cements and Indus Towers ...",
+      "link": "https://sathee.iitk.ac.in/gk/current-affair/07-01-2024/business/trade-setup-for-july-1will-banks-lead-the-next-downturn-for-the-nifty_/",
+      "display_link": "https://sathee.iitk.ac.in › current-affair › business › trade-...",
+      "date": "Jan 7, 2024",
+      "rank": 4
+    }
+  ]
+}

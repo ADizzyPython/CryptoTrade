@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-04 after:2024-12-03 \"nifty\"",
+    "results_cnt": 545000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:22:53.002556Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty and How It is Calculated?",
+      "description": "Nifty is calculated using the free-float market capitalization-weighted method, which reflects the market value of the 50 constituent companies.",
+      "link": "https://fyers.in/blog/what-is-nifty-and-how-it-is-calculated/",
+      "display_link": "https://fyers.in › blog › what-is-nifty-and-how-it-is-calc...",
+      "date": "Dec 3, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Expect double-digit returns in 2-3 years, Nifty target for Dec ...",
+      "description": "The Nifty 50 index has risen over 1% in the last two trading sessions, with brokerage firm Axis Securities projecting the index to hit 26,100 by December ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/expect-double-digit-returns-in-2-3-years-nifty-target-for-dec-2025-at-26100-axis-securities/articleshow/115936678.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 3, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Open Interest - NIFTY50 OI Analysis",
+      "description": "Get the market direction from the live chart of Nifty open interest (OI) & observe the change over time between any two points of put and call.",
+      "link": "https://upstox.com/fno-discovery/open-interest-analysis/nifty-oi/",
+      "display_link": "https://upstox.com › FnO Discovery › Oi Analysis",
+      "date": "Dec 3, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 Top Picks: 10 Stocks Driving India's Growth",
+      "description": "Nifty 50 is the barometer of the Indian economy. It tracks the performance of the top 50 listed on the National Stock Exchange (NSE) of India. These 50 ...",
+      "link": "https://blog.stockedge.com/nifty-50-top-picks/",
+      "display_link": "https://blog.stockedge.com › Trending Stocks",
+      "date": "Dec 3, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 200 Share Price History, Performance Analysis, and ...",
+      "description": "Nifty 200 (NIFTY200) Share Price Analysis with Historical Data and Returns Pattern and Comparison with Nifty and Sensex, and Daily Data.",
+      "link": "https://trendlyne.com/share-price/performance/1892/NIFTY200/nifty-200/",
+      "display_link": "https://trendlyne.com › MARKETS › NIFTY 200",
+      "date": "Dec 3, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Technical View: Nifty climbs above all key moving ...",
+      "description": "Technical View: Nifty climbs above all key moving averages to move towards 24,800; Bank Nifty sees breakout after 2 months. The options data also indicates that ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-climbs-above-all-key-moving-averages-to-move-towards-24-800-bank-nifty-sees-breakout-after-2-months-12882201.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Dec 3, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty IT gains over 8% in a month as Donald Trump's victory ...",
+      "description": "The Nifty IT index delivered a remarkable return of 150 per cent, significantly outpacing the broader Nifty 50, which gained 60 per cent over the same period.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-it-gains-over-8-in-a-month-as-donald-trump-s-victory-fuels-spending-expectations-11733224450227.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 3, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock Market Highlights: Nifty 50 ends at one month high ...",
+      "description": "The Midcap Index gained 508 points to reach 57,509, while the Nifty Bank rose 587 points, ending at 52,696. 1 Min Read. Stock Market Highlights: Nifty 50 ends ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-torrent-power-wipro-indoco-indegene-solar-industries-share-price-liveblog-19518329.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Dec 3, 2024",
+      "rank": 19
+    }
+  ]
+}

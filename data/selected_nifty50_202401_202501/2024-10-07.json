@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-08 after:2024-10-07 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.36,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:13:58.193796Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY - What is Nifty and How It is Calculated?",
+      "description": "Nifty is an index that tracks the performance of 50 top stocks from various sectors of the Indian economy. It reflects the overall health of the stock market ...",
+      "link": "https://www.jainam.in/glossary/what-is-nifty/",
+      "display_link": "https://www.jainam.in › Glossaries",
+      "date": "Oct 7, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Tech view: Nifty breaks crucial support, may slide to 24500 ...",
+      "description": "The Nifty slipped further due to ongoing geopolitical concerns, with sentiment worsening as the index fell below the 55 EMA, indicating a bearish trend. A ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-breaks-crucial-support-may-slide-to-24500-level-how-to-trade-tomorrow/articleshow/114015408.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Oct 7, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Technical indicators show strong support for Nifty: Is it time ...",
+      "description": "The Nifty 50 Index is experiencing a downward trend in the near term. However, the index is approaching a strong support zone at 24800.",
+      "link": "https://www.business-standard.com/markets/news/technical-indicators-show-strong-support-for-nifty-is-it-time-to-buy-dips-124100700056_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Oct 7, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex, Nifty close lower amid massive selling in ...",
+      "description": "Equity benchmark indices Sensex and Nifty settled lower for the sixth straight session on Monday (October 7, 2024) due to heavy selling in bellwether stocks ...",
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-close-lower-amid-massive-selling-in-heavyweight-stocks-mixed-global-cues/article68728306.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "Oct 7, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty, Sensex, Nifty Bank Extend Losing Streak To Sixth Day",
+      "description": "Stock Market Today: Nifty, Sensex, Nifty Bank Extend Losing Streak To Sixth Day · During the session, Nifty 50 declined 1.82% to 24,694.35 and the Sensex ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-sensex-nifty-50-gift-nifty-today-07-10-2024",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Oct 7, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Stock Market Highlights: Nifty breaks crucial support, may ...",
+      "description": "The underlying trend of Nifty remains negative. Having declined below the crucial support of 25100-25000 levels recently, Nifty could slide down towards ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-7-october-2024/liveblog/113997134.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Oct 7, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty is down 1500 points from its peak",
+      "description": "The Nifty 50 index has declined nearly 1,500 points from the peak of 26,277 it had made on September 27. The index declined for the sixth straight session ...",
+      "link": "https://www.cnbctv18.com/market/nifty-down-1500-points-from-record-high-six-day-fall-three-stocks-outperform-infosys-jsw-steel-tech-mah-share-price-19488474.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Oct 7, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Why are markets falling? Here are 5 reasons why Sensex ...",
+      "description": "The Nifty 50 also faced declines, recording an intraday high of 25,143 before dropping to 24,798.65. The India VIX surged over 6%. Written by Dev Sethia.",
+      "link": "https://www.financialexpress.com/market/why-are-markets-falling-here-are-5-reasons-why-sensex-nifty-are-under-selling-pressure-3632516/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Oct 7, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex Drops Over 600 Points; Nifty Nears 24800",
+      "description": "The benchmark 30-share BSE Sensex fell 638.45 points, or 0.78 percent, to 81,050 while the broader NSE Nifty index plummeted 218.85 points, or 0.87 percent, to ...",
+      "link": "https://www.nasdaq.com/articles/sensex-drops-over-600-points-nifty-nears-24800",
+      "display_link": "https://www.nasdaq.com › articles › sensex-drops-over-...",
+      "date": "Oct 7, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Check FIIs, DIIs, retail positions in F&O post Nifty biggest ...",
+      "description": "The Nifty had hit a new all-time high at 26,277 on September 27. ... Topics : derivatives trading derivatives market stock market trading Nifty futures Bank Nifty ...",
+      "link": "https://www.business-standard.com/markets/news/check-fiis-diis-retail-positions-in-f-o-post-nifty-biggest-weekly-fall-124100700091_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Oct 7, 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-02 after:2024-08-01 \"nifty\"",
+    "results_cnt": 356000,
+    "search_time": 0.57,
+    "language": "en-MV",
+    "country": "Maldives",
+    "location": "India",
+    "timestamp": "2025-07-15T16:02:03.514525Z"
+  },
+  "organic": []
+}

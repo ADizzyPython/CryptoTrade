@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-02 after:2024-11-01 \"nifty\"",
+    "results_cnt": 17,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:18:06.009843Z"
+  },
+  "organic": [
+    {
+      "title": "Showcasing the growth of India's Next 50 blue-chip leaders",
+      "description": "Nifty Next 50 represents the balance 50 stocks from Nifty 100 after excluding the Nifty 50 companies. The index has a base date of. November 03, 1996, and a ...",
+      "link": "https://www.niftyindices.com/docs/default-source/indices/nifty-next-50/nifty-next-50-whitepaper_2024.pdf?sfvrsn=3ced6c35_4",
+      "display_link": "https://www.niftyindices.com › nifty-next-50 › n...",
+      "date": "1 Nov 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty could reach 29000-30000 by next Diwali, predicts Atul ...",
+      "description": "The Sensex increased by 335 points, reaching 79,724, while the Nifty gained 94 points, climbing to 24,300. The Nifty Bank rose by 197 points to 51,673, and the ...",
+      "link": "https://www.cnbctv18.com/market/nifty-could-reach-29000-30000-by-next-diwali-predicts-atul-suri-19502558.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "1 Nov 2024",
+      "rank": 3
+    },
+    {
+      "title": "Trading Plan: Will Nifty 50 rebound to 24300 zone, Bank ...",
+      "description": "On Thursday, the Nifty 50 closed at 24,205, down 136 points, while the Bank Nifty dropped 332 points to 51,475, despite market breadth favouring bulls. About ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-50-rebound-to-24300-zone-bank-nifty-climb-above-51700-on-muhurat-trading-day-12856540.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "1 Nov 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex Rises 448 Points, Nifty Rallies Above 24300 In ...",
+      "description": "Sensex Rises 448 Points, Nifty Rallies Above 24,300 In Muhurat Trading Session. The 30-share index increased 447.90 points, or 0.56 per cent, to 79,836.96 as ...",
+      "link": "https://www.ndtv.com/india-news/sensex-rises-448-points-nifty-rallies-above-24-300-in-muhurat-trading-session-6922338",
+      "display_link": "https://www.ndtv.com › India News",
+      "date": "1 Nov 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty logs worst month since Covid; major shocks unlikely",
+      "description": "The Nifty 150 index ended 0.2% lower. Of the 4,026 stocks traded on the BSE, 2,652 advanced, while 1,264 declined. Foreign portfolio investors net sold shares ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-logs-worst-month-since-covid-major-shocks-unlikely/articleshow/114829561.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "1 Nov 2024",
+      "rank": 7
+    },
+    {
+      "title": "Muhurat Trading 2024 Live: Sensex, Nifty end on strong note",
+      "description": "In the ongoing Muhurat trading session, the Sensex has climbed 400 points, while the Nifty was trading above the 24,300 mark, reflecting strong investor ...",
+      "link": "https://www.indiatoday.in/business/story/muhurat-trading-2024-samvat-2081-stock-market-sensex-nifty-key-stocks-strategies-2626541-2024-11-01",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "1 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Muhurat Trading 2024 Highlights: Sensex, Nifty 50 end ...",
+      "description": "The BSE Sensex closed the special session on Friday 335.06 points, or 0.42%, higher at 79,724.12, while the Nifty 50 gained 99.00 points, or 0.41%, to end at ...",
+      "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2024-live-updates-check-out-timings-trade-strategies-and-stocks-to-buy-in-samvat-2081-11730450492411.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "1 Nov 2024",
+      "rank": 10
+    },
+    {
+      "title": "Muhurat Trading Highlights: Sensex closes 300 pts higher ...",
+      "description": "At closing bell, the BSE Sensex was up 335.06 points, or 0.42 per cent, at 79,724.12, and the Nifty 50 was at 24,299.55, up 94.20 points, or 0.39 per cent. The ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-live-blog-nov-1-muhurat-trading-samvat-2081-124110100569_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "1 Nov 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock market today: Trade setup for Nifty 50 to Sensex. Five ...",
+      "description": "The Nifty 50 index lost 135 points and closed at 24,205, the BSE Sensex corrected 553 points and ended at 79,389, and the Nifty Bank index finished 251 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-sensex-five-stocks-to-buy-or-sell-in-muhurat-trading-2024-samvat-2081-11730437708138.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "1 Nov 2024",
+      "rank": 13
+    },
+    {
+      "title": "Muhurat Trading: Sensex opens higher by 448 points",
+      "description": "The 50-issue Nifty of the NSE spurted 150.10 points, or 0.62 per cent, to 24,355.45 with 47 of its constituents ending in the green.",
+      "link": "https://english.mathrubhumi.com/news/money/muhurat-trading-sensex-nifty-live-updates-india-7eac5e5c",
+      "display_link": "https://english.mathrubhumi.com › news › money › mu...",
+      "date": "1 Nov 2024",
+      "rank": 15
+    },
+    {
+      "title": "Stock Market Holidays November 2024: Sensex, Nifty To ...",
+      "description": "Banking stocks saw a downturn, with the Nifty Bank index falling nearly 1 per cent as nine out of twelve stocks closed in the red. Major banks, including ICICI ...",
+      "link": "https://www.timesnownews.com/business-economy/markets/stock-market-holidays-november-2024-sensex-nifty-to-pause-trading-on-these-key-dates-list-article-114837247",
+      "display_link": "https://www.timesnownews.com › Business › Markets",
+      "date": "1 Nov 2024",
+      "rank": 16
+    },
+    {
+      "title": "Ashish Kyal picks these 2 buy ideas for Muhurat trading ...",
+      "description": "Nifty has been correcting since the top formed near 26,277 on September 27. Prices ended the month of October with a close below prior month's low, high below ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/chartist-talks-ashish-kyal-picks-these-2-buy-ideas-for-muhurat-trading-believes-nifty-can-break-august-low-in-november-12856547.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "1 Nov 2024",
+      "rank": 17
+    }
+  ]
+}

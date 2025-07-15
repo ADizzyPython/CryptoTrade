@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-05 after:2024-05-04 \"nifty\"",
+    "results_cnt": 11,
+    "search_time": 0.39,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:47:43.898455Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty50 — Indicators and Strategies",
+      "description": "NIFTY 50 5mint StrategyThis is an intraday strategy for NIFTY50 Based First candle High and Low breakout. The strategy takes user inputs for the start and end ...",
+      "link": "https://in.tradingview.com/scripts/nifty50/",
+      "display_link": "https://in.tradingview.com › ... › Indicators and strategies",
+      "date": "4 May 2024",
+      "rank": 1
+    },
+    {
+      "title": "Stock market news: When will Nifty 50 hit 25K, Sensex ...",
+      "description": "Stock market outlook; The Nifty 50 index may touch or come close to the 24,000 mark by end of 2024, say experts. Stock market outlook: After climbing to a new ...",
+      "link": "https://www.livemint.com/market/stock-market-news/bull-vs-bear-when-will-nifty-50-hit-25k-sensex-climb-one-lakh-experts-give-this-timeline-11714801225353.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 May 2024",
+      "rank": 2
+    },
+    {
+      "title": "Index Outlook: Sensex, Nifty 50: Near-term Outlook is Weak",
+      "description": "Nifty 50 and Sensex broadly remained higher, but stable until Friday. The indices witnessed a sharp fall on Friday giving back almost all the gains.",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/index-outlook-sensex-nifty-50-near-term-outlook-is-weak/article68138652.ece",
+      "display_link": "https://www.thehindubusinessline.com › article68138652",
+      "date": "4 May 2024",
+      "rank": 5
+    },
+    {
+      "title": "Indraprastha Gas Ltd share price",
+      "description": "... Nifty LargeMidcap 250 Nifty 500 Multicap 50:25:25 Nifty Oil & Gas Nifty200 Quality 30 Nifty Midcap 150 Nifty MidSmallcap 400 Nifty Midcap150 Quality 50 Nifty ...",
+      "link": "https://www.screener.in/company/IGL/consolidated/",
+      "display_link": "https://www.screener.in › company › IGL › consolidated",
+      "date": "4 May 2024",
+      "rank": 9
+    },
+    {
+      "title": "Downloads",
+      "description": "... Nifty Private Bank Index Fund. ICICI Prudential Active Momentum Fund. Clear All APPLY. Knowledge Centre. Access our Monthly Market reports, Factsheets and a ...",
+      "link": "https://www.icicipruamc.com/news-and-media/downloads",
+      "display_link": "https://www.icicipruamc.com › news-and-media › downl...",
+      "date": "4 May 2024",
+      "rank": 10
+    },
+    {
+      "title": "Latest news and Articles, Videos from Bharati Ramachandran",
+      "description": "Stay informed about the best performers in Nifty 50. Stocks whose intraday price rose from their previous close are called gainers.",
+      "link": "https://www.businesstoday.in/author/bharati-ramachandran",
+      "display_link": "https://www.businesstoday.in › Author",
+      "date": "4 May 2024",
+      "rank": 11
+    }
+  ]
+}

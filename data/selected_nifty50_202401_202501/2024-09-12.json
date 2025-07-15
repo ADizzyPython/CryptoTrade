@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-13 after:2024-09-12 \"nifty\"",
+    "results_cnt": 319000,
+    "search_time": 0.31,
+    "language": "en-TW",
+    "country": "Taiwan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:10:15.191285Z"
+  },
+  "organic": [
+    {
+      "title": "Live NSE Option Chain Chart Today: Nifty, Banknifty, Stocks",
+      "description": "Latest updates on Live NSE/Nifty 50 Option Chain, Nifty Stock Options prices, Bank Nifty Option Chain, Charts & more on Nuvama Wealth.",
+      "link": "https://www.nuvamawealth.com/market/nse-option-chain#!",
+      "display_link": "https://www.nuvamawealth.com › market › nse-option-c...",
+      "date": "Sep 12, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Sensex and Nifty trading higher driven by positive global ...",
+      "description": "BSE Sensex was trading up 171 points or 0.2 percent to 81,695, and Nifty-50 was at 24,987 with a gain of 69 points or 0.3 percent, a short while ago. The ...",
+      "link": "https://www.newsonair.gov.in/sensex-and-nifty-trading-higher-driven-by-positive-global-cues/",
+      "display_link": "https://www.newsonair.gov.in › sensex-and-nifty-tradin...",
+      "date": "Sep 12, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market Highlights: Nifty breaks 25200 crucial ...",
+      "description": "Stock Market Highlights: Nifty breaks 25,200 crucial resistance, forms long bull candle. How to trade on Friday. 08:00:23 PM IST , 12 Sep, 2024.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-12-september-2024/liveblog/113274568.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Sep 12, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Today: Why Sensex soared 1600 pts, hit 83k ...",
+      "description": "Stock Market News: Sensex, Nifty hit record highs today. The Nifty index was seeing short covering for Calls in the range of 25,150-25,200 amid the weekly F&O ...",
+      "link": "https://www.business-standard.com/markets/news/why-sensex-soared-1-600-pts-hit-83k-today-nifty-scaled-new-high-of-25-400-124091200661_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Sep 12, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty surges in last hour, Call option writers caught off guard",
+      "description": "From a low of 24,941 at 11 am, Nifty witnessed a sharp rebound in the last hour of trade, reaching new all-time highs on 12 September.",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-surges-in-last-hour-call-option-writers-caught-off-guard-12820174.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 12, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex surges 1000 points, Nifty rises; investors add Rs 5 ...",
+      "description": "Sensex surges 1,000 points, Nifty rises; investors add Rs 5 lakh crore · The S&P BSE Sensex added1048.49 points to 82,571.65, while the NSE Nifty50 gained 343.65 ...",
+      "link": "https://www.indiatoday.in/business/story/sensex-surges-1000-points-nifty-rises-300-points-investors-add-rs-5-lakh-crore-2598507-2024-09-12",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Sep 12, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty makes new high in late surge on expiry day, closes ...",
+      "description": "In a dramatic final-hour rally, the Nifty 50 catapulted nearly 2 percent, smashing through to an all-time high of 25,433.35 on September 12, the day of the ...",
+      "link": "https://www.moneycontrol.com/news/business/nifty-makes-new-high-in-late-surge-on-expiry-day-closes-above-25350-12820256.html",
+      "display_link": "https://www.moneycontrol.com › NEWS › BUSINESS",
+      "date": "Sep 12, 2024",
+      "rank": 18
+    }
+  ]
+}

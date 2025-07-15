@@ -1,0 +1,13 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-27 after:2024-06-26 \"nifty\"",
+    "results_cnt": 331000,
+    "search_time": 0.3,
+    "language": "en-TH",
+    "country": "Thailand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:56:01.268815Z"
+  },
+  "organic": []
+}

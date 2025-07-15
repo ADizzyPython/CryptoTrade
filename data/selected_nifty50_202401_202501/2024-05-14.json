@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-15 after:2024-05-14 \"nifty\"",
+    "results_cnt": 1900000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:49:13.321069Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Today Highlights: Sensex inches 300 pts ...",
+      "description": "Sensex closed 328.48 points, or 0.45 per cent higher at 73,104.61 while Nifty inched 118.55 points, or 0.54 per cent higher at 22,222.60. Read More.",
+      "link": "https://indianexpress.com/article/business/market/stock-market-today-live-updates-gift-nifty-bse-sensex-nse-nifty-50-oil-rupee-dollar-9327011/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "May 14, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE - Top Gainers - NIFTY Metal",
+      "description": "Check out the top gainers on the Sensex, Nifty, or any other index. At a single glance, Now you can also view various parameters like last 5 day performance ...",
+      "link": "https://www.moneycontrol.com/stocks/marketstats/nse-gainer/nifty-metal_51/",
+      "display_link": "https://www.moneycontrol.com › marketstats › nse-gainer",
+      "date": "May 14, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Tata Group 25% Cap Chart",
+      "description": "Nifty Outlook for Tomorrow The NIFTY 50 index declined 67.55 points to close at 25,082.30, down 0.27%, as market breadth remained skewed towards the ...",
+      "link": "https://www.5paisa.com/share-market-today/nifty-tata-group-25-cap",
+      "display_link": "https://www.5paisa.com › Share market today",
+      "date": "May 14, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty500 Multicap India Manufacturing 50:30:20 Index",
+      "description": "Nifty Outlook for Today The NIFTY 50 index declined 67.55 points to close at 25,082.30, down 0.27%, as market breadth remained skewed towards the negative ...",
+      "link": "https://www.5paisa.com/share-market-today/nifty500-multicap-india-manufacturing-50-30-20",
+      "display_link": "https://www.5paisa.com › Share market today",
+      "date": "May 14, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Stock market today: Trade setup for Nifty 50 to India VIX ...",
+      "description": "The Nifty 50 index concluded 48 points higher at 22,104, while the BSE Sensex ended 111 points higher at 72,776. The Bank Nifty index surged 333 points and ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-india-vix-today-eight-stocks-to-buy-or-sell-on-tuesday-may-14-11715652961793.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "May 14, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Market Close Highlights : Sensex ends up 330pts, Nifty at ...",
+      "description": "Market Close Highlights : Sensex ends up 330pts, Nifty at 22,220; Broader markets, Metal, Auto, O&G, PSU Bank gain most. Market Close Highlights : Foreign ...",
+      "link": "https://www.livemint.com/market/live-blog/sensex-today-share-market-live-updates-bharti-airtel-siemens-shree-cements-pvr-inox-q4-results-14-may-2024-indegene-shar-11715654556464.html",
+      "display_link": "https://www.livemint.com › Markets › Live Blog",
+      "date": "May 14, 2024",
+      "rank": 20
+    }
+  ]
+}

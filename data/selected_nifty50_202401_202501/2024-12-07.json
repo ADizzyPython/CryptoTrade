@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-08 after:2024-12-07 \"nifty\"",
+    "results_cnt": 10,
+    "search_time": 0.27,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T16:25:25.522572Z"
+  },
+  "organic": [
+    {
+      "title": "Dalal Street Week Ahead: Profit taking time? Nifty faces key ...",
+      "description": "The markets have paused at a critical point. The Nifty has closed above the 50-DMA, currently at 24548, and is just below the 100-DMA at 24707.",
+      "link": "https://m.economictimes.com/markets/stocks/news/dalal-street-week-ahead-profit-taking-time-nifty-faces-key-hurdle-after-3-week-rally/articleshow/116077762.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 7, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty In Technical Charts: Rally Is Tentative Yet",
+      "description": "This is the Nifty did with some efforts on Thursday, bounding upward to as high as 24,900 only to be hurled down the staircase in a sharp swing. Interestingly, ...",
+      "link": "https://www.ndtvprofit.com/markets/nifty-in-technical-charts-rally-is-tentative-yet",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Dec 7, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Norris Medicines Ltd Share Price",
+      "description": "Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors Share Price · Adani Power Share Price · HDFC Bank Share Price · Tata Steel ...",
+      "link": "https://www.businesstoday.in/stocks/norris-medicines-ltd-share-price-362389",
+      "display_link": "https://www.businesstoday.in › Markets › Stocks",
+      "date": "Dec 7, 2024",
+      "rank": 10
+    }
+  ]
+}

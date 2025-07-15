@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-09 after:2024-05-08 \"nifty\"",
+    "results_cnt": 2690000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:48:22.596160Z"
+  },
+  "organic": [
+    {
+      "title": "What is NIFTY 100 & How to Invest?",
+      "description": "NIFTY 100 is a reliable index for investors interested in the large-cap segment. It includes the top 100 companies with a high market cap in India.",
+      "link": "https://www.religareonline.com/knowledge-centre/share-market/nifty-100-index/",
+      "display_link": "https://www.religareonline.com › nifty-100-index",
+      "date": "May 8, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty ends flat; Tata Motors, PowerGrid, NTPC, L&T ...",
+      "description": "The market has traded flat with the Sensex losing 0.06 percent and closed at 73466.39 and Nifty was flat by 0.00 percent intraday and closed at 22302.50 levels.",
+      "link": "https://www.moneycontrol.com/news/opinion/stock-market-live-updates-gift-nifty-indicates-indian-markets-may-open-flat-mixed-sentiment-in-asia-liveblog-12717000.html",
+      "display_link": "https://www.moneycontrol.com › NEWS › OPINION",
+      "date": "May 8, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect in Indian stock ...",
+      "description": "Nifty 50 Prediction. Nifty50 closed 140 points lower on Tuesday's trading session at 22,302.50 with 34 stocks in the red. “Technically, the trend has weakened ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-may-8-11715101620816.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "May 8, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty, Sensex End Flat As Traders Eye Voting Trends",
+      "description": "The NSE Nifty 50 settled flat at 22,302.5 and the S&P BSE Sensex declined 45.46 points or 0.06%, to end at 73,466.39.",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-nse-bse-nifty-sensex-share-price-movement-of-pidilite-industries-jsw-energy-dr-reddys-and-more",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "May 8, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty recover to end flat after volatile trading day",
+      "description": "Sensex, Nifty recover to end flat after volatile trading day. The S&P BSE Sensex dropped by 45.46 points, closing at 73,466.39, and the NSE Nifty50 closed ...",
+      "link": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-recover-to-end-flat-volatile-trading-day-2536662-2024-05-08",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "May 8, 2024",
+      "rank": 17
+    }
+  ]
+}

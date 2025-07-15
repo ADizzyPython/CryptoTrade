@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-21 after:2024-10-20 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.32,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:53.814559Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty vs sensex what are you going to trade going forward?",
+      "description": "Generally liked how nifty options behave. What index,exchange are you guys leaning on to? On non expiry days nifty is still the leader with 5-20x difference.",
+      "link": "https://tradingqna.com/t/nifty-vs-sensex-what-are-you-going-to-trade-going-forward/174767",
+      "display_link": "https://tradingqna.com › nifty-vs-sensex-what-are-you-...",
+      "date": "Oct 20, 2024",
+      "rank": 19
+    }
+  ]
+}

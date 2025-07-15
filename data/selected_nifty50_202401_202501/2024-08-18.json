@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-19 after:2024-08-18 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.32,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:06:29.718914Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty poised to hit 24700 next week? 3 top stock picks for ...",
+      "description": "The Nifty 50 started the week on a positive note, reaching a high of around 24,270 on Monday. However, sentiment was dampened by the release of the Hindenburg ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-poised-to-hit-24700-next-week-3-top-stock-picks-for-short-term-gains-by-jigar-patel-of-anand-rathi-12799918.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "18 Aug 2024",
+      "rank": 13
+    }
+  ]
+}

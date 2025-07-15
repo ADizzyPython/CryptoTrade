@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-16 after:2024-05-15 \"nifty\"",
+    "results_cnt": 2310000,
+    "search_time": 0.61,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:49:23.564327Z"
+  },
+  "organic": [
+    {
+      "title": "Corporate Communications",
+      "description": "The Nifty Next 50 Index consists of 50 companies from the Nifty 100, excluding the Nifty 50 companies. The index is also sometimes referred to as Junior Nifty.",
+      "link": "https://www.nseindia.com/resources/nse-to-launch-derivatives-on-nifty-next-50-index-niftynxt50-from-april-242024",
+      "display_link": "https://www.nseindia.com › resources › nse-to-launch-d...",
+      "date": "15 May 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 Vs Nifty Next 50 Vs Nifty 100 - Pick Your Large Cap ...",
+      "description": "The Nifty 50, often referred to simply as the Nifty, is India's leading benchmark index. It comprises the top 50 companies (in terms of market capitalisation ...",
+      "link": "https://www.motilaloswal.com/learning-centre/2024/5/nifty-50-vs-nifty-next-50-vs-nifty-100-pick-your-large-cap-index",
+      "display_link": "https://www.motilaloswal.com › learning-centre › nifty-...",
+      "date": "15 May 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex Vs Nifty - Difference Between Nifty And Sensex",
+      "description": "Nifty is NSE's stock market index. It is also written as Nifty 50. Owned and managed by India Index Services and Products Ltd. (IISL), a subsidiary of NSE, it ...",
+      "link": "https://www.motilaloswal.com/learning-centre/2024/5/sensex-vs-nifty-difference-between-nifty-and-sensex",
+      "display_link": "https://www.motilaloswal.com › learning-centre › sense...",
+      "date": "15 May 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex ends 118 points lower, Nifty holds 22200; BSE ...",
+      "description": "Nifty FMCG Index was the top loser, down 1%, with Nifty auto down 0.5%. Nifty Bank and Nifty Private Bank indices slipped 0.3% each. May 15, 2024· 15:12 IST.",
+      "link": "https://www.moneycontrol.com/news/opinion/stock-market-live-updates-gift-nifty-indicates-positive-start-for-indian-markets-asian-stocks-trade-higher-liveblog-12722243.html",
+      "display_link": "https://www.moneycontrol.com › NEWS › OPINION",
+      "date": "15 May 2024",
+      "rank": 6
+    },
+    {
+      "title": "Markets sideways! Sensex settles 118 points down, Nifty at ...",
+      "description": "Closing bell today Nifty 50 slipped 17 points or 0.08% to settle at 22,200.55. Sensex pulled back 118 points or 0.16% to close at 72,987.03. (Image ...",
+      "link": "https://www.financialexpress.com/market/markets-sideways-sensex-settles-118-points-down-nifty-at-22200-pushed-by-fmcg-and-auto-3489321/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "15 May 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty off to a muted start as Street awaits US ...",
+      "description": "In terms of sectors, Nifty PSU Bank saw a 1.6% increase, with Canara Bank leading the gains following its inclusion in the emerging markets index. Additionally, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/sensex-nifty-off-to-a-muted-start-as-street-awaits-us-inflation-print/articleshow/110134152.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "15 May 2024",
+      "rank": 11
+    },
+    {
+      "title": "Stock market today: Sensex slips 117 pts, Nifty settles at ...",
+      "description": "BSE Sensex ended at 72,987.03, lower by 117.58 pts or 0.16 per cent on Wednesday's trade, and Nifty 50 ended at 22,200.55, down by 17.30 pts or 0.08 per ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-today-sensex-slips-117-pts-nifty-settles-at-22200/article68178252.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "15 May 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock Market Today Highlights: Sensex closes 100 pts ...",
+      "description": "BSE Sensex settled 117.58 points, or 0.16 per cent lower at 72,987.03 while Nifty has inched 17.30 points, or 0.08 per cent higher at 22,200.55. Read More.",
+      "link": "https://indianexpress.com/article/business/market/stock-market-today-live-updates-bse-sensex-nse-nifty-50-oil-price-rupee-dollar-9329683/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "15 May 2024",
+      "rank": 20
+    }
+  ]
+}

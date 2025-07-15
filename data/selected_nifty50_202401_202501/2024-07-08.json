@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-09 after:2024-07-08 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.27,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:57:57.758792Z"
+  },
+  "organic": [
+    {
+      "title": "Valuations frothy? Profit and market cap moved in sync in 5 ...",
+      "description": "Nifty (-0.81%). 25149.85 -205.40 · Nifty Midcap (-0.88%). 58642.20 -517.75 · Nifty Smallcap (-1.04%). 9061.30 -95.20 · Nifty Bank (-0.35%). 56754.70 -201.30.",
+      "link": "https://www.business-standard.com/markets/news/nifty-s-five-year-profit-market-capitalisation-growth-move-in-sync-124070800876_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 8, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 ATH - InsightsInsights",
+      "description": "Nifty 50 ATH. July 8, 2024 . Jiral Mehta · Read Previous Article · Read Next Article. [fbcomments]. Franklin Templeton – Intimation of Scheme Name Changes ...",
+      "link": "https://www.fundsindia.com/blog/mf-basics/investment-definitions/indian-equity-markets-at-all-time-highs-should-you-worry/30001/attachment/nifty-50-ath",
+      "display_link": "https://www.fundsindia.com › mf-basics › attachment",
+      "date": "Jul 8, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Downturn in sight for Nifty50, MidCap Select indices",
+      "description": "Downturn in sight for Nifty50, MidCap Select indices; here's how to trade. When examining the Nifty 50 Index, currently trading in the overbought zone, ...",
+      "link": "https://www.business-standard.com/markets/news/downturn-in-sight-for-nifty50-midcap-select-indices-here-s-how-to-trade-124070800046_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 8, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Will the Nifty trade over the 23,400 mark, or will the sideways ...",
+      "description": "GIFT Nifty traded down by 51 points or 0.21% at 24364.50 indicating a negative opening for domestic indices NSE Nifty 50 and BSE Sensex on Monday.",
+      "link": "https://www.financialexpress.com/market/will-the-nifty-trade-over-the-23400-mark-or-will-the-sideways-movement-continue-see-gift-nifty-fii-data-fampo-ban-crude-more-before-market-opens-3546647/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Jul 8, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Trade Setup for July 8: Will dips on the Nifty keep getting ...",
+      "description": "All of last week on the Nifty was dominated by two stocks and one theme. The two stocks being Reliance Industries and HDFC Bank, while IT was the theme that ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-july-8-nifty-key-levels-hdfc-bank-indusind-titan-marico-dabur-adani-wilmar-share-price-19439258.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Jul 8, 2024",
+      "rank": 19
+    }
+  ]
+}

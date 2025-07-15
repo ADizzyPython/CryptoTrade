@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-19 after:2024-07-18 \"nifty\"",
+    "results_cnt": 357000,
+    "search_time": 0.49,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:59:32.681756Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY18-07-2024CE24750.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "18 Jul 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY 18Jul2024 CE 24500.00",
+      "description": "Live NSE / BSE Quotes, Live Nifty Quotes, Live Futures, snapshot, chart, Interest Analysis and more. Get detailed current market stats information on Indian ...",
+      "link": "https://m.moneycontrol.com/india/indexfutures/nifty/9/2024-07-18/OPTIDX/CE/24500.00/true",
+      "display_link": "https://m.moneycontrol.com › nifty › OPTIDX › true",
+      "date": "18 Jul 2024",
+      "rank": 2
+    },
+    {
+      "title": "What is NIFTY 500 - Meaning & How to Invest",
+      "description": "The Nifty 500 is a stock market index in India. The index represents the top 500 companies listed on the National Stock Exchange (NSE) based on market ...",
+      "link": "https://www.bajajfinserv.in/what-is-nifty-500",
+      "display_link": "https://www.bajajfinserv.in › what-is-nifty-500",
+      "date": "18 Jul 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty just 200 points away from hitting 25000 milestone",
+      "description": "Nifty just 200 points away from hitting 25,000 milestone. Closing in green for the fourth consecutive session, the NSE barometer gained 187.85 points or 0.76 ...",
+      "link": "https://www.newindianexpress.com/business/2024/Jul/18/nifty-just-200-points-away-from-hitting-25000-milestone",
+      "display_link": "https://www.newindianexpress.com › Business",
+      "date": "18 Jul 2024",
+      "rank": 4
+    },
+    {
+      "title": "Market ends at record highs! Nifty settles at 24800 Sensex ...",
+      "description": "The NSE Nifty 50 gained 187.85 points or 0.76% to settle at 24,800.85, while the BSE Sensex jumped 626.91 points or 0.78% to 81,343.46. The broader indices ...",
+      "link": "https://www.financialexpress.com/market/market-ends-at-record-highs-nifty-settles-at-24800-sensex-gains-over-600-points-it-stocks-lead-the-rally-3557395/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "18 Jul 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex Breaches 81000 Mark, Nifty Scales 24800 Peak ...",
+      "description": "Sensex Breaches 81,000 Mark, Nifty Scales 24,800 Peak On IT, FMCG Gains. Rebounding from its early lows, the 30-share BSE Sensex rose by 626.91 points or 0.78 ...",
+      "link": "https://www.ndtv.com/india-news/sensex-breaches-81-000-mark-nifty-scales-24-800-peak-on-it-fmcg-gains-6132819",
+      "display_link": "https://www.ndtv.com › India News",
+      "date": "18 Jul 2024",
+      "rank": 10
+    },
+    {
+      "title": "Sensex, Nifty rise after weak opening; SBI, TCS among top ...",
+      "description": "Nifty Bank and Nifty IT were among the top gainers among sectoral indices. On the other hand, Nifty Realty fell over 1%. The top five gainers on the Nifty50 ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-q1-results-budget-2024-infosys-tcs-sbi-2568406-2024-07-18",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "18 Jul 2024",
+      "rank": 18
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-03 after:2024-04-02 \"nifty\"",
+    "results_cnt": 2750000,
+    "search_time": 0.79,
+    "language": "en-NL",
+    "country": "Netherlands",
+    "location": "India",
+    "timestamp": "2025-07-15T15:42:43.456498Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty PSU Bank Index Share Price Today LIVE",
+      "description": "Assess the Nifty PSU Bank stock price and overall performance. What Is The Nifty PSU Bank Share Price Today? The Nifty PSU Bank live stock price is 7,136.35.",
+      "link": "https://in.investing.com/indices/cnx-psu-bank",
+      "display_link": "https://in.investing.com › indices › cnx-psu-bank",
+      "date": "2 Apr 2024",
+      "rank": 2
+    },
+    {
+      "title": "How GIFT Nifty Can Enhance Derivatives Strategy",
+      "description": "GIFT Nifty is a significant milestone for the Indian derivatives market. It offers extended trading hours, a centralized liquidity pool, and robust regulations.",
+      "link": "https://www.suvit.io/post/what-is-gift-nifty",
+      "display_link": "https://www.suvit.io › post › what-is-gift-nifty",
+      "date": "2 Apr 2024",
+      "rank": 5
+    },
+    {
+      "title": "India's NSE halves lot size for Nifty 50 derivatives trading",
+      "description": "India's National Stock Exchange (NSE) on Tuesday said it halved the lot size for trading derivatives contracts for the blue-chip Nifty 50 index to 25.",
+      "link": "https://www.reuters.com/world/india/indias-nse-halves-lot-size-nifty-50-derivatives-trading-2024-04-02/",
+      "display_link": "https://www.reuters.com › world › india › indias-nse-ha...",
+      "date": "2 Apr 2024",
+      "rank": 6
+    },
+    {
+      "title": "F&O update: NSE revises lot size of Nifty 50 contracts, two ...",
+      "description": "National Stock Exchange (NSE) on April said it halved the lot size for trading derivatives contracts for the Nifty 50 index to 25, and reduced the lot sizes ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nse-cuts-lot-size-of-nifty-contracts-by-half-to-25-12562761.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "2 Apr 2024",
+      "rank": 8
+    },
+    {
+      "title": "How has SGX GIFT Nifty Been Performing in 2024?",
+      "description": "Traded on the Singapore Exchange, the SGX Nifty is a futures and options contract based on the Nifty 50 index. It represents the top 50 companies listed on the ...",
+      "link": "https://www.orientfutures.com.sg/how-has-sgx-gift-nifty-been-performing-in-2024/",
+      "display_link": "https://www.orientfutures.com.sg › how-has-sgx-gift-ni...",
+      "date": "2 Apr 2024",
+      "rank": 9
+    },
+    {
+      "title": "Share Market Today LIVE | GIFT Nifty futures ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 111 pts lower, Nifty slips to 22,453 as D-Street halts three-day winning run. Share Market HIGHLIGHTS: Domestic equity ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-282374/282376",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "2 Apr 2024",
+      "rank": 16
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open lower on Tuesday following weak global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-april-2-11712022266286.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "2 Apr 2024",
+      "rank": 18
+    },
+    {
+      "title": "Stock market highlights, April 2: Sensex slips 111 pts, Nifty ...",
+      "description": "Stock market highlights, April 2: Sensex slips 111 pts, Nifty holds 22,450; broader indices rise over 1%. Stock market highlights on Tuesday, April 02: Among ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-commentary-sensex-gift-nifty-us-bonds-gst-smallcaps-124040200088_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "2 Apr 2024",
+      "rank": 20
+    }
+  ]
+}

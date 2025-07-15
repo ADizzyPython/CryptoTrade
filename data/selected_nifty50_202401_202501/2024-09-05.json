@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-06 after:2024-09-05 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.52,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:09:05.912758Z"
+  },
+  "organic": [
+    {
+      "title": "Decoding Long-Term Nifty Returns: The Power of Time ...",
+      "description": "Discover how Nifty returns vary dramatically across time horizons and entry points. Our in-depth analysis reveals the pitfalls of short-term thinking and ...",
+      "link": "https://www.capitalmind.in/insights/decoding-long-term-nifty-returns-the-power-of-time-horizons",
+      "display_link": "https://www.capitalmind.in › insights › decoding-long-t...",
+      "date": "Sep 5, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Live Nifty Next 50 Index, Share Price and Charts",
+      "description": "Indices Name, Price, Price Change (% change). India VIX, 11.98, 0 (0%). Nifty 10 Yr Benchmark G-Sec, 2602.13, -1.86 (-0.07%). Nifty 10 Yr Benchmark G-Sec ...",
+      "link": "https://www.5paisa.com/share-market-today/nifty-next-50",
+      "display_link": "https://www.5paisa.com › Share market today",
+      "date": "Sep 5, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 close in the red",
+      "description": "Stock market today: The Sensex closed 151 points, or 0.18 per cent, lower at 82,201.16, while the Nifty 50 settled at 25,145.10, down 54 points, or 0.21 per ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-close-in-the-red-mid-smallcaps-ooutperform-11725530308129.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Sep 5, 2024",
+      "rank": 7
+    },
+    {
+      "title": "NIFTY Index Chart Analysis",
+      "description": "Nifty, the benchmark index, is at a new high. Last month, the domestic fund's massive inflow of ₹48,278.65 crore fuelled the equities to a new high.",
+      "link": "https://www.dsij.in/dsijarticledetail/nifty-index-chart-analysis-41668",
+      "display_link": "https://www.dsij.in › dsijarticledetail › nifty-index-chart-...",
+      "date": "Sep 5, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Nifty 50, Sensex today: Nifty 50 is likely to see a positive opening, supported by trends in Gift Nifty. Analysts suggest buying opportunities around 25000, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-september-5-11725462860880.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Sep 5, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty IT faces resistance at 43200; should you book profits ...",
+      "description": "The Nifty IT Index is currently displaying signs of nearing a critical resistance level. The immediate resistance level to watch is 43200.",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-faces-resistance-at-43-200-should-you-book-profits-on-rise-124090500055_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Sep 5, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty 50 fails to hold ...",
+      "description": "Sensex fell 151 points to 82,201 and Nifty 54 points to 25,145. The midcap index gained 225 points to 59,449 and Nifty Bank 73 points to 51,473. Live Updates ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-reliance-sona-blw-prestige-estates-suzlon-share-price-liveblog-19471147.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Sep 5, 2024",
+      "rank": 15
+    }
+  ]
+}

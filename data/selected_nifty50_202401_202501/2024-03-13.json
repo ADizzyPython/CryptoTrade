@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-14 after:2024-03-13 \"nifty\"",
+    "results_cnt": 2610000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:50.646276Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 500 beats S&P 500, other leading global indices in ...",
+      "description": "Nifty 500, India's broadest index, outperformed most of the world's leading indices except the Nasdaq 100 over the last 10 years, according to the study by ...",
+      "link": "https://www.business-standard.com/finance/personal-finance/nifty-500-beats-s-p-500-other-leading-global-indices-in-last-10-yrs-study-124031300075_1.html",
+      "display_link": "https://www.business-standard.com › personal-finance",
+      "date": "Mar 13, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 fall over 1% each",
+      "description": "Stock market today: Nifty 50 closed with a loss of 338 points, or 1.51 per cent, at 21,997.70 while the Sensex settled with a loss of 906 points, or 1.23 per ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-fall-about-1-each-why-is-indian-stock-market-falling-today-11710315410027.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 13, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Closing Bell: Nifty below 22000, Sensex falls 906 points",
+      "description": "The Sensex and Nifty, key equity benchmarks, lost their earlier gains and fell over 1.5 percent on March 13 and closed below 22000 levels. Bank Nifty also ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-13-03-2024-liveblog-12448541.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 13, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty 50, Sensex on March 13: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are expected to open flat-to-higher on Wednesday following gains in global peers.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-march-13-11710293764887.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 13, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty Long term option Writting - F&O",
+      "description": "Is there any way to open long-term option contracts for Nifty 2028. I am unable to place order in zerodha. I am presently writing options for Nifty 2027 ...",
+      "link": "https://tradingqna.com/t/nifty-long-term-option-writting/162246",
+      "display_link": "https://tradingqna.com › nifty-long-term-option-writting",
+      "date": "Mar 13, 2024",
+      "rank": 20
+    }
+  ]
+}

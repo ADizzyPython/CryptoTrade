@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-18 after:2024-08-17 \"nifty\"",
+    "results_cnt": 11,
+    "search_time": 0.47,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:05:50.903576Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty In Technical Charts: Can The Bulls Do It Again?",
+      "description": "Shortened by a day owing to the I-Day holiday, the NSE Nifty 50 pulled itself up to finish near the top of the week's trading.Chart 1 details the recent moves ...",
+      "link": "https://www.ndtvprofit.com/exclusive/nifty-in-technical-charts-can-the-bulls-do-it-again",
+      "display_link": "https://www.ndtvprofit.com › Premium › Exclusive",
+      "date": "Aug 17, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Country Condos Ltd Share Price Today, 6.85 ...",
+      "description": "Nifty (-0.27%). 25082.30-67.55 · Nifty Midcap (0.70%). 59052.55+ 410.35 · Nifty Smallcap (1.14%). 9164.20+ 102.90 · Nifty Bank (0.02%). 56765.35+ 10.65 · Nifty ...",
+      "link": "https://www.business-standard.com/markets/country-condos-ltd-share-price-6279.html",
+      "display_link": "https://www.business-standard.com › » › Markets",
+      "date": "Aug 17, 2024",
+      "rank": 10
+    }
+  ]
+}

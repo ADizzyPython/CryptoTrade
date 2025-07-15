@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-03 after:2024-10-02 \"nifty\"",
+    "results_cnt": 313000,
+    "search_time": 0.39,
+    "language": "en-ES",
+    "country": "Spain",
+    "location": "India",
+    "timestamp": "2025-07-15T16:13:11.296968Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty close flat",
+      "description": "The NSE Nifty closed marginally lower by 13.95 points or 0.05 per cent to 25,796.90. Muted trends in global markets and heavy foreign fund outflows weighed on ...",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-highlights-1-october-2024/article68701832.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "2 Oct 2024",
+      "rank": 14
+    },
+    {
+      "title": "Invest in Bandhan Nifty IT Index Fund in India",
+      "description": "A Nifty IT Index Fund is a type of sectoral index fund that invests predominantly in equities and equity-related instruments of IT companies.",
+      "link": "https://partners.bandhanmutual.com/mutual-funds/index-funds-and-etfs/bandhan-nifty-it-index-fund/regular",
+      "display_link": "https://partners.bandhanmutual.com › regular",
+      "date": "2 Oct 2024",
+      "rank": 16
+    }
+  ]
+}

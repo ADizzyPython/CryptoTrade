@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-07 after:2024-05-06 \"nifty\"",
+    "results_cnt": 1650000,
+    "search_time": 0.3,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T15:48:02.716243Z"
+  },
+  "organic": [
+    {
+      "title": "India's NIFTY 50 Beat the S&P 500 Over the Past 5 Years",
+      "description": "The NIFTY 50 is an index of the 50 largest and most actively traded Indian stocks. Similar to the S&P 500, it represents a range of industries.",
+      "link": "https://www.voronoiapp.com/markets/Indias-NIFTY-50-Beat-the-SP-500-Over-the-Past-5-Years-1217",
+      "display_link": "https://www.voronoiapp.com › markets › Indias-NIFTY-...",
+      "date": "May 6, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Midcpnifty 31 JUL 2025 PE 11600",
+      "description": "... Nifty 50 Stock List · Indian ADRs · LIC · Tata Motors · IRFC · ITC · Tata Steel · Adani ... Nifty 50 · Bank Nifty · FINNIFTY · Nifty Midcap · India VIX · Know ...",
+      "link": "https://www.5paisa.com/derivatives/midcpnifty-option-chain/midcpnifty-11600-pe",
+      "display_link": "https://www.5paisa.com › ... › Midcpnifty option chain",
+      "date": "May 6, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Healthcare Index: 5 smart things to know",
+      "description": "1.The Nifty Healthcare Index is a sectoral index that tracks companies from India's healthcare sector. · 2.It includes 20 stocks that are listed on the NSE and ...",
+      "link": "https://m.economictimes.com/wealth/invest/nifty-healthcare-index-5-smart-things-to-know/articleshow/109832668.cms",
+      "display_link": "https://m.economictimes.com › Wealth › Invest",
+      "date": "May 6, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Low risk option strategy to adopt if Nifty remains sideways ...",
+      "description": "At noon, Nifty was seen struggling to hold 22500 levels. A break of 22350 on the downside can trigger a further fall of 300-400 points on the index, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/low-risk-option-strategy-to-adopt-if-nifty-remains-sideways-to-bearish-12715425.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "May 6, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Stock Market Highlights, May 6: Sensex, Nifty end flat; ...",
+      "description": "Stock Market Highlights, May 6: Sensex, Nifty end flat; broader indices fall 1% as financials bleed. Stock Market Highlights on May 6: Kotak Bank, HUL, TCS, M&M ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-sensex-nifty-gift-nifty-dow-jones-nasdaq-s-p-500-kotak-mahindra-bank-paytm-124050600062_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "May 6, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex rises 450 points, Nifty tops 22550 on upbeat global ...",
+      "description": "Sensex rises 450 points, Nifty tops 22,550 on upbeat global market cues ... Indian indices surged with Sensex up 0.61% at 74,327 and Nifty50 at 22,561, tracking ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/sensex-rises-250-points-nifty-tops-22500-on-upbeat-global-market-cues/articleshow/109871140.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "May 6, 2024",
+      "rank": 17
+    },
+    {
+      "title": "1075IHF33A Share Price Today, Stock Price, Live ...",
+      "description": "NSE - NIFTY 50. 25,165.85. -189.40 (-0.75%). 11-Jul-2025 12:57. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=1075IHF33A",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "May 6, 2024",
+      "rank": 19
+    },
+    {
+      "title": "BANKNIFTY",
+      "description": "Search this site. Embedded Files. Skip to main content. Skip to navigation. Home · Book Session · Contact Us · Join Our Team · Disclaimer.",
+      "link": "https://www.niftyeod.com/oi-pcr-signal/banknifty",
+      "display_link": "https://www.niftyeod.com › oi-pcr-signal › banknifty",
+      "date": "May 6, 2024",
+      "rank": 20
+    }
+  ]
+}

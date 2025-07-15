@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-06 after:2024-08-05 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.29,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:03:08.014586Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty tumble: How deep can the Indian stock ...",
+      "description": "The NSE Nifty 50 index touched a low of 24,193, and was down 2 per cent at 24,230 levels. Sectorally, the Nifty Auto and Nifty Metal indices tumbled over 3 per ...",
+      "link": "https://www.business-standard.com/markets/news/sensex-nifty-tumble-how-deep-can-the-indian-stock-market-correction-be-124080500201_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Aug 5, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Don't start buying now as correction may not end in a day; ...",
+      "description": "Market expert Sandip Sabharwal has indicated that a 7% to 10% correction in Nifty could be beneficial for aligning valuations with long-term trends.",
+      "link": "https://m.economictimes.com/markets/expert-view/dont-start-buying-now-as-correction-may-not-end-in-a-day-7-10-nifty-fall-may-remove-froth-sandip-sabharwal/articleshow/112279172.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "Aug 5, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Explore the Potential of Tata Nifty Midcap 150 Momentum ...",
+      "description": "The Tata Nifty Midcap 150 Momentum 50 Index Fund offers an opportunity for investors to capitalize on the growth potential of midcap stocks.",
+      "link": "https://www.tatamutualfund.com/blogs/explore-potential-tata-nifty-midcap-150-momentum-50-index-fund",
+      "display_link": "https://www.tatamutualfund.com › blogs › explore-pote...",
+      "date": "Aug 5, 2024",
+      "rank": 17
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-26 after:2024-05-25 \"nifty\"",
+    "results_cnt": 9,
+    "search_time": 0.25,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:04.466711Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty volatility surges ahead of election results",
+      "description": "Over the past four sessions, the Nifty maintained a buoyant trajectory; it oscillated in a 621.85-point range. Volatility also continued spiking higher; India ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-volatility-surges-ahead-of-election-results-what-investors-need-to-know/articleshow/110421510.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "May 25, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Cubex Tubings Share Price",
+      "description": "NIFTY. 1 Week, -1.47%, -1.45%, -1.49%, -1.35%. 1 Month, -11.69%, -11.24%, 1.67%, 1.86%. 3 Month, 13.49%, 14.00%, 7.47%, 7.93%. 6 Month, -17.46%, -17.68%, 7.49% ...",
+      "link": "https://www.business-standard.com/markets/cubex-tubings-ltd-share-price-3021.html",
+      "display_link": "https://www.business-standard.com › » › Markets",
+      "date": "May 25, 2024",
+      "rank": 7
+    }
+  ]
+}

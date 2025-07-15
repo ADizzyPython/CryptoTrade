@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-07 after:2024-02-06 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.31,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:33:29.682216Z"
+  },
+  "organic": [
+    {
+      "title": "Bajaj Finserv Nifty 50 ETF share price",
+      "description": "Bajaj Finserv Nifty 50 ETF. Notebook AI. Bajaj Nifty 50 Summary Chart Analysis Peers Quarters Profit & Loss Balance Sheet Cash Flow Ratios Investors Documents.",
+      "link": "https://www.screener.in/company/NIFTYBETF/",
+      "display_link": "https://www.screener.in › company › NIFTYBETF",
+      "date": "6 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Closing Bell: Nifty above 21900, Sensex gains 455 pts",
+      "description": "At close, the Sensex was up 454.67 points or 0.63 percent at 72,186.09, and the Nifty was up 157.70 points or 0.72 percent at 21,929.40. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-06-02-2024-liveblog-12200661.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "6 Feb 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50, Sensex on February 6: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open on a cautious note Tuesday following weak global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-6-11707184397310.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "6 Feb 2024",
+      "rank": 8
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 455 pts higher ...",
+      "description": "The Sensex ends 454.7 points, or 0.6 per cent, higher at 72,186.1 and the Nifty settles at 21,929.4, up 157.7 points, or 0.7 per cent, from its previous close.",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-275201",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "6 Feb 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex surges 455 pts, Nifty tops 21900; IT index jumps 3 ...",
+      "description": "Sensex surges 455 pts, Nifty tops 21,900; IT index jumps 3%, YES Bank 12%. Stock market highlights on February 6, 2024: The Nifty Auto, Metal, and Pharma added ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-feb-6-nse-bse-sensex-nifty-hdfc-bank-airtel-jio-fin-124020600083_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "6 Feb 2024",
+      "rank": 15
+    }
+  ]
+}

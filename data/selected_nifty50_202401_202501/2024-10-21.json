@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-22 after:2024-10-21 \"nifty\"",
+    "results_cnt": 338000,
+    "search_time": 0.29,
+    "language": "en-SG",
+    "country": "Singapore",
+    "location": "India",
+    "timestamp": "2025-07-15T16:16:01.337756Z"
+  },
+  "organic": [
+    {
+      "title": "Xtrackers Nifty 50 Swap (XNIF)",
+      "description": "This ETF aims to track the performance of the Nifty 50 Index, which includes 50 of the largest and most actively traded companies listed on the National Stock ...",
+      "link": "https://investengine.com/etfs/xtrackers/xnif/",
+      "display_link": "https://investengine.com › etfs › xtrackers › xnif",
+      "date": "21 Oct 2024",
+      "rank": 3
+    },
+    {
+      "title": "Technical View: Nifty trend likely to remain weak, could test ...",
+      "description": "The Nifty 50 opened higher at 24,956 and hit a day's high of 24,978 but immediately lost those gains in early trade, reaching an intraday low of 24,680. The ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-trend-likely-to-remain-weak-could-test-24500-level-if-it-breaks-falling-trendline-support-on-closing-basis-12846949.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "21 Oct 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights: Nifty flashes warning sign, support ...",
+      "description": "The market has been in a broader high-low range for the last few weeks. Stock Market Highlights: Nifty flashes warning sign, support at 24,500; how to trade.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-21-october-2024/liveblog/114409472.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "21 Oct 2024",
+      "rank": 7
+    },
+    {
+      "title": "NIFTY CAPITAL MARKETS INDEX FUND",
+      "description": "The fund is ideal for those investors who would like to invest in passively managed fund investing in a portfolio of companies forming part of the Nifty.",
+      "link": "https://betacms.tatamutualfund.com/system/files/2024-10/Tata%20Nifty%20Capital%20Markets%20Index%20Fund-KIM.pdf",
+      "display_link": "https://betacms.tatamutualfund.com › system › files",
+      "date": "21 Oct 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty may consolidate after declining for three weeks, says Ajit ...",
+      "description": "Technically, Nifty may see some consolidation following three weeks of declines, but the outlook is likely to stay negative unless it decisively reclaims ...",
+      "link": "https://www.financialexpress.com/market/cafeinvest-nifty-may-consolidate-after-declining-for-three-weeks-says-ajit-mishra-of-religare-broking-3645790/",
+      "display_link": "https://www.financialexpress.com › market › cafeinvest",
+      "date": "21 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex drop on profit booking ...",
+      "description": "The Nifty 50 wrapped up the session with a drop of 0.29%, closing at 24781, while the Sensex finished the trading day down by 0.09%, closing at 81151.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-drop-on-profit-booking-mid-and-smallcaps-bleed-11729504164498.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "21 Oct 2024",
+      "rank": 19
+    }
+  ]
+}

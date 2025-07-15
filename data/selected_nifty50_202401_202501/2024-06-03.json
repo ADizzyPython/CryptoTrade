@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-04 after:2024-06-03 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.35,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:52:19.857789Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 PE 24750",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-24750-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "3 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex hit all-time highs. Exit ...",
+      "description": "The Nifty 50 opened 807 points higher at 23,337.90 against its previous close of 22,530.70. ... The Nifty 50 closed at 23,263.90, up 733 points, or 3.25 per cent.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-soar-to-record-highs-amid-forecasted-bjp-led-nda-election-triumph-11717385818116.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "3 Jun 2024",
+      "rank": 7
+    },
+    {
+      "title": "Taking Stock: Sensex, Nifty see highest single-day gain in ...",
+      "description": "Nifty Bank index also touched fresh record high of 51,133.20 on an intraday basis. Biggest gainers on the Nifty included Adani Ports, NTPC, SBI, Power Grid Corp ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/taking-stock-market-cheers-exit-poll-outcome-sensex-nifty-close-at-record-highs-12739486.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "3 Jun 2024",
+      "rank": 8
+    },
+    {
+      "title": "Tech View: Will Nifty hit 24000 on election result day ...",
+      "description": "Nifty surged 733 points; analysts foresee a potential crossing of 24000 if election results favor. Bulls dominate the market, eyeing 23500 resistance.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-will-nifty-hit-24000-on-election-result-day-heres-how-to-trade-on-d-day/articleshow/110667001.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "3 Jun 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty Bank hits 50000 mark for the first time ever",
+      "description": "Nifty Bank hits record high: Nifty Bank index soared as much as 4.09 percent to hit an all time high of 50,990 on Monday. However, the index is now trading off ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-bank-hits-50-000-mark-for-the-first-time-ever-check-key-reason-124060300193_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "3 Jun 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 24800",
+      "description": "NIFTY Expires 31 Jul; ₹ 25172 -51.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-24800-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "3 Jun 2024",
+      "rank": 14
+    },
+    {
+      "title": "Sensex, Nifty hit record highs on expectation of Modi 3.0",
+      "description": "The Sensex surged by 1859.88 points, opening at a record 75,821.19, while Nifty jumped 603.85 points, starting the day at 23,134.55. Notably, all 50 companies ...",
+      "link": "https://ddnews.gov.in/en/sensex-nifty-hit-record-highs-on-expectation-of-modi-3-0/",
+      "display_link": "https://ddnews.gov.in › sensex-nifty-hit-record-highs-o...",
+      "date": "3 Jun 2024",
+      "rank": 15
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 record biggest single ...",
+      "description": "The Nifty 50 closed at 23,263.90, up 733 points, or 3.25 per cent. In percentage terms, it was the biggest single-day gain for both the Sensex and Nifty 50 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-at-record-closing-highs-investors-earn-nearly-14-lakh-crore-in-a-day-11717408005908.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "3 Jun 2024",
+      "rank": 19
+    }
+  ]
+}

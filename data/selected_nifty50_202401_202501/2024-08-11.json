@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-12 after:2024-08-11 \"nifty\"",
+    "results_cnt": 354000,
+    "search_time": 0.47,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:04:57.737983Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty's close above 24500 could signal bullish reversal, bet ...",
+      "description": "Given the current price action, an upside breakout seems more likely, suggesting that a move above 24,500 could pave the way for further gains in the Nifty 50.",
+      "link": "https://www.moneycontrol.com/news/business/markets/niftys-close-above-24500-could-signal-bullish-reversal-bet-on-these-3-stocks-for-healthy-return-in-short-term-says-jigar-patel-12793139.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "11 Aug 2024",
+      "rank": 2
+    },
+    {
+      "title": "Technical outlook: Short-term trends in the Nifty 50",
+      "description": "Here is the daily chart of the Nifty 50 index. The price recently has breached the prior swing low at 24,074 which is an early sign of weakness. After several ...",
+      "link": "https://primeinvestor.in/reports/technical-outlook-short-term-trends-nifty-50-3/",
+      "display_link": "https://primeinvestor.in › Markets",
+      "date": "11 Aug 2024",
+      "rank": 4
+    }
+  ]
+}

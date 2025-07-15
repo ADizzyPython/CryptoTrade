@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-21 after:2024-08-20 \"nifty\"",
+    "results_cnt": 321000,
+    "search_time": 0.3,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:06:45.520794Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 52 Week Low",
+      "description": "Discover the latest insights on Nifty 50 52 week low performance at BlinkX. Analyze stock trends, historical data, and investment opportunities for Nifty 50 ...",
+      "link": "https://blinkx.in/insights/52-week-low-stocks/nifty-50",
+      "display_link": "https://blinkx.in › Insights › 52 Week Low Stocks",
+      "date": "Aug 20, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market Highlights: Nifty bulls eyeing 25000, hurdle at ...",
+      "description": "Nifty ended Tuesday's trading session with a gain of 126 points to end near the 24,700-level and form a small positive candle with minor upper shadow on the ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-20-august-2024/liveblog/112639585.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Aug 20, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 September rejig: Bharat Electronics, Trent likely to ...",
+      "description": "Defence PSU stock Bharat Electronics and Tata Group company Trent are expected to enter the NSE's benchmark Nifty 50 index in its September reshuffle.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-september-rejig-bharat-electronics-trent-likely-to-replace-ltimindtree-divi-s-labs-in-50-stock-index-11724142638206.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Aug 20, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Sensex gains 280 pts, Nifty at 24700; financials rally",
+      "description": "Market Close | Sensex gains 378 points, Nifty at 24700. Indian benchmark indices ended higher on August 20 with Nifty above 24,650. The Sensex was up 378.18 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-20-08-2024-liveblog-12801413.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Aug 20, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty IT index rallies over 8% in last seven sessions. ...",
+      "description": "The Nifty IT Index has surged 32% last year, with the recent outperformance driven largely by a healthy first quarter, especially from Tier-1 IT companies.",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-it-index-rallies-over-8-in-last-seven-sessions-analysts-maintain-bullish-outlook/articleshow/112651810.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Aug 20, 2024",
+      "rank": 7
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-03 after:2024-12-02 \"nifty\"",
+    "results_cnt": 640000,
+    "search_time": 0.3,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:22:45.247925Z"
+  },
+  "organic": [
+    {
+      "title": "Avenue Supermarts Limited Share Price Today, Stock ...",
+      "description": "NSE - NIFTY 50. 25,193.15. 110.85 (0.44%). 15-Jul-2025 13:54. Streaming ... NIFTY NEXT 50. Basic Industry, Diversified Retail. Dashboard; Announcements ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=DMART",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "Dec 2, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty can fall towards 22000-22500 level, which is a fair ...",
+      "description": "Nifty can fall towards 22,000-22,500 level, which is a fair value for markets: Pankaj Murarka. Pankaj Murarka, Founder, Renaissance Investment Manager, says ...",
+      "link": "https://www.moneycontrol.com/news/business/personal-finance/nifty-can-fall-towards-22000-22500-level-which-is-a-fair-value-for-markets-pankaj-murarka-12880592.html",
+      "display_link": "https://www.moneycontrol.com › personal-finance › nif...",
+      "date": "Dec 2, 2024",
+      "rank": 4
+    },
+    {
+      "title": "ETERNAL LIMITED Share Price Today, Stock Price ...",
+      "description": "NSE - NIFTY 50. 25,216.05. 133.75 (0.53%). 15-Jul-2025 15:28. Streaming.",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=ETERNAL",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "Dec 2, 2024",
+      "rank": 6
+    },
+    {
+      "title": "nifty outlook: Tech setups hint Nifty could aim at 25000",
+      "description": "The Nifty index is expected to consolidate within the 23800 to 24400 range, with potential upside towards 25000. Strong support is noted at 23800.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-setups-hint-nifty-could-aim-at-25000/articleshow/115880855.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 2, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 stage smart rebound ...",
+      "description": "The Nifty 50 ended the session with a gain of 0.60 per cent, ending at 24,276 points, while the Sensex closed at 80,248 points, up 0.54 per cent compared to the ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-stage-smart-rebound-jump-0-6-cement-realty-stocks-lead-gainers-11733131972740.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 2, 2024",
+      "rank": 10
+    },
+    {
+      "title": "GIFT Nifty points to negative opening | Capital Market News",
+      "description": "The GIFT Nifty December futures contract is trading 70.50 points lower, indicating a negative opening for the Nifty 50. Institutional Flows: Foreign portfolio ...",
+      "link": "https://www.business-standard.com/markets/capital-market-news/gift-nifty-points-to-negative-opening-124120200116_1.html",
+      "display_link": "https://www.business-standard.com › markets › gift-nift...",
+      "date": "Dec 2, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Sensex, Nifty fall as lower GDP numbers weigh on investor ...",
+      "description": "The Nifty 50 opened with a modest gain of 9 points at 24,140, while the Sensex dropped 58 points, starting at 79,743.87. By 9:42 am, the Sensex had declined ...",
+      "link": "https://ddnews.gov.in/en/sensex-nifty-fall-as-lower-gdp-numbers-weigh-on-investor-sentiment/",
+      "display_link": "https://ddnews.gov.in › sensex-nifty-fall-as-lower-gdp-...",
+      "date": "Dec 2, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Sensex, Nifty decline in early trade amid disappointing ...",
+      "description": "The BSE benchmark Sensex tanked 493.84 points to 79,308.95 in early trade. The NSE Nifty declined 122.45 points to 24,008.65. From the 30-share Sensex pack, ...",
+      "link": "https://indianexpress.com/article/business/market/sensex-nifty-fifty-decline-early-trade-9701592/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "Dec 2, 2024",
+      "rank": 19
+    },
+    {
+      "title": "Markets gain as FPI selloff eases; Sensex and Nifty end 0.6 ...",
+      "description": "Markets gain as FPI selloff eases; Sensex and Nifty end 0.6% higher ... The Nifty 50 index closed at 24,276, rising 145 points, or 0.6 per cent. The ...",
+      "link": "https://www.business-standard.com/markets/news/markets-gain-as-fpi-selloff-eases-sensex-and-nifty-end-0-6-higher-124120201105_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Dec 2, 2024",
+      "rank": 20
+    }
+  ]
+}

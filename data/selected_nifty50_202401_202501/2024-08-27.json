@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-28 after:2024-08-27 \"nifty\"",
+    "results_cnt": 319000,
+    "search_time": 0.33,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T16:07:44.444083Z"
+  },
+  "organic": [
+    {
+      "title": "Investigating the relationship between Nifty and selected ...",
+      "description": "The benchmark Nifty 50 index represents over 60% of the free float of stock market capitalization on the National Stock. Exchange (NSE) of India and is widely ...",
+      "link": "https://papers.ssrn.com/sol3/Delivery.cfm/4938715.pdf?abstractid=4938715&mirid=1",
+      "display_link": "https://papers.ssrn.com › sol3 › Delivery.cfm",
+      "date": "Aug 27, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Indian stock market: Nifty 50 near record high; is it time to ...",
+      "description": "Nifty 50 is close to its all-time high, with experts debating whether to buy or lock in profits. High valuations and geopolitical tensions weigh on sentiment.",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-nifty-50-near-record-high-is-it-time-to-buy-more-or-book-some-profit-5-experts-weigh-in-11724743008417.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Aug 27, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty end flat as energy, consumer stocks weigh in ...",
+      "description": "In Short. Stock indices ended nearly unchanged; Nifty closed with Doji pattern, indecisive sentiment; Zee shares surged 11.49% on settlement agreement.",
+      "link": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-end-flat-as-energy-consumer-stocks-weigh-in-on-gain-in-financial-2588696-2024-08-27",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Aug 27, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex, Nifty, Share Prices Highlights - market",
+      "description": "The NSE Nifty 50 gained 7.15 points or 0.03% to settle at 25,017.75, while the BSE Sensex jumped 13.65 points or 0.02% to 81,711.76. The broader indices ended ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-nifty-50-bse-sensex-latest-news-27-aug-2024-3593164/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Aug 27, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex end flat",
+      "description": "Stock market today: The Nifty 50 closed just 7 points up at 25017.75, while the Sensex ended 14 points up at 81711.76.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-end-flat-mid-smallcaps-outperform-11724752654401.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Aug 27, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 50 Eyes New Record Despite Sluggish Wall Street Cues",
+      "description": "Nifty futures signal another dull day for traders in Mumbai, with Asian markets seeing weakness ahead of the Nvidia earnings. The Nifty is eyeing a 10th ...",
+      "link": "https://www.bloomberg.com/news/articles/2024-08-28/india-market-buzz-global-funds-flock-to-new-share-offerings",
+      "display_link": "https://www.bloomberg.com › news › articles › india-ma...",
+      "date": "Aug 27, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock Market Highlights, Aug 27: Sensex, Nifty end flat",
+      "description": "Stock Market LIVE Updates: Sensex in green, Nifty continues to hold 25,000. The benchmarks BSE Sensex and Nifty50 were trading higher at 3:00 PM. The BSE Sensex ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-gift-nifty-ipo-listing-today-124082700062_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Aug 27, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Nifty Nears Record High To Notch Best Rally In Over 16 ...",
+      "description": "The Nifty 50 index was about 10 points shy of hitting a fresh record high as of 11:55 a.m., after reclaiming the 25,000 level in the previous session.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-nears-record-high-to-notch-best-rally-in-over-16-months-midday-market-update",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Aug 27, 2024",
+      "rank": 18
+    }
+  ]
+}

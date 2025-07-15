@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-10 after:2024-10-09 \"nifty\"",
+    "results_cnt": 339000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:14:19.501231Z"
+  },
+  "organic": [
+    {
+      "title": "ITC, HUL, Airtel among 5 Nifty stocks to avoid as market ...",
+      "description": "The NSE Nifty 50 index has gained 2 per cent from its recent low of 24,700-odd levels. The recent gains are seen as a pullback as the Nifty had plunged over ...",
+      "link": "https://www.business-standard.com/markets/news/itc-hul-airtel-among-5-nifty-stocks-to-avoid-as-the-market-bounces-back-124100900489_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "9 Oct 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty, Sensex Off Day's High As Initial Reaction To MPC ...",
+      "description": "As of 12:23 p.m., the Nifty 50 was trading 100.50 points, or 0.40%, higher at 25,113.65, and the Sensex gained 268.66 points, or 0.33%, to trade at 81,903.47.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-sensex-pare-gains-as-initial-reaction-to-mpc-meet-outcome-fades-midday",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "9 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Sensex sheds 167pts, Nifty nears 25k; RBI MPC holds ...",
+      "description": "Nifty Outlook: 'Drop below 24,940 could trigger a correction till 24,700'. On the hourly chart, the index closed just above the 20-DMA, indicating that the very ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-gift-nifty-nse-bse-oct-9-ril-tata-motor-rbi-meeting-today-124100900084_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "9 Oct 2024",
+      "rank": 15
+    },
+    {
+      "title": "Trade Setup for October 9: Will Nifty bulls use this rebound ...",
+      "description": "The fact that the Nifty closed above 25000 and near the highest point of the day will give the bulls some confidence.",
+      "link": "https://www.cnbctv18.com/market/trade-setup-october-9-nifty-50-key-levels-rbi-policy-nifty-bank-expiry-drl-vedanta-irfc-ola-share-price-19489495.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "9 Oct 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock Market Highlights: Nifty faces resistance at ...",
+      "description": "After the headline equity index Nifty dropped 1,420 points in just six trading sessions, the 5.5% correction was significant enough to reignite concerns about a ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-9-october-2024/liveblog/114062355.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "9 Oct 2024",
+      "rank": 19
+    }
+  ]
+}

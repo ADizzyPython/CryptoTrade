@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-18 after:2024-02-17 \"nifty\"",
+    "results_cnt": 10,
+    "search_time": 0.34,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:35:11.383743Z"
+  },
+  "organic": [
+    {
+      "title": "Bhatia Communications & Retail (India) Ltd",
+      "description": "Nifty (-0.47%). 25355.25-120.85 · Nifty Midcap (-0.30%). 59159.95-179.65 · Nifty Smallcap (-0.39%). 9156.50-36.00 · Nifty Bank (-0.45%). 56956.00-257.55 · Nifty ...",
+      "link": "https://www.business-standard.com/markets/bhatia-communications-retail-india-ltd-share-price-72078/announcements/bse-exchange-41735741",
+      "display_link": "https://www.business-standard.com › announcements",
+      "date": "Feb 17, 2024",
+      "rank": 8
+    }
+  ]
+}

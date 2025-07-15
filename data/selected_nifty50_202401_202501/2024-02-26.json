@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-27 after:2024-02-26 \"nifty\"",
+    "results_cnt": 318000,
+    "search_time": 0.3,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:37:12.884094Z"
+  },
+  "organic": [
+    {
+      "title": "What are indices? Sensex and Nifty meaning",
+      "description": "Considered a benchmark index for the Indian stock market. Nifty (National Stock Exchange Fifty). Introduced in 1992 by the National Stock Exchange (NSE) ...",
+      "link": "https://www.venturasecurities.com/blog/what-are-indices-sensex-and-nifty-meaning/",
+      "display_link": "https://www.venturasecurities.com › blog › what-are-indi...",
+      "date": "26 Feb 2024",
+      "rank": 2
+    },
+    {
+      "title": "Gift Nifty Bank Futures Quotes",
+      "description": "Gift Nifty Bank Futures News & Analysis. Summarize GNFc1's latest news. Asia ... SBI Nifty Bank. 579.80, +0.06%, 9.2K, 579.80+0.06%, 15:29:59. SBIF. SBI Nifty ...",
+      "link": "https://in.investing.com/indices/gift-nifty-bank-c1-futures",
+      "display_link": "https://in.investing.com › indices › gift-nifty-bank-c1-f...",
+      "date": "26 Feb 2024",
+      "rank": 3
+    },
+    {
+      "title": "5 Stocks to lookout for in the Nifty Metal",
+      "description": "In this blog, we delve into the Nifty Metal Index, offering insights into the performance of metal-related companies in the Indian stock market.",
+      "link": "http://geplcapital.com/knowledge-centers/blog-article/5-stocks-to-lookout-for-in-the-nifty-metal",
+      "display_link": "http://geplcapital.com › knowledge-centers › blog-article",
+      "date": "26 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Fund Facts - HDFC NIFTY 50 Index Fund_Feb 24",
+      "description": "What is the NIFTY 50 Index? The NIFTY 50 comprises 50 large and liquid blue-chip stocks across multiple sectors. It is one of the most widely used benchmarks ...",
+      "link": "https://files.hdfcfund.com/s3fs-public/Others/2024-02/Fund%20Facts%20-%20HDFC%20NIFTY%2050%20Index%20Fund_Feb%2024.pdf",
+      "display_link": "https://files.hdfcfund.com › Others › Fund Facts - ...",
+      "date": "26 Feb 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50 Weightage Stocks List 2025",
+      "description": "The Nifty 50 is the most observed index of the Indian stock market. It is a barometer for market performance in India. For investors in Indian stocks, ...",
+      "link": "https://getmoneyrich.com/nifty-weightage-stocks-list/",
+      "display_link": "https://getmoneyrich.com › nifty-weightage-stocks-list",
+      "date": "26 Feb 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty below 22150, Sensex down 353 pts; IT, metals top drag",
+      "description": "The Nifty opened on a weak note and drifted lower during the day. It closed in the red down ~90 points. On the daily charts we can observe that the Nifty has ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-26-02-2024-liveblog-12347491.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "26 Feb 2024",
+      "rank": 14
+    },
+    {
+      "title": "Share Market LIVE: GIFT Nifty indicated a lacklustre start for ...",
+      "description": "Share Market Highlights: Sensex, Nifty ends lower today! Nifty settles below 22,100, Sensex near 72,800; IT and Metal stocks top draggers. Share Market News ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-lacklustre-gift-nifty-up-asian-markets-trade-mixed-february-26-2024-monday-3404866/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "26 Feb 2024",
+      "rank": 17
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-30 after:2024-08-29 \"nifty\"",
+    "results_cnt": 360000,
+    "search_time": 0.27,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:08:02.452469Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 CE 26900",
+      "description": "Nifty Option Chain; Nifty 26900 Ce. Nifty 17 JUL 2025 CE 26900. Nifty 17 JUL 2025 CE 26900. ₹ 0.9. -0.20 (-18.18%). Expiry: Jul 17 2025, Expiry: Jul 24 2025 ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26900-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Aug 29, 2024",
+      "rank": 1
+    },
+    {
+      "title": "ABSL Nifty India Defence Index Fund",
+      "description": "Aditya Birla Sun Life Nifty India Defence Index Fund is an open-ended Index Fund replicating the Nifty India Defence Total Return Index.",
+      "link": "https://mutualfund.adityabirlacapital.com/products/wealth-creation-solutions/aditya-birla-sun-life-nifty-india-defence-index-fund",
+      "display_link": "https://mutualfund.adityabirlacapital.com › products › ad...",
+      "date": "Aug 29, 2024",
+      "rank": 3
+    },
+    {
+      "title": "NIFTY 29Aug2024",
+      "description": "Live NSE / BSE Quotes, Live Nifty Quotes, Live Futures, snapshot, chart, Interest Analysis and more. Get detailed current market stats information on Indian ...",
+      "link": "https://m.moneycontrol.com/india/indexfutures/nifty/9/2024-08-29",
+      "display_link": "https://m.moneycontrol.com › india › indexfutures › ni...",
+      "date": "Aug 29, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 50 futures 15-minute Buildup Details for expiry 29 Aug ...",
+      "description": "Nifty 50 futures 15-minute Buildup Details for expiry 29 Aug, 2024. View 15-minute interval data on Short Build-ups, Long Build-ups, Long Unwinding, and Short ...",
+      "link": "https://trendlyne.com/futures-options/derivative/buildup-15-minutes/29-aug-2024-next/1887/NIFTY/nifty-50/",
+      "display_link": "https://trendlyne.com › derivative › 29-aug-2024-next",
+      "date": "Aug 29, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Technical View: Nifty could eye 25300 as long as it ...",
+      "description": "Experts suggest that the Nifty 50 may continue its upward journey toward the 25,300-25,500 range, with immediate support levels at 25,000-24,950 and 24,800.",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-could-eye-25300-as-long-as-it-defends-psychological-level-of-25000-12809977.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Aug 29, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 hit record highs led by ...",
+      "description": "The Nifty 50 settled at 25,151.95, up 100 points, or 0.40 per cent. Both indices ended at their fresh closing highs. The BSE Midcap index slipped 0.27 per cent ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-hit-record-highs-led-by-reliance-tata-motors-itc-mid-smallcaps-falter-11724924823647.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Aug 29, 2024",
+      "rank": 14
+    }
+  ]
+}

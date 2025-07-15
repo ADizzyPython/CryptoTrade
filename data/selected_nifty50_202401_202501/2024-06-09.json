@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-10 after:2024-06-09 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.3,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:12.061719Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 CE 25050",
+      "description": "Nifty Option Chain; Nifty 25050 Ce. Nifty 17 JUL 2025 CE 25050. Nifty 17 JUL 2025 CE 25050. ₹ 143.8. -62.85 (-30.41%). Expiry: Jul 17 2025, Expiry: Jul 24 ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25050-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jun 9, 2024",
+      "rank": 2
+    }
+  ]
+}

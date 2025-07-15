@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-22 after:2024-11-21 \"nifty\"",
+    "results_cnt": 596000,
+    "search_time": 0.39,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:21:08.426290Z"
+  },
+  "organic": [
+    {
+      "title": "Goldman Sachs sees Nifty climbing to 27000 in 2025 ...",
+      "description": "Goldman Sachs has projected a 15% recovery for Indian equity markets in 2025, with the Nifty 50 likely to reach 27,000, rebounding from its current 9.5% dip ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/goldman-sachs-sees-nifty-climbing-to-27000-in-2025-upgrades-it-to-overweight/articleshow/115531110.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "21 Nov 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open on cautious note Thursday following weakness in global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-november-21-after-maharashtra-election-2024-11732154547625.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "21 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Technical View: Nifty hits fresh 5-month low, bearish ...",
+      "description": "The Nifty 50 opened lower at 23,488 and remained under pressure throughout the session, hitting a day's low of 23,263. The index fell 169 points to 23,350, the ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-hits-fresh-5-month-low-bearish-sentiment-may-drag-benchmark-to-23200-bank-nifty-strongly-defends-200-dema-12872695.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "21 Nov 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty 50 Offers 'Reasonable' Valuations Post 10% ...",
+      "description": "Nifty corrected by 11.1% from the recent peak, while the mid-and small-cap indices corrected by over 11% and 10%, respectively. Goldman Sachs expects the market ...",
+      "link": "https://www.ndtvprofit.com/markets/indias-stock-gauge-offers-reasonable-valuations-post-10-correction-says-citi",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "21 Nov 2024",
+      "rank": 13
+    },
+    {
+      "title": "Options data hint at bearish bias for Nifty, Bank Nifty; FIIs ...",
+      "description": "F&O cues for Nov 21: Foreign investors open interest in Bank Nifty futures declined over 9 per cent as they net bought nearly 25000 contracts on Tuesday, ...",
+      "link": "https://www.business-standard.com/markets/news/options-data-hint-at-bearish-bias-for-nifty-bank-nifty-fiis-trim-shorts-124112100119_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "21 Nov 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty to hit 27000 by THIS year! Goldman Sachs' big ...",
+      "description": "Nifty 50 prediction 2025: Goldman Sachs has predicted benchmark Nifty to touch 27,000-mark by the end of 2025 driven by underlying 13%-16% earnings forecasts.",
+      "link": "https://www.etnownews.com/markets/nifty-to-hit-27000-by-this-year-goldman-sachs-big-prediction-amidst-market-volatility-bets-on-these-themes-article-115530438",
+      "display_link": "https://www.etnownews.com › markets",
+      "date": "21 Nov 2024",
+      "rank": 15
+    },
+    {
+      "title": "Market erases all gains, Nifty falls below 23300",
+      "description": "Market erases all gains, Nifty falls below 23,300. At close, the Sensex was down 422.59 points or 0.54% at 77,155.79, while the Nifty fell 168.60 points or 0.72 ...",
+      "link": "https://www.thestatesman.com/business/market-erases-all-gains-nifty-falls-below-23300-1503367402.html",
+      "display_link": "https://www.thestatesman.com › Business",
+      "date": "21 Nov 2024",
+      "rank": 18
+    },
+    {
+      "title": "Nifty, Sensex Resume Decline A Day After Snapping ...",
+      "description": "The NSE Nifty 50 and the BSE Sensex closed at the lowest level in over five months on Thursday. The Nifty 50 ended 168.60 points or 0.72% down at 23,349.90, and ...",
+      "link": "https://www.ndtvprofit.com/markets/nifty-sensex-decline-global-tensions-russia-ukraine-adani-allegations",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "21 Nov 2024",
+      "rank": 20
+    }
+  ]
+}

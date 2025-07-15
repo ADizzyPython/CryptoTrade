@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-15 after:2024-10-14 \"nifty\"",
+    "results_cnt": 328000,
+    "search_time": 0.3,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:01.673256Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY 500 Momentum 50 INDEX",
+      "description": "The Nifty 500 Momentum 50 Index is an index devised by the National Stock Exchange (NSE), India. The objective of the index is to track the performance of 50 ...",
+      "link": "https://www.hdfclife.com/investment-plans/nfo/nifty-500-momentum-50-index?srsltid=AfmBOopsyGPXsGUgsz7UcuY_zZQb_c27Mw2DxRG8OivGnj7kQ3BG4iAr",
+      "display_link": "https://www.hdfclife.com › ... › NFO (New Fund Offer)",
+      "date": "14 Oct 2024",
+      "rank": 4
+    },
+    {
+      "title": "Market Close Highlights, Oct 14: Sensex adds 591 pts, Nifty ...",
+      "description": "At 3 PM, the BSE Sensex was up 572.39 points, or 0.70 per cent, at 81,953.75, and the Nifty 50 was at 25,121.05, up 156.80 points, or 0.70 per cent. 2:21 AM ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-ril-hcl-q2-results-hyundai-ipo-124101400056_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "14 Oct 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty close in green ahead of India inflation report",
+      "description": "The Sensex and Nifty closed in the green on October 14, lifted by strong performances from bank and IT stocks. Investors are also eagerly awaiting the ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/sensex-nifty-in-green-ahead-of-india-inflation-report-banks-it-lead-gains-12841546.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "14 Oct 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty reclaims 25100, end at one week high ahead of RIL ...",
+      "description": "The Nifty 50 index gained 164 points to close at 25,128, while Sensex rose 592 points to 81,973. Nifty Bank gained 645 points to 51,817 and Midcap index rose ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-reliance-ril-earnings-wipro-dmart-sula-hal-share-price-liveblog-19492119.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "14 Oct 2024",
+      "rank": 15
+    }
+  ]
+}

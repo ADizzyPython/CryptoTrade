@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-06 after:2024-06-05 \"nifty\"",
+    "results_cnt": 386000,
+    "search_time": 0.6,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:52:37.173021Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Today Highlights: Sensex, Nifty settle 3% ...",
+      "description": "Share Market Live: Sensex, Nifty close 3% higher. Stock Market Live: Sensex closed 2,303.19 points, 3.20 per cent higher at 74,382.24 while Nifty settled 735.85 ...",
+      "link": "https://indianexpress.com/article/business/market/stock-market-today-live-updates-gift-nifty-bse-sensex-nse-nifty-50-9372906/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "5 June 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50 are expected to open higher on Wednesday amid short-covering after a sharp fall in the previous ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-june-5-after-lok-sabha-election-results-2024-11717553622699.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "5 June 2024",
+      "rank": 5
+    },
+    {
+      "title": "Will be worried only if Nifty goes below 21000: Atul Suri",
+      "description": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.",
+      "link": "https://m.economictimes.com/markets/expert-view/will-be-worried-only-if-nifty-goes-below-21000-atul-suri/articleshow/110728029.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "5 June 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock Market Highlights | Nifty 50 reclaims ...",
+      "description": "Nifty reclaimed 22,600 as the market witnessed broad-based gains with indices rising in the range of 2-6%. The midcap index recorded its biggest-ever intra-day ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-psu-bank-rec-pfc-bhel-share-price-liveblog-19423796.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "5 June 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex and Nifty Crash Amid Election Results 2024",
+      "description": "Sensex and Nifty plummet as 2024 election results reveal unexpected political developments. Market volatility rises, analysts urge caution.",
+      "link": "https://www.bajajbroking.in/blog/stock-market-crash-and-election-results-2024-updates",
+      "display_link": "https://www.bajajbroking.in › Blogs Overview › News",
+      "date": "5 June 2024",
+      "rank": 10
+    },
+    {
+      "title": "Will Nifty see further free fall or stop profit booking on ...",
+      "description": "Previously, on Tuesday, the NSE Nifty 50 dropped 1,379 points or 5.93% to finish at 21,884.50, while the BSE Sensex slumped 4,389.73 points or 5.74% to finish ...",
+      "link": "https://www.financialexpress.com/market/will-nifty-see-further-free-fall-or-stop-profit-booking-on-wednesday-see-gift-nifty-fii-data-fampo-crude-and-more-before-market-opens-3514775/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "5 June 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty stage a sharp recovery; where is the market ...",
+      "description": "Sensex ended at 74,382, rising 2303 points and Nifty gained 736 points to a high of 22,620. All Sensex stocks ended in the green. IndusInd Bank, Tata Steel, ...",
+      "link": "https://www.businesstoday.in/markets/market-commentary/story/sensex-nifty-rise-market-outlook-indusind-bank-tata-steel-bajaj-finance-kotak-bank-axis-bank-432250-2024-06-05",
+      "display_link": "https://www.businesstoday.in › ... › Market Commentary",
+      "date": "5 June 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex, Nifty surge over 3%, analysts advice investors to ...",
+      "description": "BSE Sensex ended up 3.20 per cent or 2303.19 points to close at 74382.24, while Nifty 50 settled 3.36 per cent or 735.85 points higher at 22620.35.",
+      "link": "https://www.firstpost.com/business/stock-market-today-sensex-nifty-end-3-per-cent-higher-13779140.html",
+      "display_link": "https://www.firstpost.com › Business",
+      "date": "5 June 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock Market Highlights: Sensex closes 4000 pts lower ...",
+      "description": "Share Market Live: Broader markets has tanked in line with Sensex and Nifty 50. Nifty Midcap 100 has tanked 6000 pts with Nifty Smallcap 100 down 2,078.45.",
+      "link": "https://indianexpress.com/article/business/market/india-election-results-share-market-live-updates-stock-market-today-9369126/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "5 June 2024",
+      "rank": 20
+    }
+  ]
+}

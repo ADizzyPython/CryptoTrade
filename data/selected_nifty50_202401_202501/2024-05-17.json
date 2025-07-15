@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-18 after:2024-05-17 \"nifty\"",
+    "results_cnt": 1380000,
+    "search_time": 0.22,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:49:44.111023Z"
+  },
+  "organic": [
+    {
+      "title": "Introduction to NIFTY | PPTX",
+      "description": "NIFTY basically means the index of the 50 most actively traded stocks from across all sectors. • NIFTY represents the top stocks of the NSE and when we talk ...",
+      "link": "https://www.slideshare.net/slideshow/introduction-to-nifty/88473070",
+      "display_link": "https://www.slideshare.net › Business",
+      "date": "May 17, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY Options Maxpain",
+      "description": "Gann Square of 9 - NIFTY. Buy if: 22425.06. Target - 22462.52. SL - 22398.83. Sell if: 22462.52. Target - 22425.06. SL - 22488.75.",
+      "link": "https://unofficed.com/leverage/nifty-options-maxpain/",
+      "display_link": "https://unofficed.com › Leverage",
+      "date": "May 17, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock market trading guide for today: Nifty, Go Digit IPO ...",
+      "description": "After yesterday's extreme volatile session, the Nifty is likely to open marginally lower this morning as global mood seems tepid. At 07:00 AM, Gift Nifty ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-trading-guide-for-today-nifty-go-digit-ipo-dow-jones-124051700058_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "May 17, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Indian blue-chips post best week in over 3 months led by ...",
+      "description": "At close of trade on Friday, the blue-chip Nifty was up 0.28% to 22,466.10, while the Sensex rose 0.34% to 73,917.03. Volatility in markets hovered around 19- ...",
+      "link": "https://www.reuters.com/world/india/indian-shares-open-muted-global-stocks-rally-loses-steam-2024-05-17/",
+      "display_link": "https://www.reuters.com › world › india › indian-shares...",
+      "date": "May 17, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Gift Nifty indicates a flat start for the Indian stock indices",
+      "description": "Gift Nifty was trading around the 22,477 level, a premium of nearly 20 points from the Nifty futures' previous close, indicating a flat-to-positive start ...",
+      "link": "https://flattrade.in/kosh/gift-nifty-indicates-a-flat-start-for-the-indian-stock-indices-the-us-markets-ended-lower-the-asian-markets-traded-also-lower-tracking-the-wall-street/",
+      "display_link": "https://flattrade.in › Flattrade Kosh › Morninger",
+      "date": "May 17, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty, Sensex Register Best Week In Over Three Months",
+      "description": "Stock Market Today: Nifty, Sensex Register Best Week In Over Three Months. The Nifty ended higher by 60.95 points or 0.27% at 22,464.80 while the Sensex gained ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-nse-bse-sensex-nifty-50-biocon-vodafone-idea-jsw-steel-zydus-lifesciences-share-prices-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "May 17, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Highlight: Makrets end higher! Nifty above ...",
+      "description": "The BSE Sensex rose 253.31 points or 0.34% to finish the day's trading at 73,917.03, while the NSE Nifty 50 closed 62.25 points or 0.28% higher at 22,466.10.",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-trade-mixed-may-17-2024-friday-3491257/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "May 17, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty IT rangebound, FMCG bullish in near term",
+      "description": "The Nifty IT Index is currently consolidating between 34,000 and 33,000 following a sharp correction, suggesting a range-bound movement in the near term. Given ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-rangebound-fmcg-bullish-in-near-term-here-s-how-to-trade-124051700066_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "May 17, 2024",
+      "rank": 20
+    }
+  ]
+}

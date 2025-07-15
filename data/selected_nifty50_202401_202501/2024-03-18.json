@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-19 after:2024-03-18 \"nifty\"",
+    "results_cnt": 3610000,
+    "search_time": 0.54,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:40:35.777728Z"
+  },
+  "organic": [
+    {
+      "title": "Closing Bell: Nifty around 22050, Sensex up 105 pts",
+      "description": "At close, the Sensex was up 104.99 points or 0.14 percent at 72,748.42, and the Nifty was up 32.40 points or 0.15 percent at 22,055.70. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-18-03-2024-liveblog-12477231.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 18, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Midcap 100 slips over 100 points - Market News",
+      "description": "The NSE Nifty 50 closed 32.35 points or 0.15% higher to settle at 22,055.70, while the BSE Sensex gained over 100 points or 0.14% to settle at 72,748.42.",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-negative-gift-nifty-up-asian-markets-trade-mixed-march-18-2024-monday-3428011/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Mar 18, 2024",
+      "rank": 6
+    },
+    {
+      "title": "What is Index rebalancing? Why and how is it done ...",
+      "description": "For example, Nifty Next 50 saw five stocks getting removed - ACC, Nykaa, HDFC AMC, Indus Tower, and Page Industries. The companies that replaced them were PNB, ...",
+      "link": "https://www.icicidirect.com/research/equity/finace/what-is-index-rebalancing-why-and-how-is-it-done-and-what-is-its-impact-on-the-stock-market",
+      "display_link": "https://www.icicidirect.com › research › equity › finace",
+      "date": "Mar 18, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Share Market Highlights 18th March 2024: Sensex, Nifty ...",
+      "description": "Benchmark equity indices Sensex and Nifty closed marginally higher in a volatile trade on Monday as cautious investors preferred to remain on the sidelines.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-18-march-2024/article67960999.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Mar 18, 2024",
+      "rank": 16
+    }
+  ]
+}

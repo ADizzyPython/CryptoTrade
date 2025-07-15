@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-05 after:2024-04-04 \"nifty\"",
+    "results_cnt": 3180000,
+    "search_time": 0.53,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:43:01.526406Z"
+  },
+  "organic": [
+    {
+      "title": "Today Midcap Nifty Index Chart live, patterns",
+      "description": "The Nifty Midcap Index tracks the performance of mid-cap companies, offering a benchmark for investors interested in the mid-sized sector of the market.",
+      "link": "https://algotest.in/midcapnifty-index-chart",
+      "display_link": "https://algotest.in › midcapnifty-index-chart",
+      "date": "4 Apr 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market LIVE : Get BSE, NSE, Nifty & many more ...",
+      "description": "Explore the complete list of stocks. Get live prices, analysis, and market insights. Make informed investment choices with Kotak Securities.",
+      "link": "https://www.kotaksecurities.com/stocks/",
+      "display_link": "https://www.kotaksecurities.com › stocks",
+      "date": "4 Apr 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 to approach 23400 by General Elections 2024 ...",
+      "description": "Nifty 50 is expected to rally towards 23,400 by June 2024 driven by BFSI, auto, capital goods, and metal sectors. Midcaps' correction offers attractive risk- ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-to-approach-23-400-by-general-elections-2024-outcome-in-june-as-seasonal-correction-matures-says-icici-direct-11712219030578.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Apr 2024",
+      "rank": 4
+    },
+    {
+      "title": "Smart beta indices beat Nifty fair and square in FY24",
+      "description": "Smart beta indices beat Nifty fair and square in FY24. Out of 24 such indices on the NSE, 23 were able to outperform the Nifty in terms of returns.",
+      "link": "https://www.moneycontrol.com/news/business/markets/smart-beta-indices-beat-nifty-fair-and-square-in-fy24-12576401.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "4 Apr 2024",
+      "rank": 6
+    },
+    {
+      "title": "Introduction of four new Indices in F&O segment",
+      "description": "The Nifty Tata Group 25% Cap Index consists of 10 companies and is based on free float market capitalisation method. the weightage of the index constituent ( ...",
+      "link": "https://zerodha.com/marketintel/bulletin/376510/introduction-of-four-new-indices-in-fo-segment",
+      "display_link": "https://zerodha.com › marketintel › bulletin › introductio...",
+      "date": "4 Apr 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty has tripled from its March 24, 2020 low of ...",
+      "description": "The Nifty 50 fell to a low of 7,511 on March 24, 2020. Four years later, it is 3x from those levels. That low was made a day after the nation went into a ...",
+      "link": "https://www.cnbctv18.com/market/nifty-50-today-record-high-3x-from-covid-19-low-adani-tata-motors-suzlon-hindalco-shares-19218341.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "4 Apr 2024",
+      "rank": 12
+    },
+    {
+      "title": "4 New Indices Launched by NSE - Everything You Need to ...",
+      "description": "On 3rd April, 2024, the National Stock Exchange of India (NSE) announced a launch of 4 new indices viz. Nifty Tata Group 25%, Nifty MidSmall Healthcare, ...",
+      "link": "https://www.motilaloswal.com/learning-centre/2024/4/4-new-indices-launched-by-nse-everything-you-need-to-know",
+      "display_link": "https://www.motilaloswal.com › learning-centre › 4-ne...",
+      "date": "4 Apr 2024",
+      "rank": 13
+    },
+    {
+      "title": "Closing Bell: Nifty above 22500, Sensex gains 351 pts",
+      "description": "At close, the Sensex was up 350.81 points or 0.47 percent at 74,227.63, and the Nifty was up 80 points or 0.36 percent at 22,514.70. We wrap up today's edition ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-04-04-2024-liveblog-12571661.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "4 Apr 2024",
+      "rank": 15
+    },
+    {
+      "title": "Share Market Highlights 4th April 2024: Sensex, Nifty volatile",
+      "description": "As per provisional figures, NSE Nifty rose by 0.35% or 79.15 points to 22,513.80, while the BSE Sensex climbed to 74,320.88, up by 0.47% or 350.81 points.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-4-april-2024/article68024587.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "4 Apr 2024",
+      "rank": 17
+    }
+  ]
+}

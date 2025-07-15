@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-21 after:2024-05-20 \"nifty\"",
+    "results_cnt": 1380000,
+    "search_time": 0.47,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:50:13.869756Z"
+  },
+  "organic": [
+    {
+      "title": "Indian vs US Stock Market: A Comparative Analysis",
+      "description": "NIFTY 50SENSEXNIFTY BANKIndia VIXNIFTY NEXT 50NIFTY Midcap 100NIFTY Smallcap 100NIFTY MIDCAP 150NIFTY PharmaNIFTY MetalNIFTY 100NIFTY AutoKOSPI IndexHANG ...",
+      "link": "https://groww.in/blog/indian-vs-us-stock-market",
+      "display_link": "https://groww.in › Blog › stocks",
+      "date": "May 20, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Midcpnifty 31 JUL 2025 CE 12700",
+      "description": "... Nifty 50 Stock List · Indian ADRs · LIC · Tata Motors · IRFC · ITC · Tata Steel · Adani ... Nifty 50 · Bank Nifty · FINNIFTY · Nifty Midcap · India VIX · Know ...",
+      "link": "https://www.5paisa.com/derivatives/midcpnifty-option-chain/midcpnifty-12700-ce",
+      "display_link": "https://www.5paisa.com › ... › Midcpnifty option chain",
+      "date": "May 20, 2024",
+      "rank": 6
+    }
+  ]
+}

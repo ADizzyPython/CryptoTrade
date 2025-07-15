@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-15 after:2024-04-14 \"nifty\"",
+    "results_cnt": 2450000,
+    "search_time": 0.36,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:44:39.001642Z"
+  },
+  "organic": [
+    {
+      "title": "Technical outlook - Nifty 50 in the short term",
+      "description": "This scenario has played out with Nifty Next 50 being the top performer in the past few months while the mid-cap and small stocks have sort of taken a backseat.",
+      "link": "https://primeinvestor.in/reports/technical-outlook-nifty-50-in-the-short-term/",
+      "display_link": "https://primeinvestor.in › Markets",
+      "date": "Apr 14, 2024",
+      "rank": 3
+    },
+    {
+      "title": "The Prelude of GIFT Nifty: SGX Nifty rebranded... eBook",
+      "description": "GIFT Nifty is the future contract of NSE Nifty traded in dollar, which gives early indication of Indian Nifty; where it will be opened.",
+      "link": "https://www.amazon.in/Prelude-GIFT-Nifty-SGX-rebranded-ebook/dp/B0D1RM5VTG",
+      "display_link": "https://www.amazon.in › Prelude-GIFT-Nifty-SGX-rebr...",
+      "date": "Apr 14, 2024",
+      "rank": 14
+    }
+  ]
+}

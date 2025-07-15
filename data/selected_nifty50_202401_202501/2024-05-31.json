@@ -1,0 +1,118 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-01 after:2024-05-31 \"nifty\"",
+    "results_cnt": 20,
+    "search_time": 0.25,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:53.972214Z"
+  },
+  "organic": [
+    {
+      "title": "Invest in DSP Nifty Bank Index Fund Direct ‐ Today's NAV",
+      "description": "DSP Nifty Bank Index Fund is an open-ended scheme replicating/ tracking Nifty Bank Index. The index comprises of 12 most liquid and large Indian banking stocks.",
+      "link": "https://www.dspim.com/invest/mutual-fund-schemes/equity-funds/nifty-bank-index-fund/dnbif-direct-growth",
+      "display_link": "https://www.dspim.com › ... › Equity Funds",
+      "date": "May 31, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Bank ETF NFO |Baroda BNP | MF India",
+      "description": "Baroda BNP Paribas Nifty Bank ETF is an exchange traded fund investing primarily in equity and equity related securities comprising the Nifty Bank Total Returns ...",
+      "link": "https://www.barodabnpparibasmf.in/nifty-bank-etf-nfo",
+      "display_link": "https://www.barodabnpparibasmf.in › nifty-bank-etf-nfo",
+      "date": "May 31, 2024",
+      "rank": 4
+    },
+    {
+      "title": "NIFTY Financial News Headlines Dataset",
+      "description": "We introduce and make publicly available the NIFTY Financial News Headlines dataset, designed to facilitate and advance research in financial market forecasting ...",
+      "link": "https://paperswithcode.com/paper/nifty-financial-news-headlines-dataset/review/",
+      "display_link": "https://paperswithcode.com › paper › review",
+      "date": "May 31, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open higher on Friday following mixed cues from global peers.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-may-31-11717119913950.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "May 31, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nippon India Nifty 50 Value 20 Index Fund",
+      "description": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty ...",
+      "link": "https://mf.nipponindiaim.com/FundsAndPerformance/Presentation/NI-Nifty-50-Value-20-Index-Fund-May-2024.pdf",
+      "display_link": "https://mf.nipponindiaim.com › Presentation › N...",
+      "date": "May 31, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights | Sensex, Nifty 50 close with minor ...",
+      "description": "The Sensex rose by 76 points to 73,961, while the Nifty gained 42 points, closing at 22,531. The Nifty Bank index performed notably well, climbing 302 points to ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-muthoot-apollo-hospitals-bharat-dynamics-share-price-liveblog-19420795.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "May 31, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end with marginal gains",
+      "description": "At close, the Sensex was up 75.71 points or 0.10 percent at 73,961.31, and the Nifty was up 42.00 points or 0.19 percent at 22,530.70. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-gift-nifty-indicates-a-gap-up-start-us-asian-markets-gain-liveblog-12737342.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "May 31, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Lok Sabha Elections 2024 trading strategy: Is Nifty 50 set to ...",
+      "description": "Market volatility in May tied to Lok Sabha elections, is influencing Nifty 50 and Sensex performance. Exit polls and final results will shape market trends.",
+      "link": "https://www.livemint.com/market/stock-market-news/lok-sabha-elections-2024-trading-strategy-is-nifty-50-set-to-scale-new-heights-after-poll-results-motilal-oswal-11717126464894.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "May 31, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Markets end higher! Nifty at 22550, Sensex above 74000 ...",
+      "description": "The BSE Sensex rose 132.44 points or 0.18% to finish the day's trading at 74,018.04, while the NSE Nifty 50 closed 61.75 points or 0.27% higher at 22,550.40.",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-traded-positive-on-may-31-2024-friday-3507684/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "May 31, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trade Setup For May 31: Nifty Can Fall Decisively After ...",
+      "description": "The Nifty May futures were down by 0.89% to 22,627.35 at a premium of 138.7 points, with its open interest up by 48%. The Nifty Bank May futures were up by ...",
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-stock-market-today-nifty-can-fall-decisively-after-breaking-22400-support-level",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "May 31, 2024",
+      "rank": 14
+    },
+    {
+      "title": "NIFTY, SENSEX tank 2% due to poll result jitters, FII outflows",
+      "description": "SENSEX hit the 76,000 level and NIFTY breached the 23,000 mark on May 27. NSE launched a new index, Nifty EV & New Age Automotive Index, the first-ever index ...",
+      "link": "https://upstox.com/news/market-news/trading/nifty-sensex-tank-2percent-due-to-poll-result-jitters-fii-outflows/article-91792/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "May 31, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock Market Highlights, May 31: Benchmarks snap 5-day ...",
+      "description": "Stock Market Highlights on May 31: Sensex, and Nifty indices closed up to 0.19 per cent higher ahead of exit polls, Q4FY24 GDP data.",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-may-31-nifty-sensex-nse-bse-nifty50-buzzing-stock-gift-nifty-nasdaq-kospi-hsi-124053100105_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "May 31, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Nifty reclaims 22500, halts 5- ...",
+      "description": "The 30-share BSE Sensex climbed 550.22 points to 74,435.82 and the NSE Nifty went up by 147.15 points to 22,635.80. Read more. Fri, May 31, 2024, 11:25 AM ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-stocks-to-buy-nifty-50-sensex-rupee-dollar-gift-nifty-futures-293038",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "May 31, 2024",
+      "rank": 18
+    }
+  ]
+}

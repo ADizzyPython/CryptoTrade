@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-19 after:2024-02-18 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.54,
+    "language": "en-MY",
+    "country": "Malaysia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:35:22.924839Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Infra Share Price today",
+      "description": "Today Nifty Infra Share Price Performance. img. Day's Low. Day's High. 9,249. Day's Range. 9,349.8. 52 Week's Low. 52 Week's High. 7,589.95. 52-Week Range.",
+      "link": "https://www.indmoney.com/indices/nifty-infra",
+      "display_link": "https://www.indmoney.com › Indices",
+      "date": "18 Feb 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTy-PPL/NIFTy: Probabilistic programming framework for ...",
+      "description": "NIFTy, Numerical Information Field Theory, is a Bayesian imaging library. It is designed to infer the million to billion dimensional posterior distribution in ...",
+      "link": "https://github.com/NIFTy-PPL/NIFTy",
+      "display_link": "https://github.com › NIFTy-PPL › NIFTy",
+      "date": "18 Feb 2024",
+      "rank": 2
+    },
+    {
+      "title": "NSE Nifty Future Stocks",
+      "description": "NIFTY 50 index futures are financial contracts traded on the National Stock Exchange of India (NSE) that allow investors to speculate on the future value of the ...",
+      "link": "https://aliceblueonline.com/nse-nifty-future/",
+      "display_link": "https://aliceblueonline.com › Finance",
+      "date": "18 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Today Nifty Auto Share Price Performance",
+      "description": "Today Nifty Auto Share Price Performance. img. Day's Low. Day's High. 23,447.8. Day's Range. 23,598.25. 52 Week's Low. 52 Week's High. 19,316.65.",
+      "link": "https://www.indmoney.com/indices/nifty-auto",
+      "display_link": "https://www.indmoney.com › Indices",
+      "date": "18 Feb 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty and Bank Nifty Prediction for the week 19 Feb'24 to 23 ...",
+      "description": "#Nifty has an important resistance at 22,150. A break above it can take the #Nifty up to 22,500-22,700. On the other hand, a turnaround from 22,150 can take the ...",
+      "link": "https://www.thehindubusinessline.com/portfolio/portfolio-media/nifty-and-bank-nifty-prediction-for-the-week-19-feb24-to-23-feb24-by-bl-guru/article67856932.ece",
+      "display_link": "https://www.thehindubusinessline.com › article67856932",
+      "date": "18 Feb 2024",
+      "rank": 17
+    }
+  ]
+}

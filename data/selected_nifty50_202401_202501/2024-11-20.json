@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-21 after:2024-11-20 \"nifty\"",
+    "results_cnt": 543000,
+    "search_time": 0.33,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:20:59.654342Z"
+  },
+  "organic": [
+    {
+      "title": "List of NIFTY 50 stocks",
+      "description": "List of NIFTY 50 stocks. ; ADANIENT. Adani Enterprises Ltd. ₹2,558.70 ; ADANIPORTS. Adani Ports and Special Econom. ₹1,431.70 ; APOLLOHOSP. Apollo Hospitals ...",
+      "link": "https://univest.in/screeners/nifty50",
+      "display_link": "https://univest.in › screeners › nifty50",
+      "date": "Nov 20, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Why are weekly expiries no longer available for certain ...",
+      "description": "Weekly expiries for Bank Nifty, Nifty Financial Services, and Nifty Midcap Select will be discontinued. BSE: Weekly expiries will only be available for the ...",
+      "link": "https://support.zerodha.com/category/trading-and-markets/trading-faqs/f-otrading/articles/weekly-expiries-discontinued-for-certain-index-derivatives",
+      "display_link": "https://support.zerodha.com › f-otrading › articles › wee...",
+      "date": "Nov 20, 2024",
+      "rank": 10
+    }
+  ]
+}

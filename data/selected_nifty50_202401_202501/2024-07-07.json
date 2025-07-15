@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-08 after:2024-07-07 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.37,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:57:45.963748Z"
+  },
+  "organic": [
+    {
+      "title": "Tata Nifty India Tourism Index Fund Direct Growth Plan",
+      "description": "The Tata Nifty India Tourism Index Fund seeks to replicate the Nifty India Tourism Index. Portfolio Positioning and Construction. The index aims to replicate ...",
+      "link": "https://www.tatamutualfund.com/mutual-funds/tata-nifty-india-tourism-index-fund-direct-growth",
+      "display_link": "https://www.tatamutualfund.com › mutual-funds › tata-...",
+      "date": "7 Jul 2024",
+      "rank": 2
+    },
+    {
+      "title": "Chartist Talks: Sector rotation supports Nifty at higher levels",
+      "description": "Technically, as long as the Nifty 50 is trading above the psychological 24,000 mark, the index is likely to continue its upward journey towards 24,600, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/chartist-talks-sector-rotation-supports-nifty-at-higher-levels-it-pharma-railways-and-defense-to-be-in-focus-says-sudeep-shah-of-sbi-securities-12764028.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "7 Jul 2024",
+      "rank": 19
+    }
+  ]
+}

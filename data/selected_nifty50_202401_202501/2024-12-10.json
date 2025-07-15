@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-11 after:2024-12-10 \"nifty\"",
+    "results_cnt": 700000,
+    "search_time": 0.32,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:25:55.107496Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty open flat as markets enter consolidation phase",
+      "description": "India's benchmark indices opened flat on Tuesday amid a rally in Asian markets. The Nifty edged up by 33.65 points, or 0.14 percent, to 24,652.65, ...",
+      "link": "https://ddnews.gov.in/en/sensex-nifty-open-flat-as-markets-enter-consolidation-phase/",
+      "display_link": "https://ddnews.gov.in › sensex-nifty-open-flat-as-marke...",
+      "date": "10 Dec 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty expected to trade within specified range due to current ...",
+      "description": "Nifty is expected to trade between 24000-25000 in December, with support at 24400-24300 and resistance at 24300-25000.",
+      "link": "https://www.financialexpress.com/market/cafeinvest-nifty-expected-to-trade-within-specified-range-due-to-current-market-volatility-says-religare-broking-3688583/",
+      "display_link": "https://www.financialexpress.com › market › cafeinvest",
+      "date": "10 Dec 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex, Nifty close flat; IT leads way, rupee hits record low",
+      "description": "Nifty slips 8.95 points as energy, telecom stocks drag; IT index hits record high, led by Infosys and Wipro. Benchmark stock market indices closed flat on ...",
+      "link": "https://www.indiatoday.in/business/story/market-closing-sensex-nifty-close-flat-it-sector-stocks-leads-the-way-rupee-hits-record-low-2647691-2024-12-10",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "10 Dec 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty IT Index Hits All-Time High: December Gains and ...",
+      "description": "Nifty IT hits an all-time high of 45377.75 on December 10, 2024, driven by optimism around the US economy and December's historically strong performance.",
+      "link": "https://www.angelone.in/news/nifty-it-index-hits-all-time-high-december-gains-historical-insights",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "10 Dec 2024",
+      "rank": 13
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 end flat",
+      "description": "The Sensex and the Nifty 50- ended flat on Tuesday, December 10, with heavyweights such as Reliance Industries, Bharti Airtel and Axis Bank among the top drags ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-reliance-bharti-airtel-among-top-drags-midcaps-smallcaps-outperform-11733823790239.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "10 Dec 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty 50, Sensex Today: What to Expect in Trade on ...",
+      "description": "MondaySummary. The Sensex declined 200.66 points to 81,508.46, and the Nifty 50 fell 58.80 points at 0.24 per cent to close at 24,619.00.",
+      "link": "https://www.icfmindia.com/news/nifty-50-sensex-today-what-to-expect-in-trade-on-december-10",
+      "display_link": "https://www.icfmindia.com › news › nifty-50-sensex-tod...",
+      "date": "10 Dec 2024",
+      "rank": 17
+    },
+    {
+      "title": "Nifty IT index hits record high on December 10",
+      "description": "Nifty IT index hits record high: The Nifty IT index reached new heights on Tuesday, December 10, 2024, hitting an all-time high of 45,377.75.",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-index-hits-record-high-on-december-10-here-s-what-drove-the-rally-124121000385_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "10 Dec 2024",
+      "rank": 18
+    }
+  ]
+}

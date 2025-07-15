@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-10 after:2024-11-09 \"nifty\"",
+    "results_cnt": 14,
+    "search_time": 0.27,
+    "language": "en-TW",
+    "country": "Taiwan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:19:20.617452Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Financial Services Live Chart Today",
+      "description": "Nifty Financial Services Live Chart. Stay ahead in the market with the Nifty Financial Services live chart, providing real-time updates on today's performance.",
+      "link": "https://in.investing.com/indices/cnx-finance-chart",
+      "display_link": "https://in.investing.com › indices › cnx-finance-chart",
+      "date": "Nov 9, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Financial Services Historical Data",
+      "description": "Explore Nifty Financial Services historical data, including all-time highs, share price history over the last 20 years and beyond.",
+      "link": "https://in.investing.com/indices/cnx-finance-historical-data",
+      "display_link": "https://in.investing.com › cnx-finance-historical-data",
+      "date": "Nov 9, 2024",
+      "rank": 3
+    },
+    {
+      "title": "S&P BSE Auto Today",
+      "description": "... NIFTY 50 · BSE Sensex · NIFTY Bank · NIFTY 100 · S&P BSE 100. MARKET LIVE. 14 Jul, 2025 | 05:38:36. HCL Tech Q1 LIVE Updates: Well-positioned to grow in the AI ...",
+      "link": "https://www.livemint.com/market/india-indices-today/s-p-bse-auto-i0020",
+      "display_link": "https://www.livemint.com › Market › Indices",
+      "date": "Nov 9, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Climate Change, Environment News, Green & Hydrogen ...",
+      "description": "Nifty 50 companies: Adani EnterprisesAdani Ports and Special Economic ZoneApollo Hospitals EnterprisesAsian PaintsAxis BankBajaj AutoBajaj FinanceBajaj ...",
+      "link": "https://www.cnbctv18.com/shows/climate-clock",
+      "display_link": "https://www.cnbctv18.com › ... › ClimateClock News",
+      "date": "Nov 9, 2024",
+      "rank": 13
+    },
+    {
+      "title": "POCL Enterprises' Stock Reaches All-Time High ...",
+      "description": "Nifty, 25,082.30, (-0.27%), -67.55. BSE Mid Cap, 46,600.13, (0.67%), 308.93. Bse Small Cap, 54,796.82, (0.57%), 312.06. BSE 500, 36,582.53, (0.10%), 36.95 ...",
+      "link": "https://www.marketsmojo.com/news/stocks-in-action/pocl-enterprises-stock-reaches-all-time-high-outperforms-sector-and-market-3-298272",
+      "display_link": "https://www.marketsmojo.com › News › Stocks in Action",
+      "date": "Nov 9, 2024",
+      "rank": 14
+    }
+  ]
+}

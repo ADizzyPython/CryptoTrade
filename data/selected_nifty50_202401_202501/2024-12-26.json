@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-27 after:2024-12-26 \"nifty\"",
+    "results_cnt": 540000,
+    "search_time": 0.32,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:28:21.144285Z"
+  },
+  "organic": [
+    {
+      "title": "Put Call Ratio: Get Details on Nifty/Bank Nifty PCR Ratio",
+      "description": "PCR Ratio: Get latest updates on put call ratio index and other stock options at IndiaInfoline. To know more about Nifty Put Call Ratio at India Infoline.",
+      "link": "https://www.indiainfoline.com/markets/derivatives/put-call-ratio",
+      "display_link": "https://www.indiainfoline.com › ... › Derivatives",
+      "date": "Dec 26, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nasdaq, Hang Seng beat Nifty by wide margin. Will it be ...",
+      "description": "Nifty's returns in 2023 were the fourth best among major global indices at 19.3%, behind the Nasdaq (43%), S&P 500 (24%), and Taiwan's TWSE (27%), and on par ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nasdaq-hang-seng-beat-nifty-by-wide-margin-will-it-be-indias-turn-in-2025/articleshow/116670354.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 26, 2024",
+      "rank": 5
+    },
+    {
+      "title": "NIFTY 26Dec2024 CE 28000.00",
+      "description": "Live NSE / BSE Quotes, Live Nifty Quotes, Live Futures, snapshot, chart, Interest Analysis and more. Get detailed current market stats information on Indian ...",
+      "link": "https://m.moneycontrol.com/india/indexfutures/nifty/9/2024-12-26/OPTIDX/CE/28000.00/true",
+      "display_link": "https://m.moneycontrol.com › nifty › OPTIDX › true",
+      "date": "Dec 26, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Master Bank NIFTY Intraday Option Trading With Key ...",
+      "description": "Understanding Nifty Options Trading. Nifty options trading allows traders to speculate on the movement of the Nifty50 index without directly owning the stocks.",
+      "link": "https://www.bajajbroking.in/knowledge-center/how-to-do-nifty-intraday-option-trading",
+      "display_link": "https://www.bajajbroking.in › ... › Futures And Options",
+      "date": "Dec 26, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty 500 index year-end review: Top wealth creators and ...",
+      "description": "The Nifty 500 index delivered an impressive year-to-date (YTD) gain of 15.3 per cent, according to Bloomberg data.",
+      "link": "https://www.business-standard.com/markets/news/nifty-500-index-year-end-review-top-wealth-creators-and-destroyers-of-2024-124122600065_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Dec 26, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trade Setup for December 26: Volatility, low volumes to ...",
+      "description": "The Nifty, after showing an upside bounce on December 23, failed to sustain its momentum on December 24, closing below 23,800 amidst volatile trading.",
+      "link": "https://www.cnbctv18.com/market/trade-setup-for-december-26-volatility-low-volumes-to-dominate-nifty-moves-on-final-expiry-of-2024-19529541.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Dec 26, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Understanding Nifty 50's Journey Over the Past 28 Years ...",
+      "description": "Explore 28 years of Nifty 50 data to uncover trends, market cycles, and key investment insights. Learn how long-term investing outshines short-term ...",
+      "link": "https://getmoneyrich.com/understanding-nifty-50-journey/",
+      "display_link": "https://getmoneyrich.com › understanding-nifty-50-jou...",
+      "date": "Dec 26, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock Market Highlights: What Nifty's multiple doji candles ...",
+      "description": "While the S&P BSE Sensex settled at 78,472.48, down by 0.39 points, the broader Nifty closed at 23,750.20, higher by 22.55 points or 0.1%. Stock Market ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-26-december-2024/liveblog/116666811.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Dec 26, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Sensex ended flat at 78472, Nifty gains 0.1% to close at ...",
+      "description": "BSE Sensex dipped marginally by 0.39 points to 78,472.48, while the NSE Nifty gained 22.55 points, or 0.1%, to settle at 23,750.20 on the monthly expiry day.",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-sensex-rises-150-points-nifty-opens-at-23790/articleshow/116668341.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "Dec 26, 2024",
+      "rank": 18
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-18 after:2024-12-17 \"nifty\"",
+    "results_cnt": 534000,
+    "search_time": 0.37,
+    "language": "en-TW",
+    "country": "Taiwan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:27:06.684686Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Index Today – Live Price, Performance & Movers",
+      "description": "Track real-time Nifty 50 Index movements, price updates, and market trends. Get insights on top gainers & losers to refine your investment strategy.",
+      "link": "https://www.bajajbroking.in/indices/nifty-50",
+      "display_link": "https://www.bajajbroking.in › All Indices",
+      "date": "Dec 17, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty holding 24000 level remains key to avoid sell-off. How ...",
+      "description": "Nifty set to hit 28,800 in 2025, says ICICI Direct. Heartbeat index Nifty could hit 28,800 mark in 2025 which is an 18% upside over the Tuesday closing of ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-17-december-2024/liveblog/116383631.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Dec 17, 2024",
+      "rank": 2
+    },
+    {
+      "title": "What is SGX Nifty: Definition, Advantages and Disadvantages",
+      "description": "SGX Nifty is a derivative of the Nifty 50 index, traded on the Singapore Exchange (SGX). It is a representation of the performance of 50 major companies listed ...",
+      "link": "https://www.bajajbroking.in/blog/what-is-sgx-nifty",
+      "display_link": "https://www.bajajbroking.in › Blogs Overview › Nifty 50",
+      "date": "Dec 17, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock market crash: Sensex ends over 1000 points lower ...",
+      "description": "Sensex ended 1064.12 points lower at 80,684.45. Meanwhile, Nifty lost 348 points to settle at 24,320.30. Meanwhile, in intra-day deals, BSE Sensex shed as much ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-sensex-down-1-why-is-indian-stock-market-down-today-explained-11734411829382.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 17, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty may face resistance at 24800-25000, selling pressure ...",
+      "description": "Nifty faces resistance at 24800-25000; consider a short strangle strategy for December expiry. Stay cautious and plan your trade!",
+      "link": "https://www.financialexpress.com/market/cafeinvest-nifty-may-face-resistance-at-24800-25000-selling-pressure-expected-ahead-says-religare-broking-3693955/",
+      "display_link": "https://www.financialexpress.com › market › cafeinvest",
+      "date": "Dec 17, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex slumps over 1100 pts, Nifty below 24350; 5 key ...",
+      "description": "Sensex slumps over 1,100 pts, Nifty below 24,350; 5 key factors behind today's selloff ... Stock Market Crash Today: Indian stock markets opened lower on Tuesday, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/heavyweights-ril-and-hdfc-bank-drag-sensex-nifty-lower-for-2nd-straight-session/articleshow/116386096.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 17, 2024",
+      "rank": 16
+    },
+    {
+      "title": "5 Reasons Behind Sensex's 1000-Point Fall, Nifty Below 24400",
+      "description": "The NSE Nifty 50 settled at 332.25 or 1.35 per cent to close at 24,336. Sectoral indices including Nifty Bank, Nifty Metal, and Nifty Infra fell 1-1.5 per cent ...",
+      "link": "https://www.outlookbusiness.com/markets/tuesdays-bearish-bite-5-reasons-behind-sensexs-1000-point-fall-nifty-below-24400",
+      "display_link": "https://www.outlookbusiness.com › Markets",
+      "date": "Dec 17, 2024",
+      "rank": 17
+    }
+  ]
+}

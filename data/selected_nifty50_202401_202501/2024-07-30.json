@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-31 after:2024-07-30 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.32,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:43.851220Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex vs Nifty: Difference Between Nifty & Sensex",
+      "description": "National Stock Exchange Fifty (Nifty) is India's National Stock Exchange (NSE) benchmark stock market index. Launched in 1996, it tracks the performance of 50 ...",
+      "link": "https://appreciatewealth.com/blog/sensex-vs-nifty",
+      "display_link": "https://appreciatewealth.com › blog › sensex-vs-nifty",
+      "date": "Jul 30, 2024",
+      "rank": 4
+    },
+    {
+      "title": "NIFTY-NSE — Trading Ideas on TradingView — India",
+      "description": "Nifty trading range for the day 30th july 2024Nifty formed a bearish candle yesterday. The follow up candle for the day is important to confirm the trend. The ...",
+      "link": "https://in.tradingview.com/ideas/nifty-nse/",
+      "display_link": "https://in.tradingview.com › Community › Ideas",
+      "date": "Jul 30, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Tech View: Nifty awaiting decisive move above 25k. Here's ...",
+      "description": "Nifty ended Tuesday's session 21 points higher to form a Doji candle as 25,000 emerged as a strong hurdle. The short-term trend of Nifty continues to be choppy, ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-30-july-2024/liveblog/112122692.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jul 30, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Indian stock market: 6 key things that changed for ...",
+      "description": "The domestic equity benchmark indices, Sensex and Nifty 50, are expected to open lower on Tuesday following weak sentiment in global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-6-key-things-that-changed-for-market-overnight-gift-nifty-us-dollar-to-oil-prices-11722302618121.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jul 30, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty Seen Flat To Higher At Open",
+      "description": "Benchmark indexes Sensex and Nifty gave up all early gains to end on a flat note Tuesday. The rupee edged up by 1 paise to close at 83.72 against the dollar ...",
+      "link": "https://www.nasdaq.com/articles/sensex-nifty-seen-flat-higher-open-0",
+      "display_link": "https://www.nasdaq.com › articles › sensex-nifty-seen-fl...",
+      "date": "Jul 30, 2024",
+      "rank": 10
+    },
+    {
+      "title": "This Candlestick Pattern suggests Nifty may consolidate in ...",
+      "description": "The Nifty has declined up to 7 per cent in the recent past instances after formation of the Bearish Counterattack Candlestick Pattern on the daily scale.",
+      "link": "https://www.business-standard.com/markets/news/this-candlestick-pattern-suggests-nifty-may-consolidate-in-the-near-term-124073000202_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 30, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex, Nifty, Share Prices Highlights - market",
+      "description": "The NSE Nifty 50 gained 21.20 points or 0.09% to settle at 24,857.30, while the BSE Sensex jumped 99.55 points or 0.12% to 81,455.40. The broader indices ended ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-lower-gift-nifty-down-asian-markets-trade-lower-july-30-2024-tuesday-3568469/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Jul 30, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trading Plan: Will Nifty hold 24800, Bank Nifty sustain ...",
+      "description": "On Monday, the Nifty 50 settled at a fresh all-time closing high of 24,836.10, up 1.25 points, and the Bank Nifty lost more than 900 points from day's high, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-hold-24800-bank-nifty-sustain-above-51000-ahead-of-fomc-meet-12781674.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jul 30, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Trade Setup: Nifty Reverses From Close Call Of 25000 Mark",
+      "description": "On Monday, the Nifty 50 index came tantalizingly close to the landmark 25000 mark, only to reverse at 24999.75, culminating in a significant 170-point drop ...",
+      "link": "https://www.goodreturns.in/news/trade-setup-nifty-reverses-from-close-call-of-25-000-mark-will-market-cheer-for-the-landmark-today-1360641.html",
+      "display_link": "https://www.goodreturns.in › news › trade-setup-nifty-r...",
+      "date": "Jul 30, 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-13 after:2024-05-12 \"nifty\"",
+    "results_cnt": 1540000,
+    "search_time": 0.28,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:48:57.558169Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY50 Max Pain Analysis",
+      "description": "Get insights about the market direction by examining the live chart of Nifty Max Pain. Explore the real-time chart analysis for valuable information, ...",
+      "link": "https://upstox.com/fno-discovery/open-interest-analysis/nifty-max-pain/",
+      "display_link": "https://upstox.com › FnO Discovery › Oi Analysis",
+      "date": "12 May 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Smallcap250 Quality 50 Share Price Today NSE/BSE",
+      "description": "Nifty Smallcap250 Quality 50 Share Price - Get Nifty Smallcap250 Quality 50 stock price today BSE/NSE with Fundamentals, Market Cap, Share holding and ...",
+      "link": "https://web.stockedge.com/share/nifty-smallcap250-quality-50/110124",
+      "display_link": "https://web.stockedge.com › share › nifty-smallcap250-q...",
+      "date": "12 May 2024",
+      "rank": 2
+    },
+    {
+      "title": "Analysing the Causal Relationship Between Nifty 50 and ...",
+      "description": "The study noticed a strong positive relationship between Nifty 50 and Sectoral indices returns for Nifty Auto index, Nifty Bank Index, and Nifty Financial ...",
+      "link": "https://www.researchgate.net/publication/380518930_Analysing_the_Causal_Relationship_Between_Nifty_50_and_Sectoral_Indices",
+      "display_link": "https://www.researchgate.net › Home › Indexes",
+      "date": "12 May 2024",
+      "rank": 6
+    },
+    {
+      "title": "Tata Nifty MidSmall Healthcare Index Fund Direct Growth",
+      "description": "Learn about Tata Nifty MidSmall Healthcare Index Fund Direct Growth with our data and independent analysis including NAV, star rating, portfolio, ...",
+      "link": "https://www.morningstar.in/mutualfunds/F00001K97Y/Tata-Nifty-MidSmall-Healthcare-Index-Fund-Direct-Growth/overview.aspx",
+      "display_link": "https://www.morningstar.in › mutualfunds › overview",
+      "date": "12 May 2024",
+      "rank": 7
+    },
+    {
+      "title": "Market Hound",
+      "description": "NIFTY. NIFTY. FINNIFTY. SENSEX. BANKNIFTY. MIDCPNIFTY. USDINR. BANKEX. Wed Jul 16 2025. Wed Jul 16 2025. Wed Jul 23 2025. Wed Jul 30 2025. Calls, Strike, Puts ...",
+      "link": "https://watch.markethound.in/",
+      "display_link": "https://watch.markethound.in",
+      "date": "12 May 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-26 after:2024-03-25 \"nifty\"",
+    "results_cnt": 3700000,
+    "search_time": 0.31,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T15:41:34.903932Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Consumer Durables Index Today (NIFCODU)",
+      "description": "The Nifty Consumer Durables live stock price is 38,705.55. What Is the Nifty Consumer Durables Ticker Symbol? NIFCODU is the ticker symbol of the Nifty Consumer ...",
+      "link": "https://www.investing.com/indices/nifty-consumer-durables",
+      "display_link": "https://www.investing.com › indices › nifty-consumer-d...",
+      "date": "Mar 25, 2024",
+      "rank": 1
+    },
+    {
+      "title": "UPL Ltd share price | About UPL | Key Insights",
+      "description": "... Nifty LargeMidcap 250 Nifty 500 Multicap 50:25:25 Nifty Midcap 150 Nifty MidSmallcap 400 Nifty India Manufacturing Nifty Total Market Nifty500 Multicap ...",
+      "link": "https://www.screener.in/company/UPL/consolidated/",
+      "display_link": "https://www.screener.in › company › UPL › consolidated",
+      "date": "Mar 25, 2024",
+      "rank": 18
+    }
+  ]
+}

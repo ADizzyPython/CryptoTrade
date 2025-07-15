@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-29 after:2024-08-28 \"nifty\"",
+    "results_cnt": 310000,
+    "search_time": 0.32,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:07:52.599533Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 CE 26800",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26800-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "28 Aug 2024",
+      "rank": 2
+    },
+    {
+      "title": "Top Looser NSE",
+      "description": "Nifty Midcap (0.70%). 59052.55+ 410.35 · Nifty Smallcap (1.14%). 9164.20+ 102.90 · Nifty Bank (0.02%). 56765.35+ 10.65 · Nifty IT (-1.11%). 37273.70-419.55.",
+      "link": "https://www.business-standard.com/markets/nse-top-losers-indices-22115",
+      "display_link": "https://www.business-standard.com › markets › nse-top-...",
+      "date": "28 Aug 2024",
+      "rank": 5
+    },
+    {
+      "title": "Markets head north with Nifty closing above 25050 for the first ...",
+      "description": "Bank Nifty index ended lower by 134.90 points or 0.26% to settle at 51,143.85. The Nifty Midcap 100 fell by 73.85 points, or 0.12%, ending the day's trading ...",
+      "link": "https://www.financialexpress.com/market/markets-head-north-with-nifty-closing-above-25050-for-the-first-time-sensex-too-joins-the-party-ends-near-81800-3594831/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "28 Aug 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty gains for 10th straight session, marks new record ...",
+      "description": "The Nifty 50 index ended at 25,052, up 35 points. During the session, the index had reached an intra-day high of 25,130. Index/Stock, Ending Price, Percentage ...",
+      "link": "https://www.cnbctv18.com/market/nifty-edges-higher-logs-new-record-close-on-it-stock-gains-19467004.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "28 Aug 2024",
+      "rank": 8
+    },
+    {
+      "title": "India's Nifty 50 ends off record high as investors book profits",
+      "description": "The Nifty 50 has gained 3.8% over 10 sessions, its longest winning streak since October 2020. Sustained local retail and institutional inflows, as well as money ...",
+      "link": "https://www.reuters.com/world/india/indian-shares-set-open-little-changed-2024-08-28/",
+      "display_link": "https://www.reuters.com › world › india › indian-shares...",
+      "date": "28 Aug 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 17 JUL 2025 PE 26800",
+      "description": "NIFTY Expires 31 Jul; ₹ 25208 -213.90 (-0.84%). NIFTY Expires 28 Aug; ₹ 25310 -222.20 (-0.87%). NIFTY Expires 25 Sep; ₹ 25470 -218.00 (-0.85%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26800-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "28 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "Share Market Highlights 28 August 2024: Sensex, Nifty end ...",
+      "description": "The Nifty 50 has gained 3.8% over ten sessions, marking its longest winning streak since October 2020. IT stocks benefit from U.S. rate cuts and have surged 3.2 ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-28-august-2024/article68572997.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "28 Aug 2024",
+      "rank": 16
+    }
+  ]
+}

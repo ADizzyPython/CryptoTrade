@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-30 after:2024-05-29 \"nifty\"",
+    "results_cnt": 1080000,
+    "search_time": 0.57,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:38.045531Z"
+  },
+  "organic": [
+    {
+      "title": "Is Nifty 50 poised to drop to 22000 before Lok Sabha ...",
+      "description": "Nifty 50, the benchmark of the Indian stock market, fell almost 1 per cent on Wednesday, May 29, to end at 22,704.70, marking its fourth consecutive day of ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-down-nearly-2-from-its-all-time-high-is-the-index-poised-to-drop-to-22-000-heres-what-10-experts-say-11716982460215.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "29 May 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty नई ऊँचाइयों के लिए तैयार, इस साल 24500 और अगले ...",
+      "description": "Nifty 50 दिसंबर, 2024 तक 24,500 के लेवल पर पहुंचेगा. शेयर बाजार (Share Market) के प्रमुख इंडेक्स निफ्टी-50 (Nifty 50) आय में 15 प्रतिशत की अनुमानित वृद्धि के साथ दिसंबर, 2024 तक 24,500 अंक के स्तर ...",
+      "link": "https://ndtv.in/business-news/stock-market-news-nifty-50-target-for-2024-nifty-to-reach-24500-levels-by-2024-end-and-26500-by-end-of-2025-5768385",
+      "display_link": "https://ndtv.in › बिजनेस",
+      "date": "29 May 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty down for 4th straight day but Amit Shah says don't link ...",
+      "description": "Earlier this month, Shah had told investors to buy before June 4. Nifty eventually went up to touch an all-time record high of 23,110.80 before profit-booking ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-down-for-4th-straight-day-but-amit-shah-says-dont-link-it-to-election/articleshow/110530623.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "29 May 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex, Nifty 50 fall almost 1% each; why did the Indian ...",
+      "description": "Stock market today: Sensex suffered a loss of 668 points, or 0.89 per cent, to end at 74502.90, while the Nifty 50 settled at 22704.70, down 183 points, or 0.80",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-fall-almost-1-each-why-did-the-indian-stock-market-fall-today-explained-11716976961077.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "29 May 2024",
+      "rank": 17
+    },
+    {
+      "title": "Trade Setup For May 29: Nifty Likely To Be Range-Bound",
+      "description": "The Nifty May futures were down by 0.25% to 22,937.25 at a premium of 49.1 points, with its open interest down by 15%. The Nifty Bank May futures were down ...",
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-stock-market-today-nifty-likely-to-be-range-bound",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "29 May 2024",
+      "rank": 18
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-03 after:2024-06-02 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.32,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:52:12.247499Z"
+  },
+  "organic": [
+    {
+      "title": "Banknifty 31 JUL 2025 CE 52600",
+      "description": "... Nifty 50 Stock List · Indian ADRs · LIC · Tata Motors · IRFC · ITC · Tata Steel · Adani ... Nifty 50 · Bank Nifty · FINNIFTY · Nifty Midcap · India VIX · Know ...",
+      "link": "https://www.5paisa.com/derivatives/banknifty-option-chain/banknifty-52600-ce",
+      "display_link": "https://www.5paisa.com › ... › Banknifty option chain",
+      "date": "Jun 2, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty EV & New Age Automotive Index - The Financial Express",
+      "description": "NSE Nifty EV & New Age Automotive: Get Nifty EV & New ... Nifty Alpha Low Volatility 30; Nifty Auto; Nifty Bank; Nifty Capital Markets; Nifty Commodities; Nifty ...",
+      "link": "https://www.financialexpress.com/market/nifty-ev-and-new-age-automotive-index/",
+      "display_link": "https://www.financialexpress.com › market › nifty-ev-a...",
+      "date": "Jun 2, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Record high likely on Nifty, Bank Nifty Monday if gap up ...",
+      "description": "The record high for Nifty is 23,110, around 580 points away from Friday's closing level of 22,531. The market is expected to open with a gap on the upside and ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-record-high-likely-on-nifty-bank-nifty-monday-if-gap-up-opening-held-apply-strangle-strategy-12738996.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jun 2, 2024",
+      "rank": 17
+    }
+  ]
+}

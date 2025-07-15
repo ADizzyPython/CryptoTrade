@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-04 after:2024-11-03 \"nifty\"",
+    "results_cnt": 408000,
+    "search_time": 0.54,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:18:24.341776Z"
+  },
+  "organic": [
+    {
+      "title": "36% companies in Nifty 50 miss estimates in Sep quarter, ...",
+      "description": "Almost 18 companies among the Nifty 50 entities have missed estimates for the quarter ended September this year while 15 have beaten them, according to the ...",
+      "link": "https://www.business-standard.com/markets/news/18-companies-in-nifty-50-miss-estimates-in-september-quarter-shows-data-124110300495_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "3 Nov 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex, Nifty plunge in early trade dragged by Reliance ...",
+      "description": "The BSE Sensex tumbled 665.27 points to 79,058.85 in early trade. The NSE Nifty tanked 229.4 points to 24,074.95. From the 30-share Sensex pack, Sun Pharma, ...",
+      "link": "https://www.deccanherald.com/business/markets/sensex-nifty-plunge-in-early-trade-dragged-by-reliance-industries-3260835",
+      "display_link": "https://www.deccanherald.com › Business › Markets",
+      "date": "3 Nov 2024",
+      "rank": 20
+    }
+  ]
+}

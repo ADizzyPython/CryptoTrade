@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-17 after:2024-10-16 \"nifty\"",
+    "results_cnt": 405000,
+    "search_time": 0.6,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:17.857633Z"
+  },
+  "organic": [
+    {
+      "title": "Gift Nifty Index/Indices - Share/Stock Price, Live Charts Today",
+      "description": "GIFT Nifty Live provides investors with real-time data and updates on the price movements of Nifty 50 contracts traded on the NSE IFSC platform.",
+      "link": "https://blinkx.in/indices/gift-nifty",
+      "display_link": "https://blinkx.in › Indices",
+      "date": "Oct 16, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Midcap Select Chart",
+      "description": "View Nifty Midcap Select Live Chart on Dhan - Track Nifty Midcap Select ... Nifty 50. 25,082.30 0.00 (0.00%) · Nifty Bank. 56,765.35 0.00 (0.00%) · Sensex.",
+      "link": "https://dhan.co/indices/nifty-midcap-select-chart/",
+      "display_link": "https://dhan.co › indices › nifty-midcap-select-chart",
+      "date": "Oct 16, 2024",
+      "rank": 6
+    },
+    {
+      "title": "nifty · GitHub Topics",
+      "description": "The central code repository for the Steadfast 1-click option trading app (BankNifty, Nifty, Finnifty, MidcapNifty, NiftyMKT50, Sensex, Bankex, and Sensex50), ...",
+      "link": "https://github.com/topics/nifty",
+      "display_link": "https://github.com › topics › nifty",
+      "date": "Oct 16, 2024",
+      "rank": 11
+    },
+    {
+      "title": "SBI Nifty India Consumption Index Fund Regular Growth",
+      "description": "Learn about SBI Nifty India Consumption Index Fund Regular Growth with our data and independent analysis including NAV, star rating, portfolio, ...",
+      "link": "https://www.morningstar.in/mutualfunds/f00001nw4c/sbi-nifty-india-consumption-index-fund-regular-growth/overview.aspx",
+      "display_link": "https://www.morningstar.in › mutualfunds › overview",
+      "date": "Oct 16, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Tech view: Nifty faces resistance from short-term moving ...",
+      "description": "On the daily charts we can observe that the Nifty has been trading in the range of 24,900 – 25,200 since the last six trading sessions. We expect this price ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-faces-resistance-from-short-term-moving-averages-forms-small-negative-candle-how-to-trade-tomorrow/articleshow/114288293.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Oct 16, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty decline on foreign outflows, domestic ...",
+      "description": "The Nifty 50 fell by 48.80 points, or 0.19%, to ... Sectorally, most indices declined, except for Nifty Pharma, Nifty Realty, and Nifty Consumer Durables.",
+      "link": "https://ddnews.gov.in/en/sensex-nifty-decline-on-foreign-outflows-domestic-investors-provide-support/",
+      "display_link": "https://ddnews.gov.in › sensex-nifty-decline-on-foreign...",
+      "date": "Oct 16, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty, Sensex Record Two–Day Losing Streak On Global ...",
+      "description": "The Nifty 50 closed 86.05 points or 0.34% down at 24,971.30, and the Sensex settled 318.76 points or 0.39% down at 81,501.36. Ananya Chaudhuri.",
+      "link": "https://www.ndtvprofit.com/markets/indian-stock-market-news-nifty-sensex-two-day-losing-streak-global-sell-off",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Oct 16, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Trade Setup for October 16: Nifty Bank is the index to watch ...",
+      "description": "The Nifty Bank closed above 51900 for the first time since October 3 supported by ICICI Bank and despite the underperformance of HDFC Bank.",
+      "link": "https://www.cnbctv18.com/market/trade-setup-october-16-nifty-bank-key-index-nifty-50-oil-cochin-shipyard-bajaj-auto-ril-pnc-infra-share-price-19493175.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Oct 16, 2024",
+      "rank": 18
+    }
+  ]
+}

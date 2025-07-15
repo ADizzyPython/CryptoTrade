@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-11 after:2024-03-10 \"nifty\"",
+    "results_cnt": 20,
+    "search_time": 0.32,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:28.785740Z"
+  },
+  "organic": [
+    {
+      "title": "Trade Setup for March 11: Nifty awaits key macro data ...",
+      "description": "The Nifty Bank snapped a six-day winning streak on Thursday but managed to end the truncated week with gains of over a percent.",
+      "link": "https://www.cnbctv18.com/market/trade-setup-march-11-nifty-50-key-levels-nifty-bank-midcap-indigo-rvnl-real-estate-shares-19234371.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Mar 10, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Inflation, BANK NIFTY nears all-time high, F&O cues to watch",
+      "description": "Last week's positive momentum in the banking sector lifted both the BANK NIFTY and the NIFTY50. All eyes will now be on this week's inflation data.",
+      "link": "https://upstox.com/news/market-news/trading/weekly-market-outlook/article-73773/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "Mar 10, 2024",
+      "rank": 12
+    }
+  ]
+}

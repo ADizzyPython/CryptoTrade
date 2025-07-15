@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-30 after:2024-07-29 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:34.858843Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 CE 26600",
+      "description": "NIFTY Expires 31 Jul; ₹ 25166.6 -0.90 (0.00%). NIFTY Expires 28 Aug; ₹ 25270 1.20 (0.00%). NIFTY Expires 25 Sep; ₹ 25449.9 16.40 (0.06%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26600-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jul 29, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat amid volatility",
+      "description": "At close, the Sensex was up 23.12 points or 0.03 percent at 81,355.84, and the Nifty was up 0.01 points or 1.25 percent at 24,836.10,. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-29-07-2024-liveblog-12780593.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jul 29, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Market outlook Jul 29: Nifty eyes 25K; Fed rate cut bets ...",
+      "description": "All you need to know before the market opens today: GIFT Nifty futures were quoting atop 25000-mark, hinting at over 100 points gap-up.",
+      "link": "https://www.business-standard.com/markets/news/market-outlook-jul-29-nifty-eyes-25k-fed-rate-cut-bets-spark-global-rally-124072900072_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 29, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty's journey to 25000 – Z-Connect by Zerodha",
+      "description": "Nifty is almost at 25000 points today. It was around 2000 when I first started trading and around 4500 when we started Zerodha in 2010.",
+      "link": "https://zerodha.com/z-connect/updates/niftys-journey-to-25000",
+      "display_link": "https://zerodha.com › Home › Updates",
+      "date": "Jul 29, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex hits record high, Nifty rises above 24900 for the first ...",
+      "description": "Sensex hits record high, Nifty rises above 24,900 for the first time · Stock market today: The NSE Nifty50 rose to 24,980.45 and may cross the 25,000 milestone ...",
+      "link": "https://www.hindustantimes.com/business/sensex-hits-record-high-nifty-rises-above-24-900-for-the-first-time-101722225638779.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "Jul 29, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex Opens At All-Time High, Nifty Trades Above 24900",
+      "description": "At 9:37 a.m., Sensex was at 81,679, up 347 points or 0.43 per cent, and Nifty was up 84 points or 0.34 per cent at 24,919. Advertisement.",
+      "link": "https://www.ndtv.com/india-news/sensex-opens-at-all-time-high-nifty-trades-above-24-900-6212007",
+      "display_link": "https://www.ndtv.com › India News",
+      "date": "Jul 29, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock Market Highlights, July 29: Benchmarks end flat after ...",
+      "description": "Closing Bell :: Nifty ends below 24,850 after nearing 25,000 intraday · Closing Bell :: Sensex ends flat after hitting record high intraday · Axis Securities ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-gift-nifty-sensex-nse-bse-nifty50-ipo-buzzing-stocks-124072900070_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jul 29, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Nifty was at 4500 when Zerodha started, recalls Nithin ...",
+      "description": "“Nifty is almost at 25,000 points today. It was around 2,000 when I first started trading and around 4,500 when we started Zerodha in 2010,” said Kamath in his ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-was-at-4500-when-zerodha-started-recalls-nithin-kamath/articleshow/112109870.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Jul 29, 2024",
+      "rank": 19
+    },
+    {
+      "title": "Stock market strategy: Nifty 50 August series sees low ...",
+      "description": "The Nifty 50's rollover was 69.7%, below both the rollover of the previous two months and its quarterly average of 72.6%. The brokerage claims that the Nifty 50 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-strategy-nifty-50-august-series-sees-low-rollovers-but-smart-bulls-buying-any-minor-dips-11722241208694.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jul 29, 2024",
+      "rank": 20
+    }
+  ]
+}

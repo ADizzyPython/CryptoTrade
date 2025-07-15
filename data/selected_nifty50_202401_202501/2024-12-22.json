@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-23 after:2024-12-22 \"nifty\"",
+    "results_cnt": 555000,
+    "search_time": 0.33,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:27:47.563476Z"
+  },
+  "organic": [
+    {
+      "title": "DSP Nifty IT ETF (DSPITETF) Share Price",
+      "description": "The highest price of DSP Nifty IT ETF stock is ₹48.66 in the last 52-week. What is the share price of DSP Nifty IT ETF (ITETFADD) today on NSE ...",
+      "link": "https://www.businesstoday.in/stocks/dsp-nifty-it-etf-dspitetf-share-price-393844",
+      "display_link": "https://www.businesstoday.in › Markets › Stocks",
+      "date": "Dec 22, 2024",
+      "rank": 10
+    }
+  ]
+}

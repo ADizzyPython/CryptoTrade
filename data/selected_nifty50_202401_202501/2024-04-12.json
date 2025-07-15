@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-13 after:2024-04-12 \"nifty\"",
+    "results_cnt": 3840000,
+    "search_time": 0.48,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:44:17.113624Z"
+  },
+  "organic": [
+    {
+      "title": "NFTY Implied Volatility Chart (First Trust India Nifty 50 ...",
+      "description": "View volatility charts for First Trust India Nifty 50 Equal Weight ETF (NFTY) including implied volatility and realized volatility.",
+      "link": "https://marketchameleon.com/Overview/NFTY/IV/",
+      "display_link": "https://marketchameleon.com › Overview › NFTY",
+      "date": "Apr 12, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Constituents of Nifty 50",
+      "description": "The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock ...",
+      "link": "https://www.screener.in/company/NIFTY/?order=desc&sort=dividend+yield&page=2",
+      "display_link": "https://www.screener.in › company › NIFTY",
+      "date": "Apr 12, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Live Analysis - Large Deals - NSE India",
+      "description": "NSE - NIFTY 50. 25,168.70. 86.40 (0.34%). 15-Jul-2025 14:37. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market ...",
+      "link": "https://www.nseindia.com/market-data/advance",
+      "display_link": "https://www.nseindia.com › market-data › advance",
+      "date": "Apr 12, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 Price Live blog for 12 Apr 2024 | Stock Market News",
+      "description": "Today Nifty 50 has been trading in the range of 22726.45 to 22503.75. Nifty futures are at 22602.5 (-0.92%) & with an open interest change of -0.11% which ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-stock-price-live-updates-check-all-the-latest-updates-and-share-price-for-nifty-50-stock-on-12-apr-2024-11712890803357.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 12, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Closing Bell: Sensex slips 793 pts, Nifty around 22500",
+      "description": "Indian benchmark indices ended on a weaker note with Nifty around 22,500 amid selling across the sectors. At close, the Sensex was down 793.25 points or 1.06 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-12-04-2024-liveblog-12624401.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Apr 12, 2024",
+      "rank": 7
+    },
+    {
+      "title": "NIFTY IT Outlook for the Week (April 08, 2024",
+      "description": "Closing above 35,722.93, NIFTY IT share price will see a sharp breakout. Major resistance for NIFTY IT share price will be seen at 36,197.97 for the week.",
+      "link": "https://www.equitypandit.com/nifty-it-outlook-for-the-week-april-08-2024-april-12-2024/",
+      "display_link": "https://www.equitypandit.com › nifty-it-outlook-for-the...",
+      "date": "Apr 12, 2024",
+      "rank": 9
+    },
+    {
+      "title": "How does GIFT NIFTY operate? - Industry Insights",
+      "description": "So why is it that GIFT NIFTY contract can be open when NIFTY50 index constituents are not trading in cash market? What is the logic here? And what decides it's ...",
+      "link": "https://tradingqna.com/t/how-does-gift-nifty-operate/163973",
+      "display_link": "https://tradingqna.com › how-does-gift-nifty-operate",
+      "date": "Apr 12, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Share Market Highlights 12 April 2024: Sensex drops 793 pts",
+      "description": "The NSE Nifty declined 234.40 points or 1.03 per cent to close at 22,519.40 with 45 of its constituents ending lower. From the Sensex basket, Sun Pharma, Maruti ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-12-april-2024/article68053888.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Apr 12, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 793 pts lower, ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 793 pts lower, Nifty sinks to 22,519; all sectors in the red; TCS inches higher · Share Market Today LIVE | Buy CIE ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-tcs-q4-results-today-dividend-rupee-dollar-gift-nifty-futures-283880",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Apr 12, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Stock Market Today: Sensex dives 793 points, Nifty settles ...",
+      "description": "Sensex dives 793 points, Nifty settles at 22,519: Key reasons behind the fall. The 30-share BSE Sensex pack slumped 793 points or 1.06 per cent to close at ...",
+      "link": "https://www.businesstoday.in/markets/market-commentary/story/sensex-dives-over-700-points-nifty-tests-22550-key-reasons-behind-the-fall-425249-2024-04-12",
+      "display_link": "https://www.businesstoday.in › ... › Market Commentary",
+      "date": "Apr 12, 2024",
+      "rank": 17
+    },
+    {
+      "title": "NIFTY 50 Outlook for the Week (April 08, 2024",
+      "description": "Closing above 22,653.87, NIFTY 50 share price will see a sharp breakout. Major resistance for NIFTY 50 share price will be seen at 22,794.03 for the week.",
+      "link": "https://www.equitypandit.com/nifty-50-outlook-for-the-week-april-08-2024-april-12-2024/",
+      "display_link": "https://www.equitypandit.com › nifty-50-outlook-for-th...",
+      "date": "Apr 12, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Stock Market update: Market open in red nifty open 0.37% ...",
+      "description": "Stock Market update: Market open in red nifty open 0.37% down amid global negativity ... GIFT NIFTY was open gapdown 30 point and recover. US inflation ...",
+      "link": "https://paisajournal.com/news/stock-market-update-2/",
+      "display_link": "https://paisajournal.com › News",
+      "date": "Apr 12, 2024",
+      "rank": 20
+    }
+  ]
+}

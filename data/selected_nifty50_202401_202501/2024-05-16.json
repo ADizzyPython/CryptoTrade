@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-17 after:2024-05-16 \"nifty\"",
+    "results_cnt": 1420000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:49:35.076254Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty and How It is Calculated?",
+      "description": "NIFTY is a market index introduced by the National Stock Exchange, showcasing the top 50 equity stocks across 12 sectors of the Indian economy.",
+      "link": "https://www.indmoney.com/blog/stocks/what-is-nifty",
+      "display_link": "https://www.indmoney.com › Blog › Stocks",
+      "date": "May 16, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Artificial Intelligence (AI) by Nifty Orbit",
+      "description": "Automate to Accelerate. Work smarter with Nifty Orbit AI—streamline workflows, save time with automation, and boost your team's productivity.",
+      "link": "https://niftypm.com/ai/",
+      "display_link": "https://niftypm.com › ...",
+      "date": "May 16, 2024",
+      "rank": 3
+    },
+    {
+      "title": "ABSL Nifty PSE ETF - Aditya Birla Sun Life Mutual Fund",
+      "description": "Aditya Birla Sun Life Nifty PSE ETF is an exchange traded fund that tracks the Nifty PSE index and seeks to invest in the same portfolio of PSE stocks as ...",
+      "link": "https://mutualfund.adityabirlacapital.com/products/wealth-creation-solutions/aditya-birla-sun-life-nifty-pse-etf",
+      "display_link": "https://mutualfund.adityabirlacapital.com › products › ad...",
+      "date": "May 16, 2024",
+      "rank": 4
+    },
+    {
+      "title": "DSP Nifty Bank Index Fund Regular Growth",
+      "description": "Learn about DSP Nifty Bank Index Fund Regular Growth with our data and independent analysis including NAV, star rating, portfolio, detailed portfolio, ...",
+      "link": "https://www.morningstar.in/mutualfunds/F00001L203/DSP-Nifty-Bank-Index-Fund-Regular-Growth/overview.aspx",
+      "display_link": "https://www.morningstar.in › mutualfunds › overview",
+      "date": "May 16, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Share Market Highlights 16 May 2024: Sensex gains 676 pts",
+      "description": "Nifty realty rose 1.27 per cent to trade at 977.25 as of 12.37 pm. Nifty PSU Bank declined by 1.29 per cent to trade at 7,068.05 and nifty bank slid by 0.26 per ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-16-may-2024/article68178475.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "May 16, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty spurt nearly 1% on buying in HDFC Bank ...",
+      "description": "During the day, it hit a high of 73,749.47 and a low of 72,529.97. The NSE Nifty surged 203.30 points or 0.92% to 22,403.85.",
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-spurt-nearly-1-on-buying-in-hdfc-bank-infosys-amid-global-stocks-rally/article68182133.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "May 16, 2024",
+      "rank": 12
+    },
+    {
+      "title": "NIFTY Financial News Headlines Dataset",
+      "description": "The News-Informed Financial Trend Yield (NIFTY) dataset is a processed and curated daily news headlines dataset for the stock (US Equities) market price ...",
+      "link": "https://arxiv.org/html/2405.09747v1",
+      "display_link": "https://arxiv.org › html",
+      "date": "May 16, 2024",
+      "rank": 14
+    }
+  ]
+}

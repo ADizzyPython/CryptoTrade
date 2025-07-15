@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-27 after:2024-03-26 \"nifty\"",
+    "results_cnt": 3890000,
+    "search_time": 0.31,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:41:43.207841Z"
+  },
+  "organic": [
+    {
+      "title": "Navi Nifty IT Index Fund Direct - Growth (₹ 10.91)",
+      "description": "The scheme seeks to achieve a return equivalent to Nifty IT Index by investing in stocks of companies comprising Nifty IT Index, subject to tracking error.",
+      "link": "https://m.economictimes.com/navi-nifty-it-index-fund-direct-plan/mffactsheet/schemeid-44234.cms",
+      "display_link": "https://m.economictimes.com › ... › Navi Mutual Fund",
+      "date": "Mar 26, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Rallies 200% After COVID Fall : From 7500 to 22500",
+      "description": "Currently, Nifty is trading at around 22,000, which is approximately 526 points or 2.4% lower than its all-time high levels. Nifty50 Versus Dow Jones. When we ...",
+      "link": "https://www.angelone.in/news/nifty-rallies-200-covid-fall-past-4-years",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "Mar 26, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty March futures trade at premium - Mar 26, 2024",
+      "description": "The Nifty March 2024 futures closed at 22,095, a premium of 90.3 points compared with the Nifty`s closing 22,004.70 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-march-futures-trade-at-premium/1499129",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "Mar 26, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Tata Nifty MidSmall Healthcare Index Fund Regular Growth",
+      "description": "Tata Nifty MidSmall Healthcare Index Fund Regular Growth INF277KA1BD0. Quote. There is no data available for this component.",
+      "link": "https://www.morningstar.in/mutualfunds/f00001k981/tata-nifty-midsmall-healthcare-index-fund-regular-growth/detailed-portfolio.aspx",
+      "display_link": "https://www.morningstar.in › detailed-portfolio",
+      "date": "Mar 26, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Bandhan Nifty 50 ETF Share Price Today on NSE and BSE",
+      "description": "Bandhan Nifty 50 ETF share price as of 09 Jul 2025, is Rs 278.05 on NSE and Rs NA on BSE. What is the market capitalization of Bandhan Nifty 50 ETF?",
+      "link": "https://www.findoc.com/company-profile/idfc-nifty-etf",
+      "display_link": "https://www.findoc.com › company-profile › idfc-nifty-etf",
+      "date": "Mar 26, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Sensex ends over 300 points lower, Nifty settles above ...",
+      "description": "Sensex ends over 300 points lower, Nifty settles above 22,000. The S&P BSE Sensex fell 361.64 points to 72,470.30 at the closing bell, while the NSE Nifty50 ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-closing-bell-sensex-nifty-settles-lower-weakness-dalal-street-2519553-2024-03-26",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Mar 26, 2024",
+      "rank": 20
+    }
+  ]
+}

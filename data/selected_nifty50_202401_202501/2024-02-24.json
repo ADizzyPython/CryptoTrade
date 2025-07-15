@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-25 after:2024-02-24 \"nifty\"",
+    "results_cnt": 18,
+    "search_time": 0.55,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:36:18.222332Z"
+  },
+  "organic": [
+    {
+      "title": "Pros and Cons of Investing in Bank Nifty ETFs",
+      "description": "Bank Nifty, sometimes referred to as Nifty Bank, is a sectoral market index designed to track the banking sector in India. It comprises 12 banking stocks listed ...",
+      "link": "https://www.bajajamc.com/knowledge-centre/pros-and-cons-of-investing-in-bank-nifty-etfs-for-a-long-term",
+      "display_link": "https://www.bajajamc.com › Knowledge Centre",
+      "date": "Feb 24, 2024",
+      "rank": 1
+    },
+    {
+      "title": "High Correlation US S&P500 and Nifty 50",
+      "description": "While US markets was a leading indicator in the beginning. but Nifty later on started giving leading indicator. One can argue that Nifty return is in INR while ...",
+      "link": "https://www.tradingview.com/chart/NIFTY/ltGXWyPE-High-Correlation-US-S-P500-and-Nifty-50/",
+      "display_link": "https://www.tradingview.com › chart › ltGXWyPE-Hig...",
+      "date": "Feb 24, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Q3FY24 Review: Nifty 500 firms deliver 25% growth; BFSI, ...",
+      "description": "The Nifty 500 companies delivered strong performance and reported an earnings growth of 25 per cent year-on-year (YoY) in the October-December quarter of fiscal ...",
+      "link": "https://www.livemint.com/market/stock-market-news/q3fy24-review-nifty-500-firms-deliver-25-yoy-growth-bfsi-oil-gas-shine-ioc-hdfc-bank-among-top-5-11708722507102.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Feb 24, 2024",
+      "rank": 6
+    },
+    {
+      "title": "NIFTY Elliott wave perspective",
+      "description": "Nifty has formed a higher high while other two indices -. Mid & Small caps are forming lower high which leads to reversals. Some times major reversals.. Check ...",
+      "link": "https://www.hdfcsec.com/hsl.docs//HDFC%20sec%20Research%20-Nifty%20-%20Elliott%20wave%20perspective%20-Breakout-24022024-202402260942508763664.pdf",
+      "display_link": "https://www.hdfcsec.com › hsl.docs › HDFC sec R...",
+      "date": "Feb 24, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Todays Gold Rate in Sharjah, 18, 22 & 24 Carat ...",
+      "description": "... Download App. Sensex. 82,500.47 -0.83% · Nifty. 25,149.85 -0.81% · 22k Gold. ₹ 9,140 /gm · Silver. ₹ 1,15,000/kg · Petrol. ₹ 103.50 · Diesel. ₹ 90.03 · Crude ...",
+      "link": "https://www.goodreturns.in/gold-rates/sharjah.html",
+      "display_link": "https://www.goodreturns.in › Gold Rates",
+      "date": "Feb 24, 2024",
+      "rank": 18
+    }
+  ]
+}

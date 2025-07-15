@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-05 after:2024-08-04 \"nifty\"",
+    "results_cnt": 322000,
+    "search_time": 0.29,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:02:59.989338Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty crash in-line with selling pressure in global ...",
+      "description": "The 30-share BSE Sensex tanked 2,401.49 points to 78,580.46 in early trade. The NSE Nifty tumbled 489.65 points to 24,228.05. PTI.",
+      "link": "https://www.deccanherald.com/business/markets/sensex-nifty-crash-in-line-with-selling-pressure-in-global-markets-on-us-growth-fears-3136960",
+      "display_link": "https://www.deccanherald.com › Business › Markets",
+      "date": "Aug 4, 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-01 after:2024-06-30 \"nifty\"",
+    "results_cnt": 331000,
+    "search_time": 0.35,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:56:34.815803Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY NEXT 50 Futures - Live Nifty/NSE Future Price Chart",
+      "description": "NIFTY NEXT 50 Futures - Latest updates on live Nifty/NSE Futures chart, Nifty Future prices, Bank Nifty Future, Nifty Stock Futures & more on Groww.in.",
+      "link": "https://groww.in/futures/nifty-next",
+      "display_link": "https://groww.in › Futures & Options › Option Chain",
+      "date": "30 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 Analysis and Opinion",
+      "description": "Nifty 50 Shows Sign of Weakness but Uptrend Remains Intact. While the broader market Nifty 50 index is consistently making newer highs, traders should start ...",
+      "link": "https://www.investing.com/indices/s-p-cnx-nifty-opinion",
+      "display_link": "https://www.investing.com › indices › s-p-cnx-nifty-opi...",
+      "date": "30 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty bulls climb Mt 24K. Here's the record-breaking journey ...",
+      "description": "The index surged 1,000 points in just 17 trading sessions. With this, the Nifty has now gained more than 5,000 points from its 52-week low of 18,837.85, with ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-bulls-climb-mt-24k-the-record-breaking-journey-in-8-charts/valuation-watch/slideshow/111377616.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "30 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty Snap Three-day Winning Streak",
+      "description": "Sensex, Nifty End Lower On Tariff Concerns. Indian shares ended Thursday's session lower as U.S. President Donald Trump intensified his tariff war strategy.",
+      "link": "https://www.myfxbook.com/fr/news/sensex-nifty-snap-three-day-winning-streak/24082",
+      "display_link": "https://www.myfxbook.com › Accueil › Actualités Forex",
+      "date": "30 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trade setup for 1 July: Profit booking in BANK NIFTY, ...",
+      "description": "The BANK NIFTY index closed below its two-day low and formed a bearish candlestick on the daily chart. The index has significant call open interest at the ...",
+      "link": "https://upstox.com/news/market-news/trading/trade-setup-for-1-july-profit-booking-in-bank-nifty-53-000-emerges-as-resistance/article-98392/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "30 Jun 2024",
+      "rank": 16
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-04 after:2024-08-03 \"nifty\"",
+    "results_cnt": 10,
+    "search_time": 0.4,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:02:45.787919Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 snaps longest weekly winning run since 2010 with ...",
+      "description": "Nifty 50 ended today's session with a drop of 1.7%, closing at 24,717 points, resulting in a weekly decline of 0.50%. This marks the first weekly drop for the ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-snaps-longest-weekly-winning-run-since-2010-with-0-5-drop-30-stocks-end-in-the-red-tata-motors-maruti-share-11722597298865.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "3 Aug 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 Hits 25000 Key Insights and Future | Hazratganj",
+      "description": "ðŸ'¹Nifty 50 Hits 25,000: Key Insights and Future Outlook ðŸš€ðŸ—“ï¸ On 1st August, the Nifty 50 index reached a significant milestone by crossing the ...",
+      "link": "https://store.smctradeonline.com/smc-global-securities-limited-stock-broker-hazratganj-lucknow-106836/TimelineDetails/307144",
+      "display_link": "https://store.smctradeonline.com › ... › Social Timeline",
+      "date": "3 Aug 2024",
+      "rank": 4
+    },
+    {
+      "title": "Intent is to curb expiry day frenzy, says Sebi's Narayan",
+      "description": "Jane Street, market, Nifty, sebi, foreign portfolio investors, FPI. 'Just Rs 750-crore margin can move Nifty by 2%': Mayank Bansal. SEBI, Jane streetm NSE ...",
+      "link": "https://www.financialexpress.com/market/intent-is-to-curb-expiry-day-frenzy-says-sebis-narayan-3572592/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "3 Aug 2024",
+      "rank": 9
+    }
+  ]
+}

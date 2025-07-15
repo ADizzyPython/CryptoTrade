@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-30 after:2024-10-29 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.42,
+    "language": "en-ES",
+    "country": "Spain",
+    "location": "India",
+    "timestamp": "2025-07-15T16:17:40.009951Z"
+  },
+  "organic": [
+    {
+      "title": "Technical View: Nifty needs decisive close above ...",
+      "description": "After opening flat, the Nifty 50 hit an intraday low of 24,141 and a high of 24,485 in late trade. The index finished at 24,467, up 128 points, and formed a ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-needs-decisive-close-above-24500-for-further-upward-journey-bank-nifty-climbs-above-all-moving-averages-12854165.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "29 Oct 2024",
+      "rank": 5
+    },
+    {
+      "title": "Is First Trust India NIFTY 50 Equal Weight ETF (NFTY) a ...",
+      "description": "The NIFTY 50 Equal Weight Index is an equally weighted index that tracks the performance of the 50 largest and most liquid Indian securities listed on the ...",
+      "link": "https://www.nasdaq.com/articles/first-trust-india-nifty-50-equal-weight-etf-nfty-strong-etf-right-now-1",
+      "display_link": "https://www.nasdaq.com › articles › first-trust-india-nift...",
+      "date": "29 Oct 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Nifty 50, Sensex today: Nifty 50 formed a high wave type candle after a fall hinting at the start of an upward correction. Indian stock market benchmark indices ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-october-29-11730167498790.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "29 Oct 2024",
+      "rank": 7
+    },
+    {
+      "title": "Tech View: Nifty indicators give positive signals, likely to ...",
+      "description": "Nifty opened flat and, after an initial dip, saw a strong recovery, closing positively at 24,467. The volatility index, INDIA VIX, rose by 1.57% to 14.52, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-indicators-give-positive-signals-likely-to-face-resistance-at-24694-how-to-trade-tomorrow/articleshow/114732859.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "29 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty, Sensex open flat amid continued selling by FIIs",
+      "description": "The Nifty slipped 10.30 points, starting at 24,328.85, while the Sensex rose by 32 points to open at 80,037.20. On Monday, both indices gained despite FIIs ...",
+      "link": "https://ddnews.gov.in/en/nifty-sensex-open-flat-amid-continued-selling-by-fiis/",
+      "display_link": "https://ddnews.gov.in › nifty-sensex-open-flat-amid-co...",
+      "date": "29 Oct 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty above 24450, Sensex jumps 364 points on Dhanteras ...",
+      "description": "... Nifty above 24,450. At close, the Sensex was up 363.99 points or 0.45 percent at 80,369.03, and the Nifty was up 127.60 points or 0.52 percent at 24,466.80.",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-bharti-airtel-spandana-sphoorty-suzlon-adani-ent-share-price-liveblog-19500618.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "29 Oct 2024",
+      "rank": 14
+    },
+    {
+      "title": "Market Close Highlights, Oct 29: Sensex adds 364pts, Nifty ...",
+      "description": "The BSE Sensex added 363.99 points or 0.45 per cent to settle at 80,369.03. Similarly, the NSE Nifty 50 ended higher by 127.70 points or 0.52 per cent at ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-sun-pharma-q2-afcons-infra-ipo-124102900059_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "29 Oct 2024",
+      "rank": 16
+    },
+    {
+      "title": "Trading Plan: Will Nifty find it difficult to surpass 24500 ...",
+      "description": "On Tuesday, the Nifty 50 closed at 24,467, up 128 points, while the Bank Nifty jumped 1,061 points, or 2.07 percent, to 52,321, with positive market breadth.",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-find-it-difficult-to-surpass-24500-bank-nifty-climb-above-52600-12854384.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "29 Oct 2024",
+      "rank": 17
+    },
+    {
+      "title": "Sensex, Nifty slip into red after flat open",
+      "description": "The Nifty index opened at 24,328.85 points with a decline of 10.30 points ... Among sectoral indices, Nifty Auto, Nifty FMCG, Nifty IT, and Nifty Metal ...",
+      "link": "https://www.chinimandi.com/sensex-nifty-slip-into-red-after-flat-open/",
+      "display_link": "https://www.chinimandi.com › All News",
+      "date": "29 Oct 2024",
+      "rank": 20
+    }
+  ]
+}

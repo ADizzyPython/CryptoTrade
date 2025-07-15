@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-12 after:2024-11-11 \"nifty\"",
+    "results_cnt": 345000,
+    "search_time": 0.31,
+    "language": "en-BD",
+    "country": "Bangladesh",
+    "location": "India",
+    "timestamp": "2025-07-15T16:19:38.401782Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Today: Nifty, Sensex End Flat After Two-Day ...",
+      "description": "The NSE Nifty IT rose the most, and the NSE Nifty Media declined the most. The NSE Nifty Midcap 150 ended 0.81% down at 20,749.95. The NSE Nifty Smallcap 250 ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-sensex-nifty-50-gift-nifty-today-11-11-2024",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Nov 11, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock Market Highlights: Nifty 50 ends below ...",
+      "description": "Sensex Today | Stock Market Highlights: The Sensex edged up by 10 points, closing at 79496, while the Nifty slipped 7 points to settle at 24141.",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-tata-motors-asian-paints-lic-ongc-hindalco-share-price-liveblog-19507200.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Nov 11, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50 and Sensex, IT and Media Stocks Gained Most",
+      "description": "Nifty 50 was down 0.03% and settled at 24,141.30 while Sensex was up 0.01% to 79,496.15. Nifty Bank was up 0.61% to 51,876.75. The volatility indicator Nifty ...",
+      "link": "https://www.angelone.in/news/closing-bell-11th-november-2024",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "Nov 11, 2024",
+      "rank": 13
+    },
+    {
+      "title": "India's Nifty 50 Set For A Modest Rise After Recent Correction",
+      "description": "India's Nifty 50 index, after a recent dip, is set for a slight rise on hopes of a Federal Reserve rate cut following US inflation data.",
+      "link": "https://finimize.com/content/indias-nifty-50-set-for-a-modest-rise-after-recent-correction",
+      "display_link": "https://finimize.com › content › indias-nifty-50-set-for-...",
+      "date": "Nov 11, 2024",
+      "rank": 15
+    }
+  ]
+}

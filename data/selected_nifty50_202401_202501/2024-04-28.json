@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-29 after:2024-04-28 \"nifty\"",
+    "results_cnt": 2310000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:46:52.120307Z"
+  },
+  "organic": [
+    {
+      "title": "Why Nifty Bank has underperformed Nifty50 in the past one ...",
+      "description": "In the past one year ended April 22, 2024, the Nifty Bank index has given only 12.41% returns compared to 25.89% returns by the Nifty 50 index.",
+      "link": "https://m.economictimes.com/markets/stocks/news/why-nifty-bank-has-underperformed-nifty50-in-the-past-one-year/articleshow/109660443.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Apr 28, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Trade setup for 29 April: 22500 remains a hurdle for NIFTY50",
+      "description": "The GITY NIFTY is up 0.3%, while the Hong Kong's Hang ... Based on the open interest, traders expect the BANK NIFTY to trade between 47,700 and 48,900.",
+      "link": "https://upstox.com/news/market-news/trading/trade-setup-for-29-april-22500-remains-a-hurdle-for-nifty50/article-82945/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "Apr 28, 2024",
+      "rank": 20
+    }
+  ]
+}

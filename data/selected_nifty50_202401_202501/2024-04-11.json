@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-12 after:2024-04-11 \"nifty\"",
+    "results_cnt": 2840000,
+    "search_time": 0.29,
+    "language": "en-MY",
+    "country": "Malaysia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:44:09.655654Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty chart pattern - F&O",
+      "description": "Hello everyone, on 10th of April I was analysing nifty chart and came across the bearish engulfing candle at 2:45 pm (5 mins chart), however market instead ...",
+      "link": "https://tradingqna.com/t/nifty-chart-pattern/163895",
+      "display_link": "https://tradingqna.com › nifty-chart-pattern",
+      "date": "11 Apr 2024",
+      "rank": 5
+    },
+    {
+      "title": "Is Nifty 50 already above analysts' 2024-end target levels? ...",
+      "description": "Nifty 50 has made remarkable strides, already surpassing the year-end targets set by two brokerage firms for December 2024, and it's only April.",
+      "link": "https://www.moneycontrol.com/news/business/markets/is-nifty-50-already-above-analysts-2024-end-target-levels-investors-eye-more-upside-12621711.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "11 Apr 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty Navigator : Sailing Through the Indian Stock Market",
+      "description": "Nifty Navigator : Sailing Through the Indian Stock Market. ₹250.00. By: AKSHAY NITIN JALGAONKAR. ISBN: 9789358383690. Price: 250/-. Page: 121.",
+      "link": "https://astitvaprakashan.com/product/nifty-navigator-sailing-through-the-indian-stock-market/?srsltid=AfmBOoql5N_Tl1QZmY-qsHaTfYz9ACe3ngN-DiUthJZsk-0vjUnET0-4",
+      "display_link": "https://astitvaprakashan.com › product › nifty-navigator...",
+      "date": "11 Apr 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty 50, Sensex hit record high but gold, silver outshine ...",
+      "description": "The Nifty 50 index has risen 4.65%in 2024, the BSE Sensex has surged 3.83% in this period whereas the Bank Nifty index has ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-hit-record-high-but-gold-silver-outshine-key-indices-of-indian-stock-market-in-ytd-heres-why-11712801535388.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "11 Apr 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nvidia Triggers New Buy Point, Nasdaq Leads Nifty Stock ...",
+      "description": "Nvidia Triggers New Buy Point As Nasdaq Leads Nifty Rebound; Why Morgan Stanley Got Hammered ... The stock market today transitioned from seesaw action into a ...",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-nvidia-stock/",
+      "display_link": "https://www.investors.com › stock-market-today › dow-...",
+      "date": "11 Apr 2024",
+      "rank": 19
+    }
+  ]
+}

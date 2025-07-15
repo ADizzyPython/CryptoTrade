@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-22 after:2024-07-21 \"nifty\"",
+    "results_cnt": 349000,
+    "search_time": 0.29,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:59:59.021026Z"
+  },
+  "organic": [
+    {
+      "title": "Trading Plan: Will Nifty, Bank Nifty see more selling ...",
+      "description": "On Friday, the Nifty 50 fell 270 points, or 1 percent, to 24,531, and the Bank Nifty declined 355 points, or 0.7 percent, to 52,266, while both ended flat for ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-bank-nifty-see-more-selling-pressure-ahead-of-budget-day-12773747.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jul 21, 2024",
+      "rank": 5
+    },
+    {
+      "title": "NSE Unveils Nifty IPO Index: A New Benchmark for ...",
+      "description": "This new thematic index is designed to track the performance of the 100 most recent IPOs listed on the NSE main board. The Nifty IPO Index uses free-float ...",
+      "link": "https://in.investing.com/news/nse-unveils-nifty-ipo-index-a-new-benchmark-for-ipo-performance-4323190",
+      "display_link": "https://in.investing.com › news › nse-unveils-nifty-ipo-i...",
+      "date": "Jul 21, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Budget 2024: NIFTY50 historical trends and options ...",
+      "description": "Also Read: BANK NIFTY historical trends and options strategies to consider on budget day. NIFTY50's historical performance on Budget Day. Looking at the past ...",
+      "link": "https://upstox.com/news/market-news/trading/budget-day-strategy-check-nifty-50-historical-trends-and-options-strategies-to-consider-for-the-budget-day/article-103352/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "Jul 21, 2024",
+      "rank": 13
+    },
+    {
+      "title": "aleki's Nifty Ships - Minecraft Mods",
+      "description": "Welcome to the future of vanilla-friendly ships! Nifty Ships brings beautiful, detailed ships with loads of features to Minecraft. Find unfinished rowboats and ...",
+      "link": "https://www.curseforge.com/minecraft/mc-mods/alekiships",
+      "display_link": "https://www.curseforge.com › Minecraft › Mods",
+      "date": "Jul 21, 2024",
+      "rank": 15
+    }
+  ]
+}

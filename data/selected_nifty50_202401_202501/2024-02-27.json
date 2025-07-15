@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-28 after:2024-02-27 \"nifty\"",
+    "results_cnt": 288000,
+    "search_time": 0.29,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:37:21.772626Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50, Sensex on February 27: What to expect in trade ...",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are expected to open on a muted note Tuesday tracking mixed global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-27-11708999443591.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Feb 27, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Chart Advisor: Unlock Market Clues with the Nifty 50",
+      "description": "Nifty 50. The market gains strength and participation when the small cap index contributes to the move. When this ratio (bottom panel) is inching...",
+      "link": "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/chart-advisor-unlock-market-clues-with-the-nifty-50/",
+      "display_link": "https://www.interactivebrokers.com › securities › macro",
+      "date": "Feb 27, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty at 22200, Sensex rises 305 pts; IT gains, oil & gas drag",
+      "description": "At close, the Sensex was up 305.09 points or 0.42 percent at 73,095.22, and the Nifty was up 76.30 points or 0.34 percent at 22,198.30. ... Nifty near ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-27-02-2024-liveblog-12356801.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Feb 27, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Trade Setup for Feb 27: Rangebound Nifty looks to defend ...",
+      "description": "Although the Nifty shed over 90 points during Monday's trade, it traded in a 125-point range, eventually managing to defend the 22,100 mark on the downside.",
+      "link": "https://www.cnbctv18.com/market/trade-setup-feb-27-nifty-50-key-levels-nifty-bank-expiry-canara-bank-andhra-cement-vodafone-idea-shares-19136911.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Feb 27, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 305 pts higher, ...",
+      "description": "Share Market Today: Sensex ends 305 pts higher, Nifty reclaims 22,150 led by IT, auto stocks; Tata Motors, TCS rise over 2.5%. The Sensex ends 305.1 points, or ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-278042",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Feb 27, 2024",
+      "rank": 16
+    },
+    {
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.34%",
+      "description": "At the close in NSE, the Nifty 50 gained 0.34%, while the BSE Sensex 30 index added 0.42%. The best performers of the session on the Nifty 50 were Tata ...",
+      "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-034-3316276",
+      "display_link": "https://www.investing.com › news › stock-market-news",
+      "date": "Feb 27, 2024",
+      "rank": 18
+    }
+  ]
+}

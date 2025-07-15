@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-29 after:2024-01-28 \"nifty\"",
+    "results_cnt": 307000,
+    "search_time": 0.54,
+    "language": "en-FR",
+    "country": "France",
+    "location": "India",
+    "timestamp": "2025-07-15T15:31:11.064538Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Alpha 50 Contributors",
+      "description": "NIFTY Alpha 50 contributors ; Indian Bank · 641.85 · 6.75 · 1.06 · Financial ; Cummins India · 3,559.80 · 36.00 · 1.02 · Consumer Cyclical.",
+      "link": "https://www.livemint.com/market/nifty-alpha-50-contributors-i0092",
+      "display_link": "https://www.livemint.com › Market › Indices",
+      "date": "28 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "\"Nifty Exercise Boosts Elbow Mobility\" - THE SPORTS POD",
+      "description": "In this blog post, we will be sharing a fun and nifty mobility exercise that will help you overcome elbow issues. Firstly, it's important to note that mobility ...",
+      "link": "https://thesportspod.co/nifty-exercise-boosts-elbow-mobility/",
+      "display_link": "https://thesportspod.co › nifty-exercise-boosts-elbow-m...",
+      "date": "28 Jan 2024",
+      "rank": 8
+    }
+  ]
+}

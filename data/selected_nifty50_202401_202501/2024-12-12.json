@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-13 after:2024-12-12 \"nifty\"",
+    "results_cnt": 546000,
+    "search_time": 0.36,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:26:12.045612Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty settle lower ahead of inflation data ...",
+      "description": "The NSE Nifty dropped 93.10 points or 0.38% to 24,548.70. Among the 30-share Sensex blue-chip firms, NTPC, Hindustan Unilever, Tata Motors, Maruti, Larsen & ...",
+      "link": "https://www.thehindu.com/news/national/sensex-nifty-settle-lower-ahead-of-inflation-data-announcement/article68977356.ece",
+      "display_link": "https://www.thehindu.com › News › India",
+      "date": "Dec 12, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty IT hits life high, tops 46000; why are IT stocks in ...",
+      "description": "Nifty IT in the morning deals recorded an all-time high at 46,002.65. All 10 constituents were trading with gains and it was the only index trading in green ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-hits-life-high-tops-46-000-why-are-it-stocks-are-in-demand-124121200318_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Dec 12, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty tick higher after in-line US inflation data ...",
+      "description": "The Nifty IT index rose 0.83%, led by 1-2% gains in Tech Mahindra, Persistent Systems, Coforge, and Mphasis. Tired of too many ads? Remove Ads. Other major ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/sensex-nifty-tick-higher-after-in-line-us-inflation-data-cements-rate-cut-bets/articleshow/116235392.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 12, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock market today: Trade setup for Nifty 50 to global markets",
+      "description": "Snapping its three-day losing run, the broader NSE Nifty advanced 31.75 points or 0.13 per cent to settle at 24,641.80. ... Nifty decisively moves above ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-global-markets-5-stocks-to-buy-or-sell-on-thursday-dec-12-11733936278721.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 12, 2024",
+      "rank": 18
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-18 after:2024-09-17 \"nifty\"",
+    "results_cnt": 317000,
+    "search_time": 0.34,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:10:59.090067Z"
+  },
+  "organic": [
+    {
+      "title": "Email Forwarding to Create Tasks & Post Messages in ...",
+      "description": "Automate your workflow by forwarding your emails to create tasks and post messages to your Nifty Projects without even logging in!",
+      "link": "https://help.niftypm.com/en/articles/3603803-email-forwarding-to-create-tasks-post-messages-in-projects",
+      "display_link": "https://help.niftypm.com › articles › 3603803-email-for...",
+      "date": "Sep 17, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty, Sensex Hover Near Record Highs Ahead Of Fed Meet",
+      "description": "Nifty, Sensex Hover Near Record Highs Ahead Of Fed Meet: Midday Market Update. At 11:35 a.m., Nifty was trading 0.11% higher at 25,411, and Sensex was up 0.09% ...",
+      "link": "https://www.ndtvprofit.com/markets/nifty-sensex-hover-near-record-highs-ahead-of-fed-meet-midday-market-update",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Sep 17, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Will the Nifty scale above 25,500 ahead of the Fed decision ...",
+      "description": "Previously, on Monday, the NSE Nifty 50 ended up by 27.25 points or 0.11% to settle at 25,383.75 while the BSE Sensex jumped 97.84 points or 0.12% to 82,988.78.",
+      "link": "https://www.financialexpress.com/market/will-the-nifty-scale-above-25500-ahead-of-the-fed-decision-see-gift-nifty-fii-data-fampo-ban-crude-more-before-market-opens-3612920/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Sep 17, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty 50, Sensex Hit Record Close Before US Rate Decision",
+      "description": "Sensex climbed by 90.88 points to 83,079.66, while Nifty gained 34.80 points, reaching 25,418.55. Despite these record closing highs, overall market activity ...",
+      "link": "https://www.equitypandit.com/nifty-50-sensex-hit-record-close-before-us-rate-decision/",
+      "display_link": "https://www.equitypandit.com › nifty-50-sensex-hit-rec...",
+      "date": "Sep 17, 2024",
+      "rank": 17
+    }
+  ]
+}

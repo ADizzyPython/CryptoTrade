@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-28 after:2024-06-27 \"nifty\"",
+    "results_cnt": 331000,
+    "search_time": 0.31,
+    "language": "en-SG",
+    "country": "Singapore",
+    "location": "India",
+    "timestamp": "2025-07-15T15:56:08.786361Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 PE 25700",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25700-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "27 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "Zerodha Nifty 1D Rate Liquid ETF | LIQUIDCASE",
+      "description": "A simple ETF for effectively managing extra cash. Zerodha Nifty 1D Rate Liquid ETF invests in TREPS and aims to provide liquidity with relatively low risk.",
+      "link": "https://www.zerodhafundhouse.com/etfs/zerodha-nifty-1d-rate-liquid-etf-ZLIQD/",
+      "display_link": "https://www.zerodhafundhouse.com › etfs › zerodha-ni...",
+      "date": "27 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 25700",
+      "description": "NIFTY Expires 31 Jul; ₹ 25172 -51.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25700-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "27 Jun 2024",
+      "rank": 6
+    },
+    {
+      "title": "NIFTY 27Jun2024 CE 26000.00",
+      "description": "Live NSE / BSE Quotes, Live Nifty Quotes, Live Futures, snapshot, chart, Interest Analysis and more. Get detailed current market stats information on Indian ...",
+      "link": "https://m.moneycontrol.com/india/indexfutures/nifty/9/2024-06-27/OPTIDX/CE/26000.00/O",
+      "display_link": "https://m.moneycontrol.com › india › nifty › OPTIDX",
+      "date": "27 Jun 2024",
+      "rank": 7
+    },
+    {
+      "title": "NIFTY MONEY LIMITED people - Companies House - GOV.UK",
+      "description": "NIFTY MONEY LIMITED - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, ...",
+      "link": "https://find-and-update.company-information.service.gov.uk/company/15806925/officers",
+      "display_link": "https://find-and-update.company-information.service.gov.uk › ...",
+      "date": "27 Jun 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty 50 27 Jun, 2024 Option Chain with PCR",
+      "description": "Nifty 50 27 Jun, 2024 Option Chain with PCR - See live and changes in Implied Volatility(IV), Open Interest(OI), price, volume and put-call ratio(PCR).",
+      "link": "https://trendlyne.com/futures-options/options/27-jun-2024-other/1887/NIFTY/nifty-50/",
+      "display_link": "https://trendlyne.com › options › 27-jun-2024-other",
+      "date": "27 Jun 2024",
+      "rank": 10
+    },
+    {
+      "title": "Sensex extends record rally to 3rd session, ends above ...",
+      "description": "The Nifty Bank, which was the top gainer on Wednesday, reversed course today, closing at 52,811.30, down 59.20 points or 0.11%. Top Gainers and losers. Nifty's ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-nearing-24000-milestone-after-4-day-rally-sensex-crosses-79000/articleshow/111303115.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "27 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Share Market Highlights 27 June 2024: Sensex, Nifty make ...",
+      "description": "India's equity benchmarks BSE Sensex and NSE Nifty closed at record highs on Thursday. While the Sensex advanced 568.93 points, or 0.72%, to settle above ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-27-june-2024/article68336227.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "27 Jun 2024",
+      "rank": 17
+    },
+    {
+      "title": "Goldman Sachs' Sunil Koul reiterates 26000 Nifty target by ...",
+      "description": "Sunil Koul, APAC Equity Strategist at Goldman Sachs, expects the benchmark Nifty 50 index to gain another 10% within the next 12 months to reach 26,000.",
+      "link": "https://www.cnbctv18.com/market/goldman-sachs-sunil-koul-nifty-target-26000-by-june-2025-earnings-growth-budget-2024-expectations-19434666.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "27 Jun 2024",
+      "rank": 18
+    }
+  ]
+}

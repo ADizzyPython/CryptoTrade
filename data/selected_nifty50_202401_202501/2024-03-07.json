@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-08 after:2024-03-07 \"nifty\"",
+    "results_cnt": 327000,
+    "search_time": 0.28,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:02.197133Z"
+  },
+  "organic": [
+    {
+      "title": "Gantt Chart | Nifty Blog",
+      "description": "Why Monday.com doesn't have Gantt Charts but Nifty does. Let's not confuse ... nifty logo 2025 © Nifty Technologies, Inc. All rights reserved. Page load ...",
+      "link": "https://niftypm.com/blog/tag/gantt-chart/",
+      "display_link": "https://niftypm.com › blog › tag › gantt-chart",
+      "date": "Mar 7, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Fifties…Plus",
+      "description": "The Nifty Fifties...Plus (NFP) is a social and service organization whose (dues-paying) 150+ members are current (& past) residents of the “Highlands” and “Lake ...",
+      "link": "https://highlandsca.com/nifty-fifties-plus/",
+      "display_link": "https://highlandsca.com › nifty-fifties-plus",
+      "date": "Mar 7, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market Highlights 7 March 2024: Sensex, Nifty edge ...",
+      "description": "During the session it hit an all-time high of 74,245.17. The Nifty crawled up 19.50 points or 0.09 per cent to 22,493.55. In remarks to the House panel, US Fed ...",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-highlights-7-march-2024/article67920757.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Mar 7, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty 50, Sensex on March 7: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open higher on Thursday tracking positive cues from global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-march-7-11709776696156.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 7, 2024",
+      "rank": 10
+    }
+  ]
+}

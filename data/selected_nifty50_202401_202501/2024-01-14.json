@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-15 after:2024-01-14 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.25,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:29:10.114340Z"
+  },
+  "organic": [
+    {
+      "title": "Cogencis iinvest - Market",
+      "description": "NIFTY50 NIFTY Bank · Top Gainers Top Losers · NSE Indices · 52 week high 52 week low · Near 52 week high. Near 52 week low · Life High Life Low · Bulk Deals Block ...",
+      "link": "https://iinvest.cogencis.com/",
+      "display_link": "https://iinvest.cogencis.com",
+      "date": "Jan 14, 2024",
+      "rank": 17
+    }
+  ]
+}

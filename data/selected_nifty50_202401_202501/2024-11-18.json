@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-19 after:2024-11-18 \"nifty\"",
+    "results_cnt": 541000,
+    "search_time": 0.32,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:20:42.331505Z"
+  },
+  "organic": [
+    {
+      "title": "Tech view: Nifty slips below 23540 mark, breaches 200 ...",
+      "description": "The Nifty opened on a positive tone, but continuous selling pressure dampened sentiments, and the index settled the day on a negative note at 23,454.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-slips-below-23540-mark-breaches-200-dema-how-to-trade-tomorrow/articleshow/115417449.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "18 Nov 2024",
+      "rank": 2
+    },
+    {
+      "title": "Bharat Dynamics Limited Share Price Today, Stock ...",
+      "description": "NSE - NIFTY 50. 25,203.55. 121.25 (0.48%). 15-Jul-2025 11:59. Streaming ... NIFTY MIDCAP 100. Basic Industry, Aerospace & Defense. Dashboard; Announcements ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=BDL",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "18 Nov 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty braces for more volatility as global cues turn adverse",
+      "description": "For now, a slide below 23,500 is expected to drag Nifty down to 23200-23000 levels this week. The index has already corrected over 10% from its record high ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-november-18-nifty-braces-for-more-volatility-global-cues-bank-nifty-reliance-godrej-properties-share-price-19510553.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "18 Nov 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty November futures trade at premium - Nov 18, 2024",
+      "description": "The Nifty November 2024 futures closed at 23,513.15, a premium of 59.35 points compared with the Nifty`s closing 23,453.80 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-november-futures-trade-at-premium/1563969",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "18 Nov 2024",
+      "rank": 7
+    },
+    {
+      "title": "Max Life Nifty Momentum Quality 50 | Insurance Fund ...",
+      "description": "Max Life Nifty Momentum Quality 50. F00001P56A. NAV / 1-Day Return. 9.75 / -0.01%. Total Assets. 611.1 Mil. Inception Date. Nov 18, 2024. Expense Ratio.",
+      "link": "https://www.morningstar.in/insurance/F00001P56A/Max-Life-Nifty-Momentum-Quality-50/detailed-portfolio.aspx",
+      "display_link": "https://www.morningstar.in › detailed-portfolio",
+      "date": "18 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex, Nifty fall as IT, bank shares drag markets",
+      "description": "However, the Nifty Midcap 100 dropped 212.65 points (0.39%) to 53,830.45, while the Nifty Smallcap 100 saw a sharp fall of 183.85 points (1.04%) to 17,417.20.",
+      "link": "https://ddnews.gov.in/en/indian-stock-market-opens-in-red/",
+      "display_link": "https://ddnews.gov.in › indian-stock-market-opens-in-red",
+      "date": "18 Nov 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty 50 Takes a Hit, Investors Lose Rs 50 Trillion",
+      "description": "The Nifty dropped 10.4% to 23,532.7 and the Sensex declined 9.76% to 77,580.31. Broader indices have also been hit, with the Nifty Midcap 150 and Nifty ...",
+      "link": "https://m.thewire.in/article/economy/nifty-50-takes-a-hit-investors-lose-rs-50-trillion",
+      "display_link": "https://m.thewire.in › Economy",
+      "date": "18 Nov 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty Launches 'India Select 5 Corporate Groups (MAATR)' ...",
+      "description": "This index strategically tracks the top-performing companies from the Nifty 500 belonging to five corporate giants: Mahindra, Aditya Birla, Adani, Tata, and ...",
+      "link": "https://www.angelone.in/news/nifty-launches-india-select-5-corporate-groups",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "18 Nov 2024",
+      "rank": 14
+    }
+  ]
+}

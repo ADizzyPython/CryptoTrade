@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-07 after:2024-04-06 \"nifty\"",
+    "results_cnt": 17,
+    "search_time": 0.26,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:43:18.162512Z"
+  },
+  "organic": [
+    {
+      "title": "Jagan Lamps Ltd",
+      "description": "Nifty (-0.18%). 25476.10-46.40 · Nifty Midcap (-0.13%). 59339.60-75.85 · Nifty Smallcap (0.60%). 9192.50+ 54.80 · Nifty Bank (-0.07%). 57213.55-42.75 · Nifty IT ...",
+      "link": "https://www.business-standard.com/markets/jagan-lamps-ltd-share-price-5339/announcements/bse-exchange-42026027",
+      "display_link": "https://www.business-standard.com › announcements",
+      "date": "6 Apr 2024",
+      "rank": 8
+    },
+    {
+      "title": "Max Alert Systems Ltd Share Price",
+      "description": "Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors Share Price · Adani Power Share Price · HDFC Bank Share Price · Tata Steel ...",
+      "link": "https://www.businesstoday.in/stocks/max-alert-systems-ltd-share-price-366106",
+      "display_link": "https://www.businesstoday.in › Markets › Stocks",
+      "date": "6 Apr 2024",
+      "rank": 12
+    },
+    {
+      "title": "BIOCON Q2 results",
+      "description": "... Nifty 50 companies. ADANI ENTERPRISES share priceADANI PORTS share priceAPOLLO HOSPITALS share priceASIAN PAINTS share priceAXIS BANK share priceBAJAJ AUTO ...",
+      "link": "https://www.livemint.com/market/market-stats/biocon-q2-results-s0003121",
+      "display_link": "https://www.livemint.com › Market › Market Stats",
+      "date": "6 Apr 2024",
+      "rank": 14
+    }
+  ]
+}

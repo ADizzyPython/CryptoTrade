@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-25 after:2024-06-24 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.29,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:55:42.482190Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Highlights: Nifty poised for upper range ...",
+      "description": "Having bounced back from near the lower range of 23,300 levels, there is a possibility of Nifty testing the upper range of 23,650-23,700 in the short term.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-24-june-2024/liveblog/111217322.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jun 24, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Closing Bell: Sensex gains 131 pts, Nifty above ...",
+      "description": "At close, the Sensex was up 131.18 points or 0.17 percent at 77,341.08, and the Nifty was up 36.70 points or 0.16 percent at 23,537.80. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-24-06-2024-liveblog-12754626.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jun 24, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Top Tips and Strategy for Trading in Bank Nifty Option",
+      "description": "The Bank Nifty is a stock market index that tracks the banking industry. In order to allow for free movement of the capital market performance of one of ...",
+      "link": "https://www.kotaksecurities.com/investing-guide/futures-and-options/bank-nifty-options-tips-and-strategies/",
+      "display_link": "https://www.kotaksecurities.com › futures-and-options",
+      "date": "Jun 24, 2024",
+      "rank": 5
+    },
+    {
+      "title": "GIFT Nifty signals negative start for D-Street. Here's ...",
+      "description": "A decisive move for Nifty above 23,600 might take the index towards 24,000 in the short term, whereas failure to hold above 23,300 might trigger panic in the ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/gift-nifty-signals-negative-start-for-d-street-heres-the-trading-setup-for-todays-session/articleshow/111216633.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Jun 24, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Time to book profits in Nifty50, Midcap Select index? What ...",
+      "description": "Nifty 50 Index Analysis: The Nifty 50 Index is currently trading at 23,501.10. In the near term, the index is trading within a range of 23,700 to 23,300.",
+      "link": "https://www.business-standard.com/markets/news/time-to-book-profits-in-nifty50-midcap-select-index-what-charts-reveal-124062400067_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jun 24, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50 ekes out gains; Adani Ports replaces Wipro in BSE ...",
+      "description": "Stock market today: Nifty 50 closed with a mild gain of 37 points, or 0.16 per cent, at 23537.85, while the Sensex ended 131 points, or 0.17 per cent, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-eke-out-gains-m-m-icici-bank-hdfc-bank-among-top-index-movers-11719222962405.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 24, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Market Watch: Will Nifty Maintain 23500 Level? Check ...",
+      "description": "On Friday, June 21, 2024, the NSE Nifty 50 closed down by 65.90 points or 0.28 per cent, settling at 23,501.10, while the BSE Sensex fell 269.03 points or 0.35 ...",
+      "link": "https://www.timesnownews.com/business-economy/markets/market-watch-will-nifty-maintain-23500-level-check-indicators-before-market-opening-article-111217200",
+      "display_link": "https://www.timesnownews.com › Business › Markets",
+      "date": "Jun 24, 2024",
+      "rank": 18
+    }
+  ]
+}

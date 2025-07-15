@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-10 after:2024-03-09 \"nifty\"",
+    "results_cnt": 7,
+    "search_time": 0.37,
+    "language": "en-KH",
+    "country": "Cambodia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:20.003765Z"
+  },
+  "organic": [
+    {
+      "title": "Recovering Deleted Items",
+      "description": "Accidents happen, which is why Nifty has a Trash can in your Workspace. When specific items are deleted, they will be stored for 30 days within a \"soft ...",
+      "link": "https://help.niftypm.com/en/articles/9042808-recovering-deleted-items",
+      "display_link": "https://help.niftypm.com › articles › 9042808-recovering...",
+      "date": "Mar 9, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Sensex, Nifty 50 at record high; is market overheated? ...",
+      "description": "Nifty 50 hit its fresh record high of 22,525.65 while Sensex set its new all-time high of 74,245.17 in intraday trade on Thursday, March 7. Market sentiment is ...",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-at-record-high-is-market-overheated-what-should-investors-do-11709813326006.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 9, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market Prediction for Nifty & Bank Nifty 11th March ...",
+      "description": "In Stock Market Today, during market volatility, Sensex and Nifty hold steady, with metal and FMCG sectors gaining, while oil & gas, auto, ...",
+      "link": "https://www.spidersoftwareindia.com/blog/stock-market-prediction-for-nifty-bank-nifty-11th-march-2024/",
+      "display_link": "https://www.spidersoftwareindia.com › blog › stock-mar...",
+      "date": "Mar 9, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Mukka Proteins News",
+      "description": "... Nifty snap 4-day losing run; investors earn over ₹2 lakh crore— 10 key highlights from Indian stock market todayHow artist Vibha Galhotra uses climate data ...",
+      "link": "https://www.livemint.com/mukka-proteins/news/companyid-s0005728",
+      "display_link": "https://www.livemint.com › news › companyid-s0005728",
+      "date": "Mar 9, 2024",
+      "rank": 7
+    }
+  ]
+}

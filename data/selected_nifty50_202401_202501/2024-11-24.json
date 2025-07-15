@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-25 after:2024-11-24 \"nifty\"",
+    "results_cnt": 557000,
+    "search_time": 0.3,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:21:33.800647Z"
+  },
+  "organic": [
+    {
+      "title": "NSE Nifty Capital Market Index Today - The Economic Times",
+      "description": "The previous day's closing value of Nifty Capital Market was 4477.0. As of today, the current value of Nifty Capital Market stands at 4536.3.",
+      "link": "https://economictimes.indiatimes.com/markets/indices/nifty-capital-market",
+      "display_link": "https://economictimes.indiatimes.com › Markets › Indices",
+      "date": "24 Nov 2024",
+      "rank": 1
+    }
+  ]
+}

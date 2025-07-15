@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-09 after:2024-01-08 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.39,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:28:12.314907Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Index Fund NFO |Baroda BNP | MF India",
+      "description": "About the Nifty 50 Total Returns Index. ✓ The Index comprises of 50 of the largest, liquid blue-chip companies listed on the National Stock Exchange.",
+      "link": "https://www.barodabnpparibasmf.in/index-fund-nfo",
+      "display_link": "https://www.barodabnpparibasmf.in › index-fund-nfo",
+      "date": "Jan 8, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Kings of consistency: Nifty stocks which have regularly ...",
+      "description": "A Moneycontrol analysis shows that eight Nifty stocks have outperformed the index five times, the highest, since 2016. These are L&T, Ultratech Cement, Titan, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/kings-of-consistency-nifty-stocks-which-have-regularly-outdone-the-benchmark-12013721.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jan 8, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty and Sensex will go down by about 20% in the year ...",
+      "description": "The NSE Nifty climbed 20.03 per cent and the BSE Sensex jumped 18.74 per cent. This is against a 24 per cent rise in the S&P500 index and a 13.7 per cent return ...",
+      "link": "https://www.businesstoday.in/markets/market-commentary/story/nifty-and-sensex-will-go-down-by-about-20-in-the-year-2024-says-amit-goel-of-pace-360-412266-2024-01-08",
+      "display_link": "https://www.businesstoday.in › ... › Market Commentary",
+      "date": "Jan 8, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex tanks 671 pts, Nifty nears 21500 amid global rout",
+      "description": "Nifty likely to consolidate, keep an eye on 21,500; Nifty Bank overbought. 2:16 AM. Tech View :: 'Fall in Bank Nifty near maturity'. Nifty50. On the daily ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-today-jan-8-nse-bse-sensex-nifty-china-korea-oil-fiis-diis-asian-stocks-124010800023_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jan 8, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty tumble 1% each; correction 'normal' ahead of ...",
+      "description": "At close, BSE Sensex and NSE Nifty50 slipped up to 1 percent to 71,355 and 21,511 levels, respectively. Broader markets, too, saw profit-booking as Nifty Midcap ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/volatility-normal-ahead-of-q3-but-niftys-race-to-22000-mark-possible-analysts-12015901.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jan 8, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Share Market Highlights 08 January 2024: Sensex sheds ...",
+      "description": "Share Market Highlights 08 January 2024: Sensex sheds 671 pts, Nifty closes around 21,500. Sensex, Nifty updates on 08 January 2024: Notwithstanding initial ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-08-january-2024/article67715949.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Jan 8, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Markets end in the red after opening higher; Nifty closes near ...",
+      "description": "The benchmark equity indices ended Monday's trading session in the red. The NSE Nifty 50 fell 197.80 points or 0.91% to settle at 21,513 points.",
+      "link": "https://www.financialexpress.com/market/markets-end-in-the-red-after-opening-higher-nifty-closes-near-21500-top-gainers-on-january-08-include-adani-ports-and-sez-hcl-technologies-oil-and-natural-gas-hero-motocorp-and-ntpc-whereas-banks-and-3358669/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Jan 8, 2024",
+      "rank": 18
+    },
+    {
+      "title": "FIRST TRADE: Sensex, Nifty muted amid subdued global ...",
+      "description": "Last seen, the S&P BSE Sensex rose 0.09 per cent, or 67.63 points, to 72,093.78, and the NSE Nifty was up 26.4 points, or 0.11 per cent, at 21,737.2. \"The year- ...",
+      "link": "https://www.zeebiz.com/market-news/news-first-trade-sensex-nifty-open-muted-amid-subdued-global-stocks-bpcl-titan-eicher-motorsadani-ports-ongc-271212",
+      "display_link": "https://www.zeebiz.com › Markets",
+      "date": "Jan 8, 2024",
+      "rank": 19
+    },
+    {
+      "title": "India's Nifty 50 off to muted start ahead of data, earnings",
+      "description": "The blue-chip NSE Nifty 50 rose 0.06% to 21,725.05 points, while the S&P BSE Sensex added 0.04% to 72,066.23, as of 9:16 a.m. IST. Indian shares NSE Nifty 50 ...",
+      "link": "https://www.brecorder.com/news/40282563",
+      "display_link": "https://www.brecorder.com › Markets › Stocks",
+      "date": "Jan 8, 2024",
+      "rank": 20
+    }
+  ]
+}

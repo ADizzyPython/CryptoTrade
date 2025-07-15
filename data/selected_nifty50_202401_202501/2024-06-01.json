@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-02 after:2024-06-01 \"nifty\"",
+    "results_cnt": 11,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:52:02.516472Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty 50 break 3-month gains to end May in red",
+      "description": "Sensex shed 0.70 per cent, while the Nifty 50 declined 0.33 per cent in May. The BSE Midcap index, on the other hand, bucked the trend and clocked a decent gain ...",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-break-3-month-gains-to-end-may-in-red-5-major-triggers-to-watch-out-for-in-june-11717154220761.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 1, 2024",
+      "rank": 2
+    }
+  ]
+}

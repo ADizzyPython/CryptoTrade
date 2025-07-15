@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-26 after:2024-07-25 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.29,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:00.739635Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY 25Jul2024 CE 25700.00",
+      "description": "Live NSE / BSE Quotes, Live Nifty Quotes, Live Futures, snapshot, chart, Interest Analysis and more. Get detailed current market stats information on Indian ...",
+      "link": "https://m.moneycontrol.com/india/indexfutures/nifty/9/2024-07-25/OPTIDX/CE/25700.00/true",
+      "display_link": "https://m.moneycontrol.com › nifty › OPTIDX › true",
+      "date": "25 Jul 2024",
+      "rank": 3
+    },
+    {
+      "title": "24400 likely to be crucial for further pullback in Nifty",
+      "description": "The Nifty 50 showed a healthy pullback after a weak opening, defending the 24,400 mark on a closing basis for the fourth consecutive session, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-24400-likely-to-be-crucial-for-further-pullback-in-nifty-bank-nifty-breaks-50-day-ema-12778348.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "25 Jul 2024",
+      "rank": 6
+    },
+    {
+      "title": "Axis Bank falls 5%, TaMo up 6% | News on Markets",
+      "description": "Stock Market Highlights, July 25: Nifty holds 24,400 amid F&O expiry; Axis Bank falls 5%, TaMo up 6%. Stock Market Highlights today, July 25: The BSE Sensex ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-gift-nifty-sensex-nse-bse-nifty50-ipo-listing-today-nasdaq-s-p-500-nvidia-nikkei-124072500070_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "25 Jul 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex, Nifty open lower as financial stocks tank; Axis ...",
+      "description": "On the Nifty sectoral indices, Nifty Bank fell 1.26%, Nifty Financial Services was down 1.05%, Nifty Metal declined 1.49%, Nifty PSU Bank also plunged 1.37%.",
+      "link": "https://www.indiatoday.in/business/story/market-opening-bse-nse-sensex-nifty-open-lower-as-financial-stocks-tank-axis-bank-falls-6-per-cent-2571536-2024-07-25",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "25 Jul 2024",
+      "rank": 10
+    },
+    {
+      "title": "NSE Result Calendar 2025 (Latest Data)",
+      "description": "This comprehensive guide provides the result announcement dates for all the companies that are part of the Nifty 50 index.",
+      "link": "https://www.niftytrader.in/results-calendar",
+      "display_link": "https://www.niftytrader.in › results-calendar",
+      "date": "25 Jul 2024",
+      "rank": 16
+    },
+    {
+      "title": "Nifty IT up 24% in 2 months; is the worst behind for ...",
+      "description": "The Nifty IT index has gained nearly 24 per cent since June. In contrast, Nifty 50 has gained over 8 per cent in the same period.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-it-up-24-in-2-months-is-the-worst-behind-for-the-sector-what-should-investors-do-heres-what-5-top-experts-say-11721872423051.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "25 Jul 2024",
+      "rank": 18
+    }
+  ]
+}

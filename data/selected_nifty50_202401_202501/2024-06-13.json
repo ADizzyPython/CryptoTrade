@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-14 after:2024-06-13 \"nifty\"",
+    "results_cnt": 397000,
+    "search_time": 0.55,
+    "language": "en-ID",
+    "country": "Indonesia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:51.972510Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY13-06-2024CE23200.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "13 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE Nifty 50 Hourly Gainers Stocks - The Economic Times",
+      "description": "Hourly gainers NSE Nifty 50 - View the stock market top gainers live data of this hour. Keep a track of share market top gainers on hourly basis.",
+      "link": "https://economictimes.indiatimes.com/stocks/marketstats/hourly-gainers/nse-nifty-50",
+      "display_link": "https://economictimes.indiatimes.com › Markets › Stocks",
+      "date": "13 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 17 JUL 2025 PE 25150",
+      "description": "Nifty Option Chain; Nifty 25150 Pe. Nifty 17 JUL 2025 PE 25150. Nifty 17 JUL 2025 PE 25150. ₹ 108.65. 4.05 (3.87%). Expiry: Jul 17 2025, Expiry: Jul 24 2025 ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25150-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "13 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Invest Online In Motilal Oswal Nifty India Defence Index fund",
+      "description": "Explore Motilal Oswal Nifty India Defence Index fund -Invest in a fund that aims to leverage the growing potential of the defence sector.",
+      "link": "https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-nifty-india-defence-index-fund",
+      "display_link": "https://www.motilaloswalmf.com › mutual-funds › motil...",
+      "date": "13 Jun 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 50 13 Jun, 2024 Option Chain with PCR",
+      "description": "Nifty 50 13 Jun, 2024 Option Chain with PCR - See live and changes in Implied Volatility(IV), Open Interest(OI), price, volume and put-call ratio(PCR).",
+      "link": "https://trendlyne.com/futures-options/options/13-jun-2024-next/1887/NIFTY/nifty-50/",
+      "display_link": "https://trendlyne.com › futures-options › options › nifty...",
+      "date": "13 Jun 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty, Sensex touch new peaks in closing session",
+      "description": "The BSE Sensex and NSE Nifty soared to new peaks, reaching 77,145 and 23,481, respectively. Notably, the Nifty 50 closed 0.33 percent higher at 23,398.95 ...",
+      "link": "https://ddnews.gov.in/en/nifty-sensex-touch-new-peaks-in-closing-session/",
+      "display_link": "https://ddnews.gov.in › nifty-sensex-touch-new-peaks-i...",
+      "date": "13 Jun 2024",
+      "rank": 9
+    },
+    {
+      "title": "Technical View | Nifty extends gains to hit record high",
+      "description": "Technical View | Nifty extends gains to hit record high; support seen at 23,300. Nifty Midcap 100 index also touched fresh high of 54,753.20, intraday, and ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-extends-gains-to-hit-record-high-support-seen-at-23300-12747980.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "13 Jun 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty Extends Record Run On Weekly Expiry Day; Sensex ...",
+      "description": "The Nifty closed at 23398.90, up 0.33% or 75.95 points and Sensex closed at 76810.90, up 0.27% or 204.33 points. KEY HIGHLIGHTS. Rupee Ends Flat Against U.S. ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-nse-bse-nifty-sensex-tata-power-lt-finance-nestle-india-dr-reddys-share-price-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "13 Jun 2024",
+      "rank": 16
+    }
+  ]
+}

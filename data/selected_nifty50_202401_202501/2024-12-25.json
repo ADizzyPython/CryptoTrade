@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-26 after:2024-12-25 \"nifty\"",
+    "results_cnt": 15,
+    "search_time": 0.34,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:28:12.761163Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty500 Quality 50",
+      "description": "Nifty500 Quality 50 Index aims to track the performance of the top 50 stocks within Nifty 500 which are selected based on their quality scores.",
+      "link": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty500-quality-50",
+      "display_link": "https://www.niftyindices.com › equity › strategy-indices",
+      "date": "25 Dec 2024",
+      "rank": 1
+    },
+    {
+      "title": "Market outlook 2025: Nifty 50 could correct another 5-10% ...",
+      "description": "Murthy sees the Nifty 50 closer to 25,000 to 26,00 by the end of 2025. Year-to-date, the index is up a little over 9 per cent. Disappointing quarterly earnings, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/market-outlook-2025-nifty-50-could-correct-another-5-10-in-the-first-half-says-murthy-of-vachana-investments-11735116091001.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "25 Dec 2024",
+      "rank": 2
+    },
+    {
+      "title": "Trading Plan: Can Nifty, Bank Nifty break out of their ...",
+      "description": "On Tuesday, December 24, the Nifty 50 was down by 26 points at 23,728, while the Bank Nifty declined 85 points to 51,233. However, market breadth was slightly ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-bank-nifty-break-out-of-their-rangebound-trading-pattern-12897545.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "25 Dec 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty edge down in sluggish trading",
+      "description": "The NSE Nifty dipped 25.80 points or 0.11 per cent to 23,727.65. “The domestic market concluded flat ahead of the holiday, with metal and power stocks dragging ...",
+      "link": "https://www.thehansindia.com/business/sensex-nifty-edge-down-in-sluggish-trading-932397",
+      "display_link": "https://www.thehansindia.com › Business",
+      "date": "25 Dec 2024",
+      "rank": 12
+    }
+  ]
+}

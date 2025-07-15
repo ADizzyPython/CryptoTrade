@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-06 after:2024-11-05 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.38,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:18:43.125046Z"
+  },
+  "organic": [
+    {
+      "title": "Stock Market Highlights: Nifty forms Piercing Line candle ...",
+      "description": "The underlying short-term trend of Nifty is on the verge of reversal. A decisive move above 24500 levels could open fresh upmove in the market.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-05-november-2024/liveblog/114962193.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Nov 5, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Sensex, Nifty rebound sharply as financial stocks gain ...",
+      "description": "The NSE Nifty 50 rose 217.95 to end at 24,213.3, while the BSE Sensex gained 694.39 points, closing at 79,476.63. Both benchmarks had fallen by about 0.6% ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-closing-bell-sensex-nifty-financial-stocks-gain-volatility-2628462-2024-11-05",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Nov 5, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Buy on dips strategy suggested for Nifty; Check support & ...",
+      "description": "Buy on dips strategy suggested for Nifty; Check support & other levels here · The Nifty 50 index has been trending downward recently, closing at 23,995.35.",
+      "link": "https://www.business-standard.com/markets/news/buy-on-dips-strategy-suggested-for-nifty-check-support-other-levels-here-124110500085_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Nov 5, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Trade Setup for November 6: Is the Nifty rebound an exit ...",
+      "description": "By the end of Tuesday's session, the Nifty was back above 24,200 and the Nifty Bank, after a 1,000-point move, was back above 52,200, having traded briefly ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-november-6-us-election-results-nifty-50-impact-nifty-bank-drl-titan-tcs-gail-oil-india-share-price-19504332.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Nov 5, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty open lower amid U.S. election uncertainty",
+      "description": "The BSE Sensex dropped 240 points, or 0.13%, to 78,542.16, while the Nifty 50 fell 78 points, or 0.06%, opening below the 24,000 mark at 23,916.50. Market ...",
+      "link": "https://ddnews.gov.in/en/sensex-nifty-open-lower-amid-u-s-election-uncertainty/",
+      "display_link": "https://ddnews.gov.in › sensex-nifty-open-lower-amid-...",
+      "date": "Nov 5, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Tech View: Nifty forms Piercing Line candle on daily chart. ...",
+      "description": "Nifty ended Tuesday's session 218 points higher, forming a Piercing Line candle. The underlying short-term trend is on the verge of reversal.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-forms-piercing-line-candle-on-daily-chart-how-to-trade-on-wednesday/articleshow/114981736.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Nov 5, 2024",
+      "rank": 13
+    }
+  ]
+}

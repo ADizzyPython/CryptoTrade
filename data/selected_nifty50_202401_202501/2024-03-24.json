@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-25 after:2024-03-24 \"nifty\"",
+    "results_cnt": 16,
+    "search_time": 0.26,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:41:25.442286Z"
+  },
+  "organic": [
+    {
+      "title": "Motilal Oswal Nifty 500 Index Fund",
+      "description": "Motilal Oswal Nifty 500 Index Fund - Get latest NAV, Fund Performance, Portfolio Details, Expense Ratio & more. Invest in Motilal Oswal Nifty 500 Index Fund ...",
+      "link": "https://www.kotaksecurities.com/mutual-funds/motilal-oswal-nifty-500-index-fund/",
+      "display_link": "https://www.kotaksecurities.com › Mutual Funds",
+      "date": "Mar 24, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Aditya Birla Sun Life Nifty 50 Index Fund",
+      "description": "Aditya Birla Sun Life Nifty 50 Index Fund - Get latest NAV, Fund Performance, Portfolio Details, Expense Ratio & more. Invest in Aditya Birla Sun Life Nifty ...",
+      "link": "https://www.kotaksecurities.com/mutual-funds/aditya-birla-sun-life-nifty-50-index-fund/",
+      "display_link": "https://www.kotaksecurities.com › Mutual Funds",
+      "date": "Mar 24, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Heavyweights drive Sensex, Nifty up, largecaps likely to ...",
+      "description": "Sensex was up 190 points to end at 72,831, while Nifty was up 72 points to settle at 22,084 on March 22. About 2,288 shares advanced, 1,049 shares declined, and ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/heavyweight-stocks-drive-sensex-nifty-up-largecaps-likely-to-support-further-rally-12508951.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 24, 2024",
+      "rank": 13
+    },
+    {
+      "title": "集英社オンラインのニュース - ニフティニュース",
+      "description": "@niftyトップ · 運営会社 · ウェブサイトの利用について. ©NIFTY Corporation. 各記事のタイトル・本文・写真などすべてのコンテンツの著作権は、それぞれの配信社 ...",
+      "link": "https://news.nifty.com/vender/%8FW%89p%8E%D0%83I%83%93%83%89%83C%83%93/12378/",
+      "display_link": "https://news.nifty.com › vender",
+      "date": "Mar 24, 2024",
+      "rank": 15
+    }
+  ]
+}

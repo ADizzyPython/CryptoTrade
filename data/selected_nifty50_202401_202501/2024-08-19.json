@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-20 after:2024-08-19 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.59,
+    "language": "en-NL",
+    "country": "Netherlands",
+    "location": "India",
+    "timestamp": "2025-07-15T16:06:38.020214Z"
+  },
+  "organic": [
+    {
+      "title": "Today Nifty Index 50 Chart live, patterns | By AlgoTest",
+      "description": "Nifty 50 Overview:Nifty 50 is the benchmark index of National Stock Exchange of India, comprising of 50 largest and most liquid stocks. It's a barometer of ...",
+      "link": "https://algotest.in/nifty-index-chart",
+      "display_link": "https://algotest.in › nifty-index-chart",
+      "date": "19 Aug 2024",
+      "rank": 1
+    },
+    {
+      "title": "ET Analysis: Stocks excluded from Nifty 50 outperform ...",
+      "description": "Data from the past 10 years shows that stocks removed from the Nifty 50 index often perform better than those newly added.",
+      "link": "https://m.economictimes.com/markets/stocks/news/et-analysis-stocks-excluded-from-nifty-50-outperform-those-included/articleshow/112616444.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "19 Aug 2024",
+      "rank": 2
+    },
+    {
+      "title": "How do i get price of NIFTY 50?",
+      "description": "How do i get price of NIFTY 50? · Go to the Google Finance website. · Search for a stock. · Select a stock from the list of suggestions.",
+      "link": "https://support.google.com/docs/thread/291911387/how-do-i-get-price-of-nifty-50?hl=en",
+      "display_link": "https://support.google.com › docs › thread › how-do-i-g...",
+      "date": "19 Aug 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty settle almost flat in lacklustre trade",
+      "description": "The NSE Nifty edged up 31.50 points or 0.13% to 24,572.65 in a volatile trade. Among the 30 Sensex firms, Mahindra & Mahindra, IndusInd Bank, Bharti Airtel, ...",
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-settle-almost-flat-in-lacklustre-trade/article68542635.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "19 Aug 2024",
+      "rank": 4
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat; mid, smallcaps shine",
+      "description": "The Sensex was down 12.16 points or 0.02 percent at 80,424.68, and the Nifty was up 31.50 points or 0.13 percent at 24,572.70. We wrap up today's edition of ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-19-08-2024-liveblog-12800113.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "19 Aug 2024",
+      "rank": 5
+    },
+    {
+      "title": "Stock market today: Sensex ends flat, Nifty 50 closes 0.13 ...",
+      "description": "The 30-share BSE Sensex ended lower by 12.16 points or 0.02% at 80,424.68 level while the Nifty 50 closed at 24,572.65 level, up 31.50 points or 0.13%. On the ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-ends-flat-nifty-50-closes-0-2-higher-led-by-metal-psu-bank-energy-stocks-11724061154131.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "19 Aug 2024",
+      "rank": 6
+    },
+    {
+      "title": "Options Simulator for Nifty, Banknifty, Finnifty, Sensex, ...",
+      "description": "Explore the top options trading simulator to backtest NSE Nifty, Bank Nifty, Finnifty, and Sensex strategies using historical option chain data.",
+      "link": "https://www.stockmock.in/option-simulator.html",
+      "display_link": "https://www.stockmock.in › option-simulator",
+      "date": "19 Aug 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights: Nifty charts signal more ...",
+      "description": "Nifty ended Monday's range-bound session 31.5 points higher to form a small red candle on the daily chart which signaled hesitation after Friday's upside ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-19-august-2024/liveblog/112617120.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "19 Aug 2024",
+      "rank": 10
+    },
+    {
+      "title": "Will bulls stage comeback on D-Street? Here's what ...",
+      "description": "The Nifty 50 Index is currently displaying a bullish trend on the charts, signaling a positive outlook for the near term. However, it's important to keep an eye ...",
+      "link": "https://www.business-standard.com/markets/news/bulls-to-stage-comeback-on-d-street-what-analysts-say-on-nifty50-s-outlook-124081900045_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "19 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex, Nifty climb in early trade",
+      "description": "The NSE Nifty went up by 97.65 points to 24,638.80. Among the 30 Sensex ... The NSE Nifty surged 397.40 points or 1.65 per cent to settle at a two-week ...",
+      "link": "https://www.newindianexpress.com/business/2024/Aug/19/sensex-nifty-climb-in-early-trade",
+      "display_link": "https://www.newindianexpress.com › Business",
+      "date": "19 Aug 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trade Setup For Aug. 19: Nifty Likely To Challenge ...",
+      "description": "Trade Setup For Aug. 19: Nifty Likely To Challenge 24,700 Hurdle. The Nifty 50 earnings grew 4% year-on-year, with expectations of steady earnings growth ...",
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-aug-19-nifty-likely-to-challenge-24700-hurdle",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "19 Aug 2024",
+      "rank": 17
+    },
+    {
+      "title": "Trent, BEL may see $900-Million inflow on potential Nifty ...",
+      "description": "Trent and Bharat Electronics (BEL) can attract inflows of around $900 million if they enter the Nifty 50 index in the September review.",
+      "link": "https://www.financialexpress.com/market/trent-bel-may-see-900-million-inflow-on-potential-nifty-inclusion-3585812/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "19 Aug 2024",
+      "rank": 19
+    }
+  ]
+}

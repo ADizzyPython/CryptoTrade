@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-07 after:2024-12-06 \"nifty\"",
+    "results_cnt": 554000,
+    "search_time": 0.59,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:24:12.679300Z"
+  },
+  "organic": [
+    {
+      "title": "Tech View: Nifty forms long bull candle with minor shadow. ...",
+      "description": "Nifty ended Friday's session with a marginal loss with cash market volumes on the NSE falling to Rs 1.08 lakh crore, said Deepak Jasani, Head of Retail Research ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-forms-long-bull-candle-with-minor-shadow-what-should-traders-do-on-monday/articleshow/116048417.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "6 Dec 2024",
+      "rank": 2
+    },
+    {
+      "title": "Expert view: Nifty 50 unlikely to reclaim 26000 mark by ...",
+      "description": "Given the current market environment and earnings uncertainty, it seems unlikely that the Nifty will reclaim the 26,000 level by year-end. While a 'Santa Claus ...",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-unlikely-to-reclaim-26-000-mark-by-year-end-says-the-head-of-nuvama-professional-clients-group-11733481257359.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "6 Dec 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty snap 5-day winning ...",
+      "description": "Stock Market Highlights: Nifty 50 index declined 31 pts to 24,678 · Stock Market Highlights: BSE Sensex snaps 5-day winning run, ends 57 pts lower at 81,709.",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-sensex-nifty-nse-bse-ipo-today-124120600119_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "6 Dec 2024",
+      "rank": 7
+    },
+    {
+      "title": "How to invest in 2025 after Sensex, Nifty 50 deliver 13% ...",
+      "description": "Benchmark Nifty has gained almost 3,000 points or 13.5 per cent in 2024 so far while Sensex has rallied 9,500 points or 13 per cent. Both benchmarks hit ...",
+      "link": "https://www.livemint.com/market/stock-market-news/investment-strategy-for-indian-stock-market-how-to-invest-in-2025-after-sensex-nifty-50-deliver-13-returns-in-2024-11733476157054.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "6 Dec 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms long bull candle with ...",
+      "description": "Bank and IT stocks weighed on the indices. The Nifty closed marginally lower, but the overall trend remains positive. The next resistance level is at 24,850.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-06-december-2024/liveblog/116025832.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "6 Dec 2024",
+      "rank": 11
+    },
+    {
+      "title": "RBI Policy, FIIs, Sensex, GIFT Nifty; Ganesh Infraworld IPO ...",
+      "description": "Markets Today: RBI Policy, FIIs, Sensex, GIFT Nifty; Ganesh Infraworld IPO ... Nifty Nifty 50 NSE Nifty50 benchmark index NSE Nifty stock markets US stock ...",
+      "link": "https://www.business-standard.com/markets/news/markets-today-rbi-policy-fiis-sensex-gift-nifty-ganesh-infraworld-ipo-124120600108_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "6 Dec 2024",
+      "rank": 12
+    },
+    {
+      "title": "What will happen to Sensex, Nifty if RBI Governor ...",
+      "description": "While Sensex and Nifty surged 1 percent on Thursday, markets are keenly watching if RBI Governor Shaktikanta Das and the Monetary Policy Committee (MPC) will ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/what-will-happen-to-sensex-nifty-if-rbi-governor-shaktikanta-das-doesn-t-cut-repo-rate-tomorrow-12884168.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "6 Dec 2024",
+      "rank": 14
+    },
+    {
+      "title": "What is the performance curve on Console?",
+      "description": "Click on Compare and select NIFTY 50 to see the percentage change in the portfolio and the index. Hover over the curve to view the changes for any specific ...",
+      "link": "https://support.zerodha.com/category/console/portfolio/console-holdings/articles/performance-curve",
+      "display_link": "https://support.zerodha.com › ... › Portfolio › Holdings",
+      "date": "6 Dec 2024",
+      "rank": 19
+    }
+  ]
+}

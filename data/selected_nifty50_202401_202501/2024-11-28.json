@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-29 after:2024-11-28 \"nifty\"",
+    "results_cnt": 555000,
+    "search_time": 0.6,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:22:08.929882Z"
+  },
+  "organic": [
+    {
+      "title": "Over ₹90000 crore wiped out after Nifty slips 400 points",
+      "description": "The broader NSE Nifty dropped over 400 points, hitting a day's low of 23,873.35, while the 30-share BSE Sensex declined 1,100 points to trade at 79,073.69.",
+      "link": "https://www.cnbctv18.com/market/stock-market-update-over-rs-80000-crore-wiped-out-after-nifty-slips-400-points-what-led-to-thursday-sell-off-19516288.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "28 Nov 2024",
+      "rank": 3
+    },
+    {
+      "title": "Why Nifty IT index fell 2% after two straight sessions of ...",
+      "description": "The Nifty IT index saw a sharp decline on Thursday, following overall a weakness in the market. The index slipped 2.11 per cent hitting an intraday low.",
+      "link": "https://www.business-standard.com/markets/news/why-nifty-it-index-slipped-2-after-two-straight-sessions-of-lifetime-highs-124112800342_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "28 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Piramal Enterprises Limited Share Price Today, Stock Price ...",
+      "description": "NSE - NIFTY 50. 25,176.05. 93.75 (0.37%). 15-Jul-2025 14:38. Streaming ... NIFTY 500. Basic Industry, Non Banking Financial Company (NBFC). Dashboard ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=PEL",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "28 Nov 2024",
+      "rank": 11
+    },
+    {
+      "title": "Live Nifty/NSE INDIANB Futures Price Chart",
+      "description": "INDEX NAME, PRICE, CHANGE. Nifty 50 Futures, 25208, -213.9. Nifty Bank Futures, 56890, -281.6. Nifty Financial Services Futures, 26930.5, -161.3.",
+      "link": "https://www.icicidirect.com/futures-and-options/indian-bank-futures",
+      "display_link": "https://www.icicidirect.com › Futures & Options",
+      "date": "28 Nov 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Highlights: Nifty breaches 20 DEMA, strong ...",
+      "description": "Stock Market Highlights: Nifty breaches 20 DEMA, strong resistance near 24,360. How to trade tomorrow. 08:20:31 PM IST , 28 Nov, 2024.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-28-november-2024/liveblog/115750521.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "28 Nov 2024",
+      "rank": 15
+    },
+    {
+      "title": "Massive sell-off on D-St: Sensex crashes 1200 points, Nifty ...",
+      "description": "Massive sell-off on D-St: Sensex crashes 1,200 points, Nifty ends near 23,900 on expiry day volatility. A combination of weak global cues, profit-booking ahead ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/massive-sell-off-on-d-st-drags-sensex-1200-points-nifty-near-23900-key-factors-why-markets-nosedived-today-12878863.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "28 Nov 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-20 after:2024-06-19 \"nifty\"",
+    "results_cnt": 385000,
+    "search_time": 0.64,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:55:00.884437Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Stock List NSE",
+      "description": "What are Nifty 50 Stocks? The Nifty 50 index ranks the top 50 largest, most liquid, and best-performing companies on the National Stock Exchange (NSE).",
+      "link": "https://blinkx.in/nifty-50-stock-list",
+      "display_link": "https://blinkx.in › nifty-50-stock-list",
+      "date": "Jun 19, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Sensex, Nifty, Share Prices Highlights - market",
+      "description": "Share Market Highlights: Sensex, Nifty ends muted! Nifty settles below 23,550, Sensex near 77,300, Nifty Bank ends 900 points higher. Share Market News Today ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-higher-gift-nifty-up-asian-markets-trade-higher-june-19-2024-wednesday-3528548/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Jun 19, 2024",
+      "rank": 4
+    },
+    {
+      "title": "What is GIFT Nifty| Meaning, Timings and Benefits",
+      "description": "Nifty is the benchmark index of the National Stock Exchange of India, reflecting the performance of 50 major Indian companies. Gift NIfty is a futures contract ...",
+      "link": "https://blog.shoonya.com/what-is-gift-nifty/",
+      "display_link": "https://blog.shoonya.com › Investing › Nifty",
+      "date": "Jun 19, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open higher on Wednesday amid positive global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-june-19-11718760462671.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 19, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty up 2300 points from June 4 low; when will it hit the ...",
+      "description": "Nifty up 2,300 points from June 4 low; when will it hit the 25,000-mark? So far in June 2024, the NSE benchmark has gained more than 1,000 points and hit as ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-up-2-300-points-from-june-4-low-when-will-it-hit-the-25-000-mark-124061900132_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jun 19, 2024",
+      "rank": 8
+    },
+    {
+      "title": "NSE Introduces NIFTY India Tourism Index",
+      "description": "The National Stock Exchange has launched a new thematic index named the NIFTY India Index to track the performance of travel and tourism stocks.",
+      "link": "https://www.angelone.in/news/nse-introduces-nifty-india-tourism-index",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "Jun 19, 2024",
+      "rank": 10
+    },
+    {
+      "title": "What is India VIX: Meaning, Calculation & Their Factors",
+      "description": "India VIX stands for India Volatility Index and is a measure of market volatility derived by the National Stock Exchange (NSE) using data from NIFTY options.",
+      "link": "https://www.bajajfinserv.in/what-is-india-vix-index",
+      "display_link": "https://www.bajajfinserv.in › what-is-india-vix-index",
+      "date": "Jun 19, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty continue bull run, open at record high",
+      "description": "After touching record highs on Tuesday, Sensex opened 242.08 points, or 0.81 per cent higher at 77543.20 while Nifty 50 inched 71.90 points, or 0.31 per cent",
+      "link": "https://indianexpress.com/article/business/market/stock-markets-today-live-updates-bse-sensex-nse-nifty-50-record-high-midcap-smallcap-9401173/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "Jun 19, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty, Sensex End Mixed After Final-Hour Decline; RIL, L&T ...",
+      "description": "The Nifty 50 scaled a fresh high for 32nd day in calendar year 2024 ... The NSE Nifty Realty declined the most, and the NSE Nifty Bank rose the most.",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-nse-bse-nifty-50-sensex-indus-tower-zee-gland-pharmas-share-price-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Jun 19, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty, O Nifty! Tu kab Sensex banegi? Look where Nifty will ...",
+      "description": "NSE's Nifty reached 11580, matching the earlier milestone of the BSE Sensex even as the benchmark of Asia's oldest stock exchange soared to 38400. The fact that ...",
+      "link": "https://www.moneycontrol.com/news/business/earnings/nifty-o-nifty-tu-kab-sensex-banegi-look-where-nifty-will-end-up-going-by-their-relationship-thus-far-12752015.html",
+      "display_link": "https://www.moneycontrol.com › ... › EARNINGS",
+      "date": "Jun 19, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Had you invested in Nifty in 1994-95, you would have done ...",
+      "description": "So, in some ways if you had invested in Nifty in 1994-95, you would have done better than probably Warren Buffett in dollar terms also. One cannot predict the ...",
+      "link": "https://m.economictimes.com/markets/expert-view/had-you-invested-in-nifty-in-1994-95-you-would-have-done-better-than-warren-buffett-in-dollar-terms-ashishkumar-chauhan/articleshow/111102781.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "Jun 19, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock Market Highlights, June 19: Sensex, Nifty end flat",
+      "description": "Stock Market Highlights, June 19: Sensex, Nifty end flat; Nifty Bank rises 2%, Axis, HDFC Bank up 3% · Stock market Highlights today, June 19, 2024: The BSE ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-june-19-sensex-nifty-vodafone-indus-towers-gland-block-deal-ipo-nvidia-124061900076_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jun 19, 2024",
+      "rank": 18
+    }
+  ]
+}

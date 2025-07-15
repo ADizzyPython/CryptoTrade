@@ -1,0 +1,142 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-12 after:2024-10-11 \"nifty\"",
+    "results_cnt": 368000,
+    "search_time": 0.38,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:14:35.451747Z"
+  },
+  "organic": [
+    {
+      "title": "Managing Your Sales Pipeline on Nifty",
+      "description": "Managing Your Sales Pipeline on Nifty. Here are some tips on how to best structure a project as a CRM to maximize your sales and operations workflows.",
+      "link": "https://help.niftypm.com/en/articles/5946726-managing-your-sales-pipeline-on-nifty",
+      "display_link": "https://help.niftypm.com › articles › 5946726-managing-...",
+      "date": "11 Oct 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE to discontinue weekly index derivatives for Bank Nifty ...",
+      "description": "The final trading days for the Nifty Bank, Nifty Midcap Select, and Nifty Financial Services weekly options contracts will be November 13, 18, and 19, 2024 ...",
+      "link": "https://www.newsonair.gov.in/nse-to-discontinue-weekly-index-derivatives-for-bank-nifty-nifty-midcap-select-nifty-financial-services/",
+      "display_link": "https://www.newsonair.gov.in › nse-to-discontinue-wee...",
+      "date": "11 Oct 2024",
+      "rank": 2
+    },
+    {
+      "title": "Tech View: Nifty forms high wave type candle on weekly ...",
+      "description": "Nifty formed a small negative candle on the daily chart with minor upper and lower shadow to indicate continuation of narrow range movement in the market.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-11-october-2024/liveblog/114134080.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "11 Oct 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Nifty below 25000, Sensex down 230 pts",
+      "description": "At close, the Sensex was down 230.05 points or 0.28 percent at 81,381.36, and the Nifty was down 34.20 points or 0.14 percent at 24,964.30. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-11-10-2024-liveblog-12839888.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "11 Oct 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex end with minor losses",
+      "description": "The Nifty 50 closed the session with a drop of 0.14%, finishing below the 25,000 for the third straight day at 24,964. Similarly, the Sensex ended the day with ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-end-with-minor-losses-pharma-metals-surge-11728640132331.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "11 Oct 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty: Will the market rally yet again as FIIs turn overtly ...",
+      "description": "The Nifty rallied sharply after FIIs turned this bearish and the long-short ratio dipped to near 0.5. Will history repeat?",
+      "link": "https://www.business-standard.com/markets/news/nifty-will-the-market-rally-yet-again-as-fiis-turn-overtly-bearish-in-f-o-124101100120_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "11 Oct 2024",
+      "rank": 7
+    },
+    {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.14%",
+      "description": "At the close in NSE, the Nifty 50 declined 0.14%, while the BSE Sensex 30 index declined 0.28%. The best performers of the session on the Nifty 50 were Divi's ...",
+      "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-014-3659438",
+      "display_link": "https://www.investing.com › news › stock-market-news",
+      "date": "11 Oct 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty, Sensex Close Lower For Second Week Led By Titan ...",
+      "description": "On Friday, Nifty ended 0.10% or 24.15 points down at 24974.3 and Sensex ended 0.22% or 176.01 points lower at 81435.40.",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-sensex-nifty-50-gift-nifty-today-11-10-2024",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "11 Oct 2024",
+      "rank": 9
+    },
+    {
+      "title": "Share Market Highlights: Market ends lower! Nifty below ...",
+      "description": "The NSE Nifty 50 falls 34.20 points or 0.14% to settle at 24,964.25, while the BSE Sensex plunged 230.05 points or 0.28% to 81,381.36. The broader indices ended ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-nifty-50-bse-sensex-latest-news-11-october-2024-3636907/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "11 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Trade Setup for October 11: Nifty remains on the edge due ...",
+      "description": "The Nifty traded in a 160-point range on Thursday but could not surpass Wednesday's high of 25,234. It closed right at the mark of 25,000. It was courtesy Kotak ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-october-11-nifty-sensex-levels-nifty-bank-tcs-ireda-anand-rathi-mazagon-dock-tata-elxsi-share-price-19490891.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "11 Oct 2024",
+      "rank": 11
+    },
+    {
+      "title": "Bank Nifty falls over 500 points after NSE chooses Nifty for ...",
+      "description": "Bank Nifty fell over 525 points to its intraday low of 51,005.85 after the National Stock Exchange (NSE) retained only one tradable index, the Nifty 50, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/bank-nifty-falls-over-500-points-after-nse-chooses-nifty-for-weekly-expiry-12840325.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "11 Oct 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty end lower as foreign investment fizzles",
+      "description": "Sensex, Nifty end lower as foreign investment fizzles; Tata Group shares gain. The S&P BSE Sensex was down by 230.05 points to close at 81,381.36, while the ...",
+      "link": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-end-lower-as-foreign-investment-fizzles-tata-group-shares-gain-2615327-2024-10-11",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "11 Oct 2024",
+      "rank": 14
+    },
+    {
+      "title": "Sensex and Nifty 50 Range Bound, Declining for Second ...",
+      "description": "Sensex dropped by 230.05 points to 81,381.36 at the end of the day, and the Nifty fell 34.20 points to 24,964.25. The Nifty Midcap 100 Index closed ...",
+      "link": "https://www.equitypandit.com/sensex-and-nifty-50-range-bound-declining-for-second-consecutive-week/",
+      "display_link": "https://www.equitypandit.com › sensex-and-nifty-50-ra...",
+      "date": "11 Oct 2024",
+      "rank": 15
+    },
+    {
+      "title": "Trade Setup For Oct. 11: Nifty 50 Support At 24900 Amid ...",
+      "description": "With no clear indication for the market trend, analysts expect 24,900 to act as support for Nifty 50 with resistance levels at 25,200. The markets on the daily ...",
+      "link": "https://www.ndtvprofit.com/markets/indian-stock-market-trades-sideways-nifty-50-resistance-levels-ahead-tcs-earnings",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "11 Oct 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty 50 close with minor ...",
+      "description": "At the close of the week, the market remained rangebound, with the Sensex falling 230 points to 81,386 and the Nifty losing 34 points to settle at 24,964. In ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-tcs-ireda-anand-rathi-wealth-tata-elxsi-share-price-liveblog-19491130.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "11 Oct 2024",
+      "rank": 18
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Nifty50 slides to ...",
+      "description": "Midcap and smallcap shares bucked the overall weak market trend, reflected in a gain of about half a per cent each in the Nifty Midcap and Nifty Smallcap ...",
+      "link": "https://www.zeebiz.com/markets/stocks/news-share-market-news-today-sensex-nifty-live-updates-nifty50-nifty-bank-bse-500-nse-latest-stock-market-action-320964",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "11 Oct 2024",
+      "rank": 20
+    }
+  ]
+}

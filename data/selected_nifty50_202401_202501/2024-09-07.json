@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-08 after:2024-09-07 \"nifty\"",
+    "results_cnt": 14,
+    "search_time": 0.52,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:09:24.440878Z"
+  },
+  "organic": [
+    {
+      "title": "How To Use Milestones & Roadmap in Nifty",
+      "description": "How To Use Milestones & Roadmap in Nifty · Creating a Milestone · Automating Milestone Progress Reporting · Setting Milestone Dependencies · Optimizing Your Roadmap ...",
+      "link": "https://help.niftypm.com/en/articles/1382624-how-to-use-milestones-roadmap-in-nifty",
+      "display_link": "https://help.niftypm.com › articles › 1382624-how-to-us...",
+      "date": "Sep 7, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Trading Plan: Will Nifty rebound after correction, Bank ...",
+      "description": "On Friday, the Nifty 50 fell 292.95 points or 1.17 percent to 24,852.15. The Bank Nifty dropped 896.20 points to 50,576.85. On the NSE, 1,783 shares declined, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-rebound-after-correction-bank-nifty-sustain-above-50900-12816576.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 7, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 breaks 25000 support to form Bearish Engulfing ...",
+      "description": "The BSE Sensex closed 1,017.23 points or 1.24 per cent lower at 81,183.93 level, while Nifty 50 finished 292.95 points or 1.17 per cent down at 24,852.15 level ...",
+      "link": "https://www.etnownews.com/markets/nifty-50-breaks-25000-support-to-form-bearish-engulfing-candle-know-how-to-trade-article-113141524",
+      "display_link": "https://www.etnownews.com › markets",
+      "date": "Sep 7, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Top Stories in Technology, Gadgets",
+      "description": "Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors Share Price · Adani Power Share Price · HDFC Bank Share Price · Tata Steel ...",
+      "link": "https://www.businesstoday.in/technology/top-story",
+      "display_link": "https://www.businesstoday.in › TECHNOLOGY",
+      "date": "Sep 7, 2024",
+      "rank": 12
+    },
+    {
+      "title": "07 Sep, 2024 top news",
+      "description": "fo talk nifty faces reversal signals and weaker breadth key support at 24500 ... dalal street week ahead nifty may continue to remain under corrective pressure ...",
+      "link": "https://m.economictimes.com/archivelist/year-2024,month-9,starttime-45542.cms",
+      "display_link": "https://m.economictimes.com › archivelist › year-2024,...",
+      "date": "Sep 7, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Global Vectra Helicorp Ltd (GLOBALVECT)",
+      "description": "90.27△. +0.57+0.64% · Markets · SENSEX. SENSEX. 82,464.36△. +210.90+0.26% · NIFTY. NIFTY. 25,162.85△. +80.55+0.32% · DOW. DJI. 44,459.65△. +88.14+0.20%.",
+      "link": "https://www.msn.com/en-xl/money/stockdetails/globalvect-in-stock/fi-ahhw6h",
+      "display_link": "https://www.msn.com › en-xl › money › stockdetails › gl...",
+      "date": "Sep 7, 2024",
+      "rank": 14
+    }
+  ]
+}

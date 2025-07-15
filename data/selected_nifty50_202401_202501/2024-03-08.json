@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-09 after:2024-03-08 \"nifty\"",
+    "results_cnt": 11,
+    "search_time": 0.26,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:12.238400Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 may reach 25200 level by March 2025",
+      "description": "Nifty 50 index has risen 3.5% year-to-date (YTD) and hit a new all-time high on March 7 on the back of strong macro, healthy corporate earnings, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-may-reach-25-200-level-by-march-2025-premium-valuation-justified-by-cyclical-structural-tailwinds-says-ubs-11709890479972.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 8, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Multistrike OI",
+      "description": "Get market direction from open interest (OI) change between any two points in time. See historical OI going back months. PCR graphs, Futures OI - we have it ...",
+      "link": "https://web.sensibull.com/open-interest/multistrike-oi",
+      "display_link": "https://web.sensibull.com › open-interest › multistrike-oi",
+      "date": "Mar 8, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Bank weekly outlook: Level of 48600 a key resistance",
+      "description": "The Nifty Bank index concluded the trading week at 47,835.80, reflecting a notable increase of 1.16 per cent over the previous week's closing level. During the ...",
+      "link": "https://www.businesstoday.in/markets/stock-picks/story/nifty-bank-weekly-outlook-level-of-48600-a-key-resistance-eyes-on-sbi-bob-axis-bank-indusind-bank-420598-2024-03-08",
+      "display_link": "https://www.businesstoday.in › MARKETS › Stock picks",
+      "date": "Mar 8, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty Colors 1730 OF Folding Umbrella, Pokéra Bakery 5 ...",
+      "description": "Nifty Colors 1730 OF Folding Umbrella, Pokéra Bakery 5 Tier Mini ... Currently unavailable. We don't know when or if this item will be back in stock.",
+      "link": "https://www.amazon.sg/Colors-1730-Folding-Umbrella-Pok%C3%A9ra/dp/B0CTPZ2DYV",
+      "display_link": "https://www.amazon.sg › Colors-1730-Folding-Umbrell...",
+      "date": "Mar 8, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Aartech Solonics Share Price Live Today",
+      "description": "Nifty 50 companies: Adani EnterprisesAdani Ports and Special Economic ZoneApollo Hospitals EnterprisesAsian PaintsAxis BankBajaj AutoBajaj FinanceBajaj ...",
+      "link": "https://www.cnbctv18.com/market/stocks/aartech-solonics-share-price/AS27/",
+      "display_link": "https://www.cnbctv18.com › market › stocks",
+      "date": "Mar 8, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sumana Sarkar - The Financial Express",
+      "description": "Nifty 50 · BSE Sensex Performance · Stock Market Quotes · Top NSE/BSE Companies Share Price · TOP NSE/BSE COMPANIES SHARE PRICE · Tata Motors share price · Tata ...",
+      "link": "https://www.financialexpress.com/author/sumana-sarkar/",
+      "display_link": "https://www.financialexpress.com › Authors",
+      "date": "Mar 8, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Britain - The Financial Express",
+      "description": "Nifty 50 · BSE Sensex Performance · Stock Market Quotes · Top NSE/BSE Companies Share Price · TOP NSE/BSE COMPANIES SHARE PRICE · Tata Motors share price · Tata ...",
+      "link": "https://www.financialexpress.com/about/britain/",
+      "display_link": "https://www.financialexpress.com › About",
+      "date": "Mar 8, 2024",
+      "rank": 11
+    }
+  ]
+}

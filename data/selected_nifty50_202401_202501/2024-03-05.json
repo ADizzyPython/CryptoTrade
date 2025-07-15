@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-06 after:2024-03-05 \"nifty\"",
+    "results_cnt": 283000,
+    "search_time": 0.3,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:38:33.868166Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Next 50",
+      "description": "The NIFTY Next 50 is an Indian stock market index provided and maintained by NSE Indices. It represents the next rung of liquid securities after the NIFTY ...",
+      "link": "https://en.wikipedia.org/wiki/NIFTY_Next_50",
+      "display_link": "https://en.wikipedia.org › wiki › NIFTY_Next_50",
+      "date": "Mar 5, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Share Market Highlights 05 March 2024: Nifty, Sensex drop ...",
+      "description": "NSE nifty was down by 0.16 per cent or 36.52 points to 22,369.10 while the BSE sensex was at 73,763 down by 0.15 per cent or 109.14 points. 15:14 | March 5, ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-5-march-2024/article67913526.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Mar 5, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Closing Bell: Nifty at 22350, Sensex down 195 pts",
+      "description": "On March 5, Indian benchmark indices concluded the trading session with a downward trajectory, experiencing volatility, and the Nifty hovering around 22,350.",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-05-03-2024-liveblog-12401901.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 5, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty Midcap 100 closes over 100 points down - Market News",
+      "description": "Share Market Highlight: Markets close higher! Nifty closes above 22,350, Sensex below 73,700; Nifty Midcap 100 closes over 100 points down. Share Market News ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-negative-gift-nifty-up-asian-markets-trade-mixed-march-5-2024-tuesday-3413588/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Mar 5, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Gift Nifty indicates flat-to-negative start for domestic markets",
+      "description": "Gift Nifty at 22,480 indicates a flat-to-negative opening for domestic markets, as Nifty March futures on Monday closed at 22.500.95. THIS AD SUPPORTS OUR ...",
+      "link": "https://www.thehindubusinessline.com/markets/gift-nifty-indicates-flat-to-negative-start-for-domestic-markets/article67915646.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Mar 5, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Nifty, Sensex Struggling to Head Higher - Tuesday Closing ...",
+      "description": "On NSE, 125 securities advanced and closed at a new 52-week high whereas 10 securities sank to close at their new 52-week lows. In sectoral indices, Nifty IT, ...",
+      "link": "https://www.moneylife.in/article/nifty-sensex-struggling-to-head-higher-tuesday-closing-report/73609.html",
+      "display_link": "https://www.moneylife.in › article › nifty-sensex-struggli...",
+      "date": "Mar 5, 2024",
+      "rank": 19
+    }
+  ]
+}

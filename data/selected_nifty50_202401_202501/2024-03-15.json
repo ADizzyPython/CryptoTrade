@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-16 after:2024-03-15 \"nifty\"",
+    "results_cnt": 2630000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:40:10.359333Z"
+  },
+  "organic": [
+    {
+      "title": "IPO - Latest IPO, Upcoming IPO, Recent IPO News ...",
+      "description": "NSE - NIFTY 50. 25,186.20. 103.90 (0.41%). 15-Jul-2025 13:45. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac ...",
+      "link": "https://www.nseindia.com/market-data/all-upcoming-issues-ofs-invits",
+      "display_link": "https://www.nseindia.com › market-data › all-upcoming...",
+      "date": "Mar 15, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Share market timings in India (BSE & NSE)",
+      "description": "The weighted average price of all securities listed on NSE and BSE are considered for the closing price of Nifty 50 and Sensex. ... How to do bank Nifty intraday ...",
+      "link": "https://www.bajajfinserv.in/share-market-timings",
+      "display_link": "https://www.bajajfinserv.in › share-market-timings",
+      "date": "Mar 15, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Nifty around 22000, Sensex falls 454 points",
+      "description": "The index closed with a loss of 123 points (-0.6%) at 22023 levels. Broader market ended on a mixed note with Nifty Midcap 100 down -0.5% while Nifty Smallcap ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-15-03-2024-liveblog-12463331.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 15, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 454 pts lower, ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 454 pts lower, Nifty slides to 22,023 dragged by auto, energy, IT shares. Share Market Today LIVE: The stock market ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-280296",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Mar 15, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Cash is King but the Future is Basis",
+      "description": "When you hear about markets making new highs or the “nifty” went up 100 points, it typically refers to the NIFTY 50 index. An index is an aggregate.",
+      "link": "https://zerodha.com/z-connect/varsity/cash-is-king-but-the-future-is-basis",
+      "display_link": "https://zerodha.com › Home › Posts › Varsity",
+      "date": "Mar 15, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex ends 454 pts lower, Nifty holds 22K",
+      "description": "The Nifty has once again closed below the rising trendline, bringing market sentiment back into a state of weakness.",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-on-march-15-sensex-nifty-omcs-paytm-gift-nifty-124031500078_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Mar 15, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty Smallcap index sees worst week since Dec 2022",
+      "description": "The Nifty Smallcap index has now declined 5.49% in the last five trading sessions. This was also the worst weekly performance that the index had since December ...",
+      "link": "https://www.cnbctv18.com/market/nifty-smallcap-index-sees-worst-week-since-december-2022-87-out-of-100-stocks-post-losses-19286091.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Mar 15, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Sensex Today | Market Close Highlights",
+      "description": "At close, the Nifty 50 was at 22,023.35, down 123.30 points, or 0.56%. Bharti Airtel, Bajaj Finance, Bajaj Finserv, TCS, IndusInd Bank, and Titan were the only ...",
+      "link": "https://www.livemint.com/market/live-blog/sensex-today-share-market-live-updates-nifty50-paytm-ireda-adni-yes-bank-tata-power-price-15-march-2024-gopal-snacks-ipo-11710470848233.html",
+      "display_link": "https://www.livemint.com › Markets › Live Blog",
+      "date": "Mar 15, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty Registers Worst Week In Over Four Months Amid ...",
+      "description": "The Nifty ended at 21996.55, down 150.10 points or 0.68% and the Sensex closed at 72643.43, 453.85 points or 0.62% lower.",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-gift-nifty-trades-above-22100-wipro-paytm-nhpc-tata-steel-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Mar 15, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock market today: Sensex falls over half a per cent, Nifty ...",
+      "description": "Stock market today: Sensex closed with a loss of 454 points, or 0.62 per cent at 72,643.43, while the Nifty 50 ended the day at 22,023.35, down 123 points, or ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-over-half-a-per-cent-nifty-50-ends-below-22k-smallcaps-outperform-11710496454895.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Mar 15, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Latest IPO, Upcoming IPO, Recent IPO News, IPO ...",
+      "description": "NSE - NIFTY 50. 25,176.65. 94.35 (0.38%). 15-Jul-2025 14:45. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac Crs ...",
+      "link": "https://www.nseindia.com/market-data/all-upcoming-issues-ofs",
+      "display_link": "https://www.nseindia.com › all-upcoming-issues-ofs",
+      "date": "Mar 15, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 335 pts higher, ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 335 pts higher, Nifty 3 pts shy of 22,150 led by IT, oil & gas stocks; Hindalco, Hero MotoCorp, ONGC jump over 3%. Share ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-280109",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Mar 15, 2024",
+      "rank": 18
+    }
+  ]
+}

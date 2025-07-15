@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-14 after:2024-10-13 \"nifty\"",
+    "results_cnt": 336000,
+    "search_time": 0.35,
+    "language": "en-HK",
+    "country": "Hong Kong",
+    "location": "India",
+    "timestamp": "2025-07-15T16:14:52.305949Z"
+  },
+  "organic": [
+    {
+      "title": "Trading Plan: Will Nifty decisively reclaim 50-day DEMA, ...",
+      "description": "On Friday, the Nifty 50 declined 34 points to 24,964, while the Bank Nifty dropped 359 points, to 51,172. On the NSE, about 1,287 shares gained while 1,214 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-decisively-reclaim-50-day-dema-and-bank-nifty-climb-near-51800-12841048.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "13 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Stocks to Buy: 6 Stocks to buy now for an upside of 50%",
+      "description": "In the last five trading sessions, the Sensex declined by approximately 0.73 percent while the Nifty 50 index declined by 0.46 percent. Listed below are six ...",
+      "link": "https://tradebrains.in/features/stocks-to-buy-6-stocks-to-buy-now-for-an-upside-of-50/",
+      "display_link": "https://tradebrains.in › features › stocks-to-buy-6-stocks...",
+      "date": "13 Oct 2024",
+      "rank": 20
+    }
+  ]
+}

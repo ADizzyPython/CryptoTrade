@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-03 after:2024-11-02 \"nifty\"",
+    "results_cnt": 16,
+    "search_time": 0.57,
+    "language": "en-MY",
+    "country": "Malaysia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:18:14.301110Z"
+  },
+  "organic": [
+    {
+      "title": "Asymmetric Effects and Volatility Clustering in NSE NIFTY 50",
+      "description": "... NIFTY index of the NSE were the highest in the year 2020 due to the COVID-19 pandemic. Past NIFTY returns demonstrate a GARCH effect on today's NIFTY returns.",
+      "link": "https://journalajeba.com/index.php/AJEBA/article/view/1547",
+      "display_link": "https://journalajeba.com › AJEBA › article › view",
+      "date": "2 Nov 2024",
+      "rank": 1
+    },
+    {
+      "title": "Motilal Oswal Nifty MidSmall India Consumption Index Fund",
+      "description": "The Nifty MidSmall India Consumption Index Fund is an exchange-traded fund (ETF) that aims to replicate the performance of the Nifty MidSmall India Consumption ...",
+      "link": "https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-nifty-midsmall-india-consumption-index-fund",
+      "display_link": "https://www.motilaloswalmf.com › mutual-funds › motil...",
+      "date": "2 Nov 2024",
+      "rank": 2
+    }
+  ]
+}

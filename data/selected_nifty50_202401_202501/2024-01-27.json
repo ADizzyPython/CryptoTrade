@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-28 after:2024-01-27 \"nifty\"",
+    "results_cnt": 4,
+    "search_time": 0.25,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:31:00.311534Z"
+  },
+  "organic": [
+    {
+      "title": "National Stock Exchange of India Limited (NSE): What It Is ...",
+      "description": "The Nifty Fifty is not a benchmark index but does contain the names of companies with global reach, strong balance sheets, and consistent growth. 2,720. The ...",
+      "link": "https://www.investopedia.com/terms/n/national_stock_exchange.asp",
+      "display_link": "https://www.investopedia.com › terms › national_stock...",
+      "date": "Jan 27, 2024",
+      "rank": 2
+    }
+  ]
+}

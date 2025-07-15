@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-18 after:2024-06-17 \"nifty\"",
+    "results_cnt": 322000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:54:41.709813Z"
+  },
+  "organic": [
+    {
+      "title": "Top 50 Stocks by Market Cap",
+      "description": "UTI Nifty 50 Index vs Tata Nifty 50 Index · HDFC Small Cap vs Nippon Small Cap · Canara Robeco ELSS vs DSP ELSS · Nippon Large Cap vs ICICI Pru Bluechip · HDFC ...",
+      "link": "https://dhan.co/stocks/market/top-50-stocks-by-market-cap/",
+      "display_link": "https://dhan.co › stocks › top-50-stocks-by-market-cap",
+      "date": "17 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "Gift Nifty - Apps on Google Play",
+      "description": "Stay ahead in the financial markets with the Gift Nifty app, your go-to source for real-time data, charts, and insights on Gift Nifty futures.",
+      "link": "https://play.google.com/store/apps/details?id=com.live.gift_nifty&hl=en",
+      "display_link": "https://play.google.com › store › apps › details › id=com...",
+      "date": "17 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "शेयर बाजार में नहीं रुकेगी रैली, निफ्टी 27000 तक जाएगा, केवल ...",
+      "description": "लेकिन उसके अगले दिन से ही मार्केट तेजी से भागने लगा. आलम ये है कि Sensex और Nifty अपने ऑल टाइम हाई पर पहुंच चुका है. सेंसेक्स ने 77000 के लेवल का टच किया है, जबकिन निफ्टी 23,490 पर ...",
+      "link": "https://www.aajtak.in/business/news/story/stock-market-rally-will-not-be-stop-nifty50-index-to-touch-27000-level-in-coming-one-year-tutd-1967403-2024-06-17",
+      "display_link": "https://www.aajtak.in › news › story",
+      "date": "17 Jun 2024",
+      "rank": 10
+    },
+    {
+      "title": "Stock market news: When will Nifty 50 index climb to 30K ...",
+      "description": "The Nifty 50 index breached the resistance, which was placed at 23,300, and the 50-stock index is now facing a new hurdle at 23,500. According to experts, the ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-news-when-will-nifty-50-index-climb-to-30k-peak-11718600649872.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "17 Jun 2024",
+      "rank": 14
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-24 after:2024-12-23 \"nifty\"",
+    "results_cnt": 552000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:27:56.119609Z"
+  },
+  "organic": [
+    {
+      "title": "Difference between Sensex and Nifty",
+      "description": "The key difference between Sensex and Nifty is in the number of companies: Sensex includes 30 companies in its index, while Nifty includes 50 companies.",
+      "link": "https://www.bajajfinserv.in/difference-between-nifty-and-sensex",
+      "display_link": "https://www.bajajfinserv.in › difference-between-nifty-an...",
+      "date": "23 Dec 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock Market Highlights: Nifty breaks above key 200-EMA ...",
+      "description": "Nifty has formed a bullish Harami Cross pattern on the daily chart, indicating a potential rise in market optimism. Besides, the index closed above the 200-EMA.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-23-december-2024/liveblog/116581742.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "23 Dec 2024",
+      "rank": 9
+    },
+    {
+      "title": "Outlook 2025: Nifty 50 target at 28700 as bulls likely to ...",
+      "description": "Outlook 2025: Indian stock market is expected to maintain its upward momentum, targeting Nifty 50 at 28,700 level. However, this upward movement is anticipated ...",
+      "link": "https://www.livemint.com/market/stock-market-news/outlook-2025-nifty-50-target-at-28-700-as-bulls-likely-to-dominate-laurus-labs-hudco-among-5-technical-stock-picks-11734941221000.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "23 Dec 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty's 200-DMA key level to watch, determine trend: Analysts",
+      "description": "Nifty is trading around the 200-day exponential moving average (23691), which is likely to provide some relief after a 4.7% correction last week.",
+      "link": "https://m.economictimes.com/markets/stocks/news/niftys-200-dma-key-level-to-watch-determine-trend-analysts/articleshow/116580627.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "23 Dec 2024",
+      "rank": 14
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end higher as Reliance ...",
+      "description": "The NSE Nifty climbed 165.95 points, or 0.70%, to settle at 23,753.45. Despite an overall positive trend, however, the Nifty remained below its 200-day moving ...",
+      "link": "https://www.cnbctv18.com/market/closing-bell-sensex-nifty-end-higher-as-reliance-industries-itc-hdfc-bank-lift-indices-19528472.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "23 Dec 2024",
+      "rank": 15
+    },
+    {
+      "title": "Closing Bell: Sensex and Nifty End 6-Day Losing Streak ...",
+      "description": "On December 23, Sensex rose 498.58 points to 78540.17, and Nifty added 165 points to 23753.45, snapping a 6-day losing streak, driven by gains in ITC and ...",
+      "link": "https://www.angelone.in/news/closing-bell-december-23-2024",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "23 Dec 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex, Nifty jump 1% today after steep 5-day fall",
+      "description": "Sensex and Nifty staged a strong recovery on Monday, rebounding sharply after a steep 5 percent fall over five days of the last week.",
+      "link": "https://www.moneycontrol.com/news/business/markets/sensex-nifty-jump-1-today-after-steep-5-day-fall-global-cues-among-key-factors-behind-markets-bouncing-back-12895720.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "23 Dec 2024",
+      "rank": 17
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-31 after:2024-05-30 \"nifty\"",
+    "results_cnt": 2680000,
+    "search_time": 0.48,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:51:45.704240Z"
+  },
+  "organic": [
+    {
+      "title": "Closing Bell: Nifty below 22500, Sensex falls 617 pts on ...",
+      "description": "The Sensex was down 617.30 points or 0.83 percent at 73,885.60, and the Nifty was down 216.00 points or 0.95 percent at 22,488.70. We wrap up today's edition of ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-30-05-2024-liveblog-12736139.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "May 30, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Which NSE Index Offers the Best Diversification",
+      "description": "The Nifty 50 is a diversified index comprising 50 stocks spanning 13 different sectors of the economy. This index represents approximately 56% of the free float ...",
+      "link": "https://www.angelone.in/news/which-index-offers-the-best-diversification",
+      "display_link": "https://www.angelone.in › News › Mutual Funds",
+      "date": "May 30, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide D-Street action ...",
+      "description": "Nifty ended Thursday with a decline of 216 points, led by strong selling pressure in most sectors. The 50-stock index fell for the fifth straight session and is ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-friday/articleshow/110570962.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "May 30, 2024",
+      "rank": 14
+    },
+    {
+      "title": "NIFTY Index Chart Analysis",
+      "description": "Nifty achieved a significant milestone, scaling a new lifetime high at 23,110.80. Three successive highs in three days is a strong indicator of the market's ...",
+      "link": "https://www.dsij.in/dsijarticledetail/nifty-index-chart-analysis-38539",
+      "display_link": "https://www.dsij.in › dsijarticledetail › nifty-index-chart-...",
+      "date": "May 30, 2024",
+      "rank": 18
+    }
+  ]
+}

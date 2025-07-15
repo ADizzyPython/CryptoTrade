@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-29 after:2024-10-28 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.29,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:17:32.345788Z"
+  },
+  "organic": [
+    {
+      "title": "Trading Plan: Will trend change if Nifty decisively climbs ...",
+      "description": "On Monday, the Nifty 50 climbed 158 points to close at 24,339, and the Bank Nifty gained 472 points, reaching 51,259, reflecting an improved market sentiment.",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-trend-change-if-nifty-decisively-climbs-above-24500-bank-nifty-surpasses-51500-12853169.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "28 Oct 2024",
+      "rank": 7
+    },
+    {
+      "title": "NIFTY50: Components & Investing Guide",
+      "description": "The Nifty 50 index comprises 50 stocks from different sectors, including Financial Services, IT, Automobiles, Oil & Gas, Consumer goods, Metals, construction, ...",
+      "link": "https://blog.stockedge.com/what-is-nifty50-its-components/",
+      "display_link": "https://blog.stockedge.com › Trending Stocks",
+      "date": "28 Oct 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex snap 5-day losing streak",
+      "description": "Consequently, the Nifty 50 closed the session with a gain of 0.65% at 24,339. During intraday trading, the index came close to the 24,500 mark, falling just 8 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-jumps-1000-points-nifty-50-above-24-400-five-key-reasons-why-indian-stock-market-is-rising-11730097463199.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "28 Oct 2024",
+      "rank": 11
+    },
+    {
+      "title": "No fireworks for Sensex, Nifty ahead of Diwali! 4 reasons why ...",
+      "description": "... Nifty has recorded negative returns in only four instances prior to Diwali, with an average return of 0.84%. (Photo: Reuters). In the run-up to Diwali ...",
+      "link": "https://www.financialexpress.com/market/no-fireworks-for-sensex-nifty-ahead-of-diwali-4-reasons-thats-worrying-investors-this-october-3651015/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "28 Oct 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Today: Nifty, Sensex Snap Five–Day Losing ...",
+      "description": "Stock Market Today: Nifty, Sensex Snap Five–Day Losing Streak; ICICI Bank, M&M Rise. During the session, the Nifty 50 rose as much as 1.29% to 24,492.60, and ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-sensex-nifty-50-gift-nifty-today-28-10-2024",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "28 Oct 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty 50 and Sensex: Mid-Day Market Review",
+      "description": "At 09:17 Nifty 50 stood at 24,255 level, up 74 points 0.31% and Sensex stood at 79,758 level, up 356 points or 0.45%. The benchmark indices sustained their ...",
+      "link": "https://www.angelone.in/news/nifty-50-sensex-midday-market-review",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "28 Oct 2024",
+      "rank": 15
+    },
+    {
+      "title": "Nifty scale above 24450; Metal shares shine; VIX slides ...",
+      "description": "The Nifty traded above the 24,450 mark after hitting the days low of 24,134.90 in morning trade. Metal shares advanced after declining in past five consecutive ...",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-scale-above-24-450-metal-shares-shine-vix-slides-2-20-124102800417_1.html",
+      "display_link": "https://www.business-standard.com › capital-market-news",
+      "date": "28 Oct 2024",
+      "rank": 16
+    }
+  ]
+}

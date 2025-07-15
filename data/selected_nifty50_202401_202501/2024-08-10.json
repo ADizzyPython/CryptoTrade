@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-11 after:2024-08-10 \"nifty\"",
+    "results_cnt": 13,
+    "search_time": 0.28,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:04:48.856659Z"
+  },
+  "organic": [
+    {
+      "title": "Latest news and Articles, Videos from Ritu Shaktawat",
+      "description": "Stay informed about the best performers in Nifty 50. Stocks whose intraday price rose from their previous close are called gainers.",
+      "link": "https://www.businesstoday.in/author/ritu-shaktawat-partner-khaitan-co",
+      "display_link": "https://www.businesstoday.in › Author",
+      "date": "10 Aug 2024",
+      "rank": 11
+    },
+    {
+      "title": "Manu S. Pillai",
+      "description": "Nifty 50 Companies. ADANI ENTERPRISES share price ADANI PORTS share price APOLLO HOSPITALS share price ASIAN PAINTS share price AXIS BANK share price BAJAJ ...",
+      "link": "https://www.livemint.com/authors/manu-s.-pillai",
+      "display_link": "https://www.livemint.com › authors › manu-s.-pillai",
+      "date": "10 Aug 2024",
+      "rank": 13
+    }
+  ]
+}

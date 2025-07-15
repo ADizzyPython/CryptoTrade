@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-11 after:2024-06-10 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.56,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:21.186659Z"
+  },
+  "organic": [
+    {
+      "title": "Broad Market Indices - NSE India",
+      "description": "They serve as a benchmark for measuring the performance of the stocks or portfolios such as mutual fund investments. Nifty 50 Index · Nifty Next 50 Index ...",
+      "link": "https://www.nseindia.com/products-services/indices-broad-market",
+      "display_link": "https://www.nseindia.com › products-services › indices-...",
+      "date": "Jun 10, 2024",
+      "rank": 1
+    },
+    {
+      "title": "iShares Nifty 50 ETF (201A.T) Stock Price, News, Quote & ...",
+      "description": "Find the latest iShares Nifty 50 ETF (201A.T) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+      "link": "https://finance.yahoo.com/quote/201A.T/",
+      "display_link": "https://finance.yahoo.com › quote",
+      "date": "Jun 10, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Bank Nifty vs. Bankex: understanding the difference",
+      "description": "The Nifty Bank is a stock market index maintained by the National Stock Exchange of India (NSE). It focuses on the top 12 most liquid and valuable banking ...",
+      "link": "https://www.venturasecurities.com/blog/bank-nifty-vs-bankex-understanding-the-difference/",
+      "display_link": "https://www.venturasecurities.com › blog › bank-nifty-vs...",
+      "date": "Jun 10, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty options volumes surpasses US S&P 500 as retail ...",
+      "description": "The notional value of options on India's Nifty 50 index has averaged about $1.64 trillion a day this year, surpassing the average daily volumes of $1.44 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-options-volumes-surpasses-us-sp-500-as-retail-participation-soars-12745080.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jun 10, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty Strategist - India Stock Market Assistant - ChatGPT",
+      "description": "Nifty Strategist - India Stock Market Assistant. By Pranav Chavda. +1. Expert advisor for Indian stock market, specializing in BSE and NSE stock exchange ...",
+      "link": "https://chatgpt.com/g/g-xSepxFPRH-nifty-strategist-india-stock-market-assistant",
+      "display_link": "https://chatgpt.com › g-xSepxFPRH-nifty-strategist-indi...",
+      "date": "Jun 10, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Is it a good time to sell Nifty 50, MidCap Select index? What ...",
+      "description": "The NIFTY 50 Index is currently trading at 23290.15. Although the overall trend remains bullish, recent volatility has disrupted the near-term pattern, ...",
+      "link": "https://www.business-standard.com/markets/news/is-it-a-good-time-to-sell-nifty-50-midcap-select-index-what-charts-say-124061000079_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jun 10, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 50, Sensex snap 3-day winning run amid weak global ...",
+      "description": "Stock market today: Nifty 50 closed 31 points, or 0.13 per cent, lower at 23259.20, while the Sensex ended with a loss of 203 points, or 0.27 per cent, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-snap-3-day-winning-run-amid-weak-global-cues-mid-smallcaps-outperform-11718013472101.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 10, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty trade flat after record high opening following ...",
+      "description": "Sensex, Nifty trade flat after record high opening following PM Modi's oath · The NSE Nifty 50 surged to the fresh high of 23,411.90 and Sensex rose to life time ...",
+      "link": "https://www.hindustantimes.com/business/sensex-nifty-hit-all-time-high-after-pm-modi-takes-oath-101717991748215.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "Jun 10, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Sensex, Nifty Retreat From Record Highs; Snap Three-Day ...",
+      "description": "The NSE Nifty 50 settled 30.95 points or 0.13% lower at 23,259.20, and the S&P BSE Sensex ended 203.28 points or 0.27% down at 76,490.08. The benchmarks also ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-markets-live-updates-today-nifty-50-sensex-nse-bse-rvnl-dr-reddys-suzlon-energy-share-prices-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Jun 10, 2024",
+      "rank": 19
+    }
+  ]
+}

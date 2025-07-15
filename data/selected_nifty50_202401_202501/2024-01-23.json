@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-24 after:2024-01-23 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:30:24.700671Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Share Price, Nifty 50 PE Ratio, Chart",
+      "description": "Nifty 50 index today and over the week, month and year ; 497.00 2.01%. Month Change ; 713.45 2.91%. Year Change.",
+      "link": "https://trendlyne.com/us/equity/1887/NIFTY/nifty-50/",
+      "display_link": "https://trendlyne.com › equity › NIFTY › nifty-50",
+      "date": "Jan 23, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 Jul 25 Futures Technical Analysis",
+      "description": "Access current technical analyis for the Nifty 50 Futures including moving averages, technical indicators, pivot points and more.",
+      "link": "https://uk.investing.com/indices/india-50-futures-technical",
+      "display_link": "https://uk.investing.com › indices › india-50-futures-tec...",
+      "date": "Jan 23, 2024",
+      "rank": 2
+    },
+    {
+      "title": "First Trust India Nifty 50 Equal Weight Etf (NFTY) News Flow",
+      "description": "First Trust India Nifty 50 Equal Weight Etf (NFTY). Close Jul 3 12:57 ET. 60.140. +0.200 +0.33%. High 60.200. Low 59.903.",
+      "link": "https://www.moomoo.com/stock/NFTY-US/news/news",
+      "display_link": "https://www.moomoo.com › stock › NFTY-US › news",
+      "date": "Jan 23, 2024",
+      "rank": 4
+    },
+    {
+      "title": "India Nifty's 'Head and Shoulders' Pattern Signals Further ...",
+      "description": "The slump in India's 50-member Nifty index on Tuesday sent the markets below a key support level, activating a chart formation that could trigger more losses.",
+      "link": "https://www.bloomberg.com/news/articles/2024-01-24/india-nifty-s-head-and-shoulders-pattern-signals-further-slump",
+      "display_link": "https://www.bloomberg.com › news › articles › india-nift...",
+      "date": "Jan 23, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Bank Nifty Share Price, Bank Nifty PE Ratio, Chart",
+      "description": "Bank Nifty index today and over the week, month and year ; 299.70 0.53%. Day Change ; 6062.70 11.89%. Qtr Change.",
+      "link": "https://trendlyne.com/equity/1898/BANKNIFTY/bank-nifty/",
+      "display_link": "https://trendlyne.com › equity › bank-nifty",
+      "date": "Jan 23, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Zerodha Nifty 100 ETF Share Price",
+      "description": "Zerodha Nifty 100 ETF Share Price - Get live NSE/BSE updates on Zerodha Nifty 100 ETF stock price including performance, fundamentals, market cap, ...",
+      "link": "https://www.kotaksecurities.com/etfs/zerodha-nifty-100-etf/",
+      "display_link": "https://www.kotaksecurities.com › etfs › zerodha-nifty-...",
+      "date": "Jan 23, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Closing Bell: Nifty ends near 21250, Sensex falls 1053 pts",
+      "description": "The overall market sentiment was negative, with the Sensex losing 1.47 percent and closing at 70,370.55, while the Nifty declined by 1.54 percent intraday, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-23-01-2023-liveblog-12105301.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jan 23, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Building a Robust Trading Strategy on Nifty50 Stock Options",
+      "description": "1. Selecting the Instrument and List: - Choose the Nifty FUTSTK list for Futures and Options trading. - Use the NFO exchange for F&O trading.",
+      "link": "https://tradetron.tech/blog/building-a-robust-trading-strategy-on-nifty50-stock-options-a-step-by-step-guide",
+      "display_link": "https://tradetron.tech › blog › building-a-robust-trading...",
+      "date": "Jan 23, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty 50, Sensex on January 23: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50 are likely to see a positive opening on Tuesday led by positive global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-january-23-11705976483975.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jan 23, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Five reasons why Sensex, Nifty saw ₹8 lakh crore investor ...",
+      "description": "The Nifty 50 index is down 2.3% so far and is on course for its fifth straight year of negative returns for the month of January.",
+      "link": "https://www.cnbctv18.com/market/nifty-50-five-reasons-why-market-fell-8-lakh-crore-investor-wealth-wiped-out-psu-expiry-china-18870541.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Jan 23, 2024",
+      "rank": 17
+    }
+  ]
+}

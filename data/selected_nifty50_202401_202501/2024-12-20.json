@@ -1,0 +1,102 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-21 after:2024-12-20 \"nifty\"",
+    "results_cnt": 574000,
+    "search_time": 0.48,
+    "language": "en-NP",
+    "country": "Nepal",
+    "location": "India",
+    "timestamp": "2025-07-15T16:27:31.367948Z"
+  },
+  "organic": [
+    {
+      "title": "Outlook 2025: Nifty at 25K or 28K by the end of next year? ...",
+      "description": "The Indian benchmark indices, the Nifty 50 and Sensex, have delivered positive returns of 9 per cent and 8.5 per cent, respectively, in 2024 so far. Even more ...",
+      "link": "https://www.livemint.com/market/stock-market-news/outlook-2025-nifty-at-25k-or-28k-by-the-end-of-next-year-what-experts-suggest-11734683618609.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 20, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Indian Stocks Witness Another Day Of Bloodbath As ...",
+      "description": "Sensex closed at 78,041.59 points, down 1.5 per cent or 1,176 points, while Nifty closed at 23,587.50 points, down 364.20 points or 1.52 per cent today.",
+      "link": "https://www.ndtv.com/india-news/indian-stocks-witness-another-day-of-bloodbath-as-sensex-nifty-shed-1-5-each-7293717",
+      "display_link": "https://www.ndtv.com › India News",
+      "date": "Dec 20, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Sensex crashes 4000 points in 5 days, Nifty sheds 5% as ...",
+      "description": "On December 20, the NSE Nifty fell more than 400 points, before closing down 1.5 percent at 23,587 points. The BSE Sensex fell about 1,350 points intraday and ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-crashes-1-200-points-in-5-days-as-fed-caution-continues-to-weigh-other-key-factors-why-market-is-falling-12894739.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Dec 20, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Indices plunge for 5th day, Nifty settles below 23600 mark",
+      "description": "The Nifty 50 index closed below the 23,600 level, after reaching an intraday high of 24,065.80. The market witnessed a broad-based sell-off, with realty, PSU ...",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-plunge-for-5th-day-nifty-settles-below-23-600-mark-nse-vix-above-15-124122000904_1.html",
+      "display_link": "https://www.business-standard.com › capital-market-news",
+      "date": "Dec 20, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock Market Crash: Nifty posts worst week of 2024, losing ...",
+      "description": "The Nifty 50 index ended with losses of over 350 points on Friday, marking the fifth straight day of losses and also registering its worst week of 2024.",
+      "link": "https://www.cnbctv18.com/market/stock-market-crash-nifty-50-sensex-sharp-fall-worst-week-of-2024-19-lakh-crore-investor-wealth-lost-19527326.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Dec 20, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty December futures trade at premium | Capital Market ...",
+      "description": "NSE India VIX rallied 3.87% to 15.07. The Nifty December 2024 futures closed at 23,641.70, a premium of 54.20 points compared with the Nifty's closing ...",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-december-futures-trade-at-premium-124122000854_1.html",
+      "display_link": "https://www.business-standard.com › markets › nifty-de...",
+      "date": "Dec 20, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty extend losses amid weak global cues",
+      "description": "Sensex, Nifty extend losses amid weak global cues · At 10:28 am, the S&P BSE Sensex fell 274.86 points to 78,943.19, while the NSE Nifty50 dropped 67.90 points ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-extend-losses-amid-weak-global-cues-2652725-2024-12-20",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Dec 20, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex crashes over 4000 points this week, Nifty 50 falls ...",
+      "description": "Sensex crashes over 4,000 points this week, Nifty 50 falls below 200 DEMA; 5 factors driving Indian stock market down · What drove the Indian stock market down?",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-over-3-500-points-this-week-nifty-50-falls-near-200-dema-5-factors-driving-the-indian-stock-market-down-11734681340173.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 20, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock markets continue to decline, Sensex ends ...",
+      "description": "Stock markets continue to decline, Sensex ends 1,200 points lower, Nifty slips 364 points ... Nifty slipped 1.52 per cent to close at 23,587.50.",
+      "link": "https://www.hindustantimes.com/business/stock-markets-continue-to-decline-sensex-ends-1-200-points-lower-nifty-slips-364-points-101734687586350.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "Dec 20, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex, Nifty record steepest weekly fall since 2022",
+      "description": "Sensex, Nifty record steepest weekly fall since 2022; Nifty drops over 4%. The selloff was widespread, particularly affecting technology and banking stocks, ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-record-steepest-weekly-fall-since-2022-pharma-stocks-resist-slump/article69008772.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets › Stocks",
+      "date": "Dec 20, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Fall intensifies, Sensex tanks 1177 points, Nifty below ...",
+      "description": "Indian equity indices ended on weak note with Nifty below 23,600 on December 20 amid selling across the sectors. At close, the Sensex was down 1,176.46 points ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-20-12-2024-liveblog-12894340.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Dec 20, 2024",
+      "rank": 19
+    }
+  ]
+}

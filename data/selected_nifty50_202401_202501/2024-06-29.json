@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-30 after:2024-06-29 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.34,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:56:24.951395Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty's journey to 24000: Latest 1000-point surge achieved ...",
+      "description": "The Nifty-50 reached the 24,000 mark on June 27, 2024, closing above this level for the first time. This latest 1,000-point rally was the fastest ever, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/niftys-journey-to-24-000-latest-1-000-point-surge-achieved-in-record-17-sessions-11719598796639.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 29, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Total Market Share Price Today and Live Chart",
+      "description": "Nifty Total Market share price for index companies, and analysis · Price Charts · Price and Volume · Technicals · Support and Resistance.",
+      "link": "https://trendlyne.com/equity/170120/NFTYTOTMKT/nifty-total-market/",
+      "display_link": "https://trendlyne.com › equity › NFTYTOTMKT › nift...",
+      "date": "Jun 29, 2024",
+      "rank": 8
+    },
+    {
+      "title": "What is Nifty Next 50?",
+      "description": "The Nifty Next 50 index is an important index in the Indian stock markets. This index consists of companies with the growth potential to soon be part of the 50 ...",
+      "link": "https://rupeezy.in/blog/what-is-nifty-next-50",
+      "display_link": "https://rupeezy.in › Blog › Indices",
+      "date": "Jun 29, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty 50 is up 10% in the first half of the year; can it cross ...",
+      "description": "Indian stock market benchmarks—the Nifty 50 and the Sensex— ended the first half of the current calendar year with healthy gains, rising 10.5 per cent and 9.4 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-is-up-10-in-the-first-half-of-the-year-can-it-cross-26-000-by-december-11719638249664.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jun 29, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Index Outlook: Sensex, Nifty 50: Coming Closer to a ...",
+      "description": "Sensex, Nifty 50 and the Nifty Bank indices have risen very well last week. The benchmark indices scaled new highs and have closed on a strong note.",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/index-outlook-sensex-nifty-50-coming-closer-to-a-crucial-resistance/article68347474.ece",
+      "display_link": "https://www.thehindubusinessline.com › article68347474",
+      "date": "Jun 29, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Shelter Pharma Ltd Share Price",
+      "description": "Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors Share Price · Adani Power Share Price · HDFC Bank Share Price · Tata Steel ...",
+      "link": "https://www.businesstoday.in/stocks/shelter-pharma-ltd-share-price-393875",
+      "display_link": "https://www.businesstoday.in › Markets › Stocks",
+      "date": "Jun 29, 2024",
+      "rank": 19
+    },
+    {
+      "title": "Beacon Minerals Management",
+      "description": "India: NIFTY · Canada: TSX · South Africa: JSE · Japan: NIKKEI · South Korea: KOSPI · Germany: DAX. Investing Ideas. Undervalued Companies · Dividend ...",
+      "link": "https://simplywall.st/stocks/au/materials/asx-bcnda/beacon-minerals-shares/management",
+      "display_link": "https://simplywall.st › stocks › materials › asx-bcnda",
+      "date": "Jun 29, 2024",
+      "rank": 20
+    }
+  ]
+}

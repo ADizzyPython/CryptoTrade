@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-02 after:2024-09-01 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.3,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:08:30.609230Z"
+  },
+  "organic": [
+    {
+      "title": "@nifty機器購入（分割払い）で申込取消をしたWi-Fiルーターの ...",
+      "description": "@nifty機器購入（分割払い）で申込取消をしたWi-Fiルーターの返却方法を知りたい。 以下のご注意事項をご確認のうえ、ご返却ください。 返却の際のご注意事項.",
+      "link": "https://faq.support.nifty.com/6842",
+      "display_link": "https://faq.support.nifty.com › ...",
+      "date": "Sep 1, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Tracks the performance of tourism stocks",
+      "description": "Nifty India Tourism index aims to track the performance of stocks from the Nifty 500 index which represent the travel and tourism theme. The largest 30 stocks ...",
+      "link": "https://www.niftyindices.com/docs/default-source/indices/nifty-india-tourism/nifty-india-tourism-whitepaper_2024.pdf?sfvrsn=ff086e35_4",
+      "display_link": "https://www.niftyindices.com › nifty-india-tourism",
+      "date": "Sep 1, 2024",
+      "rank": 5
+    },
+    {
+      "title": "India's Nifty Faces Weak September After Record Run",
+      "description": "Nifty futures signal a day of consolidation after ratcheting up a record streak of gains. While seasonality patterns don't bode well for equities in September, ...",
+      "link": "https://www.bloomberg.com/news/articles/2024-09-02/india-market-buzz-nifty-faces-weak-september-after-record-run",
+      "display_link": "https://www.bloomberg.com › news › articles › india-ma...",
+      "date": "Sep 1, 2024",
+      "rank": 11
+    }
+  ]
+}

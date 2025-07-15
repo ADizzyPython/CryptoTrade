@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-05 after:2024-06-04 \"nifty\"",
+    "results_cnt": 385000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:52:27.913461Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Index Forum & Chats (NSE:NIFTY)",
+      "description": "NIFTY nifty chart is looking simple now 25150 and 25060 are 2 levels to look for and long and short positions can trigger with other level as SL",
+      "link": "https://in.tradingview.com/symbols/NSE-NIFTY/minds/",
+      "display_link": "https://in.tradingview.com › ... › India › Indices › NIFTY",
+      "date": "4 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "Do technical charts predict more downside for the Nifty? ...",
+      "description": "The NSE Nifty on Tuesday, June 04, registered its biggest intra-day fall ever on declining nearly 2,000 points beating the Covid-19 induced panic selling loss ...",
+      "link": "https://www.business-standard.com/markets/news/do-technical-charts-predict-more-downside-for-the-nifty-key-levels-here-124060400763_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "4 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock Market Highlights: Nifty tanks 6%, ends below short ...",
+      "description": "Nifty ended Tuesday's session 6% lower at 21,884.50 to form a long bearish candle on the daily charts. For traders now, 50-day SMA or 22400/73500 and ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-4-june-2024/liveblog/110684661.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "4 Jun 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock market today: Nifty 50 records biggest single-day fall ...",
+      "description": "Nifty 50 opened at 23,179.50 against its previous close of 23,263.90 and fell 8.5 per cent to hit its intraday low of 21,281.45. The Sensex opened at 76,285.78 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-records-biggest-single-day-fall-in-over-4-years-sensex-crashes-over-4-000-points-11717494768302.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Jun 2024",
+      "rank": 9
+    },
+    {
+      "title": "India stocks fall on election uncertainty",
+      "description": "The NSE Nifty 50, which comprises stocks in various big companies, had plunged 8.5% at one point but ended the day down 5.9% at 21,884.5 points. The S&P BSE ...",
+      "link": "https://www.bbc.com/news/articles/cgrrnl93k7lo",
+      "display_link": "https://www.bbc.com › news › articles",
+      "date": "4 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty falls over 500 points on election counting, traders ...",
+      "description": "NSE Nifty 50 plummeted 500 points, and Sensex fell as much as 2000 points. At 10:37 am, the Sensex was down 1,975.30 points or 2.58 percent at 74,493.48, and ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-falls-over-500-points-on-election-counting-traders-eyeing-for-more-clarity-from-polls-12740210.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "4 Jun 2024",
+      "rank": 14
+    },
+    {
+      "title": "Immediate support for Nifty at 21200? Experts outline key ...",
+      "description": "Sensex and Nifty experienced a steep decline, with Sensex dropping 5.74% and Nifty falling 5.93%. Experts suggest immediate support at 21,200 for Nifty, with ...",
+      "link": "https://www.livemint.com/market/stock-market-news/immediate-support-for-nifty-at-22-000-experts-outline-key-levels-to-watch-post-market-crash-11717496540094.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Jun 2024",
+      "rank": 20
+    }
+  ]
+}

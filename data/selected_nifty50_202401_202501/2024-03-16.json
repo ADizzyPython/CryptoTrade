@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-17 after:2024-03-16 \"nifty\"",
+    "results_cnt": 10,
+    "search_time": 0.5,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:40:19.050926Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTYMIDCAP50 Index Charts and Quotes",
+      "description": "TradingView India. View live Nifty MidCap 50 Index chart to track latest index dynamics. NSE:NIFTYMIDCAP50 ideas, forecasts and market news are at your ...",
+      "link": "https://in.tradingview.com/symbols/NSE-NIFTYMIDCAP50/",
+      "display_link": "https://in.tradingview.com › Markets › India › Indices",
+      "date": "16 Mar 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty and Bank Nifty Prediction for the week 18 Mar'24 to 22 ...",
+      "description": "A break below 21,900 can drag the #Nifty down to 21,600-21,500. On the other hand, if the #Nifty50 manages to break above 22,250, it can rise to 22,600-22,700.",
+      "link": "https://www.thehindubusinessline.com/news/nifty-and-bank-nifty-prediction-for-the-week-18-mar24-to-22-mar24-by-bl-guru/article67958109.ece",
+      "display_link": "https://www.thehindubusinessline.com › News",
+      "date": "16 Mar 2024",
+      "rank": 6
+    },
+    {
+      "title": "NACL Industries Ltd - Markets",
+      "description": "Nifty (-0.81%). 25149.85-205.40 · Nifty Midcap (-0.88%). 58642.20-517.75 · Nifty Smallcap (-1.04%). 9061.30-95.20 · Nifty Bank (-0.35%). 56754.70-201.30 · Nifty ...",
+      "link": "https://www.business-standard.com/markets/nacl-industries-ltd-share-price-4510/announcements/bse-exchange-41865140",
+      "display_link": "https://www.business-standard.com › announcements",
+      "date": "16 Mar 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nectar Lifescience Faces Significant Stock Volatility Amid ...",
+      "description": "Nifty, 25,149.85, (-0.81%), -205.40. BSE Mid Cap, 46,291.20, (-0.65%), -301.94. Bse Small Cap, 54,484.76, (-0.70%), -383.93. BSE 500, 36,545.58, (-0.80%), - ...",
+      "link": "https://www.marketsmojo.com/news/stocks-in-action/nectar-lifescience-hits-52-week-low-amid-significant-stock-decline-and-financial-struggles-3232828",
+      "display_link": "https://www.marketsmojo.com › News › Stocks in Action",
+      "date": "16 Mar 2024",
+      "rank": 10
+    }
+  ]
+}

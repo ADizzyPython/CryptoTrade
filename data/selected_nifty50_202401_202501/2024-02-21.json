@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-22 after:2024-02-21 \"nifty\"",
+    "results_cnt": 335000,
+    "search_time": 0.58,
+    "language": "en-ID",
+    "country": "Indonesia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:35:52.713240Z"
+  },
+  "organic": [
+    {
+      "title": "Technical analysis of Nifty and major Indices",
+      "description": "On Monday, the Nifty 50 index reached a new all-time high of 22,186.65 where the Sensex is still 600 points away from its all-time high.",
+      "link": "https://www.angelone.in/news/technical-analysis-of-nifty-and-major-broader-indices",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "21 Feb 2024",
+      "rank": 2
+    },
+    {
+      "title": "Share Market Highlight: Markets close lower! Nifty closes near ...",
+      "description": "The NSE Nifty 50 closed 167.70 points or 0.76% lower to settle at 22,055.05, while the BSE Sensex lost 434.31 points or 0.59% to settle at 72,623.09. The ...",
+      "link": "https://www.financialexpress.com/market/share-market-live-gift-nifty-indicated-a-positive-start-for-domestic-indices-bse-sensex-and-nse-nifty-50-2-3400412/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "21 Feb 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Next 50 Stocks List",
+      "description": "The Nifty 50 index comprises the 50 largest and most actively traded stocks listed on the National Stock Exchange of India (NSE), representing various sectors ...",
+      "link": "https://aliceblueonline.com/nifty-next-50-stocks/",
+      "display_link": "https://aliceblueonline.com › Finance",
+      "date": "21 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Closing Bell: Sensex down 434 pts, Nifty below ...",
+      "description": "Indian equity indices snapped 6-day winning run and ended lower on February 21 with Nifty below 22,100. At close, the Sensex was down 434.31 points or 0.59 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-21-02-2024-liveblog-12316741.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "21 Feb 2024",
+      "rank": 5
+    },
+    {
+      "title": "Indian shares snap six-session winning run as IT drags",
+      "description": "The Nifty 50 had gained as much as 0.24% in the first hour of trade to hit a record high for the third session in a row, before reversing gains in the final ...",
+      "link": "https://www.reuters.com/world/india/indias-nifty-50-set-open-new-record-high-2024-02-21/",
+      "display_link": "https://www.reuters.com › world › india › indias-nifty-...",
+      "date": "21 Feb 2024",
+      "rank": 6
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 434 pts lower, ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 434 pts lower, Nifty slides to 22,055 as market halts six-day winning run; BPCL, NTPC, CIL fall up to 4%. Share Market ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-277327",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "21 Feb 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty, Sensex Under Pressure - Wednesday Closing Report",
+      "description": "On NSE, 146 securities advanced and closed at a new 52-week high whereas nine securities sank to close at their new 52-week lows. In sectoral indices, Nifty PSU ...",
+      "link": "https://www.moneylife.in/article/nifty-sensex-under-pressure-wednesday-closing-report/73473.html",
+      "display_link": "https://www.moneylife.in › article › nifty-sensex-under-p...",
+      "date": "21 Feb 2024",
+      "rank": 19
+    },
+    {
+      "title": "Are the Magnificent Seven in a Bubble? Ask the Nifty Fifty",
+      "description": "The Nifty Fifty was the nickname for a group of highly sought-after growth stocks during the late 1960s and early 1970s. Many of these companies were household ...",
+      "link": "https://in.investing.com/analysis/are-the-magnificent-seven-in-a-bubble-ask-the-nifty-fifty-200610872",
+      "display_link": "https://in.investing.com › analysis › are-the-magnificent...",
+      "date": "21 Feb 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-11 after:2024-11-10 \"nifty\"",
+    "results_cnt": 337000,
+    "search_time": 0.31,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:19:28.945038Z"
+  },
+  "organic": [
+    {
+      "title": "Trade Setup For Nov. 11: Nifty 50 Faces Key Support At ...",
+      "description": "Trade Setup For Nov. 11: Nifty 50 Faces Key Support At 23,800. Bank Nifty has been consolidating in the range of 50,500 to 52,580, analysts observed.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-50-resistance-24500-support-23800-trade-setup-nov-11",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "10 Nov 2024",
+      "rank": 9
+    },
+    {
+      "title": "Will Nifty break out of 24000-24500 range this week? Top 5 ...",
+      "description": "IT stocks rallied post-US election results, lifting the Nifty IT index by 4%. Conversely, the high-beta Nifty Realty Index fell by 4%. \"Consolidation continued ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/will-nifty-break-out-of-24000-24500-range-this-week-top-5-factors-to-track/articleshow/115133218.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "10 Nov 2024",
+      "rank": 13
+    },
+    {
+      "title": "The complete guide to Nifty 50 for Indian investors",
+      "description": "All you need to know about the history and the significance of Nifty 50 in the Indian Stock Market and why it's a great investment option. Read on.",
+      "link": "https://www.moneyworks4me.com/blog/all-you-need-to-know-about-nifty/",
+      "display_link": "https://www.moneyworks4me.com › blog › all-you-nee...",
+      "date": "10 Nov 2024",
+      "rank": 14
+    },
+    {
+      "title": "Trading Plan: Will Bank Nifty defend 51000, Nifty 50 break ...",
+      "description": "On Friday, the Nifty 50 declined by 51 points to close at 24,148, while the Bank Nifty closed at 51,561, down 355 points. The market breadth remained in favour ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-bank-nifty-defend-51000-nifty-50-break-24000-amid-consolidation-12861903.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "10 Nov 2024",
+      "rank": 17
+    }
+  ]
+}

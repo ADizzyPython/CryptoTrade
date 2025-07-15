@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-09 after:2024-12-08 \"nifty\"",
+    "results_cnt": 700000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:25:33.643843Z"
+  },
+  "organic": [
+    {
+      "title": "Trading Plan: Can Nifty reclaim 24700, Bank Nifty hold ...",
+      "description": "On Friday, December 6, the Nifty 50 fell by 31 points to close at 24,678, while the Bank Nifty declined by 94 points to 53,510, despite a positive market ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-reclaim-24-700-bank-nifty-hold-above-53-500-amid-likely-consolidation-12885122.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "8 Dec 2024",
+      "rank": 4
+    },
+    {
+      "title": "The Nifty Futures – Varsity by Zerodha",
+      "description": "Nifty Futures is derived from the Nifty 50 index and is the most traded instruments in India. Learn contract specs, impact cost and features in this ...",
+      "link": "https://zerodha.com/varsity/chapter/nifty-futures/",
+      "display_link": "https://zerodha.com › Home › Chapters",
+      "date": "8 Dec 2024",
+      "rank": 5
+    },
+    {
+      "title": "Marketmusings. Whither Nifty this December?",
+      "description": "After hitting a record high of 26,277 points on September 27, the broad market benchmark NSE Nifty had tumbled 11.5 per cent to a little over 23,000 points by ...",
+      "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/whither-nifty-this-december/article68962639.ece",
+      "display_link": "https://www.thehindubusinessline.com › article68962639",
+      "date": "8 Dec 2024",
+      "rank": 18
+    }
+  ]
+}

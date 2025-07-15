@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-13 after:2024-06-12 \"nifty\"",
+    "results_cnt": 332000,
+    "search_time": 0.29,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:43.458500Z"
+  },
+  "organic": [
+    {
+      "title": "NSE Nifty Bank Index Today - The Economic Times",
+      "description": "Nifty Bank tracks India's banking sector, comprising major bank stocks listed on the National Stock Exchange (NSE), essential for financial sector analysis ...",
+      "link": "https://economictimes.indiatimes.com/markets/indices/nifty-bank",
+      "display_link": "https://economictimes.indiatimes.com › Markets › Indices",
+      "date": "12 Jun 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Probables - Stock Screeners",
+      "description": "Nifty Probables ; Godfrey Philips. 43,683, 101.00% ; Crisil. 43,681, 36.00% ; Laurus Labs. 42,612, 64.20% ; MCX India. 41,043, 111.00% ...",
+      "link": "https://m.economictimes.com/markets/stock-screener/nifty-probables/screens/scrid-94",
+      "display_link": "https://m.economictimes.com › Markets › Stock Screeners",
+      "date": "12 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "NSE Nifty PSE Index Today - The Economic Times",
+      "description": "What does Nifty PSE represent? Tracks the performance of Public Sector Enterprises (PSEs) in India, comprising major PSE stocks listed on the National Stock ...",
+      "link": "https://economictimes.indiatimes.com/markets/indices/nifty-pse",
+      "display_link": "https://economictimes.indiatimes.com › Markets › Indices",
+      "date": "12 Jun 2024",
+      "rank": 4
+    },
+    {
+      "title": "Top 12 Facts About the NSE and NIfty 50 Index",
+      "description": "The Nifty 50 is a stock market index that tracks the performance of the 50 largest companies in India by free-float market capitalization. These companies ...",
+      "link": "https://www.angelone.in/news/12-facts-about-nse-nifty-50-index",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "12 Jun 2024",
+      "rank": 5
+    },
+    {
+      "title": "NSE Indices launches Nifty200 Value 30 Index",
+      "description": "The Nifty200 Value 30 Index aims to track the performance of 30 companies from its parent Nifty 200 index, selected based on their 'value' scores.",
+      "link": "https://www.niftyindices.com/Press_Release/ind_prs12062024.pdf",
+      "display_link": "https://www.niftyindices.com › ind_prs12062024",
+      "date": "12 Jun 2024",
+      "rank": 7
+    },
+    {
+      "title": "Live Market Screener - Track Nifty 50, Nifty 100 & 500 ...",
+      "description": "Live Market Screener - Get Nifty stocks with realtime Bullish, Bearish, High Volumes, Rise & Fall, and Near High / Low signals on ScanX Stock Screener.",
+      "link": "https://scanx.trade/live-market-screener",
+      "display_link": "https://scanx.trade › live-market-screener",
+      "date": "12 Jun 2024",
+      "rank": 9
+    },
+    {
+      "title": "Motilal Oswal Nifty Defence Index Fund One Pager 12-06- ...",
+      "description": "Name of the scheme. Motilal Oswal Nifty India Defence Index Fund (An open-ended fund replicating/tracking the Nifty India Defence Total Return Index).",
+      "link": "https://www.motilaloswalmf.com/CMS/assets/uploads/Documents/86f25-motilal-oswal-nifty-india-defence-index-fund-one-pager.pdf",
+      "display_link": "https://www.motilaloswalmf.com › Documents › 8...",
+      "date": "12 Jun 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty cools after record run, Sensex rises 150 points as ...",
+      "description": "Nifty cools after record run, Sensex rises 150 points as investors eye US Fed decision ... The broader NSE Nifty gained 58 points, or 0.25%, to end at 23,323.",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-cools-after-record-run-sensex-rises-150-points-as-investors-eye-us-fed-decision/articleshow/110939306.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "12 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty Closes At Record High After Two-Day Fall",
+      "description": "The NSE Nifty 50 and the S&P BSE Sensex rose 0.76% and 0.78% respectively so far in the day. The NSE Nifty 50 scaled a fresh high of 23,420.35 shortly after ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-nse-bse-nifty-50-sensex-tcs-hcl-technologies-ciplas-share-price-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "12 Jun 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open on a flat note Wednesday following mixed global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-june-12-11718157230298.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "12 Jun 2024",
+      "rank": 15
+    }
+  ]
+}

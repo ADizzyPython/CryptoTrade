@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-23 after:2024-05-22 \"nifty\"",
+    "results_cnt": 2650000,
+    "search_time": 0.57,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:50:30.804387Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 200 Share Price today - Indices",
+      "description": "The Nifty 200 Index is a stock market index that represents the performance of the top 200 companies listed on the National Stock Exchange (NSE) of India.",
+      "link": "https://www.indmoney.com/indices/nifty-200",
+      "display_link": "https://www.indmoney.com › Indices",
+      "date": "22 May 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty May futures trade at premium - May 22, 2024",
+      "description": "The Nifty May 2024 futures closed at 22,666.10, a premium of 68.3 points compared with the Nifty`s closing 22,597.80 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-may-futures-trade-at-premium/1511955",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "22 May 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty IT Futures Quotes",
+      "description": "TCS Up 3% to New 52-Week High; Leads Nifty, Sensex, Nifty IT Packs ... Nifty Prediction for 28 January 2025. Nifty opened below the 23,000 support ...",
+      "link": "https://in.investing.com/indices/cnx-it-futures",
+      "display_link": "https://in.investing.com › indices › cnx-it-futures",
+      "date": "22 May 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 50 to hit 1,50000 in next 15-17 years but not without ...",
+      "description": "Nifty 50 could reach 1,50,000 in the next 15-17 years and the Sensex could hit 1,50,000 in the next 5-6 years, but not without corrections, said Raamdeo ...",
+      "link": "https://www.moneycontrol.com/news/business/nifty-50-to-hit-150000-in-next-15-17-years-but-not-without-corrections-says-raamdeo-agrawal-12729231.html",
+      "display_link": "https://www.moneycontrol.com › NEWS › BUSINESS",
+      "date": "22 May 2024",
+      "rank": 8
+    },
+    {
+      "title": "Top 10 Dividend-Yielding Stocks in Nifty 50",
+      "description": "Don't miss out on these top dividend stocks from Nifty 50. Invest wisely and secure passive income with leading picks like Coal India, ONGC, and more.",
+      "link": "https://www.angelone.in/news/top-10-dividend-yielding-stocks-nifty-50",
+      "display_link": "https://www.angelone.in › News › Share Market",
+      "date": "22 May 2024",
+      "rank": 13
+    }
+  ]
+}

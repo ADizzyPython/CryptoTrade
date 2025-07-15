@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-05 after:2024-11-04 \"nifty\"",
+    "results_cnt": 385000,
+    "search_time": 0.49,
+    "language": "en-ID",
+    "country": "Indonesia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:18:34.900558Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex crashes 1350 points, Nifty tanks by 1.83",
+      "description": "As of midday, the Sensex hovered below 79,000, while the Nifty rested at 23,859.10, both experiencing their most significant losses since October's market ...",
+      "link": "https://ddnews.gov.in/en/sensex-crashes-1350-points-nifty-tanks-by-1-83-us-election-adds-fuel-to-fii-selling/",
+      "display_link": "https://ddnews.gov.in › sensex-crashes-1350-points-nift...",
+      "date": "4 Nov 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nearly half of Nifty 50 stocks are down over 10% since it ...",
+      "description": "The Nifty 50 is down 9% from the record high level of 26,277 it had made on September 27 this year. 48 out of the 50 Nifty constituents are trading with ...",
+      "link": "https://www.cnbctv18.com/photos/market/nifty-50-stock-market-crash-half-stocks-down-over-10-percent-indusind-bajaj-hul-nestle-share-price-19503204.htm",
+      "display_link": "https://www.cnbctv18.com › photos › market",
+      "date": "4 Nov 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty 50 and Sensex Closed Lower, All Sector Settled Lower",
+      "description": "On November 04, 2024, the Indian equity indices ended in red. Nifty 50 was down 1.27% and settled at 23,995.35 while Sensex was down 1.18% to 78,782.24.",
+      "link": "https://www.angelone.in/news/closing-bell-4th-november-2024",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "4 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Why Nifty dropped below 24000, Sensex fell 942 pts today ...",
+      "description": "Nifty had slipped below the 24,000 level last on August 6, 2024. Mirroring the Nifty50, the BSE Sensex slumped to 78,232.6, down 1,491.52 points or 1.87 per ...",
+      "link": "https://www.business-standard.com/markets/news/blood-on-d-street-why-nifty-dropped-below-24-000-sensex-fell-1-500-pts-124110400320_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "4 Nov 2024",
+      "rank": 10
+    },
+    {
+      "title": "Tech view: Nifty's short-term trend remains weak, critical ...",
+      "description": "Nifty's short-term trend remains downward, with potential for further weakness. The next key support level to watch is around 23500, aligning with the ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-niftys-short-term-trend-remains-weak-critical-support-at-200-dema-how-to-trade-tomorrow/articleshow/114946930.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "4 Nov 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty may slip to new lows if it breaches 24150 says Geojit ...",
+      "description": "Nifty may slip to new lows if it breaches 24150 says Geojit Financial Services. We expect the (Nifty FMCG) index to move towards 61300-62300 initially and ...",
+      "link": "https://www.financialexpress.com/market/cafeinvest-nifty-may-slip-to-new-lows-if-it-breaches-24150-says-geojit-financial-services-3656227/",
+      "display_link": "https://www.financialexpress.com › market › cafeinvest",
+      "date": "4 Nov 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty, Sensex Record Worst Session In Over A Month ...",
+      "description": "The Nifty 50 settled 309.00 points, or 1.27%, lower at 23,995.35, and the Sensex fell 941.88 points, or 1.18%, to end at 78,782.24. Ananya Chaudhuri.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-sensex-record-worst-session-in-over-a-month-ril-falls-4-market-wrap",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "4 Nov 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty 50 crash; investors lose ₹6 lakh crore",
+      "description": "Stock market today: The Indian stock market faced a broad selloff, with the Sensex and Nifty 50 dropping over 1% each. Mid and small-cap indices fell up to 2%, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-crash-over-1-each-what-is-driving-indian-stock-market-down-explained-11730694410756.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Nov 2024",
+      "rank": 19
+    }
+  ]
+}

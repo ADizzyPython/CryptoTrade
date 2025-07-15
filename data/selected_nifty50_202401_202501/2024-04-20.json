@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-21 after:2024-04-20 \"nifty\"",
+    "results_cnt": 10,
+    "search_time": 0.46,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:45:40.834728Z"
+  },
+  "organic": [
+    {
+      "title": "Constituents of Nifty 50",
+      "description": "The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock ...",
+      "link": "https://www.screener.in/company/NIFTY/?order=desc&sort=sales+latest+quarter&page=2",
+      "display_link": "https://www.screener.in › company › NIFTY",
+      "date": "20 Apr 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 100 Low Volatility 30 value and PE ratio",
+      "description": "Nifty 100 Low Volatility 30 · Market Cap ₹ 1,39,39,751 Cr. · Current Price ₹ 20,092 · High / Low ₹ 21,767 / 17,504 · P/E 6.13 · Price to Book value 31.7 ...",
+      "link": "https://www.screener.in/company/NFT100LV30/",
+      "display_link": "https://www.screener.in › company",
+      "date": "20 Apr 2024",
+      "rank": 2
+    },
+    {
+      "title": "S&P 500 Share Price Today",
+      "description": "Nifty (-0.27%). 25082.30-67.55 · Nifty Midcap (0.70%). 59052.55+ 410.35 · Nifty Smallcap (1.14%). 9164.20+ 102.90 · Nifty Bank (0.02%). 56765.35+ 10.65 · Nifty ...",
+      "link": "https://www.business-standard.com/markets/s-p-500-share-price-41378.html",
+      "display_link": "https://www.business-standard.com › » › Markets",
+      "date": "20 Apr 2024",
+      "rank": 9
+    },
+    {
+      "title": "NDR INVIT Trust Share Price Today",
+      "description": "Stock Market LIVE: Sensex up 200 pts; Nifty above 25,150; all sectors in green; Hero Motocorp up 4% ... NIFTY. 1 Week, -, -, -1.47%, -1.36%. 1 Month, -, -, 1.68% ...",
+      "link": "https://www.business-standard.com/markets/ndr-invit-trust-share-price-92808.html",
+      "display_link": "https://www.business-standard.com › » › Markets",
+      "date": "20 Apr 2024",
+      "rank": 10
+    }
+  ]
+}

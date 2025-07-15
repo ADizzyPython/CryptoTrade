@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-21 after:2024-06-20 \"nifty\"",
+    "results_cnt": 327000,
+    "search_time": 0.23,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:55:08.866983Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 25 SEP 2025 PE 19000",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%).",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-19000-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jun 20, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 27000",
+      "description": "Nifty Option Chain; Nifty 27000 Ce. Nifty 17 JUL 2025 CE 27000. Nifty 17 JUL 2025 CE 27000. ₹ 0.8. -0.10 (-11.11%). Expiry: Jul 17 2025, Expiry: Jul 24 2025 ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-27000-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jun 20, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Zerodha Nifty Midcap 150 ETF - Share/Stock Price",
+      "description": "Zerodha Nifty Midcap 150 ETF Share Price: Find the latest news on Zerodha Nifty Midcap 150 ETF Stock Price. Get all the information on Zerodha Nifty Midcap ...",
+      "link": "https://www.moneycontrol.com/india/stockpricequote/etf/mid150case/ZNM",
+      "display_link": "https://www.moneycontrol.com › ... › Share/Stock Price",
+      "date": "Jun 20, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Elliott Wave Analysis shows NIFTY-50 Pullback is Imminent",
+      "description": "In this post, we will analyze the NIFTY-50 price chart. The Nifty 50 includes 50 major companies listed on the National Stock Exchange (NSE) of India. It is ...",
+      "link": "https://www.theglobeandmail.com/investing/markets/indices/TXDC/pressreleases/26941862/elliott-wave-analysis-shows-nifty-50-pullback-is-imminent/",
+      "display_link": "https://www.theglobeandmail.com › pressreleases › ellio...",
+      "date": "Jun 20, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock Market Highlights: Nifty 50 seen to be positive amid ...",
+      "description": "Nifty Bank rallies nearly 400 points; here are key levels to track on Friday. The Nifty Bank rose 385 points to close at 51,783 while the Nifty50 rose 51 points ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-20-june-2024/liveblog/111126136.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jun 20, 2024",
+      "rank": 7
+    },
+    {
+      "title": "India Vix Share Price Live Chart Today",
+      "description": "NIFTY. NA. 0.00 (0.00%). SENSEX. NA. 0.00 (0.00%). BANKNIFTY. NA. 0.00 (0.00%). All ... NIFTY. NA0.00 (0.00%). SENSEX. NA0.00 (0.00%). BANKNIFTY. NA0.00 (0.00 ...",
+      "link": "https://groww.in/charts/indices/india-vix",
+      "display_link": "https://groww.in › charts › indices › india-vix",
+      "date": "Jun 20, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Elliott Wave analysis shows NIFTY-50 pullback is imminent",
+      "description": "In this post, we will analyze the NIFTY-50 price chart. The Nifty 50 includes 50 major companies listed on the National Stock Exchange (NSE) of India.",
+      "link": "https://www.fxstreet.com/news/elliott-wave-analysis-shows-nifty-50-pullback-is-imminent-202406201849",
+      "display_link": "https://www.fxstreet.com › news › elliott-wave-analysis-...",
+      "date": "Jun 20, 2024",
+      "rank": 17
+    },
+    {
+      "title": "NSE launches Nifty India Tourism Index. Check top stock ...",
+      "description": "NSE Indices has launched a new thematic index called Nifty India Tourism which will track the performance of stocks in Nifty 500 index representing the travel ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nse-launches-nifty-india-tourism-index-check-top-stock-constituents/articleshow/111142100.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Jun 20, 2024",
+      "rank": 20
+    }
+  ]
+}

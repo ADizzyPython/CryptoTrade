@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-13 after:2024-11-12 \"nifty\"",
+    "results_cnt": 359000,
+    "search_time": 0.93,
+    "language": "en-LK",
+    "country": "Sri Lanka",
+    "location": "India",
+    "timestamp": "2025-07-15T16:19:48.740751Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Financial Services Index Today (NIFTYFIN)",
+      "description": "How Is The Nifty Financial Services Doing Today? The Nifty Financial Services live stock price is 26,853.10. What Is the Nifty Financial Services Ticker Symbol?",
+      "link": "https://www.investing.com/indices/cnx-finance",
+      "display_link": "https://www.investing.com › indices › cnx-finance",
+      "date": "Nov 12, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty closes near five-month low; earnings miss, foreign ...",
+      "description": "Since reaching all-time highs on September 26, the Sensex has fallen by 8.3 per cent, and the Nifty is down almost 9 per cent.",
+      "link": "https://www.business-standard.com/markets/news/nifty-ends-near-five-month-low-124111201428_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Nov 12, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty Capital Markets Index Live Today - NSE",
+      "description": "This page shows the latest information about the Nifty Capital Markets Index of NSE. The Nifty Capital Markets Index Index contains total of 15 companies.",
+      "link": "https://ticker.finology.in/market/index/nse/niftycm",
+      "display_link": "https://ticker.finology.in › Market › NSE",
+      "date": "Nov 12, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty FMCG: Meaning, Importance & Calculation",
+      "description": "NIFTY FMCG is a sectoral index on the National Stock Exchange (NSE) that tracks the performance of India's fast-moving consumer goods (FMCG) sector.",
+      "link": "https://www.bajajfinserv.in/what-is-nifty-fmcg",
+      "display_link": "https://www.bajajfinserv.in › what-is-nifty-fmcg",
+      "date": "Nov 12, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Tech View: Nifty's short-term trend remains weak, key ...",
+      "description": "Nifty continued its fall from its resistance at 24,500 levels. The momentum indicators on a weekly and daily chart continue to show a further fall in the index.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-niftys-short-term-trend-remains-weak-key-support-at-23500-how-to-trade-tomorrow/articleshow/115218783.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Nov 12, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex drops 821 points, broad-based selling hits Nifty",
+      "description": "Indian equity markets ended on a weak note on Tuesday, with the Nifty slipping below the 23,900 mark as broad-based selling hit various sectors.",
+      "link": "https://ddnews.gov.in/en/markets-close-lower-sensex-drops-821-points-broad-based-selling-hits-nifty/",
+      "display_link": "https://ddnews.gov.in › markets-close-lower-sensex-dro...",
+      "date": "Nov 12, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Bear bites: Nifty & Sensex hit a low. How deep is the dip?",
+      "description": "The Nifty 50 is trading at a price to earnings multiple of 23.20 times, slightly higher than its 10-year average of 22.93 times, showed Bloomberg data. ' ...",
+      "link": "https://www.livemint.com/market/stock-market-news/bear-bites-nifty-sensex-hit-a-low-how-deep-is-the-dip-nifty-50-markets-11731419333457.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Nov 12, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty slump 1% amid unabated foreign fund ...",
+      "description": "Falling for the third day running, the NSE Nifty tanked 257.85 points or 1.07 per cent to 23,883.45. From the 30-share Sensex pack, NTPC, Asian Paints, HDFC ...",
+      "link": "https://www.deccanherald.com/business/markets/sensex-nifty-slump-1-amid-unabated-foreign-fund-outflows-weak-global-trends-3272769",
+      "display_link": "https://www.deccanherald.com › Business › Markets",
+      "date": "Nov 12, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty fall for fourth consecutive day; key reasons ...",
+      "description": "Sensex drops 659, Nifty falls over 200 points · Nifty IT and Realty sectors gained marginally · Britannia and HDFC Bank among top losers.",
+      "link": "https://www.indiatoday.in/business/story/market-update-sensex-down-over-600-points-nifty-falls-200-afternoon-session-auto-bank-stocks-decline-2632167-2024-11-12",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Nov 12, 2024",
+      "rank": 19
+    }
+  ]
+}

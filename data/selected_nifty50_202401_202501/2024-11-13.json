@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-14 after:2024-11-13 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.55,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:19:58.442038Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty may see another 10% downside over next 3-6 months ...",
+      "description": "Macquarie's Sandeep Bhatia fears the benchmark Nifty 50 index is in for a sharp, 10 percent downside from present levels, over the next 3-6 months.",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-has-downside-risk-over-three-to-six-months-says-macquarie-sandeep-bhatia-12866538.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "13 Nov 2024",
+      "rank": 3
+    },
+    {
+      "title": "What if Nifty 50 fails to hold the 200-DMA at ...",
+      "description": "Nifty 50 price forecast: In the worst case, the Nifty can slide another 14% towards 20300-odd levels. For now, near support for the index is seen at 23250 ...",
+      "link": "https://www.business-standard.com/markets/news/what-if-nifty-50-fails-to-hold-the-200-dma-at-23-530-key-levels-here-124111301084_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "13 Nov 2024",
+      "rank": 4
+    },
+    {
+      "title": "Market Prediction for 13th November 2024 | Nifty and Bank ...",
+      "description": "Nifty started Tuesday's session on a flat note but witnessed a sharp correction throughout the day, and ended below 23900 with a loss of over a percent.",
+      "link": "https://www.5paisa.com/blog/market-outlook-for-13th-november-2024",
+      "display_link": "https://www.5paisa.com › Blog",
+      "date": "13 Nov 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty enters correction territory as NSE index falls over 10 ...",
+      "description": "Market mayhem: Nifty in correction territory, crashes 10% from September peak, Sensex down 8,300 points. Today's market fall marked the index's fifth straight ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-enters-correction-territory-falls-over-10-percent-from-september-peak-12866279.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "13 Nov 2024",
+      "rank": 8
+    },
+    {
+      "title": "Bloodbath on D'Street; Nifty off 10% from recent highs, Sensex ...",
+      "description": "The benchmark indices saw profit booking at higher levels, the Nifty shed 324 points and closed at 23,559 while the Sensex slumped 984 points to shut shop at ...",
+      "link": "https://www.financialexpress.com/market/bloodbath-on-dstreet-nifty-off-10-from-recent-highs-sensex-slides-1000-points-is-there-room-for-further-correction-3664217/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "13 Nov 2024",
+      "rank": 10
+    },
+    {
+      "title": "Indian shares, including Nifty 50, slip into correction as rate ...",
+      "description": "The NSE Nifty 50 (.NSEI) , opens new tab fell 1.36%, its biggest slide in nearly six weeks, to end at 23,559.05 points.",
+      "link": "https://www.reuters.com/world/india/indian-shares-set-muted-start-rising-inflation-dampens-domestic-rate-cut-hopes-2024-11-13/",
+      "display_link": "https://www.reuters.com › world › india › indian-shares...",
+      "date": "13 Nov 2024",
+      "rank": 11
+    }
+  ]
+}

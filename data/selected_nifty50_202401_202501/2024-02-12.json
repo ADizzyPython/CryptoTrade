@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-13 after:2024-02-12 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.33,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:34:21.771040Z"
+  },
+  "organic": [
+    {
+      "title": "Markets close lower, NIFTY 50 closes around ...",
+      "description": "Markets close lower, NIFTY 50 closes around 21,600, while SENSEX losses 500+ points; Stock Market LIVE Updates · Stock Market LIVE coverage ends · BANK NIFTY ...",
+      "link": "https://upstox.com/live-blog/share-market-live-bse-sensex-today-nse-nifty-stock-market-updates-12-february-2024/",
+      "display_link": "https://upstox.com › Live News",
+      "date": "Feb 12, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Closing Bell: Sensex down 523 pts, Nifty around ...",
+      "description": "Indian equity indices ended lower on February 12 with Nifty around 21,600, amid selling across the sectors barring IT and pharma names. At close, the Sensex was ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-12-02-2024-liveblog-12243621.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Feb 12, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Compatible with K-Cups, KD Coffee Pod Carousel | ...",
+      "description": "Nifty K Cup Holder – Compatible with K-Cups, KD Coffee Pod Carousel | K Cup Holders, Spins 360-Degrees, Lazy Susan Platform, Modern Black Design | 40 Pod ...",
+      "link": "https://www.amazon.in/Nifty-Cup-Holder-Compatible-360-Degrees/dp/B0BVWNKP65",
+      "display_link": "https://www.amazon.in › Nifty-Cup-Holder-Compatible...",
+      "date": "Feb 12, 2024",
+      "rank": 16
+    }
+  ]
+}

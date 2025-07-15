@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-12 after:2024-03-11 \"nifty\"",
+    "results_cnt": 3750000,
+    "search_time": 0.72,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:39:36.349001Z"
+  },
+  "organic": [
+    {
+      "title": "Historical Data",
+      "description": "NIFTY A Corporate Bond Indices · NIFTY Banking & PSU Bond Indices. NIFTY AAA Ultra Short Duration Bond NIFTY AAA Low Duration Bond NIFTY AAA Short Duration Bond ...",
+      "link": "https://www.niftyindices.com/reports/historical-data",
+      "display_link": "https://www.niftyindices.com › reports › historical-data",
+      "date": "11 Mar 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 Reshuffle: What's Changing and Why it Matters?",
+      "description": "The National Stock Exchange (NSE) announced on February 28, 2024, that Shriram Finance Limited would be included in the Nifty 50 index, replacing UPL.",
+      "link": "https://tejimandi.com/blogs/feature-articles/nifty-50-reshuffle-whats-changing-and-why-it-matters",
+      "display_link": "https://tejimandi.com › blogs › feature-articles › nifty-5...",
+      "date": "11 Mar 2024",
+      "rank": 2
+    },
+    {
+      "title": "Raamdeo Agrawal says Nifty may hit 75000 in 10 years",
+      "description": "Nifty may hit 50,000-mark by 2031 and 75,000 levels in the next 10 years · We are positive on infrastructure, defence and capital market themes ...",
+      "link": "https://www.businesstoday.in/markets/market-commentary/story/raamdeo-agrawal-says-nifty-may-hit-75000-in-10-years-sees-big-wealth-creation-from-these-3-themes-420971-2024-03-11",
+      "display_link": "https://www.businesstoday.in › ... › Market Commentary",
+      "date": "11 Mar 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex sinks 617 pts, Nifty ends at ...",
+      "description": "Sensex sinks 617 pts, Nifty ends at 22,333; BSE SmallCap, SBI tank 2% each. Stock market highlights on March 11, 2024: Sensex, Nifty end with sharp losses ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-on-march-11-sensex-nse-bse-gift-nifty-indigo-tata-jm-financial-124031100067_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "11 Mar 2024",
+      "rank": 15
+    },
+    {
+      "title": "Bullish setup in Bank Nifty, bank stocks may run up",
+      "description": "The Bank Nifty index has gained nearly 8% to 48,161 zone in the last four weeks and is just 1.5% away from its lifetime high of 48,636. The index futures ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/bullish-setup-in-bank-nifty-bank-stocks-may-run-up/articleshow/108377154.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "11 Mar 2024",
+      "rank": 16
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex, Nifty50 halt two-day ...",
+      "description": "NSE sectoral indices ; NIFTY BANK, 47,327.85, -1.06 ; NIFTY PRIVATE BANK, 23,595.00, -1.06 ; NIFTY OIL & GAS, 11,643.55, -1.06 ; NIFTY CONSUMER DURABLES, 32,540.30 ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-279613",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "11 Mar 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock market today: BSE Sensex, Nifty50 plunge as Rs ...",
+      "description": "The BSE Sensex declined by 617 points or 0.83% to settle at 73,502, while the NSE Nifty dropped by 161 points or 0.72% to end at 22,332. Stock market today ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-bse-sensex-nifty50-plunge-tata-group-banking-stocks-march-11-2024-why-bears-attacked-top-reasons/articleshow/108395108.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "11 Mar 2024",
+      "rank": 18
+    }
+  ]
+}

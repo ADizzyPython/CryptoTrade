@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-25 after:2024-08-24 \"nifty\"",
+    "results_cnt": 13,
+    "search_time": 0.47,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:07:17.161412Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty · player info - osu! - ppy",
+      "description": "Nifty formerly known as Sarcastitone. United States. Global Ranking -. Country Ranking -. No recent plays. Medals 76. pp 0. Total Play Time 7d 2h 37m.",
+      "link": "https://osu.ppy.sh/users/4956097",
+      "display_link": "https://osu.ppy.sh › users",
+      "date": "Aug 24, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Bank - NSE",
+      "description": "Nifty Bank share price was Rs 57,038.20 at 12:09 PM IST on 15th Jul 2025. Nifty Bank share price was up by 0.48% over the previous closing price of Rs 56,765.35 ...",
+      "link": "https://www.business-standard.com/markets/nifty-bank-share-price-26753.html",
+      "display_link": "https://www.business-standard.com › » › Markets",
+      "date": "Aug 24, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights: Nifty eyeing 25K in monthly expiry ...",
+      "description": "Stock Market Highlights: Nifty eyeing 25K in monthly expiry week. Here's how to trade on Monday. 02:57:28 PM IST , 24 Aug, 2024.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-23-august-2024/liveblog/112724849.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Aug 24, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Trent, BEL join Nifty 50 as LTI Mindtree, Divi's Labs exit",
+      "description": "The National Stock Exchange (NSE) has announced changes to its flagship Nifty 50 index, effective September 30. Tata Group's lifestyle company Trent and ...",
+      "link": "https://www.business-standard.com/markets/capital-market-news/trent-bel-join-nifty-50-as-lti-mindtree-divi-s-labs-exit-124082400330_1.html",
+      "display_link": "https://www.business-standard.com › capital-market-news",
+      "date": "Aug 24, 2024",
+      "rank": 8
+    },
+    {
+      "title": "ตุ่มที่น้องสาว บอกโรค! คัน คล้ายสิว ฝี?",
+      "description": "ตรวจ NIFTY TEST · ตรวจ QUAD TEST · ตรวจหลังคลอด · ตรวจฮอร์โมน AMH · ตรวจนรีเวชสำหรับสุภาพสตรี · ตกขาว · คันช่องคลอด (คันน้องสาว) · ต่อมบาร์โธลินอักเสบ · เชื้อราในช่องคลอด ...",
+      "link": "https://www.intouchmedicare.com/vaginal-bumps",
+      "display_link": "https://www.intouchmedicare.com › ...",
+      "date": "Aug 24, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stree on OTT: Where to watch Shraddha Kapoor ...",
+      "description": "Nifty 50 · Nifty 500 · BSE Sensex · Bank Nifty · Sectors · News · India · Web Stories ... Nifty · Miss World Finale 2024 Live · Rituraj Singh Death · Mithun ...",
+      "link": "https://m.economictimes.com/magazines/panache/web-stories/stree-on-ott-where-to-watch-shraddha-kapoor-rajkummar-raos-supernatural-blockbuster/articleshow/112765109.cms",
+      "display_link": "https://m.economictimes.com › ... › Panache Web-Stories",
+      "date": "Aug 24, 2024",
+      "rank": 13
+    }
+  ]
+}

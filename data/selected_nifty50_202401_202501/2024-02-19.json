@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-20 after:2024-02-19 \"nifty\"",
+    "results_cnt": 318000,
+    "search_time": 0.48,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:35:32.818276Z"
+  },
+  "organic": [
+    {
+      "title": "Closing Bell: Nifty above 22100, Sensex up 282 pts led by ...",
+      "description": "Today, the stock market saw marginal gains, with both the Nifty and Sensex indices trending upwards. The Nifty closed at 22,122.25, up by 81.55 points or 0.37%, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-19-02-2024-liveblog-12299871.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "19 Feb 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty hits fresh high, Sensex ends 282 pts higher",
+      "description": "Stock market highlights on February 19, 2024: Nifty index leaps to a new lifetime high of 22187 after crossing previous high of February 2, 2024.",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-on-feb-19-sensex-nifty-paytm-bajaj-auto-ntpc-124021900066_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "19 Feb 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock Market Highlights 19 February 2024: Nifty settles at ...",
+      "description": "Stock Market Highlights 19 February 2024: Nifty settles at 22,122 after hitting fresh highs, Sensex gains 281 pts; Grasim rises 3%. Sensex, Nifty updates on ...",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-highlights-19-february-2024/article67860834.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "19 Feb 2024",
+      "rank": 8
+    },
+    {
+      "title": "Indian shares extend gains for fifth session; Nifty 50 scales ...",
+      "description": "The NSE Nifty 50 index (.NSEI) , opens new tab rose as much as 0.66% to a record level of 22,186.65, before settling 0.37% higher at 22,122.25.",
+      "link": "https://www.reuters.com/world/india/indian-shares-set-open-higher-2024-02-19/",
+      "display_link": "https://www.reuters.com › world › india › indian-shares...",
+      "date": "19 Feb 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50 hits new record high, financials lead",
+      "description": "The benchmark has scaled new highs for the sixth time in 2024. The NSE Nifty 50 index rose up to 0.50% to a record level of 22,150.75, as of 11:48 a.m. IST, ...",
+      "link": "https://bfsi.economictimes.indiatimes.com/news/financial-services/nifty-50-hits-new-record-high-financials-lead/107813302",
+      "display_link": "https://bfsi.economictimes.indiatimes.com › news › nifty-...",
+      "date": "19 Feb 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty 50 hits another all time high",
+      "description": "What are your thoughts on Nifty and the markets overall going forward till March 2024 ? ... Nifty 50 hits another all time high · Nifty & Bank Nifty discussions.",
+      "link": "https://tradingqna.com/t/nifty-50-hits-another-all-time-high/161064",
+      "display_link": "https://tradingqna.com › nifty-50-hits-another-all-time-...",
+      "date": "19 Feb 2024",
+      "rank": 19
+    }
+  ]
+}

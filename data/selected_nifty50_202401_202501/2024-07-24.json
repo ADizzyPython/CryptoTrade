@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-25 after:2024-07-24 \"nifty\"",
+    "results_cnt": 321000,
+    "search_time": 0.28,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T16:00:52.610673Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty 50: A Beginner's Guide to India's Top Index",
+      "description": "NIFTY 50 is a benchmark index made by the National Stock Exchange. It includes the top 50 Indian stocks. It's a leading indicator of blue chip companies in ...",
+      "link": "https://www.ifmcinstitute.com/what-is-nifty-50/",
+      "display_link": "https://www.ifmcinstitute.com › Certifications › NSE",
+      "date": "Jul 24, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Share Market - Indian Stock Market Live Updates Online",
+      "description": "analysis on BSE, SENSEX, NIFTY, NSE, IPOs & Commodities ... NIFTY 50. 25088.65. -266.6 (-1.05)%. 13 Jul 2025. 17:0 AM IST. 1Mins 5Mins 15Mins 30Mins 1Hr.",
+      "link": "https://www.tradebulls.in/share-market-live",
+      "display_link": "https://www.tradebulls.in › share-market-live",
+      "date": "Jul 24, 2024",
+      "rank": 3
+    },
+    {
+      "title": "What is Nifty 50 - Listed Sectors, Companies",
+      "description": "Nifty 50 is one of the most actively traded contracts in the world. Nifty 50 consist of diversified 50 stock index accounting for 13 sectors of the economy.",
+      "link": "https://rupeezy.in/blog/what-is-nifty-50-index-meaning-definition-example",
+      "display_link": "https://rupeezy.in › Blog › Indices",
+      "date": "Jul 24, 2024",
+      "rank": 4
+    },
+    {
+      "title": "About NSE Investments - National Stock Exchange India",
+      "description": "NSE - NIFTY 50. 25,082.30. -67.55 (-0.27%). 14-Jul-2025 15:30. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac ...",
+      "link": "https://www.nseindia.com/nse-investments",
+      "display_link": "https://www.nseindia.com › nse-investments",
+      "date": "Jul 24, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms High Wave candle ...",
+      "description": "Nifty ended 66 points lower above the 24400 level to form a High Wave type ... Nifty is currently placed near another support of 20day EMA around 24270 levels.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-24-july-2024/liveblog/111974350.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Jul 24, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock market strategy: Nifty 50 could correct in short term ...",
+      "description": "It continues to expect 15%+ earnings growth for Nifty over FY24-26 and believes valuations for Nifty remain in line with its LPA at 20.4x one-year forward ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-strategy-nifty-50-could-correct-in-short-term-amid-stretched-valuations-say-analysts-check-top-picks-11721801813291.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Jul 24, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Trade Setup for July 25: Has the Nifty begun both a price ...",
+      "description": "The last three sessions has seen the Nifty correct over 400 points from its record high of 24854, thereby also cutting down on the gains it made during the ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-july-25-nifty-key-levels-expiry-lt-axis-bank-jspl-igl-share-price-19448656.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Jul 24, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Closing Bell: Nifty below 24450, Sensex down 280 pts",
+      "description": "Nifty closes below 24,450, Sensex down 280 pts. Indian benchmark indices ended lower for the fourth consecutive session on July 24 with Nifty below 24,450.",
+      "link": "https://www.moneycontrol.com/news/business/stocks/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-24-07-2024-liveblog-12776533.html",
+      "display_link": "https://www.moneycontrol.com › ... › STOCKS",
+      "date": "Jul 24, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty Set To Open Lower After US Tech Selloff",
+      "description": "Benchmark indexes Sensex and Nifty ended modestly lower on Wednesday, with financials and FMCG stocks leading losses. The rupee ended marginally weaker at a ...",
+      "link": "https://www.nasdaq.com/articles/sensex-nifty-set-open-lower-after-us-tech-selloff",
+      "display_link": "https://www.nasdaq.com › articles › sensex-nifty-set-op...",
+      "date": "Jul 24, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock Market Highlights | Nifty 50, Sensex end a ...",
+      "description": "The Sensex ended the session 280 points lower, settling at 80149, while the Nifty 50 slipped 66 points to close at 24414. Midcap Index rose 1% to 56873, ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-budget-2024-hul-vedanta-tata-cons-bajaj-fin-earnings-share-price-liveblog-19448098.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Jul 24, 2024",
+      "rank": 20
+    }
+  ]
+}

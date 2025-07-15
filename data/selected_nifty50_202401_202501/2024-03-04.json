@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-05 after:2024-03-04 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.28,
+    "language": "en-KR",
+    "country": "South Korea",
+    "location": "India",
+    "timestamp": "2025-07-15T15:38:25.170816Z"
+  },
+  "organic": [
+    {
+      "title": "How the entry or exit from Nifty impacted individual stocks",
+      "description": "A study of long-term returns pertaining to 48 stocks of which 25 have entered and 23 have exited Nifty 50 since 2015 throws up unique insights.",
+      "link": "https://m.economictimes.com/wealth/invest/how-the-entry-or-exit-from-nifty-impacted-individual-stocks/articleshow/108156190.cms",
+      "display_link": "https://m.economictimes.com › Wealth › Invest",
+      "date": "Mar 4, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Changes in NIFTY 50 & Other Constituents announced by ...",
+      "description": "Changes in NIFTY 50 & Other Constituents announced by NSE: Effective 28 March 2024 · 1) NIFTY 50: The following companies are being excluded: UPL Ltd (NS:UPLL).",
+      "link": "https://in.investing.com/analysis/changes-in-nifty-50--other-constituents-announced-by-nse-effective-28-march-2024-200611936",
+      "display_link": "https://in.investing.com › analysis › changes-in-nifty-50...",
+      "date": "Mar 4, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Factor Funds: Which Index Should You Choose?",
+      "description": "The Nifty Alpha 50 index picks 50 stocks from the top 300 companies by free-float market cap based on their 'alpha' or outperformance. The Nifty Alpha Low ...",
+      "link": "https://www.etmoney.com/learn/mutual-funds/what-is-factor-investing-and-which-is-the-best-index-to-choose/",
+      "display_link": "https://www.etmoney.com › Learn › Mutual Funds",
+      "date": "Mar 4, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty, Sensex trim gains to end flat; investors eye global ...",
+      "description": "Tracking gains in the US and Asian markets, the Sensex closed 66.14 points or 0.09 percent up at 73,872, and the Nifty ended 27.20 points or 0.12 percent higher ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-sensex-trim-gains-to-trade-flat-investors-eye-global-indices-for-cues-12398681.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 4, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty continues record run, scales 22440 level led by auto & ...",
+      "description": "Nifty continues record run, scales 22,440 level led by auto & energy stocks ... On the sectoral front, Nifty Pharma rose 0.75%, and Nifty Oil & Gas gained 0.6%.",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-continues-record-run-scales-22440-level-led-by-auto-energy-stocks/articleshow/108192166.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Mar 4, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Await breakout above 22464 to initiate bullish positions ...",
+      "description": "Nifty 50 Index Outlook. The Nifty Index, which last closed at 22,378, has exhibited a bullish trend on charts, marking a breakout on the first day of the ...",
+      "link": "https://www.business-standard.com/markets/news/nifty50-outlook-await-breakout-above-22-464-to-initiate-bullish-positions-124030400042_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Mar 4, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Nifty closes above ...",
+      "description": "Share Market HIGHLIGHTS: Nifty closes above 22,400 for first time ever, Sensex up 66 pts at record 73,872; NTPC stock soars. Share Market HIGHLIGHTS: Domestic ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-news-today-live-nifty-today-sensex-share-price-stock-market-news-gold-rate-today-rupee-to-dollar-inr-usd-market-news-march-4-2024-gift-nifty-live-nse-bse-278831",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Mar 4, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty Bank closes over 100 points up - Market News",
+      "description": "Nifty closes around 22,400, Sensex above 73,800; Nifty Bank closes over 100 points up. Share Market News Today | Sensex, Nifty, Share Prices Highlights ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-trade-positive-march-4-2024-monday-3412281/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Mar 4, 2024",
+      "rank": 19
+    }
+  ]
+}

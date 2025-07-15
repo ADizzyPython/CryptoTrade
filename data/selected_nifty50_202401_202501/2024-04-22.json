@@ -1,0 +1,102 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-23 after:2024-04-22 \"nifty\"",
+    "results_cnt": 1810000,
+    "search_time": 0.29,
+    "language": "en-BD",
+    "country": "Bangladesh",
+    "location": "India",
+    "timestamp": "2025-07-15T15:45:56.927882Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Next 50 index",
+      "description": "The Nifty Next 50 Index represents 50 companies from Nifty 100, excluding the Nifty 50 companies. The exchange will provide three serial monthly index futures.",
+      "link": "https://www.drishtiias.com/daily-updates/daily-news-analysis/nifty-next-50-index",
+      "display_link": "https://www.drishtiias.com › daily-news-analysis › nifty...",
+      "date": "Apr 22, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty MNC value and PE ratio",
+      "description": "Nifty MNC · Market Cap ₹ 32,53,736 Cr. · Current Price ₹ 29,176 · High / Low ₹ 32,841 / 23,981 · P/E 34.4 · Price to Book value 8.46 · Dividend Yield 1.76 % ...",
+      "link": "https://www.screener.in/company/CNXMNC/",
+      "display_link": "https://www.screener.in › company › CNXMNC",
+      "date": "Apr 22, 2024",
+      "rank": 4
+    },
+    {
+      "title": "nifty futures - Flattrade Kosh",
+      "description": "The National Stock Exchange (NSE) on Thursday said it will introduce derivative contracts on Nifty Next 50 (NIFTYNXT50) index from April 24.",
+      "link": "https://flattrade.in/kosh/tag/nifty-futures/",
+      "display_link": "https://flattrade.in › kosh › tag › nifty-futures",
+      "date": "Apr 22, 2024",
+      "rank": 5
+    },
+    {
+      "title": "NIFTY FINANCIAL SERVICES INDEX FUND",
+      "description": "under the Nifty brand of NSE, including the flagship index, the Nifty 50. Nifty equity indices comprise of broad-based benchmark indices, sectoral indices ...",
+      "link": "https://portal.amfiindia.com/spages/13907.pdf",
+      "display_link": "https://portal.amfiindia.com › spages",
+      "date": "Apr 22, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Groww Nifty 50 ETF (IBMFNIFTY.NS)",
+      "description": "Find the latest Groww Nifty 50 ETF (IBMFNIFTY.NS) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+      "link": "https://uk.finance.yahoo.com/quote/IBMFNIFTY.NS/fair-value/",
+      "display_link": "https://uk.finance.yahoo.com › quote › fair-value",
+      "date": "Apr 22, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Closing Bell: Sensex up 560 points, Nifty above ...",
+      "description": "At close, the Sensex was up 560.29 points or 0.77 percent at 73,648.62, and the Nifty was up 189.40 points or 0.86 percent at 22,336.40. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/stocks/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-22-04-2024-liveblog-12688631.html",
+      "display_link": "https://www.moneycontrol.com › ... › STOCKS",
+      "date": "Apr 22, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Weekly charts reveal a bearish trend for Nifty 50",
+      "description": "The Nifty 50 Index, currently trading at 22,147.00, has experienced a notable correction of approximately 1000 points in the near term. However, it has also ...",
+      "link": "https://www.business-standard.com/markets/news/weekly-charts-reveal-a-bearish-trend-for-nifty-50-here-s-how-to-trade-124042200055_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Apr 22, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are expected to open higher on Monday tracking gains in Asian peers amid mixed global cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-april-22-11713750187759.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 22, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Highlight: Markets end higher! Nifty above ...",
+      "description": "The NSE Nifty 50 gained 189.40 points or 0.86% to close at 22,336.40, while the BSE Sensex jumped 560.29 points or 0.77% to finish at 73,648.62. Nifty Bank ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-trade-positive-april-22-2024-monday-3464195/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Apr 22, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Why financial planners are recommending Nifty 500 over ...",
+      "description": "The Nifty 500 is favored because it encompasses 91% of India's market capitalization, as opposed to the Nifty 50, which primarily focuses on large-cap companies ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/low-cost-wealth-creation-opportunity-why-financial-planners-are-recommending-nifty-500-over-nifty-50/articleshow/109496095.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "Apr 22, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Tata Nifty Auto Index Fund Direct - Growth",
+      "description": "Tata Nifty Auto Index Fund Direct - Growth is a equity mutual fund scheme from Tata Mutual Fund. This fund has been launched on 08-04-2024. Tata Nifty Auto ...",
+      "link": "https://www.bajajfinserv.in/investments/tata-nifty-auto-index-fund-direct-growth",
+      "display_link": "https://www.bajajfinserv.in › Investments › Mutual Funds",
+      "date": "Apr 22, 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-24 after:2024-03-23 \"nifty\"",
+    "results_cnt": 9,
+    "search_time": 0.26,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:41:18.730008Z"
+  },
+  "organic": [
+    {
+      "title": "Technical Analysis of KOTAK NIFTY ETF (NSE:NIFTY1)",
+      "description": "This gauge displays a technical analysis overview for your selected timeframe. The summary of KOTAK NIFTY ETF is based on the most popular technical indicators.",
+      "link": "https://in.tradingview.com/symbols/NSE-NIFTY1/technicals/",
+      "display_link": "https://in.tradingview.com › ... › ETF market › NIFTY1",
+      "date": "23 Mar 2024",
+      "rank": 1
+    },
+    {
+      "title": "Learn How To Add Nifty and Banknifty Options",
+      "description": "To add Nifty and Banknifty Options to your market watch: Click on the watch list and search for the scrip (Nifty / Banknifty). Click on the (+) plus mark ...",
+      "link": "https://aliceblueonline.com/support/apps/how-to-add-nifty-and-banknifty-options/",
+      "display_link": "https://aliceblueonline.com › APPs",
+      "date": "23 Mar 2024",
+      "rank": 3
+    },
+    {
+      "title": "Latest Ipo News, Photos, Videos and Podcasts",
+      "description": "... Nifty 50 companies. ADANI ENTERPRISES share priceADANI PORTS share price ... Nifty snap 4-day losing run; investors earn over ₹2 lakh crore— 10 key ...",
+      "link": "https://www.livemint.com/topic/ipo",
+      "display_link": "https://www.livemint.com › Topic",
+      "date": "23 Mar 2024",
+      "rank": 5
+    }
+  ]
+}

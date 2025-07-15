@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-07 after:2024-08-06 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.34,
+    "language": "en-MY",
+    "country": "Malaysia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:03:17.824395Z"
+  },
+  "organic": [
+    {
+      "title": "What Is NIFTY? - Meaning, Calculation & Eligibility",
+      "description": "NIFTY 50 is a diversified benchmark index representing the weighted average of the top 50 companies listed on the NSE, covering 13 sectors of the economy.",
+      "link": "https://www.axisbank.com/progress-with-us-articles/other/what-is-nifty",
+      "display_link": "https://www.axisbank.com › ... › other",
+      "date": "6 Aug 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 vs Nifty Next 50: understanding the difference",
+      "description": "The Nifty 50 is India's most widely tracked stock market index, comprising the top 50 companies listed on the National Stock Exchange (NSE) in terms of market ...",
+      "link": "https://www.venturasecurities.com/blog/nifty-50-vs-nifty-next-50-understanding-the-difference/",
+      "display_link": "https://www.venturasecurities.com › blog › nifty-50-vs-n...",
+      "date": "6 Aug 2024",
+      "rank": 3
+    },
+    {
+      "title": "Markets give up early gains! Nifty breaches 24000, Sensex ...",
+      "description": "The NSE Nifty 50 fell 63 points or 0.26%, to settle the day's trading at 23,993, breaching the key 24,000 level. The BSE Sensex settled the session lower by 166 ...",
+      "link": "https://www.financialexpress.com/market/markets-give-up-early-gains-nifty-breaches-24000-sensex-slips-below-78600-3575217/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "6 Aug 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty Closes Below 24000 on Foreign Investors Profit Booking",
+      "description": "Nifty-50 closed below 24,000 at 23,992.55 losing 63 points or 0.26 per cent ... Nifty-50 BSE Mid-Cap · Rest of India Maharashtra Mumbai (Bombay) · Ravi ...",
+      "link": "https://www.deccanchronicle.com/business/economics/nifty-closes-below-24000-on-foreign-investors-profit-booking-1814641",
+      "display_link": "https://www.deccanchronicle.com › Business › Economy",
+      "date": "6 Aug 2024",
+      "rank": 11
+    },
+    {
+      "title": "Stock Market Highlights, Aug 6: Sensex drops ...",
+      "description": "Nifty could head towards 23,667 on breach of the support of 23,894, while 24,383 could offer resistance on the upside in the near term. Views by: Deepak Jasani, ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-sensex-nifty-gift-nifty-nikkei-topix-kospi-hang-seng-nasdaq-bharti-airtel-124080600065_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "6 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "All front-line indices close in red - Market News | The Financial ...",
+      "description": "The NSE Nifty 50 closed 21.45 points or 0.09% lower closing the session at 24,034.15. The Bank Nifty closed the day 0.64% or 322 points lower at 49,770.55.",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-traded-positive-on-august-06-2024-tuesday-3574655/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "6 Aug 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trading Plan: Will Nifty rebound towards 24400, Bank ...",
+      "description": "The Nifty index has plummeted over 1,100 points (4.69 percent) from its record high, hitting a five-week low due to rising global tensions. Currently, it's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-rebound-towards-24400-bank-nifty-back-above-50000-mark-after-recent-sell-off-12789143.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "6 Aug 2024",
+      "rank": 17
+    }
+  ]
+}

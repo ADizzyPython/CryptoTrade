@@ -1,0 +1,110 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-03 after:2024-02-02 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.51,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:32:54.703880Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 - Stock Price & Live Charts",
+      "description": "NIFTY 50 is a stock market index in India that represents the performance of 50 large-cap stocks listed on the National Stock Exchange (NSE).",
+      "link": "https://blinkx.in/indices/nifty-50",
+      "display_link": "https://blinkx.in › Indices",
+      "date": "2 Feb 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty G-Sec Dec 2050 Index",
+      "description": "Nifty G-Sec Dec 2050 Index seeks to measure the performance of portfolio of Government of India securities maturing between January 01, 2050 to December 31, ...",
+      "link": "https://niftyindices.com/indices/fixed-income/target-maturity-index/nifty-g-sec-dec-2050-index",
+      "display_link": "https://niftyindices.com › indices › target-maturity-index",
+      "date": "2 Feb 2024",
+      "rank": 2
+    },
+    {
+      "title": "HDFC NIFTY Bank ETF (INF179KC1HY0)",
+      "description": "HDFC NIFTY Bank ETF Share Price Today, Live NSE Stock Price: Get the latest HDFC NIFTY Bank ETF news, company updates, quotes, offers, annual financial ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=HDFCNIFBAN",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "2 Feb 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Nifty at 21850, Sensex up 440 pts",
+      "description": "The NSE Nifty 50 concluded 156.35 points or 0.72% higher at 21,853.63, while the BSE Sensex rose by 440.33 points or 0.61% to 72,085.63. Midcap and smallcap ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-02-02-2024-liveblog-12177311.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "2 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Budget boost lifts India's Nifty 50 to fifth record high in 2024",
+      "description": "India's benchmark Nifty 50 index hit an all-time high for the fifth time this year on Friday, lifted by gains in Reliance and information technology (IT) ...",
+      "link": "https://www.reuters.com/world/india/indias-nifty-hits-all-time-high-2024-02-02/",
+      "display_link": "https://www.reuters.com › world › india › indias-nifty-...",
+      "date": "2 Feb 2024",
+      "rank": 5
+    },
+    {
+      "title": "Share Market Highlights 2 February 2024: Nifty hits all-time ...",
+      "description": "Simultaneously, the Nifty rose by 156.35 points to 21,853.80, scaling to its all-time high of 22,126.80 during the day. Key contributors to this upswing ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-2-february-2024/article67800793.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "2 Feb 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty hits all-time high level; Sensex jumps over 1400 points",
+      "description": "A day after the presentation of interim budget, the Nifty jumped 429.35 points to reach its lifetime peak of 22,126.80. The 30-share BSE Sensex climbed 1,444.1 ...",
+      "link": "https://www.thehindu.com/business/markets/markets-rebound-in-early-trade-sensex-jumps-over-800-points/article67803446.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "2 Feb 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50, Sensex on February 2: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are expected to open higher on Friday following positive global cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-february-2-11706840247686.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "2 Feb 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty At All-Time High, Sensex Gains Over 1200 Points, ...",
+      "description": "The NSE Nifty 50 index hit an all time high of 22,126.80. It was up 1.7% at 22,086 as of 12.05 pm, while the S&P BSE Sensex gained 1.77% to 72,909.",
+      "link": "https://www.ndtv.com/business-news/nifty-at-all-time-high-sensex-gains-over-1-200-points-nears-73-000-4978999",
+      "display_link": "https://www.ndtv.com › Business News",
+      "date": "2 Feb 2024",
+      "rank": 13
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Nifty reclaims 21850, Sensex ...",
+      "description": "Share Market HIGHLIGHTS: Nifty reclaims 21,850, Sensex soars 440 pts; IT stocks lead gains ... Nifty Today LIVE | RIL, Infy, TCS, NTPC among top movers. RIL ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-stock-market-live-updates-sensex-today-nse-bse-nifty-50-share-price-budget-2024-stocks-fuel-price-bank-nifty-rupee-dollar-gift-ipo-q3-results-latest-news-2-feb-2024-274810",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "2 Feb 2024",
+      "rank": 15
+    },
+    {
+      "title": "Taking Stock: Nifty hits new high, Sensex up 440 points",
+      "description": "Taking Stock: Nifty hits new high, Sensex up 440 points; oil & gas shine, banks a drag. The market posted biggest weekly gains in last two months, as the Sensex ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-hits-new-high-sensex-up-440-points-oil-gas-shine-banks-a-drag-12181771.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "2 Feb 2024",
+      "rank": 17
+    },
+    {
+      "title": "Downtrend on charts for Nifty FMCG, Nifty Pharma",
+      "description": "The Nifty Energy Index is currently displaying a range-bound pattern on charts, with levels oscillating between 37,200 on the upside and 36,350 on the downside.",
+      "link": "https://www.business-standard.com/markets/news/downtrend-on-charts-for-nifty-fmcg-nifty-pharma-check-key-levels-124020200077_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "2 Feb 2024",
+      "rank": 18
+    }
+  ]
+}

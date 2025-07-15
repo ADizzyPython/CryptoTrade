@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-09 after:2024-06-08 \"nifty\"",
+    "results_cnt": 9,
+    "search_time": 0.26,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:03.788456Z"
+  },
+  "organic": [
+    {
+      "title": "Unlocking the power of passive value investing through ...",
+      "description": "As of May 31, 2024, the Nifty 50 Value 20 Index (TRI) has demonstrated robust performance, delivering healthy CAGR returns of 18.88% and 19.91% respectively ...",
+      "link": "https://m.economictimes.com/mf/analysis/unlocking-the-power-of-passive-value-investing-through-nifty-50-value-20-index/articleshow/110813172.cms",
+      "display_link": "https://m.economictimes.com › MF › Analysis",
+      "date": "Jun 8, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Bajaj Finserv Nifty 50 Index Fund Direct Growth",
+      "description": "Bajaj Finserv Nifty 50 Index Fund – Get latest NAV, returns, benchmark performance, fund rank, peer analysis, AUM changes, key insights & top holdings.",
+      "link": "https://www.indmoney.com/mutual-funds/bajaj-finserv-nifty-50-index-fund-direct-growth-1050888",
+      "display_link": "https://www.indmoney.com › Mutual funds",
+      "date": "Jun 8, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Sensex, Nifty at record highs after RBI hikes FY25 GDP ...",
+      "description": "Between June 5 and 7, the Sensex has risen by 4,614 points and the Nifty has jumped by 1,405.65 points. On Friday, market capitalisation of BSE-listed companies ...",
+      "link": "https://indianexpress.com/article/business/market/sensex-nifty-at-record-highs-after-rbi-hikes-fy25-gdp-growth-projection-9379015/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "Jun 8, 2024",
+      "rank": 5
+    },
+    {
+      "title": "daisywarriorcats",
+      "description": "#DAISY || Cr: Warriorsproject/Nifty-senpai || ya'll NEED to read Daisy's Kin. it made her one of my favorite characters || #warriorcats #daisyskin ...",
+      "link": "https://www.tiktok.com/tag/daisywarriorcats",
+      "display_link": "https://www.tiktok.com › tag › daisywarriorcats",
+      "date": "Jun 8, 2024",
+      "rank": 9
+    }
+  ]
+}

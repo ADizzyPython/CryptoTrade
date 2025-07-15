@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-03 after:2024-05-02 \"nifty\"",
+    "results_cnt": 2260000,
+    "search_time": 0.43,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:47:27.104134Z"
+  },
+  "organic": [
+    {
+      "title": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ...",
+      "description": "The investment objective of the scheme is to provide long-term capital appreciation from a portfolio investing in units of Mirae Asset Nifty MidSmallcap400 ...",
+      "link": "https://www.miraeassetmf.co.in/mutual-fund-scheme/fund-of-funds/mirae-asset-nifty-midsmallcap400-momentum-quality-100-etf-fund-of-fund",
+      "display_link": "https://www.miraeassetmf.co.in › fund-of-funds › mirae-...",
+      "date": "2 May 2024",
+      "rank": 3
+    },
+    {
+      "title": "Know your Index 'NIFTY'",
+      "description": "Nifty was launched in 1990s and since then has been the flagship index of NSE and India. It is a composition of top 50 stocks in terms of market capitalization.",
+      "link": "https://www.derivativetradingacademy.com/know-your-index-nifty/",
+      "display_link": "https://www.derivativetradingacademy.com › Blog",
+      "date": "2 May 2024",
+      "rank": 5
+    },
+    {
+      "title": "Groww Nifty Non-Cyclical Consumer Index Fund Now ...",
+      "description": "The core objective of this scheme is to generate long-term capital growth through investments in securities of the Nifty Non-Cyclical Consumer Index with the ...",
+      "link": "https://groww.in/blog/groww-nifty-non-cyclical-consumer-index-fund-open-for-subscription",
+      "display_link": "https://groww.in › Blog › etf",
+      "date": "2 May 2024",
+      "rank": 6
+    },
+    {
+      "title": "F&O Lot Size Changed in Nifty 50 and 54 Stocks",
+      "description": "The Nifty Financial Services market lot has been reduced from 50 to 25, while the Nifty Midcap Select lot has dropped from 75 to 50. However, these changes will ...",
+      "link": "https://www.angelone.in/news/f-o-lot-size-changed-in-nifty-50-and-54-stocks",
+      "display_link": "https://www.angelone.in › News › Futures & Options",
+      "date": "2 May 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty May futures trade at premium - May 02, 2024",
+      "description": "The Nifty May 2024 futures closed at 22,779.95, a premium of 131.75 points compared with the Nifty`s closing 22,648.20 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-may-futures-trade-at-premium/1504902",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "2 May 2024",
+      "rank": 12
+    },
+    {
+      "title": "Gift Nifty futures volumes soar 25% in 4 months to $82 ...",
+      "description": "This marked a 25% increase compared to December turnover, contrasting with a 7% growth in Nifty futures turnover on the NSE during the same period.",
+      "link": "https://m.economictimes.com/markets/stocks/news/gift-nifty-futures-volumes-soar-25-in-4-months-to-82-billion-in-april/articleshow/109766635.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "2 May 2024",
+      "rank": 13
+    },
+    {
+      "title": "Stock Market Highlight: Markets end higher! Nifty tad below ...",
+      "description": "The NSE Nifty 50 gained 43.35 points or 0.19% to finish the day's trading at 22,648.20, while the BSE Sensex advanced 128.33 points or 0.17% to close at ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-positive-gift-nifty-up-asian-markets-trade-mixed-may-2-2024-thursday-3474572/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "2 May 2024",
+      "rank": 15
+    },
+    {
+      "title": "Closing Bell | Nifty around 22650, Sensex up 128 points",
+      "description": "At close, the Sensex was up 128.33 points or 0.17 percent at 74,611.11, and the Nifty was up 43.40 points or 0.19 percent at 22,648.20. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-02-05-2024-liveblog-12712579.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "2 May 2024",
+      "rank": 18
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open in the green on Thursday tracking mixed cues in the global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-may-2-11714614373762.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "2 May 2024",
+      "rank": 20
+    }
+  ]
+}

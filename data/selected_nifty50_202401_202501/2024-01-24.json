@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-25 after:2024-01-24 \"nifty\"",
+    "results_cnt": 206000,
+    "search_time": 0.27,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:30:32.513636Z"
+  },
+  "organic": [
+    {
+      "title": "What is Gift Nifty: Everything You Need to Know",
+      "description": "Gift Nifty, formerly called the SGX Nifty, is a derivative contract that mirrors the performance of the Nifty 50 index.",
+      "link": "https://www.equentis.com/blog/what-is-gift-nifty-everything-you-need-to-know/",
+      "display_link": "https://www.equentis.com › blog › what-is-gift-nifty-ev...",
+      "date": "Jan 24, 2024",
+      "rank": 2
+    },
+    {
+      "title": "NIFTY HOME",
+      "description": "NIFTY NIFTY · NIFTY HOME NIFTY HOME · BIC BIC · KWIK TEK KWIK TEK · LOCTITE LOCTITE · DOGZILLA DOGZILLA · ZIPLOC ZIPLOC · COLGATE COLGATE · LISTERINE LISTERINE ...",
+      "link": "https://www.bimart.com/brands/nifty-home",
+      "display_link": "https://www.bimart.com › brands › nifty-home",
+      "date": "Jan 24, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty Trading Techniques & Rules",
+      "description": "Base your trading decisions only on comprehensive research on Nifty. Analyze the overall market trend using Nifty charts and stay informed through Nifty news.",
+      "link": "https://enrichmoney.in/knowledge-center-chapter/best-nifty-trading-guidelines",
+      "display_link": "https://enrichmoney.in › best-nifty-trading-guidelines",
+      "date": "Jan 24, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Closing Bell: Sensex up 690 pts, Nifty at 21450",
+      "description": "At close, the Sensex was up 689.76 points or 0.98 percent at 71,060.31, and the Nifty was up 215.20 points or 1.01 percent at 21,454. We wrap up today's edition ...",
+      "link": "https://www.moneycontrol.com/news/business/stocks/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-24-01-2024-liveblog-12112641.html",
+      "display_link": "https://www.moneycontrol.com › ... › STOCKS",
+      "date": "Jan 24, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Analyse The Sectoral Stocks Performance on NSE/BSE",
+      "description": "Market and sectors ; NIFTY 100 Midcap. 59,052.550.70% ; NIFTY Next 50. 68,285.650.47% ; NIFTY Largemidcap 250. 16,359.750.25%.",
+      "link": "https://www.tickertape.in/market-sectors",
+      "display_link": "https://www.tickertape.in › market-sectors",
+      "date": "Jan 24, 2024",
+      "rank": 12
+    },
+    {
+      "title": "NSE Schematic - NSE India",
+      "description": "NSE - NIFTY 50. 25,082.30. -67.55 (-0.27%). 14-Jul-2025 15:30. Streaming. Streaming. on off. Streaming Speed. Slow. Medium. Fast. Market Capitalization. Lac ...",
+      "link": "https://www.nseindia.com/trade/platform-services-neat-trading-system-nse-schematic",
+      "display_link": "https://www.nseindia.com › trade › platform-services-n...",
+      "date": "Jan 24, 2024",
+      "rank": 17
+    }
+  ]
+}

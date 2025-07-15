@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-02 after:2024-01-01 \"nifty\"",
+    "results_cnt": 206000,
+    "search_time": 0.45,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T09:56:44.348174Z"
+  },
+  "organic": [
+    {
+      "title": "How much can Nifty go up in 2024 after record-shattering ...",
+      "description": "In the base scenario, Axis Securities sees Nifty at 23,000 in December 2024 by predicting that earnings will grow at 14% CAGR over FY23-26. \"For our base case, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/how-much-can-nifty-go-up-in-2024-after-record-shattering-2023-lets-do-some-crystal-gazing/articleshow/106438230.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "1 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 end flat on first trading ...",
+      "description": "Nifty 50 opened at 21,727.75 against the previous close of 21,731.40 and touched its all-time high of 21,834.35. The Nifty 50 settled at 21,741.90, up 11 points ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-mixed-on-first-trading-day-of-year-2024-mid-smallcaps-outperform-11704102466190.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "1 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat amid volatility",
+      "description": "After a flat opening, the Nifty traded erratic today, reaching a new all-time high of 21834.35 before correcting from higher levels and closing the session ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-01-01-2024-liveblog-11981411.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "1 Jan 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50: Latest News and Updates, Top Stories ...",
+      "description": "Nifty Drops 2,718 Points From Record High, Hits Below 200-DEMA; What Is Next Target And How To Invest? Trent and Bharat Electronics Set to Enter ...",
+      "link": "https://www.goodreturns.in/topic/nifty-50",
+      "display_link": "https://www.goodreturns.in › topic › nifty-50",
+      "date": "1 Jan 2024",
+      "rank": 4
+    },
+    {
+      "title": "List of Best Index Funds to Invest in India 2025",
+      "description": "Learn about the top index mutual funds, including Nifty 50, Sensex, Nifty 100, and direct growth plans. Discover the best options to grow your investments ...",
+      "link": "https://www.icicibank.com/blogs/mutual-fund/best-index-mutual-funds",
+      "display_link": "https://www.icicibank.com › Orange Hub › Mutual Fund",
+      "date": "1 Jan 2024",
+      "rank": 6
+    },
+    {
+      "title": "– North Nifty Project",
+      "description": "The North Nifty Project is located approximately 250km northeast of Newman in northern Western Australia. The project comprises two granted Exploration Licences ...",
+      "link": "https://techgenmetals.com.au/projects/north-nifty-project/",
+      "display_link": "https://techgenmetals.com.au › projects › north-nifty-pr...",
+      "date": "1 Jan 2024",
+      "rank": 8
+    },
+    {
+      "title": "Share Market Highlights 01 January 2024: Sensex, Nifty ...",
+      "description": "Equity benchmark indices Sensex and Nifty kicked off 2024 on a flat note, with the 30-share index closing with marginal gains.",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-highlights-01-january-2024/article67692874.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "1 Jan 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty50, Bank Nifty overbought on charts; check key levels ...",
+      "description": "Listen to This Article ... The Nifty Index, currently at 21731, is poised for a trading range in the upcoming week, fluctuating between 21850 and 21600. The ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-bank-nifty-overbought-on-charts-check-key-trading-levels-for-jan-1-124010100065_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "1 Jan 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty Futures - Deep Intraday Liquidation - Market Profile ...",
+      "description": "Nifty Futures closed negative on the very first trading day of the year 2024. The day turned out to be an outside bar with steep intraday inventory adjustment.",
+      "link": "https://www.marketcalls.in/market-profile/nifty-futures-deep-intraday-liquidation-market-profile-outlook.html",
+      "display_link": "https://www.marketcalls.in › market-profile › nifty-futu...",
+      "date": "1 Jan 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Today: Sensex, Nifty Start 2024 On A Tepid ...",
+      "description": "Intraday, the NSE Nifty 50 rose 0.47% or 102.95 points to 21, 834.35, and the S&P BSE Sensex rose 0.45% or 321.65 points to 72,561.91.",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-jan-1-2024-gift-nifty-trades-above-21700-grasim-acc-dr-reddys-lab-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "1 Jan 2024",
+      "rank": 15
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-16 after:2024-07-15 \"nifty\"",
+    "results_cnt": 362000,
+    "search_time": 0.29,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:59:02.670618Z"
+  },
+  "organic": [
+    {
+      "title": "nifty 50",
+      "description": "The NIFTY 50 is the flagship index on the National Stock Exchange of India Ltd. (NSE). The Index tracks the behavior of a portfolio of blue chip companies, the ...",
+      "link": "https://www.moneycontrol.com/nifty/nse/nifty-live?utm_source=MC_INMAIL",
+      "display_link": "https://www.moneycontrol.com › Market › Indices",
+      "date": "15 Jul 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY 50 (^NSEI) Historical Data",
+      "description": "NIFTY 50. 25,230.60 +0.59%. Summary · News · Chart · Community · Historical Data · Options · Components. NSE - Free Realtime Quote • INR. NIFTY 50 (^NSEI).",
+      "link": "https://finance.yahoo.com/quote/%5ENSEI/history/",
+      "display_link": "https://finance.yahoo.com › quote › history",
+      "date": "15 Jul 2024",
+      "rank": 2
+    },
+    {
+      "title": "Research Paper",
+      "description": "All Research Papers · NIFTY 10 Year SDL Index · NIFTY 50 · Nifty 500 · Nifty AAA Corporate Bond · NIFTY AAA Long-Term Corporate Bond · NIFTY AAA Medium-Term Corporate ...",
+      "link": "https://www.niftyindices.com/reports/research-paper",
+      "display_link": "https://www.niftyindices.com › reports › research-paper",
+      "date": "15 Jul 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 26350",
+      "description": "Get the live update of Nifty 17 JUL 2025 CE 26350 Call Option with open interest, analysis, premium, volume, lot size, OI change, strike price on 5paisa.",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26350-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "15 Jul 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 26300",
+      "description": "NIFTY Expires 31 Jul; ₹ 25183 15.50 (0.06%). NIFTY Expires 28 Aug; ₹ 25291.4 22.60 (0.09%). NIFTY Expires 25 Sep; ₹ 25445.1 11.60 (0.05%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26300-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "15 Jul 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty 50 - High trading Volumes Alerts for free.",
+      "description": "Get real time alert for Nifty 50. Alerts are delivered to your email. You can configure alerts for price, SMA and volume changes, as well as for new research ...",
+      "link": "https://trendlyne.com/alerts/stock-alerts/volume/NIFTY50/1887/nifty-50/",
+      "display_link": "https://trendlyne.com › MARKETS › NIFTY 50",
+      "date": "15 Jul 2024",
+      "rank": 7
+    },
+    {
+      "title": "How has Nifty historically performed on Budget day, and ...",
+      "description": "With Nifty trading near record high levels, traders are closely tracking the market ahead of the presentation of the full Union Budget 2024 on July 23.",
+      "link": "https://www.moneycontrol.com/news/business/markets/how-has-nifty-historically-performed-on-budget-day-and-whats-the-best-option-strategy-to-deploy-this-time-12769583.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "15 Jul 2024",
+      "rank": 10
+    },
+    {
+      "title": "Markets start the week on positive note! Nifty ends over 24550 ...",
+      "description": "The benchmark equity indices ended Monday's trading session in the positive territory. The NSE Nifty 50 gained 84.35 points or 0.34% to settle at 24,586.50, ...",
+      "link": "https://www.financialexpress.com/market/markets-start-the-week-on-positive-note-nifty-ends-over-24550-sensex-near-80600-led-by-banks-and-media-stocks-on-july-15-3554186/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "15 Jul 2024",
+      "rank": 12
+    },
+    {
+      "title": "Budget and stock markets: How Nifty may behave and 50 ...",
+      "description": "Sensex and Nifty rose 5% last month, with markets largely flat pre-Budget. Historically, Nifty shows -0.3% pre-Budget and -0.5% post.",
+      "link": "https://m.economictimes.com/markets/stocks/news/budget-and-stock-markets-how-nifty-may-behave-and-50-stock-ideas/articleshow/111743396.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "15 Jul 2024",
+      "rank": 18
+    }
+  ]
+}

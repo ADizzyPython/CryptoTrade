@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-23 after:2024-08-22 \"nifty\"",
+    "results_cnt": 323000,
+    "search_time": 0.32,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:07:02.180736Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY22-08-2024CE24000.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "Aug 22, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY 50 (^NSEI) latest stock news and headlines",
+      "description": "117379.60. ( -0.44% ). ^NSEI. NIFTY 50. 25,149.85 -0.81%. Summary · News · Chart · Historical data · Options · Components. NSE - Delayed Quote • INR. NIFTY 50 ( ...",
+      "link": "https://uk.finance.yahoo.com/quote/%5ENSEI/news/",
+      "display_link": "https://uk.finance.yahoo.com › quote › news",
+      "date": "Aug 22, 2024",
+      "rank": 2
+    },
+    {
+      "title": "raamdeo agrawal: Nifty will double to 48000 in next 5 years ...",
+      "description": "Nifty will double from 24,000-25,000 to 48,000 in the next five years even after offering 14% in 2024 so far and there will be far fewer corrections or ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-will-double-to-48000-in-next-5-years-predicts-raamdeo-agrawal/articleshow/112703990.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Aug 22, 2024",
+      "rank": 3
+    },
+    {
+      "title": "What is FINNIFTY Index in the Stock Market?",
+      "description": "The NSE launched the Nifty Financial Services Index (FINNIFTY) in January 2021. It was formed to gauge the performance of financial sector components in India.",
+      "link": "https://kuvera.in/blog/what-is-finnity-index-in-the-stock-market/",
+      "display_link": "https://kuvera.in › Kuvera › Index Funds",
+      "date": "Aug 22, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Technical View: 24950 level likely to determine Nifty's push ...",
+      "description": "The Bank Nifty outperformed the benchmark Nifty 50 and, as expected, hit the 51,000 mark on Thursday, rising 300 points to close at 50,986. The banking index ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-24950-level-likely-to-determine-niftys-push-towards-record-high-12804280.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Aug 22, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty PSE off its all-time high; what's worrying the investors?",
+      "description": "The Nifty PSE index which tracks the performance of Indian public sector enterprises on the NSE has fallen off its all-time high and has lost over 3.8 per cent.",
+      "link": "https://www.business-standard.com/markets/news/nifty-pse-off-its-all-time-high-what-s-worrying-the-investors-124082200387_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Aug 22, 2024",
+      "rank": 19
+    }
+  ]
+}

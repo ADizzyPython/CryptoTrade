@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-13 after:2024-08-12 \"nifty\"",
+    "results_cnt": 344000,
+    "search_time": 0.63,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T16:05:07.131177Z"
+  },
+  "organic": [
+    {
+      "title": "Sequoia India Series 1",
+      "description": "The BXIIINER Index aims to track the excess returns performance of NIFTY 50 Index, a widely-used benchmark for the Indian equity market, reflective of the ...",
+      "link": "https://www.sequoiaam.com.au/portfolio/sequoia-india-series-1/",
+      "display_link": "https://www.sequoiaam.com.au › Portfolios",
+      "date": "12 Aug 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Outlook: Expect momentum after range breakout, says ...",
+      "description": "The Nifty has moved in a defined range of 24,000 - 24,400 throughout the last week; a breakout in either direct can trigger momentum, says Rajesh Bhosale of ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-outlook-expect-momentum-after-range-breakout-says-rajesh-bhosale-124081200073_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "12 Aug 2024",
+      "rank": 6
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex, Nifty50 end ...",
+      "description": "The NSE Nifty 50 index closed down 0.08% at 24,347, and the S&P BSE Sensex edged 0.07% lower to 79,658.92, after having lost about 0.6% in early trading. The ...",
+      "link": "https://timesofindia.indiatimes.com/business/stock-market-today-live-updates-bse-sensex-nse-nifty-50-hindenburg-research-report-dalal-street-sebi-chief-madhabi-puri-buch-adani-money-siphoning-scandal-dhaval-buch/liveblog/112454382.cms",
+      "display_link": "https://timesofindia.indiatimes.com › Business News",
+      "date": "12 Aug 2024",
+      "rank": 9
+    },
+    {
+      "title": "Market closes mixed with Sensex, Nifty underperforming ...",
+      "description": "Nifty 50 opened today's trade session 786.9 points below its record high of 25,078.30. Reliance, NTPC, SBI, M&M, Bharti Airtel are the top contributors ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-adani-hindenburg-sebi-bharat-dynamics-360-one-wam-reits-share-price-liveblog-19458319.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "12 Aug 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty trend evenly poised, needs push above 20-DMA for ...",
+      "description": "Nifty needs a push above the 20 day SMA now at 24420, to aim for 24540 initially and embark on a 25800 trajectory. Downside marker is now at 23975, which is ...",
+      "link": "https://m.economictimes.com/markets/expert-view/nifty-trend-evenly-poised-needs-push-above-20-dma-for-25800-trajectory-anand-james/articleshow/112448080.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "12 Aug 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty, Sensex dip as Hindenburg report on SEBI chief ...",
+      "description": "Headline indices, the Nifty and Sensex were off to a weak start on August 12, following a strong performance in the previous session.",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-sensex-dip-as-hindenburg-report-on-sebi-chief-sparks-jitters-adani-stocks-in-red-12793214.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "12 Aug 2024",
+      "rank": 13
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty 50 close flat",
+      "description": "... Nifty 50 closed at 24,347.00 level, down 20.50 points or 0.08%. mint ... Stock market today: Domestic benchmark equity indices Sensex and Nifty 50 ended Monday's ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-close-flat-realty-shines-psu-banks-drag-all-eyes-on-msci-review-11723455549372.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "12 Aug 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty gain as markets ignore Hindenburg's claims ...",
+      "description": "Last week, the BSE benchmark was down by 1,276.04 points or 1.57 percent. Sensex and Nifty have gained after falling in early trade. Koustav Das.",
+      "link": "https://www.indiatoday.in/business/story/stock-markets-recover-sensex-nifty-dalal-street-ignore-hindenburg-claims-sebi-chief-adani-shares-2580852-2024-08-12",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "12 Aug 2024",
+      "rank": 19
+    },
+    {
+      "title": "Sensex, Nifty Modestly Higher As Stocks Recover From ...",
+      "description": "Sensex, Nifty Modestly Higher As Stocks Recover From Early Setback. August 12, 2024 — 02:10 am EDT. Written by RTTNews.com for RTTNews->.",
+      "link": "https://www.nasdaq.com/articles/sensex-nifty-modestly-higher-stocks-recover-early-setback",
+      "display_link": "https://www.nasdaq.com › articles › sensex-nifty-modes...",
+      "date": "12 Aug 2024",
+      "rank": 20
+    }
+  ]
+}

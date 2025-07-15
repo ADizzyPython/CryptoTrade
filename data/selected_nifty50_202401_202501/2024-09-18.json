@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-19 after:2024-09-18 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.34,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:11:08.699734Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Indian stock market indices, Sensex and Nifty 50, are likely to open on a flat note Wednesday tracking a mixed trend in global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-september-18-11726623429522.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Sep 18, 2024",
+      "rank": 17
+    }
+  ]
+}

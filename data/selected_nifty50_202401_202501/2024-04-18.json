@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-19 after:2024-04-18 \"nifty\"",
+    "results_cnt": 3540000,
+    "search_time": 0.3,
+    "language": "en-LK",
+    "country": "Sri Lanka",
+    "location": "India",
+    "timestamp": "2025-07-15T15:45:15.217648Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Bank value and PE ratio",
+      "description": "Nifty Bank · Market Cap ₹ 46,48,230 Cr. · Current Price ₹ 56,755 · High / Low ₹ 57,628 / 47,703 · P/E 15.0 · Price to Book value 2.30 · Dividend Yield 0.97 ...",
+      "link": "https://www.screener.in/company/BANKNIFTY/?order=desc&sort=current+price",
+      "display_link": "https://www.screener.in › company › BANKNIFTY",
+      "date": "Apr 18, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE to launch derivatives on Nifty Next 50 index from April ...",
+      "description": "NSE to launch derivatives on Nifty Next 50 index from April 24. The exchange will offer three serial monthly index futures and index options contract cycles.",
+      "link": "https://www.thehindu.com/business/Economy/nse-to-launch-derivatives-on-nifty-next-50-index-from-april-24/article68081010.ece",
+      "display_link": "https://www.thehindu.com › Business › Economy",
+      "date": "Apr 18, 2024",
+      "rank": 2
+    },
+    {
+      "title": "NSE introduces F&O contracts on Nifty Next 50 Index",
+      "description": "NSE will be introducing Futures and Options contracts on Nifty Next 50 Index wef April 24, 2024. The Nifty Next 50 Index represents 50 companies from Nifty 100.",
+      "link": "https://zerodha.com/marketintel/bulletin/376339/nse-introduces-fo-contracts-on-nifty-next-50-index",
+      "display_link": "https://zerodha.com › marketintel › bulletin › nse-introd...",
+      "date": "Apr 18, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 50 drops 200 points in two minutes, recovers 160 ...",
+      "description": "Nifty 50 index witnessed a sharp volatility as it dipped around 200 points in two minutes and then recovered by 160 points in the next seven minutes.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-drops-200-points-in-two-minutes-recovers-160-points-in-next-7-minutes-11713430118962.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 18, 2024",
+      "rank": 6
+    },
+    {
+      "title": "'Astonishing' spike in Nifty 50 put option, premium shoots ...",
+      "description": "The premium of Nifty 50 Put 22300 went from Rs 39.65 to Rs 250 in a minute candle and then shot up to Rs 392.25, pointed out trader Santosh Kumar Pasi.",
+      "link": "https://www.moneycontrol.com/news/business/markets/astonishing-spike-in-nifty-50-put-option-premium-shoots-up-10x-in-minutes-12670861.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Apr 18, 2024",
+      "rank": 7
+    },
+    {
+      "title": "NSE Introduces Derivatives on Nifty Next 50 Index",
+      "description": "NSE has secured approval from SEBI for introducing Derivatives on the Nifty Next 50 index (NIFTYNXT50). Scheduled for launch on April 24, 2024.",
+      "link": "https://www.angelone.in/news/nse-introduces-derivatives-on-nifty-next-50-index",
+      "display_link": "https://www.angelone.in › News › Futures & Options",
+      "date": "Apr 18, 2024",
+      "rank": 9
+    },
+    {
+      "title": "What Is Nifty FMCG? - Meaning, Advantages & How to Invest",
+      "description": "Nifty FMCG is a stock market index under the National Stock Exchange (NSE) of India, specifically representing the Fast Moving Consumer Goods (FMCG) sector.",
+      "link": "https://aliceblueonline.com/nifty-fmcg-meaning/",
+      "display_link": "https://aliceblueonline.com › Finance",
+      "date": "Apr 18, 2024",
+      "rank": 11
+    },
+    {
+      "title": "F&O trading on Nifty Next 50 index to start from next week",
+      "description": "SEBI gave its nod for trading in the futures and options (F&O) contracts on the Nifty Next 50 index which will start from Wednesday, April 24.",
+      "link": "https://www.livemint.com/market/stock-market-news/fo-trading-in-nifty-next-50-index-to-start-from-next-week-nse-11713437773593.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 18, 2024",
+      "rank": 13
+    }
+  ]
+}

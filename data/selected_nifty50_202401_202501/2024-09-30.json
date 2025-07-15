@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-01 after:2024-09-30 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.54,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:12:56.491169Z"
+  },
+  "organic": [
+    {
+      "title": "Capital Markets",
+      "description": "The Nifty Capital Markets index aims to track the performance of stocks from the Nifty 500 index which represent the capital market theme. The 20 largest stocks ...",
+      "link": "https://www.niftyindices.com/docs/default-source/indices/nifty-capital-markets/nifty-capital-markets-whitepaper_2024.pdf?sfvrsn=52b6d35_4",
+      "display_link": "https://www.niftyindices.com › docs › indices",
+      "date": "Sep 30, 2024",
+      "rank": 7
+    },
+    {
+      "title": "SBI Nifty India Consumption Index Fund NFO",
+      "description": "NIFTY India Consumption Index Performance​ · An investment of ₹ 1 Lakh in June 2006 would have grown to ₹ 9.10 Lakhs in the Nifty 50, achieving a CAGR of 12.5%.​ ...",
+      "link": "https://www.sbimf.com/consumption",
+      "display_link": "https://www.sbimf.com › consumption",
+      "date": "Sep 30, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Motilal Oswal Nifty 500 Momentum 50 Index Fund",
+      "description": "(An open ended scheme replicating / tracking Nifty India Defence Total. Return Index). •. Return that corresponds to the performance of Nifty India. Defence ...",
+      "link": "https://www.motilaloswalmf.com/CMS/assets/uploads/Documents/699e4-presentation-motilal-oswal-nifty-500-momentum-50-etf-index-fund-rd-september-2024.pdf",
+      "display_link": "https://www.motilaloswalmf.com › Documents › 6...",
+      "date": "Sep 30, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty trend in 2024: Number 13 has been unlucky for stock ...",
+      "description": "The NSE Nifty 50 index has tanked nearly 1 per cent in intra-day deals on Monday, September 30, partly owing to profit-taking at higher levels.",
+      "link": "https://www.business-standard.com/markets/news/nifty-trend-in-2024-number-13-has-been-unlucky-for-stock-markets-in-2024-will-history-repeat-124093000310_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Sep 30, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex crashes over 1200 points, Nifty sinks below 26000",
+      "description": "Sensex crashes over 1,200 points, Nifty sinks below 26,000; bank, energy stocks worst hit. Market experts pointed to several triggers for today's downturn, ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/sensex-crashes-over-1200-points-nifty-sinks-below-26000-banks-energy-worst-hit-12832452.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 30, 2024",
+      "rank": 16
+    },
+    {
+      "title": "BBNPP Nifty 50 Index Fund",
+      "description": "... NIFTY 50 Total Return Index). Baroda BNP Paribas Nifty 50 Index Fund (An open-ended scheme replicating / tracking the NIFTY 50 Total Return Index).",
+      "link": "https://www.barodabnpparibasmf.in/efactsheet/Sep2024/Innerpages/Nifty-50-Index-Fund.html",
+      "display_link": "https://www.barodabnpparibasmf.in › Innerpages › Nifty...",
+      "date": "Sep 30, 2024",
+      "rank": 19
+    },
+    {
+      "title": "What Next for Divi's Lab and LTIMindtree After Nifty Rejig?",
+      "description": "India's stock market has been on a remarkable bull run since the pandemic, with the Nifty 50 index soaring over 240% from its March 2020 lows.",
+      "link": "https://www.equitymaster.com/detail.asp?date=09/30/2024&story=3&title=What-Next-for-Divis-Lab-and-LTIMindtree-After-Nifty-Rejig",
+      "display_link": "https://www.equitymaster.com › Home › Views On News",
+      "date": "Sep 30, 2024",
+      "rank": 20
+    }
+  ]
+}

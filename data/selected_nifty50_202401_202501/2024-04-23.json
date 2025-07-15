@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-24 after:2024-04-23 \"nifty\"",
+    "results_cnt": 3440000,
+    "search_time": 0.58,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:46:06.628954Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Infra: Stocks, Lot Size, Quotes, Quantity Freeze",
+      "description": "Nifty Infra: Get latest information about Nifty Infrastructure i.e. Nifty Infrastructure Futures, Nifty Infrastructure Options and more.",
+      "link": "https://www.nseindia.com/products-services/equity-derivatives-niftyinfrastructure",
+      "display_link": "https://www.nseindia.com › products-services › equity-...",
+      "date": "23 Apr 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 23150",
+      "description": "Get the live update of Nifty 17 JUL 2025 CE 23150 Call Option with open interest, analysis, premium, volume, lot size, OI change, strike price on 5paisa.",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-23150-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "23 Apr 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 25 SEP 2025 PE 20000",
+      "description": "NIFTY Expires 31 Jul; ₹ 25208 -213.90 (-0.84%). NIFTY Expires 28 Aug; ₹ 25310 -222.20 (-0.87%). NIFTY Expires 25 Sep; ₹ 25470 -218.00 (-0.85%).",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-20000-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "23 Apr 2024",
+      "rank": 3
+    },
+    {
+      "title": "NSE introduces derivatives on Nifty Next 50 from today",
+      "description": "The Nifty Next 50 Index represents 50 companies from Nifty 100. The financial services sector represents a significant portion of the Nifty Next 50 Index ...",
+      "link": "https://ddnews.gov.in/en/nse-introduces-derivatives-on-nifty-next-50-from-today/",
+      "display_link": "https://ddnews.gov.in › nse-introduces-derivatives-on-n...",
+      "date": "23 Apr 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty In Technical Charts: Earnings Season Induced Trends ...",
+      "description": "Take a look at the Bank Nifty- that too fell a similar 2.3% last week but doesn't seem to have picked up any new short position. Here too the PCR is around 0.90 ...",
+      "link": "https://www.ndtvprofit.com/opinion/nifty-in-technical-charts-earnings-season-induced-trends-likely",
+      "display_link": "https://www.ndtvprofit.com › Opinion",
+      "date": "23 Apr 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty may test 25000 if BJP wins in 2024 Lok Sabha elections",
+      "description": "JP Morgan: Nifty may test 25,000 if BJP wins in 2024 Lok Sabha elections. As ... This is a 6,500-points correction from Nifty 50's current market levels.",
+      "link": "https://www.cnbctv18.com/market/nifty-may-test-25000-if-bjp-wins-in-2024-lok-sabha-elections-says-jpmorgan-stock-picks-19400661.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "23 Apr 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex, Nifty Gain For Third Day, Led By Airtel; India VIX ...",
+      "description": "The NSE Nifty 50 closed 31.60 points or 0.14%, up at 22,368.00, while the S&P BSE Sensex was 89.83 points or 0.12%, higher at 73,738.45. During the day, the ...",
+      "link": "https://www.ndtvprofit.com/markets/sensex-nifty-gain-for-third-day-led-by-airtel-india-vix-falls-nearly-20-market-wrap",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "23 Apr 2024",
+      "rank": 18
+    },
+    {
+      "title": "Understanding Nifty Weightage for 2024",
+      "description": "Nifty 50 is a benchmark index of the National Stock Exchange (NSE) and can be widely used by investors to track the performance of the Indian stock market. The ...",
+      "link": "https://www.smallcase.com/learn/nifty-weightage/",
+      "display_link": "https://www.smallcase.com › Learn",
+      "date": "23 Apr 2024",
+      "rank": 19
+    }
+  ]
+}

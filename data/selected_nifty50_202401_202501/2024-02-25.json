@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-26 after:2024-02-25 \"nifty\"",
+    "results_cnt": 336000,
+    "search_time": 0.31,
+    "language": "en-ID",
+    "country": "Indonesia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:37:01.246311Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty 50? - Meaning, Eligibility and Top Company List",
+      "description": "The Nifty 50 is a broad-market index launched by the National Stock Exchange (NSE) on April 22, 1996. It comprises 50 of the top companies listed on the stock ...",
+      "link": "https://www.mstock.com/articles/what-is-nifty-fifty",
+      "display_link": "https://www.mstock.com › Articles",
+      "date": "25 Feb 2024",
+      "rank": 1
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock action on ...",
+      "description": "The range of 22,100 - 22,130 is now the demand zone and a slide below this range can push Nifty back towards 22,000 levels, said Sheersham Gupta of Rupeezy.",
+      "link": "https://m.economictimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-action-on-monday/articleshow/107984023.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "25 Feb 2024",
+      "rank": 16
+    }
+  ]
+}

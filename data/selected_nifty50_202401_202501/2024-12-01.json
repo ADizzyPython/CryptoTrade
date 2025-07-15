@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-02 after:2024-12-01 \"nifty\"",
+    "results_cnt": 553000,
+    "search_time": 0.31,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:22:37.111037Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 In Technical Charts: Look Before You Leap",
+      "description": "Nifty 50 In Technical Charts: Look Before You Leap. The beauty of technical analysis is that even in quiet times, price action leaves other foot prints. And, ...",
+      "link": "https://www.ndtvprofit.com/opinion/nifty-50-in-technical-charts-look-before-you-leap",
+      "display_link": "https://www.ndtvprofit.com › Opinion",
+      "date": "Dec 1, 2024",
+      "rank": 7
+    },
+    {
+      "title": "December could be Nifty's turning point as downtrend may ...",
+      "description": "The Nifty index closed the November series with a subdued 1% decline, reflecting a quieter market mood. However, the action in Nifty futures rollovers tells ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/december-could-be-niftys-turning-point-as-downtrend-may-be-running-out-of-steam-12880348.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Dec 1, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Cipla Limited Share Price Today, Stock ...",
+      "description": "NSE - NIFTY 50. 25,202.00. 119.70 (0.48%). 15-Jul-2025 15:19. Streaming.",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=CIPLA",
+      "display_link": "https://www.nseindia.com › get-quotes › equity",
+      "date": "Dec 1, 2024",
+      "rank": 18
+    }
+  ]
+}

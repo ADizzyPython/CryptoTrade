@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-28 after:2024-11-27 \"nifty\"",
+    "results_cnt": 552000,
+    "search_time": 0.35,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:21:58.487614Z"
+  },
+  "organic": [
+    {
+      "title": "Careers | Nifty Blog",
+      "description": "Introducing Nifty 3.5 read our blog · nifty logo. Toggle Navigation. Features. ❤ Learn how Nifty inspires productivity! Roadmaps (Gantt Chart) · Discussion.",
+      "link": "https://niftypm.com/blog/tag/careers/",
+      "display_link": "https://niftypm.com › blog › tag › careers",
+      "date": "Nov 27, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 Technical Outlook: Analysts see more upside ...",
+      "description": "In October, Nifty 50 crashed 6 per cent. Despite the recent volatility, the index remains up around 12 per cent year-to-date. Experts remain cautiously ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-technical-outlook-analysts-see-more-upside-suggest-buy-on-dips-strategy-11732698091661.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Nov 27, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50 targets for FY25: Bull, Bear, and Base case scenarios",
+      "description": "The Nifty has corrected close to 3 percent in the past three months. The sluggish Q2 earnings season, moderating economic growth, global volatility and lofty ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-50-targets-for-fy25-bull-bear-and-base-case-scenarios-12877619.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Nov 27, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Closing Bell: Nifty above 24250, Sensex up 230 pts",
+      "description": "Market Close | Sensex, Nifty end higher. Indian equity indices erased previous session losses and ended higher on November 27 with Nifty above 24,250.",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-27-11-2024-liveblog-12877115.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Nov 27, 2024",
+      "rank": 10
+    },
+    {
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.35%",
+      "description": "At the close in NSE, the Nifty 50 rose 0.35%, while the BSE Sensex 30 index climbed 0.31%. The best performers of the session on the Nifty 50 were Adani ...",
+      "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-035-3743885",
+      "display_link": "https://www.investing.com › news › stock-market-news",
+      "date": "Nov 27, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty make a smart recovery",
+      "description": "Stock market today: Sensex climbed 439 pts to 80442 and Nifty gained 134 pts to 24328. Market cap of BSE-listed firms stood at Rs 444.64 lakh crore in ...",
+      "link": "https://www.businesstoday.in/markets/market-commentary/story/stock-market-today-sensex-nifty-make-a-smart-recovery-can-the-momentum-sustain-455310-2024-11-27",
+      "display_link": "https://www.businesstoday.in › ... › Market Commentary",
+      "date": "Nov 27, 2024",
+      "rank": 17
+    }
+  ]
+}

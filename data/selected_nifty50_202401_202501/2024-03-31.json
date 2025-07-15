@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-01 after:2024-03-31 \"nifty\"",
+    "results_cnt": 3180000,
+    "search_time": 0.32,
+    "language": "en-ID",
+    "country": "Indonesia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:42:26.331241Z"
+  },
+  "organic": [
+    {
+      "title": "Why the Nifty 50 index may not be relevant anymore",
+      "description": "The Nifty 50, once a barometer for India's economic health, now covers just 51% of India's listed market.",
+      "link": "https://www.deccanherald.com/business/markets/why-the-nifty-50-index-may-not-be-relevant-anymore-2959544",
+      "display_link": "https://www.deccanherald.com › Business › Markets",
+      "date": "31 Mar 2024",
+      "rank": 3
+    },
+    {
+      "title": "Index Dashboard",
+      "description": "The company owns and manages a portfolio of indices under the Nifty brand of. NSE, including the flagship index, the Nifty 50. Nifty equity indices comprises of ...",
+      "link": "https://niftyindices.com/Index_Dashboard/Index_Dashboard_mar2024.pdf",
+      "display_link": "https://niftyindices.com › Index_Dashboard › In...",
+      "date": "31 Mar 2024",
+      "rank": 7
+    }
+  ]
+}

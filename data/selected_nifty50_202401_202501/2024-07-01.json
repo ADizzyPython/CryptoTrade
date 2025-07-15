@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-02 after:2024-07-01 \"nifty\"",
+    "results_cnt": 359000,
+    "search_time": 0.61,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:56:43.536462Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 CE 25900",
+      "description": "Get the live update of Nifty 17 JUL 2025 CE 25900 Call Option with open interest, analysis, premium, volume, lot size, OI change, strike price on 5paisa.",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25900-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "1 Jul 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 17 JUL 2025 PE 25900",
+      "description": "NIFTY Expires 31 Jul; ₹ 25208 -213.90 (-0.84%). NIFTY Expires 28 Aug; ₹ 25310 -222.20 (-0.87%). NIFTY Expires 25 Sep; ₹ 25470 -218.00 (-0.85%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25900-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "1 Jul 2024",
+      "rank": 2
+    },
+    {
+      "title": "Closing Bell: Markets start July on positive note! Nifty settles ...",
+      "description": "Bank Nifty index ended higher by 232.50 points or 0.44% to settle at 52,574.75. The broader indices ended in mixed territory, with gain led by Mind-cap and ...",
+      "link": "https://www.financialexpress.com/market/closing-bell-markets-start-july-on-positive-note-nifty-settles-over-24100-sensex-gains-over-400-points-led-by-it-and-media-stocks-3540464/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "1 Jul 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock market outlook July 01: Nifty may open flat amid ...",
+      "description": "At 07:00 AM, GIFT Nifty futures quoted around 24,133 levels, indicating a likely flat start. Today marks the beginning of the trading action for the second-half ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-outlook-july-01-nifty-may-open-flat-amid-mixed-asian-cues-124070100055_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "1 Jul 2024",
+      "rank": 10
+    }
+  ]
+}

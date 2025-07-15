@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-15 after:2024-12-14 \"nifty\"",
+    "results_cnt": 549000,
+    "search_time": 0.29,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:26:32.250989Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty BeES: Meaning, Benefits, and Investment Guide",
+      "description": "As an Exchange Traded Fund (ETF), Nifty BeES offers investors a simple way to mirror the performance of the Nifty 50 Index.",
+      "link": "https://www.bajajbroking.in/blog/what-is-nifty-bees",
+      "display_link": "https://www.bajajbroking.in › Blogs Overview › Nifty 50",
+      "date": "Dec 14, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Sensex, Nifty fall 1.5% before making a smart recovery to ...",
+      "description": "The Nifty rose 0.9%, or 219.60 points, to close at 24768.30, while the Sensex gained 1%, or 843.16 points, to 82133.12. Both ended the week around 0.5% ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/sensex-nifty-fall-1-5-before-making-a-smart-recovery-to-close-up-1/articleshow/116304998.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Dec 14, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty In Technical Charts: Awaiting A Resolution Here",
+      "description": "Nifty In Technical Charts: Awaiting A Resolution Here. The Weekly chart ... Stock Market Live: Nifty, Sensex Off Highs As Trent Drags; Defence Stocks Advance.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-in-technical-charts-awaiting-a-resolution-here",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Dec 14, 2024",
+      "rank": 6
+    },
+    {
+      "title": "List of Sample Companies Included and Excluded in S&P ...",
+      "description": "Two major Indian benchmark ESG Indices, the BSE100 ESG and Nifty 100 ESG, were considered for the study. A total sample of 64 firms from the BSE100 ESG index ...",
+      "link": "https://www.researchgate.net/figure/List-of-Sample-Companies-Included-and-Excluded-in-S-P-CNX-Nifty-Index_tbl1_254093342",
+      "display_link": "https://www.researchgate.net › figure › List-of-Sample-...",
+      "date": "Dec 14, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty Healthcare Index",
+      "description": "The Nifty Healthcare Index is a stock market index that tracks the performance of some of the largest players in the healthcare industry in India.",
+      "link": "https://www.bajajbroking.in/blog/what-is-nifty-healthcare-index",
+      "display_link": "https://www.bajajbroking.in › ... › Must Reads",
+      "date": "Dec 14, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Sensex, Nifty stage a surprise recovery",
+      "description": "The NSE Nifty climbed 219.60 points or 0.89 per cent to settle at 24,768.30 after falling 367.9 points in intra-day trade. On the weekly front, the BSE ...",
+      "link": "https://www.thehansindia.com/business/sensex-nifty-stage-a-surprise-recovery-929706",
+      "display_link": "https://www.thehansindia.com › Business",
+      "date": "Dec 14, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Chola Securities: Online Share Trading, Demat Account & IPO",
+      "description": "Nifty 10 Yr Benchmark G-Sec, 2,603.42, -0.02%. Nifty 10 Yr Benchmark G-Sec (Clean Price), 915.13, -0.04%. Nifty 100, 25,827.40, +0.40%. Nifty 100 Alpha 30 Index ...",
+      "link": "https://www.cholasecurities.com/",
+      "display_link": "https://www.cholasecurities.com",
+      "date": "Dec 14, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Assets under management (aum) News",
+      "description": "... NIFTY 25,220.85. + 138.55. CRUDEOIL 5,717.00. -54.00. CRUDEOIL 5,717.00. -54.00 ... Nifty Prediction Today – July 15, 2025: Nifty 50 July Futures ...",
+      "link": "https://www.thehindubusinessline.com/topic/assets-under-management-aum/",
+      "display_link": "https://www.thehindubusinessline.com › topic › assets-u...",
+      "date": "Dec 14, 2024",
+      "rank": 19
+    }
+  ]
+}

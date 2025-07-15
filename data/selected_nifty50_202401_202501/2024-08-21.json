@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-22 after:2024-08-21 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.33,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:06:53.785658Z"
+  },
+  "organic": [
+    {
+      "title": "Technical View: Nifty seen climbing towards 24950 as VIX ...",
+      "description": "After opening lower and trading within a range, the Nifty 50 gained strength in the last couple of hours of trade, hitting an intraday high of 24,788. The index ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-seen-climbing-towards-24950-as-vix-eases-consistently-12803143.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "21 Aug 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock market today: Nifty 50 rises for 5th consecutive session",
+      "description": "Stock market today: The Nifty 50 closed 71 points, or 0.29 per cent, up at 24,770.20, while the Sensex ended 102 points, or 0.13 per cent, up at 80,905.30.",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-rises-for-5th-consecutive-session-focus-shifts-to-jackson-hole-for-fed-rate-cut-cues-11724234246004.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "21 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "The Nifty Fifty Revisited: A Glimpse into India's Stock ...",
+      "description": "As a benchmark index, the Nifty 50 represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange (NSE). This ...",
+      "link": "https://www.thehansindia.com/business/the-nifty-fifty-revisited-a-glimpse-into-indias-stock-market-phenomenon-901317",
+      "display_link": "https://www.thehansindia.com › Business",
+      "date": "21 Aug 2024",
+      "rank": 17
+    },
+    {
+      "title": "Nifty Rises For Fifth Consecutive Session As ITC, Airtel, ...",
+      "description": "Stock Market Today: Nifty Rises For Fifth Consecutive Session As ITC, Airtel, HUL Lead. The Nifty settled 71.35 points or 0.29% higher at 24,770.20, and the ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-gift-nifty-near-24700-genus-power-exide-industries-cyient-sansera-engineering-in-focus",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "21 Aug 2024",
+      "rank": 19
+    }
+  ]
+}

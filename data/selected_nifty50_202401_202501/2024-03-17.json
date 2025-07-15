@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-18 after:2024-03-17 \"nifty\"",
+    "results_cnt": 3020000,
+    "search_time": 0.52,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:40:26.496817Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Healthcare Index Share Price Today LIVE",
+      "description": "What Is The Nifty Healthcare Share Price Today? The Nifty Healthcare live stock price is 14,607.70. · What Is the Nifty Healthcare Ticker Symbol? NIFHEIN is the ...",
+      "link": "https://in.investing.com/indices/nifty-healthcare",
+      "display_link": "https://in.investing.com › indices › nifty-healthcare",
+      "date": "17 Mar 2024",
+      "rank": 1
+    },
+    {
+      "title": "Technical outlook: Short-term trends in the Nifty 50",
+      "description": "While the Nifty 50 index is hardly 4% off its all-time highs recorded earlier this month, much of the pain is centred around the broader markets. The mid and ...",
+      "link": "https://primeinvestor.in/reports/technical-outlook-short-term-trends-nifty-50-2/",
+      "display_link": "https://primeinvestor.in › Markets",
+      "date": "17 Mar 2024",
+      "rank": 3
+    }
+  ]
+}

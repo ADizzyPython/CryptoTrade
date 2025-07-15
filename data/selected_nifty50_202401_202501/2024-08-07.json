@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-08 after:2024-08-07 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.52,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:03:50.005831Z"
+  },
+  "organic": [
+    {
+      "title": "Markets snap three-day losing streak! Nifty closes comfortably ...",
+      "description": "Markets snap three-day losing streak! Nifty closes comfortably near 24,300, Sensex rises 875 points. The major gainers in the Nifty 50 include ONGC, Coal India, ...",
+      "link": "https://www.financialexpress.com/market/markets-snap-three-day-losing-streak-nifty-closes-comfortably-near-24300-sensex-rises-875-points-3576447/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "7 Aug 2024",
+      "rank": 2
+    },
+    {
+      "title": "Trade setup for today: Asia mixed; FIIs net sellers; Nifty 24K ...",
+      "description": "Trading guide for Wednesday August 7, 2024: The NSE Nifty 50 is likely to start trade on a positive note taking cues from its counterpart GIFT Nifty.",
+      "link": "https://www.business-standard.com/markets/news/trade-setup-for-today-asia-mixed-fiis-net-sellers-nifty-24k-is-the-key-124080700083_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "7 Aug 2024",
+      "rank": 5
+    },
+    {
+      "title": "Sensex settles at 79468 after surging over 800 points, Nifty ...",
+      "description": "Equity benchmarks broke a three-day losing streak with Sensex rising 874 points to 79,468, and Nifty surging 304 points to 24,297, driven by favorable global ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-bse-sensex-surges-declines-points-nifty-bombay-stock-exchange/articleshow/112334466.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "7 Aug 2024",
+      "rank": 8
+    },
+    {
+      "title": "Sensex, Nifty snap 3-day losing streak, rebound amid ...",
+      "description": "Sensex, Nifty snap 3-day losing streak, rebound amid global rally. The S&P BSE Sensex added 874.94 points to end at 79,468.01, while the NSE Nifty50 gained ...",
+      "link": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-snap-3-day-losing-streak-rebound-amid-global-rally-2578417-2024-08-07",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "7 Aug 2024",
+      "rank": 9
+    },
+    {
+      "title": "Trading Plan: Will Nifty 50, Bank Nifty extend gains on RBI ...",
+      "description": "On Wednesday, the Nifty 50 jumped 305 points, or 1.27 percent, to 24,298, while the Bank Nifty climbed 371 points, or 0.75 percent, to 50,119. On the NSE, 1,967 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-50-bank-nifty-extend-gains-on-rbi-policy-day-12790309.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "7 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Drops 166 Points, Nifty ...",
+      "description": "Stock Market LIVE Updates: Indian equities are likely to open on a positive note on Tuesday · Closing Bell: Sensex Drops 166 Points, Nifty Below 24,000; ...",
+      "link": "https://www.news18.com/business/markets/stock-market-updates-gift-nifty-signals-a-positive-start-nikkei-jumps-10-liveblog-8991373.html",
+      "display_link": "https://www.news18.com › business › markets",
+      "date": "7 Aug 2024",
+      "rank": 16
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-19 after:2024-01-18 \"nifty\"",
+    "results_cnt": 205000,
+    "search_time": 0.34,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:29:42.245564Z"
+  },
+  "organic": [
+    {
+      "title": "Advanced Charting",
+      "description": "Advanced Charting · Broad Market Indices · Nifty 100 · Nifty 200 · Nifty 50 · Nifty 500 · Nifty LargeMidcap 250 · Nifty Microcap 250 · Nifty Midcap 100 ...",
+      "link": "https://www.niftyindices.com/market-data/advanced-charting",
+      "display_link": "https://www.niftyindices.com › market-data › advanced...",
+      "date": "18 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "UTI Nifty Private Bank Index Fund",
+      "description": "Invest in UTI Nifty Private Bank Index Fund for exposure to leading private banks in India. Achieve long-term growth with a low-cost index fund solution.",
+      "link": "https://www.utimf.com/mutual-funds/uti-nifty-private-bank-index-fund",
+      "display_link": "https://www.utimf.com › mutual-funds › uti-nifty-priva...",
+      "date": "18 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "UTI Nifty India Manufacturing Index Fund",
+      "description": "Passive Fund: Tracks the performance of Nifty India Manufacturing Index in an unbiased manner. 3. Cost Effective: Lower expenses as compared to actively ...",
+      "link": "https://www.utimf.com/mutual-funds/uti-nifty-india-manufacturing-index-fund",
+      "display_link": "https://www.utimf.com › mutual-funds › uti-nifty-india...",
+      "date": "18 Jan 2024",
+      "rank": 6
+    },
+    {
+      "title": "SBI Nifty 50 Equal Weight Index Fund",
+      "description": "Nifty 50 Index is a market cap weighted index i.e. stocks with larger market capitalization are given higher weighs in the Nifty 50 index. Nifty 50 Equal Weight ...",
+      "link": "https://www.advisorkhoj.com/sbimf/sbi-nifty-50-equal-weight-index-fund:-a-good-index-fund-for-long-term-investments",
+      "display_link": "https://www.advisorkhoj.com › sbimf › sbi-nifty-50-eq...",
+      "date": "18 Jan 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex, Nifty slide: How has the stock market fared in ...",
+      "description": "Sensex and Nifty witnessed a heavy crash on January 17, with the benchmark BSE index down by over 1600 points, and Nifty down by over 400 points.",
+      "link": "https://www.hindustantimes.com/business/sensex-nifty-crash-how-bad-stock-markets-have-fared-in-january-2024-101705561445223.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "18 Jan 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty, Sensex fall for 3rd straight session: Is this the right ...",
+      "description": "The BSE Sensex fell 0.81 percent to 70,918.07, and the NSE Nifty 50 lost 0.91 percent to 21,374.95. \"A nosedive correction in banking stocks, along with ...",
+      "link": "https://www.livemint.com/market/stock-market-news/market-tips-nifty-sensex-fall-for-3rd-straight-session-is-this-the-right-time-to-buy-stocks-11705564806309.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "18 Jan 2024",
+      "rank": 14
+    },
+    {
+      "title": "NFO alert: Baroda BNP Paribas Mutual Fund launches ...",
+      "description": "The investment objective of the scheme is to provide investment returns closely corresponding to the total returns of the securities as represented by the Nifty ...",
+      "link": "https://www.angelone.in/news/baroda-bnp-paribas-mutual-fund-launches-baroda-bnp-paribas-nifty-50-index-fund",
+      "display_link": "https://www.angelone.in › News › Mutual Funds",
+      "date": "18 Jan 2024",
+      "rank": 15
+    },
+    {
+      "title": "P/E & CAPE Ratio India Stock Market (NIFTY 50)",
+      "description": "The current P/E (price-earnings) ratio of India's NIFTY 50 stock index is 23.17 (January 1st, 2024). The CAPE ratio of the India's stock market, calculated ...",
+      "link": "https://siblisresearch.com/data/cape-ratio-india-nifty/",
+      "display_link": "https://siblisresearch.com › ... › Stock Index Data",
+      "date": "18 Jan 2024",
+      "rank": 16
+    },
+    {
+      "title": "Share Market Highlights 18 January 2024: Sensex settles ...",
+      "description": "The ​NSE Nifty​ slumped 109.70 pts or 0.51% to close at 21,462.25. Analysts anticipate sustained market strain amid an underwhelming result season. Emkay ...",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-highlights-18-january-2024/article67748508.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "18 Jan 2024",
+      "rank": 19
+    },
+    {
+      "title": "FIN NIFTY INDEX tradingsymbol - Kite Connect developer forum",
+      "description": "Trading symbol: NIFTY FIN SERVICE Instrument token: 257801 Sree Sree January 2024 @balajibetadur Check this API doc for more info on Getting quotes or ltp.",
+      "link": "https://kite.trade/forum/discussion/13590/fin-nifty-index-tradingsymbol",
+      "display_link": "https://kite.trade › forum › discussion › fin-nifty-index-tr...",
+      "date": "18 Jan 2024",
+      "rank": 20
+    }
+  ]
+}

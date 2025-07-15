@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-08 after:2024-05-07 \"nifty\"",
+    "results_cnt": 2310000,
+    "search_time": 0.57,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:48:11.995344Z"
+  },
+  "organic": [
+    {
+      "title": "FINNIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NSE - NIFTY 50. 25,149.85. -205.40 (-0.81%). 11-Jul-2025 15:30. Streaming ... Nifty; Strike Price: 350.00; Expire Date:27-Jun-19. Calls: Puts: About NSE. About ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=FINNIFTY&identifier=OPTIDXFINNIFTY07-05-2024CE21700.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "7 May 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty pre-market news: All you need to know before stocks ...",
+      "description": "At 07:00 am, Gift Nifty futures quoted near 22,603 levels, hinting at a likely gap-up start to the trading action on the Nifty 50 index. One of the key reasons ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-pre-market-news-all-you-need-to-know-before-stocks-open-on-may-7-124050700119_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "7 May 2024",
+      "rank": 7
+    },
+    {
+      "title": "Technical View: Further weakness in Nifty towards ...",
+      "description": "The Nifty has closed below the 20-day (22,444) and 40-day (22,311) moving averages which is a sign of weakness, and the daily momentum indicator has a negative ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-further-weakness-in-nifty-towards-22150-can-be-seen-momentum-indicator-maintains-sell-signal-12716664.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "7 May 2024",
+      "rank": 10
+    },
+    {
+      "title": "Markets tank on broad-based selling! Nifty closes at 22300 ...",
+      "description": "The NSE Nifty 50 lost 140.20 points or 0.62% to finish the day's trading at 22,302.50, while the BSE Sensex closed 384 points or 0.52% lower at 73,511.85. Nifty ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-sensex-nifty-rupee-vs-dollar-share-market-live-sensex-nifty-may-open-lacklustre-gift-nifty-up-asian-markets-trade-positive-may-7-2024-tuesday-3479155/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "7 May 2024",
+      "rank": 12
+    },
+    {
+      "title": "Stock Market Highlights | Sensex, Nifty 50 fall for third ...",
+      "description": "Sensex, Nifty 50 ended in the green for third session in a row. The market erased a market capitalisation of ₹10 lakh crore in three days.",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-hindalco-rec-gcpl-hpcl-godrej-cons-share-price-liveblog-19407475.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "7 May 2024",
+      "rank": 15
+    },
+    {
+      "title": "Nifty Trader: NSE Option Chain - Google Play তে অ্যাপ",
+      "description": "Nifty Trader: NSE Option Chain ; ৫ লা+. ডাউনলোড ; প্রত্যেকে. info ; এই অ্যাপ সম্পর্কে · নিফটি ট্রেডারের সাথে আপনার অপশন ট্রেডিং গেমটি উন্নত করুন - আপনার চূড়ান্ত স্টক মার্কেট সঙ্গী!",
+      "link": "https://play.google.com/store/apps/details?id=in.niftytrader&hl=bn",
+      "display_link": "https://play.google.com › details › i...",
+      "date": "7 May 2024",
+      "rank": 18
+    }
+  ]
+}

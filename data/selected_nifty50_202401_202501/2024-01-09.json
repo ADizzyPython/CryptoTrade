@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-10 after:2024-01-09 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.56,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:28:19.596354Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty vs Sensex: Difference between Nifty and Sensex",
+      "description": "Nifty 50 is a broader and more liquid index than Sensex 30. It also has a higher market capitalisation and is more widely tracked by global investors.",
+      "link": "https://www.smallcase.com/learn/difference-between-sensex-and-nifty/",
+      "display_link": "https://www.smallcase.com › Learn",
+      "date": "9 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Check Stock & Share Market Technical Trends",
+      "description": "Moneycontrol /. Markets /. Technical Trends. TECHNICAL TRENDS. Uptrend; Downtrend. Bullish; Turning Bullish. NIFTY 500. *DisclaimerLast Updated :Jul 15 | 13:58.",
+      "link": "https://www.moneycontrol.com/markets/technical-trends/",
+      "display_link": "https://www.moneycontrol.com › Markets",
+      "date": "9 Jan 2024",
+      "rank": 4
+    },
+    {
+      "title": "Gift Nifty 50 Futures Analysis",
+      "description": "Find the latest financial analysis about the Gift Nifty 50 Futures. Summarize GIFc1's latest news.",
+      "link": "https://in.investing.com/indices/gift-nifty-50-c1-futures-opinion",
+      "display_link": "https://in.investing.com › indices › gift-nifty-50-c1-futu...",
+      "date": "9 Jan 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty climbs above 21650 mark; IT shares in demand",
+      "description": "The Nifty 50 index rose 172.80 points or 0.80% to 21,685.80. In the broader market, the S&P BSE Mid-Cap index rose 0.40% and the S&P BSE Small-Cap index added ...",
+      "link": "https://www.capitalmarket.com/markets/news/mid-session-news/nifty-climbs-above-21-650-mark;-it-shares-in-demand/1480008",
+      "display_link": "https://www.capitalmarket.com › mid-session-news › ni...",
+      "date": "9 Jan 2024",
+      "rank": 13
+    },
+    {
+      "title": "Today's NSE and BSE Losers - Top Companies List by Ticker",
+      "description": "To successfully trade top losers stocks, including Nifty losers and top loser shares today, consider the following: Volatility: When trading top losers ...",
+      "link": "https://ticker.finology.in/market/top-losers",
+      "display_link": "https://ticker.finology.in › Market",
+      "date": "9 Jan 2024",
+      "rank": 16
+    }
+  ]
+}

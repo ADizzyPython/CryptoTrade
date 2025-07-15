@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-03 after:2024-03-02 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.28,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:38:07.357074Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY IT INDEX for NSE:CNXIT by Dinesh_C_Nagpal",
+      "description": "NIFTY IT INDEX ... IT Index looks v strong, this phase of consolidation would be a great opportunity to add more. Breakout above 38100 for 38500-39500-45000 with ...",
+      "link": "https://in.tradingview.com/chart/CNXIT/2PsdQOeN-NIFTY-IT-INDEX/",
+      "display_link": "https://in.tradingview.com › chart › CNXIT › 2PsdQOe...",
+      "date": "Mar 2, 2024",
+      "rank": 1
+    },
+    {
+      "title": "GIFT Nifty up 60 points; here's the trading setup for today's ...",
+      "description": "GIFT Nifty on the NSE IX traded higher by 60.50 points or 0.27% at 22,511.00, signalling that Dalal Street was headed for a positive start on Saturday. Popular ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/gift-nifty-up-60-points-heres-the-trading-setup-for-todays-session/articleshow/108151223.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Mar 2, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Sensex Today | Market Close Highlights",
+      "description": "Sensex Today | Market Close Highlights : Sensex ends at 73,870, Nifty at 22,405; Media, IT, Auto, Metal fall ; Sensex Today Live : Closing Bell · 04 Mar 2024, 03: ...",
+      "link": "https://www.livemint.com/market/live-blog/sensex-today-share-market-live-updates-nifty-yes-bank-paytm-suzlon-ireda-share-price-2-march-2024-rk-swamy-ipo-11709519628151.html",
+      "display_link": "https://www.livemint.com › Markets › Live Blog",
+      "date": "Mar 2, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Saturday Special Trading Session HIGHLIGHTS: D-Street ...",
+      "description": "Share Market Special Saturday Trading Session: Nifty Bank ends flat at 47,297.5. The banking index finishes the day barely in the green at 47,297.5, having ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-bse-nse-saturday-special-trading-live-march-2-2024-market-today-hours-timings-sensex-nifty-sensex-nifty50-gift-nifty-bank-share-trading-session-disaster-recovery-site-stock-exchange-weekend-open-278722",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Mar 2, 2024",
+      "rank": 12
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-22 after:2024-05-21 \"nifty\"",
+    "results_cnt": 2270000,
+    "search_time": 0.51,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:50:22.660934Z"
+  },
+  "organic": [
+    {
+      "title": "FINNIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NSE - NIFTY 50. 25,036.60. -113.25 (-0.45%). 14-Jul-2025 14:13. Streaming ... Nifty; Strike Price: 350.00; Expire Date:27-Jun-19. Calls: Puts: About NSE. About ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=FINNIFTY&identifier=OPTIDXFINNIFTY21-05-2024CE21500.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "21 May 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty at its Crucial level of 22500; Short-Term Trend ...",
+      "description": "Nifty opened at 22512.85, a gap up of 46.75 points from Friday's close and made an intraday high of 22520.25 and closed at 22502.00 up 35.90 points or 0.16%.",
+      "link": "https://elitewealth.in/nifty-at-its-crucial-level-of-22500-short-term-trend-remains-up/",
+      "display_link": "https://elitewealth.in › nifty-at-its-crucial-level-of-2250...",
+      "date": "21 May 2024",
+      "rank": 7
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat amid volatility",
+      "description": "At close, the Sensex was down 52.63 points or 0.07 percent at 73,953.31, and the Nifty was up 27 points or 0.12 percent at 22,529. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-21-05-2024-liveblog-12727788.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "21 May 2024",
+      "rank": 8
+    },
+    {
+      "title": "Nifty50, Mid Select Index bullish on charts in near term",
+      "description": "The Nifty Mid Select Index, currently at 11,336.85, displays a bullish trend on the charts. However, it is approaching a stiff resistance level around 11,450.",
+      "link": "https://www.business-standard.com/markets/news/nifty50-mid-select-index-bullish-on-charts-in-near-term-key-details-here-124052100053_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "21 May 2024",
+      "rank": 12
+    },
+    {
+      "title": "The ascent of the tiger: Decoding Nifty 50's valuation in a ...",
+      "description": "Nifty 50 earnings, on a trailing 12m basis, has grown at 15% CAGR for the last 4 years post Covid. Earnings growth chart explaining the valuation premium.",
+      "link": "https://etedge-insights.com/markets/the-ascent-of-the-tiger-decoding-nifty-50s-valuation-in-a-booming-india/",
+      "display_link": "https://etedge-insights.com › Markets",
+      "date": "21 May 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty, Sensex End On Mixed As Tata Steel, Coal India Rise",
+      "description": "The NSE Nifty 50 settled 27.05 or 0.12% higher at 22,529.05, and the S&P BSE Sensex ended 52.62 points or 0.071% lower at 73,953.31. Further, markets struggled ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-updates-today-nse-bse-nifty-sensex-share-price-movement-of-ongc-irfc-bel-lupin-and-oil-india-and-more",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "21 May 2024",
+      "rank": 18
+    },
+    {
+      "title": "Share Market Today HIGHLIGHTS: Nifty settles at ...",
+      "description": "Share Market Today LIVE: Sensex up 9 pts at 74,015, Nifty at 22,541 as market enters last 30 minutes of trade. Take a look at where key indices stand at this ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-stocks-to-buy-nifty-50-sensex-rupee-dollar-gift-nifty-futures-290882",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "21 May 2024",
+      "rank": 19
+    },
+    {
+      "title": "Market at Close | Sensex and Nifty close mixed amidst ...",
+      "description": "The 30-share BSE Sensex declined 52.62 points or 0.071% to settle at 73953.31. The NSE Nifty rose 27.05 points or 0.12% to finish at 22529.05.",
+      "link": "https://www.cnbctv18.com/market/market-at-close-sensex-and-nifty-close-mixed-amidst-bolatility-nifty-holds-steady-at-22500-19415192.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "21 May 2024",
+      "rank": 20
+    }
+  ]
+}

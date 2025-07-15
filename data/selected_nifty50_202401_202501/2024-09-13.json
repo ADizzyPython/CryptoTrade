@@ -1,0 +1,118 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-14 after:2024-09-13 \"nifty\"",
+    "results_cnt": 314000,
+    "search_time": 0.3,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:10:22.316653Z"
+  },
+  "organic": [
+    {
+      "title": "Getting Started in Nifty",
+      "description": "To make the best use of Nifty, let's start by understanding the basics of how a Workspace and its hierarchy work and what the different features in Nifty are.",
+      "link": "https://help.niftypm.com/en/articles/4226226-getting-started-in-nifty",
+      "display_link": "https://help.niftypm.com › articles › 4226226-getting-sta...",
+      "date": "Sep 13, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Live FINNifty Index Share Price & Charts",
+      "description": "Nifty Outlook for Today The NIFTY 50 index declined 67.55 points to close at 25,082.30, down 0.27%, as market breadth remained skewed towards the negative ...",
+      "link": "https://www.5paisa.com/share-market-today/nifty-financial-services",
+      "display_link": "https://www.5paisa.com › Share market today",
+      "date": "Sep 13, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex fall on profit booking",
+      "description": "The Nifty 50 ended the session down by 0.13 percent, closing at 25,356 points, while S&P BSE Sensex also closed nearly flat, slipping 0.09 percent to 82,890 ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-fall-on-profit-booking-mid-and-smallcaps-outperform-11726220717848.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Sep 13, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms red candle on daily ...",
+      "description": "Nifty fizzled out and closed with a minor loss and barring Oil & Gas, FMCG and healthcare all sectors ended in red as the market gave up its early gains.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-13-september-2024/liveblog/113307134.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Sep 13, 2024",
+      "rank": 5
+    },
+    {
+      "title": "What is Nifty Next 50? Start Date & Contract Specifications",
+      "description": "The Nifty Next 50 index, also known as \"Junior Nifty,\" benchmarks India's next 50 largest companies. Discover its start date & contract specifications.",
+      "link": "https://hdfcsky.com/blogs/derivatives/unlocking-opportunities-nse-set-to-launch-nifty-next-50-derivatives",
+      "display_link": "https://hdfcsky.com › Blogs › Derivatives",
+      "date": "Sep 13, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty's sudden surge catches traders off guard",
+      "description": "The Nifty, which had been moving in a narrow range, suddenly surged past the 25,000 mark after 2 p.m.. local time and even hit an intraday record of 25,433.35.",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/niftys-sudden-surge-catches-traders-off-guard/articleshow/113309614.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "Sep 13, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Live Nifty Bank Index, Share Price and Charts",
+      "description": "Nifty Bank F&O. Nifty Bank Futures Nifty Bank Option Chain. Stocks Performance. PNB. 112.65. 1.74% · BANKBARODA. 244. 1.28% · INDUSINDBK. 878.65. 1.27% · CANBK.",
+      "link": "https://www.5paisa.com/share-market-today/nifty-bank",
+      "display_link": "https://www.5paisa.com › Share market today",
+      "date": "Sep 13, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex & Nifty Dip Slightly After Previous Rally -",
+      "description": "BSE Sensex was trading down 103 points to 82,860, and Nifty-50 was at 25,355 with a loss of 34 points, a short while ago. However, in the broader market at BSE, ...",
+      "link": "https://www.newsonair.gov.in/sensex-nifty-dip-slightly-after-previous-rally/",
+      "display_link": "https://www.newsonair.gov.in › sensex-nifty-dip-slightl...",
+      "date": "Sep 13, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Sensex, Nifty, Share Prices Highlights - market",
+      "description": "Share Market Highlights: Markets end flat! Nifty near 25,350, Sensex at 82,900; Realty and Media shines. Share Market News Today | Sensex, Nifty, Share Prices ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-nifty-50-bse-sensex-latest-news-13-september-2024-3609805/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Sep 13, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Indian shares pause near lifetime highs, log weekly gains ...",
+      "description": "The Nifty 50 (.NSEI) , opens new tab closed 0.13% lower at 25,356.5, while the Sensex (.BSESN) , opens new tab shed 0.09% to 82,890.94. Get the latest news ...",
+      "link": "https://www.reuters.com/world/india/indian-shares-likely-hover-near-record-highs-open-2024-09-13/",
+      "display_link": "https://www.reuters.com › world › india › indian-shares...",
+      "date": "Sep 13, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty Post Best Weekly Performance In Over Two ...",
+      "description": "The Nifty ended 32.40 points or 0.13% lower at 25356.50 and the Sensex settled 71.77 points or 0.09% lower at 82890.94. ITC Ltd., Reliance Industries Ltd., ...",
+      "link": "https://www.ndtvprofit.com/markets/sensex-nifty-post-best-weekly-performance-in-over-two-months-market-wrap",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Sep 13, 2024",
+      "rank": 15
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open higher on Friday amid positive global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-september-13-11726191494661.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Sep 13, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end marginally lower",
+      "description": "Market Close | Sensex, Nifty end marginally lower. Indian equity indices ended marginally lower with Nifty at 25,350 on September 13. At close, the Sensex ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-13-09-2024-liveblog-12820918.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 13, 2024",
+      "rank": 19
+    }
+  ]
+}

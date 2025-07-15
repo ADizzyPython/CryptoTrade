@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-04 after:2024-03-03 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.3,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:38:16.184259Z"
+  },
+  "organic": [
+    {
+      "title": "Historical leverage in Nifty Futures - General",
+      "description": "I am looking for historical margin required or the leverage in Nifty Futures since inception in 2000. Feels a bit weird that this data won't be readily ...",
+      "link": "https://tradingqna.com/t/historical-leverage-in-nifty-futures/161752",
+      "display_link": "https://tradingqna.com › historical-leverage-in-nifty-fut...",
+      "date": "Mar 3, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Mastering Swing Trades: Insights from IT and Health ...",
+      "description": "NIFTY IT Overview. The Nifty IT index tracks the performance of Indian IT companies, comprising 10 firms listed on the National Stock Exchange (NSE). Calculated ...",
+      "link": "https://enrichmoney.in/blog-article/swing-trades-it-and-health-sectors-in-nifty",
+      "display_link": "https://enrichmoney.in › blog-article › swing-trades-it-an...",
+      "date": "Mar 3, 2024",
+      "rank": 10
+    },
+    {
+      "title": "NIFTY50 & BANK NIFTY: Consolidation after breakout, key ...",
+      "description": "BANK NIFTY. March Futures: 47,659 (△0.1%); Open Interest: 1,55,863 (△1.4%). The BANK NIFTY also consolidated its ...",
+      "link": "https://upstox.com/news/market-news/trading/nifty50-and-bank-nifty-consolidation-after-breakout-key-levels-to-watch/article-72520/",
+      "display_link": "https://upstox.com › News › Market News › Trading",
+      "date": "Mar 3, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Stockology: Risk-reward ratio favours bulls, Nifty may top ...",
+      "description": "Stockology: Risk-reward ratio favours bulls, Nifty may top 22,800 in March. The risk reward has turned in favour of the bulls and volume pattern is hinting at ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stockology-risk-reward-ratio-favours-bulls-nifty-may-top-22800-in-march-12391421.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Mar 3, 2024",
+      "rank": 18
+    }
+  ]
+}

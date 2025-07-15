@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-04 after:2024-01-03 \"nifty\"",
+    "results_cnt": 228000,
+    "search_time": 0.62,
+    "language": "en-LK",
+    "country": "Sri Lanka",
+    "location": "India",
+    "timestamp": "2025-07-15T09:57:05.036640Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex sinks 536 pts, Nifty nears 21500 amid global sell-off",
+      "description": "Sensex sinks 536 pts, Nifty nears 21,500 amid global sell-off; IT slides · Closing Bell on January 3, 2024: On the upside, Bajaj Auto, Adani Enterprises, Adani ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-sensex-nifty-gift-nifty-adani-group-yes-bank-maruti-124010300085_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jan 3, 2024",
+      "rank": 6
+    },
+    {
+      "title": "The Nifty and Bank Nifty closed lower today; Short-term ...",
+      "description": "The NIFTY closed at 21665.80 with a loss of 76.10 points or 0.35% down; The PHARMA outperformed and closed with a gain of 2.46% followed by OIL GAS, MEDIA, and ...",
+      "link": "https://elitewealth.in/the-nifty-and-bank-nifty-closed-lower-today-short-term-trend-changes-to-sideways/",
+      "display_link": "https://elitewealth.in › the-nifty-and-bank-nifty-closed-l...",
+      "date": "Jan 3, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index ...",
+      "description": "Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fd Direct Growth factsheet.",
+      "link": "https://www.morningstar.in/mutualfunds/f00001ei92/Kotak-Nifty-SDL-Plus-AAA-PSU-Bond-Jul-2028-6040-Index-Fd-Direct-Growth/fund-factsheet.aspx",
+      "display_link": "https://www.morningstar.in › fund-factsheet",
+      "date": "Jan 3, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Quantity Freeze Limits for Indices- January 2024",
+      "description": "Quantity Freeze Limit-Jan 24 for NIFTY and FINNIFTY have been revised w.e.f 1 01-Jan 2024 as per a recent NSE Circular. Check all recent news on Nifty ...",
+      "link": "https://www.angelone.in/announcements/market/quantity-freeze-limits-for-indices-january-2024",
+      "display_link": "https://www.angelone.in › Announcements › Market",
+      "date": "Jan 3, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nippon India ETF Nifty 50 BeES Live Share Price ...",
+      "description": "Nippon India ETF Nifty 50 Share Price Analysis: Historical Data compared to Nifty, Sensex, and Sector, Returns Pattern, Calendar and Deep Dive",
+      "link": "https://trendlyne.com/share-price/performance/1588/NIFTYBEES/nippon-india-etf-nifty-50-bees/",
+      "display_link": "https://trendlyne.com › share-price › performance › nip...",
+      "date": "Jan 3, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty IT, Nifty Auto: 'Sell on rise' strategy apt amid possible ...",
+      "description": "The Nifty IT Index, currently positioned at 35,283, is encountering significant resistance in the near term, notably around the 35,800 mark. The recent ...",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-nifty-auto-sell-on-rise-strategy-apt-amid-possible-downtrend-124010300076_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Jan 3, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty 50 Gave 15% Return In The Last 3 Months, What Was ...",
+      "description": "In this article, we will discuss: · The Importance of Market Indices, Especially NIFTY 50 · Are NIFTY 50 Returns the Absolute Truth? · Beyond P&L: The Real Measure ...",
+      "link": "https://www.samco.in/knowledge-center/articles/nifty-50-returns-15-percent-last-3-months/",
+      "display_link": "https://www.samco.in › knowledge-center › articles › nift...",
+      "date": "Jan 3, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Closing Bell: Sensex slumps 535 pts, Nifty settles below ...",
+      "description": "At close, the Sensex was down 535.88 points or 0.75 percent at 71,356.60, and the Nifty was down 139.60 points or 0.64 percent at 21,526.20. About 1,917 shares ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-gift-nifty-sensex-fomc-minutes-crude-vst-dmart-motherson-mahindra-finance-brent-liveblog-11990951.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Jan 3, 2024",
+      "rank": 19
+    },
+    {
+      "title": "Share Market Highlights 03 January 2024: Sensex tumbles ...",
+      "description": "Market Update: Nifty, Sensex fall 0.46%. The BSE Sensex fell 331.07 pts or 0.46% to 71,561.41. The NSE Nifty was down 98.75 pts or 0.46% to 21,567.05.",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-highlights-03-january-2024/article67698291.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Jan 3, 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-23 after:2024-01-22 \"nifty\"",
+    "results_cnt": 224000,
+    "search_time": 0.4,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:30:16.047806Z"
+  },
+  "organic": [
+    {
+      "title": "UTI Nifty 500 Value 50 Index Fund",
+      "description": "An open ended equity index scheme tracking the Nifty 500 Value 50 Index passively. The scheme endeavors to achieve return equivalent to underlying index.",
+      "link": "https://www.utimf.com/mutual-funds/uti-nifty-500-value-50-index-fund",
+      "display_link": "https://www.utimf.com › mutual-funds › uti-nifty-500-...",
+      "date": "22 Jan 2024",
+      "rank": 2
+    }
+  ]
+}

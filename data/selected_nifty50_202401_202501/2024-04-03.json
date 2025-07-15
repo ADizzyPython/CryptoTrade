@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-04 after:2024-04-03 \"nifty\"",
+    "results_cnt": 4080000,
+    "search_time": 0.57,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:42:51.541383Z"
+  },
+  "organic": [
+    {
+      "title": "SBFP Stock Price | SBI Nifty 50 ETF",
+      "description": "SBI Mutual Fund - SBI-ETF Nifty 50 is an exchange traded fund launched by State Bank of India. It is managed by SBI Funds Management Private Limited.",
+      "link": "https://www.investing.com/etfs/sbi-nifty-50",
+      "display_link": "https://www.investing.com › etfs › sbi-nifty-50",
+      "date": "Apr 3, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Fifty's - Apps on Google Play",
+      "description": "Nifty Fifty's - Apps on Google Play. Games · Apps · Movies & TV · Books · Children · google_logo Play. Games.",
+      "link": "https://play.google.com/store/apps/datasafety?id=com.olo.niftyfiftys&hl=en",
+      "display_link": "https://play.google.com › store › apps › datasafety › id=c...",
+      "date": "Apr 3, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 500 Share Price, Nifty 500 PE Ratio, Chart",
+      "description": "See Nifty 500 today, with live chart. Compare NSE Nifty 500 by performance, price, EPS, dividend yield.",
+      "link": "https://trendlyne.com/equity/1893/NIFTY500/nifty-500/",
+      "display_link": "https://trendlyne.com › equity › NIFTY500 › nifty-500",
+      "date": "Apr 3, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms small negative candle ...",
+      "description": "While Nifty 50 ended flat at 22434.65 points, it has formed a small positive candle on the daily chart with gap down opening and with an upper shadow.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-03-april-2024/liveblog/108988908.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "Apr 3, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty 50 April series: 4 stocks where investors can park their ...",
+      "description": "Domestic equity benchmarks Sensex and Nifty 50 snapped the three-day gaining run earlier today, with the 30-share benchmark dropping by 110 points.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-april-series-outlook-icici-pru-igl-among-4-stocks-where-investors-can-park-their-money-do-you-own-11712069768704.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Apr 3, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Tata Nifty Auto Index Fund",
+      "description": "»; Scheme Information Document (SID); »; Tata Mutual Fund; »; Tata Nifty Auto Index Fund. Tata Nifty Auto Index Fund. Thumbnails Document Outline Attachments.",
+      "link": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doGetFundDetails=yes&mfdId=15718",
+      "display_link": "https://www.sebi.gov.in › sebiweb › other › OtherAction",
+      "date": "Apr 3, 2024",
+      "rank": 12
+    },
+    {
+      "title": "NSE cuts Nifty50, Nifty Financial Services F&O lot sizes to ...",
+      "description": "NSE announced a reduction in the market lot of derivative contracts of three indices namely; Nifty 50, Nifty Financial Services, and Nifty Midcap Select.",
+      "link": "https://learn.moneysukh.com/nse-cuts-nifty50-nifty-financial-services-fo-lot-sizes-to-25-nifty-midcap-to-50/",
+      "display_link": "https://learn.moneysukh.com › Blogs",
+      "date": "Apr 3, 2024",
+      "rank": 16
+    }
+  ]
+}

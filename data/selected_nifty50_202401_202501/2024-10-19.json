@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-20 after:2024-10-19 \"nifty\"",
+    "results_cnt": 6,
+    "search_time": 0.46,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:44.809612Z"
+  },
+  "organic": [
+    {
+      "title": "Diwali outlook: Nifty likely to consolidate between 50, 100- ...",
+      "description": "On Friday, the 30-share BSE Sensex rose 218 points, or 0.27%, to settle at 81,224, while the broader NSE Nifty climbed 104 points, or 0.42%, to close at 24,854.",
+      "link": "https://m.economictimes.com/markets/expert-view/diwali-outlook-nifty-likely-to-consolidate-between-50-100-day-emas-says-sudeep-shah-of-sbi-securities/articleshow/114375562.cms",
+      "display_link": "https://m.economictimes.com › Markets › Expert Views",
+      "date": "19 Oct 2024",
+      "rank": 1
+    }
+  ]
+}

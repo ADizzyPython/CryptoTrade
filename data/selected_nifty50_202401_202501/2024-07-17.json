@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-18 after:2024-07-17 \"nifty\"",
+    "results_cnt": 379000,
+    "search_time": 0.32,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:59:21.059608Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY 50 Option Chain",
+      "description": "NIFTY 50 Option Chain - Latest updates on Live Nifty/NSE 50 Option Chain, Nifty Stock Options prices, Bank Nifty Option Chain, Charts & more on Groww.in.",
+      "link": "https://groww.in/options/nifty",
+      "display_link": "https://groww.in › F&O",
+      "date": "17 July 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Solutions | APAC's #1 Rated Airtable Consulting Partner",
+      "description": "Nifty Solutions is the leading Airtable consultancy in APAC, delivering scalable low-code solutions for enterprise organisations across media, ...",
+      "link": "https://www.nifty-solutions.com.au/",
+      "display_link": "https://www.nifty-solutions.com.au",
+      "date": "17 July 2024",
+      "rank": 2
+    },
+    {
+      "title": "No Trading of NSE IFSC Nifty Next 50 Index Futures and ...",
+      "description": "No trading of NSE IFSC Nifty Next 50 Index Futures and Options and NSE IFSC Nifty Midcap Select Index Futures and Options through the Connect.",
+      "link": "https://rulebook.sgx.com/rulebook/directive-no-2-no-trading-nse-ifsc-nifty-next-50-index-futures-and-options-and-nse-ifsc",
+      "display_link": "https://rulebook.sgx.com › rulebook › directive-no-2-no...",
+      "date": "17 July 2024",
+      "rank": 5
+    },
+    {
+      "title": "SmartAPI",
+      "description": "SmartAPI Developer Portal.",
+      "link": "https://smartapi.angelbroking.com/topic/4738/symbol-token-of-nifty-fifty",
+      "display_link": "https://smartapi.angelbroking.com › topic › symbol-toke...",
+      "date": "17 July 2024",
+      "rank": 13
+    },
+    {
+      "title": "Trade Setup for July 18: Nifty to enter a period of ...",
+      "description": "With Tuesday's high, the Nifty is up nearly 3,500 points in just 29 trading sessions since June 4, which was the day the Lok Sabha election results were ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-july-18-nifty-50-weekly-expiry-nifty-bank-asian-paints-ltim-infosys-ireda-share-price-19444438.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "17 July 2024",
+      "rank": 18
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-29 after:2024-07-28 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.42,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:26.829498Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty hit fresh all-time high levels in early trade",
+      "description": "The NSE Nifty surged 145.6 points to hit a fresh lifetime peak of 24,980.45. From the Sensex pack, NTPC, State Bank of India, IndusInd Bank, ICICI Bank and ...",
+      "link": "https://www.deccanherald.com/business/markets/sensex-nifty-hit-fresh-all-time-high-levels-in-early-trade-3126260",
+      "display_link": "https://www.deccanherald.com › Business › Markets",
+      "date": "28 Jul 2024",
+      "rank": 18
+    }
+  ]
+}

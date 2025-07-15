@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-23 after:2024-09-22 \"nifty\"",
+    "results_cnt": 308000,
+    "search_time": 0.53,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:11:43.584790Z"
+  },
+  "organic": [
+    {
+      "title": "India's Nifty, Sensex outperform most global markets ...",
+      "description": "The Nifty and Sensex have gained 18.7% and 17% respectively in 2024, securing the third and fourth spots among major global bourses. Make sense of global ...",
+      "link": "https://www.reuters.com/markets/asia/indias-nifty-sensex-outperform-most-global-markets-behind-only-wall-street-2024-09-20/",
+      "display_link": "https://www.reuters.com › markets › asia › indias-nifty-...",
+      "date": "Sep 22, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Momentum could push Nifty 50 towards ...",
+      "description": "The Nifty 50 index, which had been struggling near the 25,500 level for most of the trading sessions, finally broke out on Friday, reaching a new high around ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/momentum-could-push-nifty-50-towards-26000-pick-these-3-stocks-for-better-return-says-anand-rathis-jigar-patel-12827316.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 22, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Mt 26K in sight for Nifty bulls. Track these 5 factors this week",
+      "description": "After gaining around 1.5% last week, Nifty is now approaching a significant milestone of 26,000 amid heavy buying by FIIs in the wake of an outsized rate ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/mt-26k-in-sight-for-nifty-bulls-track-these-5-factors-this-week/articleshow/113563924.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Sep 22, 2024",
+      "rank": 19
+    }
+  ]
+}

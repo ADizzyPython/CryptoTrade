@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-04 after:2024-02-03 \"nifty\"",
+    "results_cnt": 288000,
+    "search_time": 0.7,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:33:02.109399Z"
+  },
+  "organic": [
+    {
+      "title": "Indian Stock market Minute, DAILY data",
+      "description": "This contains minute level data for the NIFTY-50 stocks from NSE ( National Stock Exchange ) - the indian stock market. Here is an over-view of the dataset ...",
+      "link": "https://www.kaggle.com/datasets/tomtillo/nse-nifty50-index-daily-minute-level-data",
+      "display_link": "https://www.kaggle.com › datasets › tomtillo › nse-nifty...",
+      "date": "Feb 3, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nippon India Nifty Bank Index Fund Regular Growth",
+      "description": "Learn about Nippon India Nifty Bank Index Fund Regular Growth with our data and independent analysis including NAV, star rating, portfolio, ...",
+      "link": "https://morningstar.in/mutualfunds/f00001j5yi/nippon-india-nifty-bank-index-fund-regular-growth/overview.aspx",
+      "display_link": "https://morningstar.in › mutualfunds › overview",
+      "date": "Feb 3, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Is India VIX similar to that of market indices like NIFTY?",
+      "description": "NIFTY measures the direction of the market and is computed using the price movement of the underlying stocks whereas India VIX measures the expected volatility ...",
+      "link": "https://www.icicidirect.com/faqs/fno/is-india-vix-similar-to-that-of-market-indices-like-nifty",
+      "display_link": "https://www.icicidirect.com › faqs › fno › is-india-vix-si...",
+      "date": "Feb 3, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Zerodha Nifty LargeMidcap 250 Index Fund Direct Growth",
+      "description": "Zerodha Nifty LargeMidcap 250 Index Fund Direct Growth.",
+      "link": "https://morningstar.in/mutualfunds/f00001hcj1/zerodha-nifty-largemidcap-250-index-fund-direct-growth/detailed-portfolio.aspx",
+      "display_link": "https://morningstar.in › mutualfunds › detailed-portfolio",
+      "date": "Feb 3, 2024",
+      "rank": 9
+    },
+    {
+      "title": "BANK NIFTY TRADER TECH OPTION – Apps on ...",
+      "description": "BANK NIFTY TRADER TECH OPTION – Apps on Google Play. Games · Apps · Movies & TV ... BANK NIFTY TRADER TECH OPTION. Education Sky Media. privacy_tipThe ...",
+      "link": "https://play.google.com/store/apps/datasafety?id=co.arya.hxyqd&hl=en_IN&gl=US",
+      "display_link": "https://play.google.com › store › apps › datasafety",
+      "date": "Feb 3, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty February series outlook: 4 stocks where investors can ...",
+      "description": "Ratio wise (Bank Nifty/Nifty) has a resistance at 2.20 and support at 2.05 The ratio between Bank Nifty and Nifty currently at around 2.1. The major support ...",
+      "link": "https://www.livemint.com/market/stock-market-news/icici-bank-hpcl-2-others-nifty-february-series-outlook-4-stocks-where-investors-can-park-their-money-do-you-own-11706892281539.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Feb 3, 2024",
+      "rank": 13
+    }
+  ]
+}

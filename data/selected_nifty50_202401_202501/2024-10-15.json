@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-16 after:2024-10-15 \"nifty\"",
+    "results_cnt": 377000,
+    "search_time": 0.32,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:10.504471Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Stocks - List of all Companies in Nifty 50",
+      "description": "Nifty 50 Stocks ; RELIANCE · 1,492.50, 8.80, 0.59%, 29,05,941 ; HDFCBANK · 1,994.70, 11.70, 0.59%, 32,97,550 ; TCS · 3,248.20, 25.50, 0.79%, 16,27,073 ...",
+      "link": "https://scanx.trade/stock-screener/index/nifty-50",
+      "display_link": "https://scanx.trade › stock-screener › index › nifty-50",
+      "date": "Oct 15, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NSE launches Nifty Top 15 Equal Weight index",
+      "description": "NSE Indices, the index services arm of the stock exchange, has launched a new standard index called the Nifty Top 15 Equal Weight, on October 15.",
+      "link": "https://www.moneycontrol.com/news/business/markets/nse-launches-nifty-top-15-equal-weight-index-12842658.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Oct 15, 2024",
+      "rank": 2
+    },
+    {
+      "title": "NSE Indices launches Nifty Top 15 Equal Weight Index for ...",
+      "description": "The Nifty Top 15 Equal Weight aims to track the performance of the top 15 companies selected based on free-float market capitalisation from the Nifty 50.",
+      "link": "https://www.cnbctv18.com/market/nse-indices-launches-nifty-top-15-equal-weight-index-for-enhanced-benchmarking-19493359.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Oct 15, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Sensex, Nifty Open Higher On Wall Street Cues",
+      "description": "The benchmark S&P/BSE Sensex was up 222 points, or 0.3 percent, at 82,195 in early trade while the broader NSE Nifty index was up 47 points, or 0.2 percent, at ...",
+      "link": "https://www.nasdaq.com/articles/sensex-nifty-open-higher-wall-street-cues",
+      "display_link": "https://www.nasdaq.com › articles › sensex-nifty-open-...",
+      "date": "Oct 15, 2024",
+      "rank": 8
+    },
+    {
+      "title": "NSE Discontinues Weekly Derivatives on Bank Nifty ...",
+      "description": "NSE ends weekly derivatives for Bank Nifty, Nifty Midcap Select, and FinNifty, effective Nov 2024, shifting focus to Nifty 50. Learn about key changes and ...",
+      "link": "https://www.motilaloswal.com/learning-centre/2024/10/nse-discontinues-weekly-derivatives-on-bank-nifty-nifty-midcap-select-and-finnifty",
+      "display_link": "https://www.motilaloswal.com › 2024/10 › nse-disconti...",
+      "date": "Oct 15, 2024",
+      "rank": 20
+    }
+  ]
+}

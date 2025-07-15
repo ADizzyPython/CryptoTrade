@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-03-28 after:2024-03-27 \"nifty\"",
+    "results_cnt": 4210000,
+    "search_time": 0.54,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:41:51.748441Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Index Unveiled: A Comprehensive Overview for ...",
+      "description": "NIFTY, which stands for National Stock Exchangе Fifty, is a stock markеt indеx that tracks thе pеrformancе of India's National Stock Exchangе (NSE).",
+      "link": "https://www.religareonline.com/blog/nifty-index-overview-for-investors/",
+      "display_link": "https://www.religareonline.com › blog › nifty-index-ove...",
+      "date": "27 Mar 2024",
+      "rank": 1
+    },
+    {
+      "title": "FY24 Market Review: Nifty 50 jumped 30%; 5 stocks ...",
+      "description": "The benchmark index, Nifty 50, which represents the country's top 50 blue-chip companies across various sectors, has soared 30% in FY24 so far.",
+      "link": "https://www.livemint.com/market/stock-market-news/fy24-market-review-nifty-jumped-30-5-stocks-including-bajaj-auto-tata-motors-hero-moto-coal-india-rose-over-100-11711516253873.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "27 Mar 2024",
+      "rank": 3
+    },
+    {
+      "title": "How nifty 50 is calculated | Meaning & Example",
+      "description": "What is NIFTY 50? The NIFTY 50 stands as India's leading stock market index, encompassing 50 of the nation's most influential and actively traded companies ...",
+      "link": "https://www.religareonline.com/blog/how-is-nifty-50-calculated/",
+      "display_link": "https://www.religareonline.com › blog › how-is-nifty-50...",
+      "date": "27 Mar 2024",
+      "rank": 4
+    },
+    {
+      "title": "Share Market Highlights 27 March 2024: Sensex gains 526 ...",
+      "description": "Closing Bell: Sensex gains 526 pts, Nifty closes above 22,100. Benchmark indices BSE Sensex and NSE Nifty50 held firm on Wednesday. While the Sensex gained ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-27-march-2024/article67994226.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "27 Mar 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty 50, other indices rejig tomorrow: Shriram Finance ...",
+      "description": "The National Stock Exchange's (NSE) semi-annual rebalancing of Nifty Indices will come into effect on March 28, with adjustments occurring today, March 27.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-other-indices-rejig-tomorrow-shriram-finance-hdfc-bank-jio-finance-adani-power-to-see-highest-inflows-11711518436707.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "27 Mar 2024",
+      "rank": 15
+    },
+    {
+      "title": "Sensex, Nifty rebound on heavy buying in Reliance ...",
+      "description": "The NSE Nifty went up by 118.95 points or 0.54% to 22,123.65. From the Sensex basket, Reliance Industries jumped 3.50%, contributing the most to the rise.",
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-rebound-on-heavy-buying-in-reliance-industries-hdfc-bank/article67997964.ece",
+      "display_link": "https://www.thehindu.com › Business › Markets",
+      "date": "27 Mar 2024",
+      "rank": 19
+    }
+  ]
+}

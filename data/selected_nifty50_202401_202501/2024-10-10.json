@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-11 after:2024-10-10 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.37,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:14:27.042503Z"
+  },
+  "organic": [
+    {
+      "title": "India's NSE to retain Nifty 50-linked weekly options after ...",
+      "description": "The National Stock Exchange of India said on Thursday it will retain weekly derivative contracts linked to the benchmark Nifty 50 index.",
+      "link": "https://www.reuters.com/world/india/indias-nse-retain-nifty-50-linked-weekly-options-after-new-derivatives-rules-2024-10-10/",
+      "display_link": "https://www.reuters.com › world › india › indias-nse-ret...",
+      "date": "Oct 10, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty: Full Form, Meaning, and How to Calculate NSE ...",
+      "description": "NIFTY is the index of the National Stock Exchange of India and represents the performance of the top 50 companies. This NIFTY 50 is based on their free-float ...",
+      "link": "https://www.smallcase.com/learn/what-is-nifty/",
+      "display_link": "https://www.smallcase.com › Learn",
+      "date": "Oct 10, 2024",
+      "rank": 2
+    },
+    {
+      "title": "How To Thrive as a Digital Agency with Nifty",
+      "description": "Nifty is here to simplify that complexity, helping you streamline workflows, foster team collaboration, and keep clients happy—all while boosting productivity.",
+      "link": "https://help.niftypm.com/en/articles/9991537-how-to-thrive-as-a-digital-agency-with-nifty",
+      "display_link": "https://help.niftypm.com › articles › 9991537-how-to-thr...",
+      "date": "Oct 10, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Invest in Navi Nifty 50 ETF - Mutual Fund",
+      "description": "This ETF allows investors to own a proportionate share of each company in the Nifty 50 index and trade it like stocks, making it easily accessible and tradable.",
+      "link": "https://navi.com/mutual-fund/navi-nifty-50-etf-fund",
+      "display_link": "https://navi.com › Mutual Fund",
+      "date": "Oct 10, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Motilal Oswal Nifty India Defence ETF (MODEFENCE.NS)",
+      "description": "Motilal Oswal Nifty India Defence ETF (MODEFENCE.NS) ; YTD Return · 30.00% · 9.25% ; 1-Year Return · 17.93% · 0.00% ; 3-Year Return · 17.93% · 60.68% ; 5-Year Return.",
+      "link": "https://finance.yahoo.com/quote/MODEFENCE.NS/",
+      "display_link": "https://finance.yahoo.com › quote › MODEFENCE",
+      "date": "Oct 10, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Sensex, Nifty, Share Prices Highlights - market",
+      "description": "The NSE Nifty 50 gained 16.50 points or 0.07% to settle at 24,998.45, while the BSE Sensex jumped 144.30 points or 0.18% to 81,611.41. The broader indices ended ...",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-nifty-50-bse-sensex-latest-news-10-october-2024-3635980/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "Oct 10, 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty Alpha 50 Index reshuffles 12 stocks today",
+      "description": "Nifty Alpha 50 Index will see a significant reshuffling with 12 stocks being added and 12 stocks excluded, effective from September 30, 2024.",
+      "link": "https://www.angelone.in/news/nifty-alpha-50-index-reshuffles-12-stocks-today",
+      "display_link": "https://www.angelone.in › News › Market Updates",
+      "date": "Oct 10, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty set for first single-digit earnings growth in five years",
+      "description": "The Nifty earnings per share (EPS) is projected to grow in single-digit in 2024-25, the first time in five years, according to Gautam Duggad.",
+      "link": "https://www.cnbctv18.com/market/nifty-earnings-growth-eps-set-for-first-single-digit-earnings-growth-in-five-years-gautam-duggad-19490615.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Oct 10, 2024",
+      "rank": 16
+    },
+    {
+      "title": "Stock market live updates today sensex Nifty NSE BSE ...",
+      "description": "Among the broader indices, the Nifty Smallcap 100 ended higher by 0.19 per cent, while the Nifty Midcap 100 settled lower by 0.28 per cent. Bank Nifty, and PSU ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-ratan-tata-stocks-vedanta-zee-124101000108_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Oct 10, 2024",
+      "rank": 18
+    },
+    {
+      "title": "Sensex holds steady, Nifty 50 closes below ...",
+      "description": "Sensex holds steady, Nifty 50 closes below 25,000; IT, pharma under pressure. Nifty Pharma and Nifty Healthcare indices faced significant pressure, each ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/sensex-holds-steady-nifty-50-closes-below-25000-it-pharma-under-pressure-12839532.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Oct 10, 2024",
+      "rank": 19
+    }
+  ]
+}

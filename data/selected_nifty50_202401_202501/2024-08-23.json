@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-24 after:2024-08-23 \"nifty\"",
+    "results_cnt": 20,
+    "search_time": 0.37,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T16:07:09.856039Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 50 Futures & Options - Live Nifty/NSE Future Price Chart",
+      "description": "Get real-time updates on Nifty 50 Futures and options with our live NIFTY/NSE future price chart and, Option chain data. Analyze market trends with research ...",
+      "link": "https://www.research360.in/indian-indices/nifty-50/future-and-options",
+      "display_link": "https://www.research360.in › indian-indices › future-and...",
+      "date": "23 Aug 2024",
+      "rank": 1
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat; realty, IT top drags",
+      "description": "At close, the Sensex was up 33.02 points or 0.04 percent at 81,086.21, and the Nifty was up 11.70 points or 0.05 percent at 24,823.20. ... Nifty midcap ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-23-08-2024-liveblog-12804574.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "23 Aug 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty end flat, broader ...",
+      "description": "Stock Market Highlights on Friday, August 23: At closing bell, the BSE Sensex was at 81,086.21, up by 33.02 points. Nifty 50 was at 24,823.15, up marginally by ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-sensex-nifty-markets-live-blog-orient-tech-ipo-ambuja-cements-nykaa-124082300095_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "23 Aug 2024",
+      "rank": 5
+    },
+    {
+      "title": "Markets end flat! Nifty holds 24800, Sensex above 81100 ...",
+      "description": "Nifty holds 24,800, Sensex above 81,100; Midcaps underperform. Share Market ... The Nifty Midcap 100 closed 310.25 points or 0.53% higher at 58,534.60.",
+      "link": "https://www.financialexpress.com/market/share-market-today-live-updates-nifty-50-bse-sensex-latest-news-23-aug-2024-3590167/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "23 Aug 2024",
+      "rank": 6
+    },
+    {
+      "title": "Sensex, Nifty Struggle For Direction Ahead Of Powell's ...",
+      "description": "The BSE Sensex was down 4 points at 81,049 while the broader Nifty index was virtually unchanged at 24,811. Bajaj Auto rose nearly 3 percent after it became ...",
+      "link": "https://www.nasdaq.com/articles/sensex-nifty-struggle-direction-ahead-powells-speech-it-stocks-underperform",
+      "display_link": "https://www.nasdaq.com › articles › sensex-nifty-strugg...",
+      "date": "23 Aug 2024",
+      "rank": 7
+    },
+    {
+      "title": "Bharat Electronics, Trent to replace Divis Labs, LTIMindtree ...",
+      "description": "Bharat Electronics and Trent will replace Divis Laboratories and LTIMindtree in the benchmark Nifty 50. The replacement in Nifty 50 will also be applicable ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/bharat-electronics-trent-to-replace-divis-labs-ltimindtree-in-nifty-50-from-september-30-12805578.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "23 Aug 2024",
+      "rank": 8
+    },
+    {
+      "title": "Trent, BEL to be added to Nifty 50 from Sep 30; Banga sells ...",
+      "description": "Nifty (-0.18%). 25476.10 -46.40 · Nifty Midcap (-0.13%). 59339.60 -75.85 · Nifty Smallcap (0.60%). 9192.50 + 54.80 · Nifty Bank (-0.07%). 57213.55 -42.75.",
+      "link": "https://www.business-standard.com/markets/news/trent-bel-to-be-added-to-nifty-50-from-sep-30-banga-sells-1-43-in-nykaa-124082301346_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "23 Aug 2024",
+      "rank": 11
+    },
+    {
+      "title": "Stock Market Highlights: Nifty 50 holds 24800, Sensex ...",
+      "description": "The Sensex added 33 points to settle at 81,086, while the Nifty inched up 12 points to close at 24,823. However, broader markets underperformed, with the Midcap ...",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-ambuja-cements-nykaa-suzlon-adani-power-share-price-liveblog-19464168.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "23 Aug 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty 50 Chart, Technical View: 25000 on the cards in ...",
+      "description": "Nifty 50 Chart, Technical View: Nifty ended a muted session with little change in Friday's trade (August 23), as market participants await the US Federal ...",
+      "link": "https://www.etnownews.com/markets/nifty-50-chart-technical-view-25000-on-the-cards-in-monthly-expiry-week-heres-what-experts-say-article-112754377",
+      "display_link": "https://www.etnownews.com › markets",
+      "date": "23 Aug 2024",
+      "rank": 14
+    },
+    {
+      "title": "In Focus",
+      "description": "HOT STOCKS. NSE; BSE. Stay informed about the best performers in Nifty 50. ... Nifty 50 · Nifty Bank · Nifty Small Cap 100. MOST SEARCHED COMPANIES. Tata Motors ...",
+      "link": "https://www.businesstoday.in/latest/in-focus",
+      "display_link": "https://www.businesstoday.in › LATEST",
+      "date": "23 Aug 2024",
+      "rank": 17
+    }
+  ]
+}

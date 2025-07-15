@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-07-21 after:2024-07-20 \"nifty\"",
+    "results_cnt": 15,
+    "search_time": 0.49,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:59:51.176812Z"
+  },
+  "organic": [
+    {
+      "title": "ICICI Prudential Nifty 50 Index Fund",
+      "description": "The scheme aims to track the returns of the Nifty 50 through investments in a basket of stocks that are drawn from the Nifty 50 Index.",
+      "link": "https://www.angelone.in/mutual-funds/mf-schemes/icici-prudential-nifty-50-index-fund-direct-plan-cumulative-option",
+      "display_link": "https://www.angelone.in › mutual-funds › mf-schemes",
+      "date": "20 Jul 2024",
+      "rank": 1
+    },
+    {
+      "title": "Buy Nifty Alpha 50 Index Fund For Strong Investment Portfolio",
+      "description": "Nifty Alpha 50 Index tracks the performance of top 50 stocks with high Alphas in last one year. Historically, it has been a diversified 50 stocks index across ...",
+      "link": "https://www.bajajallianzlife.com/funds/nifty-50-alfa-fund.html",
+      "display_link": "https://www.bajajallianzlife.com › funds › nifty-50-alfa...",
+      "date": "20 Jul 2024",
+      "rank": 2
+    },
+    {
+      "title": "ICICI Prudential Nifty Next 50 Index Fund",
+      "description": "ICICI Prudential Nifty Next 50 Index Fund ; Funds. 3 Y Returns ; 5-year return, 21.27% ; Expense Ratio, 0.31% ; Fund Manager, Nishit Patel ; Fund Size, ₹7799.26 Cr.",
+      "link": "https://www.angelone.in/mutual-funds/mf-schemes/icici-prudential-nifty-next-50-index-fund-direct-plan-growth",
+      "display_link": "https://www.angelone.in › mutual-funds › mf-schemes",
+      "date": "20 Jul 2024",
+      "rank": 6
+    },
+    {
+      "title": "Prestige Estates Projects Ltd",
+      "description": "Part of BSE 500 BSE 200 Nifty 500 BSE MidCap Nifty Midcap 100 BSE Realty Nifty Realty Nifty Midcap 50 Nifty 200 BSE Allcap BSE Consumer Discretionary BSE ...",
+      "link": "https://www.screener.in/company/PRESTIGE/consolidated/",
+      "display_link": "https://www.screener.in › PRESTIGE › consolidated",
+      "date": "20 Jul 2024",
+      "rank": 12
+    },
+    {
+      "title": "Income Tax Calculator 2025",
+      "description": "... Nifty 50, Sensex snap 4-day losing streak to end in greenSensex, Nifty snap 4-day losing run; investors earn over ₹2 lakh crore— 10 key highlights from ...",
+      "link": "https://www.livemint.com/tools-calculators/income-tax-calculator",
+      "display_link": "https://www.livemint.com › tools-calculators › income-t...",
+      "date": "20 Jul 2024",
+      "rank": 15
+    }
+  ]
+}

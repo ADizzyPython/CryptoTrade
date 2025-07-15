@@ -1,0 +1,62 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-11 after:2024-02-10 \"nifty\"",
+    "results_cnt": 15,
+    "search_time": 0.26,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:34:06.652560Z"
+  },
+  "organic": [
+    {
+      "title": "Workspace Control Center",
+      "description": "The Control Center can be accessed via the dropdown menu in the top left of Nifty. Doing so will automatically bring you to the Workspace tab of the Control ...",
+      "link": "https://help.niftypm.com/en/articles/8923379-workspace-control-center",
+      "display_link": "https://help.niftypm.com › articles › 8923379-workspace...",
+      "date": "Feb 10, 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY OIL & GAS Index Weightage & List of Stocks",
+      "description": "The current share price (as on Jul 11,2025) of NIFTY OIL & GAS Index is ₹ 11,759.5. Which company has the highest weightage in NIFTY OIL & GAS Index? RELIANCE ...",
+      "link": "https://www.smart-investing.in/indices-bse-nse.php?index=NOILGAS",
+      "display_link": "https://www.smart-investing.in › indices-bse-nse",
+      "date": "Feb 10, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Solutions Spice Caddy – Set of Two, Chrome",
+      "description": "Nifty Solutions Spice Caddy – Set of Two, Chrome ; Or Prime members ; get FREE delivery Thursday, July 10. ; Order within 13 mins ; Material. Alloy Steel ; Color.",
+      "link": "https://www.amazon.com/Nifty-Solutions-Spice-Racks-Rack/dp/B0BVN21RFZ",
+      "display_link": "https://www.amazon.com › Nifty-Solutions-Spice-Racks...",
+      "date": "Feb 10, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty Wash Package | Tampa",
+      "description": "The NIFTY wash package is a complete solution that integrates all the signature products featured in our Thrifty wash package.",
+      "link": "https://bubbledown.com/car-wash-packages/bubble-club/nifty-wash-package/",
+      "display_link": "https://bubbledown.com › Wash Packages › Bubble Club",
+      "date": "Feb 10, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Long Term Stocks to Buy or Sell in 2025: Get Expert Picks",
+      "description": "STOCK MARKET INDICES: S&P BSE SENSEX | S&P BSE 100 | NIFTY 100 | NIFTY 50 | NIFTY MIDCAP 100 | NIFTY BANK | NIFTY NEXT 50. POPULAR MUTUAL FUNDS: QUANT SMALL ...",
+      "link": "https://www.kotaksecurities.com/stock-research-recommendations/equity/longterm/",
+      "display_link": "https://www.kotaksecurities.com › equity › longterm",
+      "date": "Feb 10, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 167 pts higher ...",
+      "description": "Share Market HIGHLIGHTS: Sensex ends 167 pts higher, Nifty tops 21,750 led by financial stocks; SBI jumps 4%. Share Market HIGHLIGHTS: Domestic equity ...",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-275786",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "Feb 10, 2024",
+      "rank": 13
+    }
+  ]
+}

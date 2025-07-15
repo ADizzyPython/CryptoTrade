@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-17 after:2024-09-16 \"nifty\"",
+    "results_cnt": 318000,
+    "search_time": 0.31,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:10:50.234686Z"
+  },
+  "organic": [
+    {
+      "title": "Sensex, Nifty 50 hit record highs; Metal, financial stocks ...",
+      "description": "Metal and financial stocks buoyed the Nifty, with JSW Steel and Hindalco among the top gainers. However, the FMCG index dragged down the market.",
+      "link": "https://www.cnbctv18.com/market/sensex-nifty-50-hit-record-highs-metal-financial-stocks-boost-nifty-19477025.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Sep 16, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty around 25400, Sensex up; power gains, FMCG drags",
+      "description": "Indian equity indices ended higher with Nifty around 25,400 on September 16 led by buying across the sectors barring FMCG. At close, the Sensex was up 97.84 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-16-09-2024-liveblog-12822290.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 16, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Technical view: Firm uptrend in store, Nifty looks set for ...",
+      "description": "Various technical indicators indicate a bullish trend for the Nifty this week, with a short-term target of 25,700 and strong support at 25,000.",
+      "link": "https://m.economictimes.com/markets/stocks/news/technical-view-firm-uptrend-in-store-nifty-looks-set-for-26000/articleshow/113378189.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Sep 16, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Nifty IT Index Forum & Chats (NSE:CNXIT)",
+      "description": "Nifty IT Index. CNXIT NSE. CNXIT ... The current level of the Nifty IT Index (CNXIT) is: 24,424.55. Please ...",
+      "link": "https://in.tradingview.com/symbols/NSE-CNXIT/minds/",
+      "display_link": "https://in.tradingview.com › ... › India › Indices › CNXIT",
+      "date": "Sep 16, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty close slightly higher; Bajaj Housing Finance ...",
+      "description": "Sensex, Nifty end marginally higher · Market shows cautious optimism ahead of key Fed meeting · Foreign inflows and expected Fed rate cuts boost market sentiment.",
+      "link": "https://www.indiatoday.in/business/story/sensex-nifty-close-slightly-higher-bajaj-housing-finance-shines-on-debut-2600658-2024-09-16",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "Sep 16, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Share Market Highlights September 16, 2024: Sensex, ...",
+      "description": "The NSE Nifty rose 27.25 points or 0.11 per cent to settle at 25,383.75. During the day, the benchmark gained 89.2 points or 0.35 per cent to hit a new intra- ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-16-september-2024/article68645226.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "Sep 16, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Sensex, Nifty scale new peaks tracking optimism in global ...",
+      "description": "Nifty 50 hit an all-time high of 25,445.70, while the Sensex scaled a milestone of 83,184.34. At 9.50 AM, the Sensex was up 256 points, or 0.3 percent, at ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/sensex-nifty-scale-new-peaks-tracking-optimism-in-global-markets-on-fed-rate-cut-hopes-12822372.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Sep 16, 2024",
+      "rank": 15
+    }
+  ]
+}

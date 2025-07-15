@@ -1,0 +1,78 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-26 after:2024-06-25 \"nifty\"",
+    "results_cnt": 393000,
+    "search_time": 0.32,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:55:50.870181Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 17 JUL 2025 PE 25450",
+      "description": "NIFTY Expires 31 Jul; ₹ 25173 -50.40 (-0.20%). NIFTY Expires 28 Aug; ₹ 25284.5 -43.00 (-0.17%). NIFTY Expires 25 Sep; ₹ 25431.4 -58.40 (-0.23%) ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25450-pe",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "25 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "Understanding Sensex, Nifty And Other Market Indices",
+      "description": "The NIFTY Bank is an index that tracks the performance of the 12 most liquid and large capitalised Indian banking stocks traded on the National Stock Exchange ( ...",
+      "link": "https://kuvera.in/blog/understanding-sensex-nifty-and-other-market-indices/",
+      "display_link": "https://kuvera.in › Kuvera › Stocks",
+      "date": "25 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 25450",
+      "description": "Nifty Option Chain; Nifty 25450 Ce. Nifty 17 JUL 2025 CE 25450. Nifty 17 JUL 2025 CE 25450. ₹ 35.75. -74.40 (-67.54%). Expiry: Jul 17 2025, Expiry: Jul 24 ...",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-25450-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "25 Jun 2024",
+      "rank": 6
+    },
+    {
+      "title": "Bank Nifty Could Continue Rising If Key Stocks Maintain ...",
+      "description": "Bank Nifty can scale closer to 52800 and there is room to hit the 53000 mark ... Bank Nifty Could Continue Rising If Key Stocks Maintain Upward Trend, Say ...",
+      "link": "https://www.ndtvprofit.com/markets/bank-nifty-could-continue-rising-if-key-stocks-maintain-upward-trend-say-analysts",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "25 Jun 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex hits 78000 for first time, Nifty at record high",
+      "description": "The S&P BSE Sensex reached the 78,000 mark for the first time, while the NSE Nifty50 hit a lifetime high of 23,710.45. ... Sensex and Nifty hit fresh record highs ...",
+      "link": "https://www.indiatoday.in/business/story/stock-market-update-sensex-hits-78000-nifty-record-high-2557741-2024-06-25",
+      "display_link": "https://www.indiatoday.in › Business",
+      "date": "25 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sell Nifty Financial Services on the rise; resistance at 23425",
+      "description": "The Nifty Financial Services Index is currently trading at 23,071.25. The index is displaying a range-bound pattern on the charts, with a defined range between ...",
+      "link": "https://www.business-standard.com/markets/news/sell-nifty-financial-services-on-the-rise-support-at-22-775-124062500063_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "25 Jun 2024",
+      "rank": 17
+    },
+    {
+      "title": "Stock Market Highlights: Short-term trend of Nifty remains ...",
+      "description": "Nifty moved above 23700 to make a new all-time high of 23754, showing resilience amid global sluggishness. Put writers were very active at 23600 and 23700, ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-25-june-2024/liveblog/111244783.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "25 Jun 2024",
+      "rank": 18
+    },
+    {
+      "title": "Sensex closes above 78000-mark for first time, Nifty settles ...",
+      "description": "The index crossed the 78000 mark for the first time. The broader Nifty 50 jumped 183.45 points, or 0.78 per cent, to end at a new peak of 23721.3.",
+      "link": "https://indianexpress.com/article/business/market/sensex-nifty-hit-new-all-time-high-levels-9413836/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "25 Jun 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-05 after:2024-02-04 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.48,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T15:33:10.775213Z"
+  },
+  "organic": [
+    {
+      "title": "Live Nifty 500 Index, Share Price, Chart & Stock List.",
+      "description": "The NIFTY 500 is an index representing the performance of the top 500 companies listed on the National Stock Exchange of India (NSE). It is a diversified index ...",
+      "link": "https://upstox.com/indices/nifty-500-share-price/",
+      "display_link": "https://upstox.com › indices › nifty-500-share-price",
+      "date": "Feb 4, 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty Store",
+      "description": "Start your holiday shopping today at our Nifty branches an... December 13, 2021 at 2:42AM · 40K Views. Nora ...",
+      "link": "https://m.facebook.com/NiftyPHStore/videos/",
+      "display_link": "https://m.facebook.com › ... › Electronics › Nifty Store",
+      "date": "Feb 4, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock action on ...",
+      "description": "India's benchmark Nifty 50 index hit an all-time high for the fifth time this year on Friday, led by gains in Reliance Industries and IT stocks, ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-action-on-monday/articleshow/107402605.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Feb 4, 2024",
+      "rank": 20
+    }
+  ]
+}

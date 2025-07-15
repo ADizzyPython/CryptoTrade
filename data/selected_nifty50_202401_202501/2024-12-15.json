@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-16 after:2024-12-15 \"nifty\"",
+    "results_cnt": 548000,
+    "search_time": 0.46,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:26:49.789742Z"
+  },
+  "organic": [
+    {
+      "title": "Trade Setup for December 16: Nifty traders remain on the ...",
+      "description": "Nifty 50's December futures shed 2.3% or 2.59 lakh shares in Open Interest on Friday. They are now trading at a premium of 62.45 points compared to 99.85 points ...",
+      "link": "https://www.cnbctv18.com/market/trade-setup-december-16-nifty-25000-key-levels-reliance-hdfc-bank-vodafone-idea-zomato-share-price-19524428.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "15 Dec 2024",
+      "rank": 20
+    }
+  ]
+}

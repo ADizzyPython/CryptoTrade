@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-06-12 after:2024-06-11 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.37,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:53:30.800597Z"
+  },
+  "organic": [
+    {
+      "title": "NSE Nifty Realty Index Today - The Economic Times",
+      "description": "What does Nifty Realty represent? Focuses on the real estate sector in India, comprising real estate development and construction companies listed on the ...",
+      "link": "https://economictimes.indiatimes.com/markets/indices/nifty-realty",
+      "display_link": "https://economictimes.indiatimes.com › Markets › Indices",
+      "date": "11 Jun 2024",
+      "rank": 1
+    },
+    {
+      "title": "Share Market, Nifty, Sensex, NSE/BSE Live Updates, Stock ...",
+      "description": "Share Market & Stock Market Live Updates - Latest share market live updates on NIFTY, Sensex Today live, NSE/BSE, big bull, stock reports, stock screeners, ...",
+      "link": "https://economictimes.indiatimes.com/markets/live-coverage",
+      "display_link": "https://economictimes.indiatimes.com › live-coverage",
+      "date": "11 Jun 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 50 52 Week High Stocks",
+      "description": "Nifty 50 52 week high stocks: discover stocks hitting yearly highs, price trends & top performers. Stay updated with Kotak Securities!",
+      "link": "https://www.kotaksecurities.com/share-market-today/52-week-high/nifty-50/",
+      "display_link": "https://www.kotaksecurities.com › stocks",
+      "date": "11 Jun 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty target 37000? This chartist shares his long term view ...",
+      "description": "The Nifty 50 index has risen 5% in the last one month and has seen a recovery of over 2000 points in the last one week after the Lok Sabha election results.",
+      "link": "https://www.cnbctv18.com/market/nifty-target-37000-laurence-balanco-clsa-chartist-long-term-view-key-levels-record-high-2030-19426683.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "11 Jun 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty Metal Index Share Price Today LIVE",
+      "description": "The Nifty Metal live stock price is 9,417.05. What Is the Nifty Metal Ticker Symbol? NIFTYMET is the ticker symbol of the Nifty Metal index. Is Nifty Metal a ...",
+      "link": "https://in.investing.com/indices/cnx-metal",
+      "display_link": "https://in.investing.com › indices › cnx-metal",
+      "date": "11 Jun 2024",
+      "rank": 12
+    },
+    {
+      "title": "Late hour sell-off in the markets! Nifty below 23,300, Sensex ...",
+      "description": "The Nifty 50 reclaimed 23,300 but later closed 5.65 points or 0.02% higher from its previous at 23,264.85. Similarly, the BSE Sensex fell 34 points or 0.04% to ...",
+      "link": "https://www.financialexpress.com/market/late-hour-sell-off-in-the-markets-nifty-below-23300-sensex-dips-34-points-nifty-midcap-100-outperforms-3521753/",
+      "display_link": "https://www.financialexpress.com › market",
+      "date": "11 Jun 2024",
+      "rank": 13
+    },
+    {
+      "title": "Sensex, Nifty settle almost flat amid volatile trade",
+      "description": "Sensex, Nifty settle almost flat amid volatile trade. In a volatile trade, the NSE Nifty ended marginally up by 5.65 points or 0.02 per cent at 23,264.85.",
+      "link": "https://www.deccanherald.com/business/sensex-nifty-settle-almost-flat-amid-volatile-trade-3061911",
+      "display_link": "https://www.deccanherald.com › Business",
+      "date": "11 Jun 2024",
+      "rank": 14
+    },
+    {
+      "title": "Sensex settles 2600 pts higher, Nifty above 23300 mark",
+      "description": "Share Market News: Nifty FMCG is trading at 572.55 points, or 1.06 per cent higher at 54,679.00. The index reported an intraday high at 55,184.85 while the ...",
+      "link": "https://indianexpress.com/article/business/market/stock-market-today-live-updates-gift-nifty-indicates-gap-up-opening-for-sensex-nifty-9368470/",
+      "display_link": "https://indianexpress.com › Business › Market",
+      "date": "11 Jun 2024",
+      "rank": 18
+    },
+    {
+      "title": "Trent, BEL likely Nifty entrants in September rejig, trump Jio ...",
+      "description": "Trent and BEL are expected to enter Nifty in the September rebalancing of NSE indices, as per JM Financial estimates, which are based average free float market ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/trent-bel-likely-nifty-entrants-in-september-rejig-trump-jio-financial-zomato-heres-how/articleshow/110904178.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "11 Jun 2024",
+      "rank": 20
+    }
+  ]
+}

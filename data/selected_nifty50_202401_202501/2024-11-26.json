@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-27 after:2024-11-26 \"nifty\"",
+    "results_cnt": 540000,
+    "search_time": 0.29,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:21:49.370618Z"
+  },
+  "organic": [
+    {
+      "title": "Q.12. What are NIFTY and SENSEX? Comment on the ...",
+      "description": "NIFTY and SENSEX are two major stock market indices in India that serve as benchmarks to track the performance of the Indian equity markets.",
+      "link": "https://spmiasacademy.com/mains_exam/q-12-what-are-nifty-and-sensex-comment-on-the-growing-popularity-of-mutual-fund-investments-in-india/",
+      "display_link": "https://spmiasacademy.com › mains_exam › q-12-what-...",
+      "date": "Nov 26, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty IT index hits fresh record high; Infosys, LTIMindtree ...",
+      "description": "The Nifty IT index hit a record high on Tuesday, rising 1.4% to 44,240, with all 10 constituents in the positive. Infosys led with a 2.4% increase, followed by ...",
+      "link": "https://m.economictimes.com/markets/stocks/news/nifty-it-index-hits-fresh-record-high-infosys-ltimindtree-tech-mahindra-lead-the-gains/articleshow/115683013.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Nov 26, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Sensex, Nifty rise as realty gains and investor sentiment lift ...",
+      "description": "The Sensex climbed 94.14 points, or 0.12%, to reach 80,203.9, while the Nifty advanced 31.20 points, or 0.13%, to 24,253.10 as of 9:53 AM. However, market ...",
+      "link": "https://ddnews.gov.in/en/indian-stock-market-opens-in-green-after-two-robust-bull-sessions/",
+      "display_link": "https://ddnews.gov.in › indian-stock-market-opens-in-g...",
+      "date": "Nov 26, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Closing Bell: Nifty below 24200, Sensex down 106 pts",
+      "description": "Indian equity indices ended marginally lower with Nifty around 24,200 in the volatile session on November 26. At close, the Sensex was down 105.79 points or ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-26-11-2024-liveblog-12875771.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Nov 26, 2024",
+      "rank": 13
+    }
+  ]
+}

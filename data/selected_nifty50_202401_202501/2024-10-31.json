@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-01 after:2024-10-31 \"nifty\"",
+    "results_cnt": 326000,
+    "search_time": 0.49,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:17:57.238818Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY31-10-2024CE24500.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "31 Oct 2024",
+      "rank": 1
+    },
+    {
+      "title": "October Sell-Off: Nifty 50 tumbles over 6% to log worst ...",
+      "description": "The Nifty 50 concluded October with a notable drop of 6.22% to 24,205, marking its largest monthly decline since March 2020. · Worst monthly performance since ...",
+      "link": "https://www.livemint.com/market/stock-market-news/october-sell-off-nifty-50-tumbles-over-6-to-log-worst-monthly-show-since-march-2020-11730364293565.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "31 Oct 2024",
+      "rank": 5
+    },
+    {
+      "title": "Technical View: Selling pressure may intensify if Nifty ...",
+      "description": "The Nifty 50 could not sustain its opening gains and extended losses as the day progressed, hitting an intraday low of 24,173 in the last hour of trade. The ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-selling-pressure-may-intensify-if-nifty-breaks-24100-bank-nifty-needs-to-hold-100-day-ema-12856266.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "31 Oct 2024",
+      "rank": 9
+    },
+    {
+      "title": "Nifty India New Age Consumption Index Share Price Today ...",
+      "description": "Nifty India New Age Consumption Index Share Price - Get Nifty India New Age Consumption Index stock price today BSE/NSE with Fundamentals, Market Cap, ...",
+      "link": "https://web.stockedge.com/share/nifty-india-new-age-consumption-index/112583",
+      "display_link": "https://web.stockedge.com › share › nifty-india-new-age-...",
+      "date": "31 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Tech View: Nifty forms red candle on daily chart ...",
+      "description": "While Nifty finished at 24,205.35, going down by 135.50 points or 0.56%, the 30-stock S&P BSE Sensex settled at 79,389.06, lower by 553.12 points or 0.69%.",
+      "link": "https://m.economictimes.com/markets/stocks/news/tech-view-nifty-forms-red-candle-on-daily-chart-suggesting-weakness-what-traders-should-do-on-friday/articleshow/114818133.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "31 Oct 2024",
+      "rank": 11
+    },
+    {
+      "title": "Buy or Sell TCS, Maruti, HUL among 7 Nifty stocks trading ...",
+      "description": "The NSE Nifty 50 index has shed 7.7 per cent or over 2,000 points from its all-time high of 26,277, registered on September 27, 2024.",
+      "link": "https://www.business-standard.com/markets/news/buy-or-sell-tcs-maruti-hul-among-7-nifty-stocks-trading-in-oversold-zone-124103100354_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "31 Oct 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty Ends Lower But Snaps Four-Week Fall: Market Wrap",
+      "description": "Nifty Ends Lower But Snaps Four-Week Fall: Market Wrap. The Nifty 50 ended down 0.56% at 24,205.35 and Sensex closed 0.69% lower at 79,389.06.",
+      "link": "https://www.ndtvprofit.com/markets/nifty-ends-lower-but-snaps-four-week-fall-market-wrap",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "31 Oct 2024",
+      "rank": 14
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "The benchmark indices of the Indian stock market, Sensex and Nifty 50, are likely to open flat to negative on Thursday.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-october-31-11730319671389.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "31 Oct 2024",
+      "rank": 15
+    },
+    {
+      "title": "Market Highlight, Oct 31: IT stocks drag Sensex, Nifty on ...",
+      "description": "Stock Market Highlights: Benchmark equity indices BSE Sensex and Nifty 50 settled in red on Thursday.",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-live-blog-oct-31-dabur-l-t-q2-result-swiggy-ipo-124103100076_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "31 Oct 2024",
+      "rank": 18
+    },
+    {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.42%",
+      "description": "At the close in NSE, the Nifty 50 fell 0.42%, while the BSE Sensex 30 index declined 0.69%. The best performers of the session on the Nifty 50 were Cipla Ltd.",
+      "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-042-3693812",
+      "display_link": "https://www.investing.com › news › stock-market-news",
+      "date": "31 Oct 2024",
+      "rank": 20
+    }
+  ]
+}

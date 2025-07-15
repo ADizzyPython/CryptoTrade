@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-17 after:2024-01-16 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.6,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:29:27.186738Z"
+  },
+  "organic": [
+    {
+      "title": "National Stock Exchange Fifty (NIFTY): Full Form, ...",
+      "description": "NIFTY can be described as a market index introduced by the National Stock Exchange (NSE) to represent the performance of the top 50 largest and most liquid ...",
+      "link": "https://www.geeksforgeeks.org/national-stock-exchange-fifty-nifty-full-form-calculation-advantages-and-disadvantages/",
+      "display_link": "https://www.geeksforgeeks.org › national-stock-exchan...",
+      "date": "16 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty Midcap Select Futures - Live Nifty/NSE Future Price ...",
+      "description": "Nifty Midcap Select Futures - Latest updates on live Nifty/NSE Futures chart, Nifty Future prices, Bank Nifty Future, Nifty Stock Futures & more on Groww.in.",
+      "link": "https://groww.in/futures/nifty-midcap-select",
+      "display_link": "https://groww.in › Futures & Options › Option Chain",
+      "date": "16 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "GIFT NIFTY Live Today (SGX Nifty) | Index Updates",
+      "description": "Gift Nifty (previously SGX Nifty) is a futures contract based on the Nifty 50 index that trades at the NSE International Exchange for 20 hours.",
+      "link": "https://zerodha.com/market/giftnifty/",
+      "display_link": "https://zerodha.com › market › giftnifty",
+      "date": "16 Jan 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Nifty below 22050, Sensex falls 199 pts",
+      "description": "At close, the Sensex was down 199.17 points or 0.27 percent at 73,128.77, and the Nifty was down 65.20 points or 0.30 percent at 22,032.30. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-16-01-2024-liveblog-12057931.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "16 Jan 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty Next 50 Index Components – NSE:NIFTYJR Stocks",
+      "description": "The Nifty Next 50 Index constituents can be found in the table below. Sort NIFTYJR stock components by various financial metrics and data.",
+      "link": "https://in.tradingview.com/symbols/NSE-NIFTYJR/components/",
+      "display_link": "https://in.tradingview.com › ... › Indices › NIFTYJR",
+      "date": "16 Jan 2024",
+      "rank": 5
+    },
+    {
+      "title": "FINNIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NSE - NIFTY 50. 25,355.25. -120.85 (-0.47%). 10-Jul-2025 15:30. Streaming ... Nifty; Strike Price: 350.00; Expire Date:27-Jun-19. Calls: Puts: About NSE. About ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=FINNIFTY&identifier=OPTIDXFINNIFTY16-01-2024CE21500.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "16 Jan 2024",
+      "rank": 7
+    },
+    {
+      "title": "Motilal Oswal Nifty 200 Momentum 30 ETF",
+      "description": "Motilal Oswal Nifty 200 Momentum 30 ETF · Company website · BSE: 543465 · NSE: MOMOMENTUM.",
+      "link": "https://www.screener.in/company/MOMOMENTUM/",
+      "display_link": "https://www.screener.in › company › MOMOMENTUM",
+      "date": "16 Jan 2024",
+      "rank": 11
+    },
+    {
+      "title": "Corporate Communications",
+      "description": "The benchmark Nifty climbed 134.75 points or 0.67 per cent to settle at an all-time high of 20,267.90 on Friday. During the day, the benchmark reached its intra ...",
+      "link": "https://www.nseindia.com/resources/nse-listed-companies-market-capitalization-surpass-usd-4-trillion",
+      "display_link": "https://www.nseindia.com › resources › nse-listed-comp...",
+      "date": "16 Jan 2024",
+      "rank": 14
+    },
+    {
+      "title": "what is SGX Nifty And How to Trade In SGX ...",
+      "description": "SGX Nifty refers to the Singapore Exchange Nifty, a derivative product that allows investors to gain exposure to the Indian equity market without physically ...",
+      "link": "https://www.stockdaddy.in/blog/what-is-sgx-nifty",
+      "display_link": "https://www.stockdaddy.in › blog › what-is-sgx-nifty",
+      "date": "16 Jan 2024",
+      "rank": 16
+    },
+    {
+      "title": "Sensex tops 73000 for first time, Nifty also closes at new high",
+      "description": "The Nifty 50 gained 0.93 per cent, or 202.9 points, to finish at 22,097.45 for the first time. “The market gained momentum, led by the uptick in the IT index ...",
+      "link": "https://indianexpress.com/article/business/economy/sensex-tops-73000-for-first-time-nifty-also-closes-at-new-high-9110912/",
+      "display_link": "https://indianexpress.com › Business › Economy",
+      "date": "16 Jan 2024",
+      "rank": 19
+    }
+  ]
+}

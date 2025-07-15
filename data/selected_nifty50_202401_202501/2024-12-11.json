@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-12 after:2024-12-11 \"nifty\"",
+    "results_cnt": 555000,
+    "search_time": 0.35,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T16:26:03.785633Z"
+  },
+  "organic": [
+    {
+      "title": "How to Invest in the Nifty 50 Index: A Beginner's Guide",
+      "description": "The Nifty 50 is a benchmark index of the National Stock Exchange of India (NSE) that represents the top 50 companies listed on the exchange. These companies ...",
+      "link": "https://www.finextra.com/blogposting/27425/how-to-invest-in-the-nifty-50-index-a-beginners-guide",
+      "display_link": "https://www.finextra.com › Community › Saumil Patel",
+      "date": "Dec 11, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty 50 projected to reach 26100 by 2025-end, says Kotak ...",
+      "description": "Stock market outlook: In its base case, Nifty 50 is projected to reach 26,100 by December 2025, while in the bull case scenario, Nifty 50 target is 28,800 and ...",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-projected-to-reach-26-100-by-2025-end-says-kotak-securities-prefers-banks-it-realty-pharma-healthcare-11733904204791.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Dec 11, 2024",
+      "rank": 8
+    },
+    {
+      "title": "Stock Market Highlights: Sensex, Nifty 50 ends little ...",
+      "description": "Sensex Today | Stock Market Highlights: The Sensex added 16 points to close at 81526, while the Nifty rose 32 points to settle at 24642.",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-today-swiggy-awfis-space-iob-hg-infra-share-price-liveblog-19522429.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Dec 11, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Mirae Asset Nifty India New Age Consumption ETF Fund of ...",
+      "description": "Nifty India New Age Consumption Index is designed to represent industries/sector that can be potentially aligned with rise in trend of spending more on ...",
+      "link": "https://www.miraeassetmf.co.in/mutual-fund-scheme/fund-of-funds/mirae-asset-nifty-india-new-age-consumption-etf-fund-of-fund",
+      "display_link": "https://www.miraeassetmf.co.in › fund-of-funds › mirae-...",
+      "date": "Dec 11, 2024",
+      "rank": 14
+    },
+    {
+      "title": "HDFC Nifty India Digital Index Fund - Regular (G)",
+      "description": "Get HDFC Nifty India Digital Index Fund - Regular (G) share prices, along with historic price charts for NSE/BSE. Find detailed report in terms of 52 week ...",
+      "link": "https://www.hdfcsec.com/stock-market/mutual-fund-scheme/hdfc-nifty-india-digital-index-fund--regular-g-45286",
+      "display_link": "https://www.hdfcsec.com › mutual-fund-scheme › hdfc-...",
+      "date": "Dec 11, 2024",
+      "rank": 18
+    }
+  ]
+}

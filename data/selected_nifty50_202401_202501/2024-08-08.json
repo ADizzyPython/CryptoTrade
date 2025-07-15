@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-09 after:2024-08-08 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.3,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:03:58.505624Z"
+  },
+  "organic": [
+    {
+      "title": "Canara Bank to replace Bandhan Bank in Bank Nifty ...",
+      "description": "Brokerage firm Nuvama Institutional Equities suggests that Canara Bank is expected to be added to the Bank Nifty index during the September reshuffle.",
+      "link": "https://www.livemint.com/market/stock-market-news/canara-bank-to-replace-bandhan-bank-in-bank-nifty-during-september-reshuffling-nuvama-institutional-11723119202594.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "8 Aug 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty 50's minor dip outshines global market carnage",
+      "description": "As global indices inch closer to the bear market territory, the benchmark Nifty 50 index is turning out to be a relative outperformer.",
+      "link": "https://www.moneycontrol.com/news/business/markets/nifty-50s-minor-dip-outshines-global-market-carnage-12790859.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "8 Aug 2024",
+      "rank": 4
+    },
+    {
+      "title": "Technical View: Rangebound trade may continue until Nifty ...",
+      "description": "After opening lower at 24,249, the Nifty 50 hit an intraday high of 24,341 in the afternoon and a low of 24,080 in late trade. The index finished the session at ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-rangebound-trade-may-continue-until-nifty-50-decisively-breaks-24400-on-higher-side-12791349.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "8 Aug 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty, Sensex Trade Little Changed As RBI Keeps Policy ...",
+      "description": "At 12:41 p.m., the NSE Nifty 50 was trading 1.70 points, or 0.01%, lower at 24,295.80, and the BSE Sensex was trading 6.60 points, or 0.01%, higher at 79,474.61 ...",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-update-nifty-and-sensex-trade-flat-after-rbi-decision-to-maintain-status-quomidday-market-update",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "8 Aug 2024",
+      "rank": 14
+    },
+    {
+      "title": "Stock market today: Nifty 50, Sensex resume their slide",
+      "description": "Stock market today: The Nifty 50 closed with a loss of 181 points, or 0.74 per cent, at 24117, while the Sensex settled at 78886.22, down 582 points, ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-sensex-resume-their-slide-why-cant-the-indian-stock-market-hold-gains-11723111214082.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "8 Aug 2024",
+      "rank": 17
+    }
+  ]
+}

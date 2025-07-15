@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-05 after:2024-01-04 \"nifty\"",
+    "results_cnt": 228000,
+    "search_time": 0.55,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:27:40.075329Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY04-01-2024CE21800.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "4 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Live NIFTY/NSE Option Chain Price Chart",
+      "description": "The Nifty Option Chain provides a listing of all the available options contracts for the Nifty 50 Index; including the strike prices, expiry dates, and the ...",
+      "link": "https://www.icicidirect.com/futures-and-options/nifty-option-chain/04-jan-2024",
+      "display_link": "https://www.icicidirect.com › ... › Nifty Option Chain",
+      "date": "4 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "What is NIFTY: Your Key to the Indian Stock Market",
+      "description": "NIFTY or NIFTY50, which stands for National Stock Exchange Fifty, is a stock market index comprising 50 actively traded companies listed on the National Stock ...",
+      "link": "https://www.equentis.com/blog/understanding-nifty-your-key-to-the-indian-stock-market/",
+      "display_link": "https://www.equentis.com › blog › understanding-nifty-...",
+      "date": "4 Jan 2024",
+      "rank": 3
+    },
+    {
+      "title": "Closing Bell: Sensex gains 491 pts, Nifty above ...",
+      "description": "At close, the Sensex was up 490.97 points or 0.69 percent at 71,847.57, and the Nifty was up 141.30 points or 0.66 percent at 21,658.60. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-04-01-2024-liveblog-11995631.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "4 Jan 2024",
+      "rank": 8
+    },
+    {
+      "title": "Market Closing: Sensex ends up 490 pts, Nifty above 21650",
+      "description": "Sensex Today Live: Sensex ends up 490 pts, Nifty above 21650; broader markets join rally. India's benchmark indexes ended higher on Thursday after easing from ...",
+      "link": "https://www.livemint.com/market/live-blog/sensex-today-share-market-live-updates-nifty-50-tata-tech-share-price-adani-yes-bank-reliance-4-jan-2024-gift-nifty-11704333323329.html",
+      "display_link": "https://www.livemint.com › Markets › Live Blog",
+      "date": "4 Jan 2024",
+      "rank": 11
+    },
+    {
+      "title": "Share Market HIGHLIGHTS: Sensex ends 491 pts higher ...",
+      "description": "Domestic equity benchmarks Nifty 50 and Sensex began Thursday's session in the green amid gains across sectors, after two back-to-back sessions of losses.",
+      "link": "https://www.zeebiz.com/markets/stocks/live-updates-share-market-today-news-live-nse-bank-nifty-bse-indian-index-nifty-50-sensex-rupee-dollar-gift-nifty-futures-270869",
+      "display_link": "https://www.zeebiz.com › Stocks",
+      "date": "4 Jan 2024",
+      "rank": 13
+    },
+    {
+      "title": "Nifty 50, Sensex on January 4: What to expect in trade today",
+      "description": "The Indian stock market indices, Sensex and Nifty 50, are likely to open on a cautious note on Thursday following weak cues from global markets.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-january-4-11704334170078.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "4 Jan 2024",
+      "rank": 14
+    }
+  ]
+}

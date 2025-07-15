@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-11-17 after:2024-11-16 \"nifty\"",
+    "results_cnt": 15,
+    "search_time": 0.33,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:20:26.323008Z"
+  },
+  "organic": [
+    {
+      "title": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+      "description": "Motilal Oswal Nifty 500 Momentum 50 ETF. Notebook AI. MO Nifty 50 ETF Summary Chart Analysis Peers Quarters Profit & Loss Balance Sheet Cash Flow Ratios ...",
+      "link": "https://www.screener.in/company/momentum50/",
+      "display_link": "https://www.screener.in › company › momentum50",
+      "date": "Nov 16, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty In Technical Charts: Oversold But No Evidence ...",
+      "description": "Nifty remains oversold with no confirmed reversal, as technical indicators like Ichimoku signals and DI crossovers suggest prolonged bearish trends.",
+      "link": "https://www.ndtvprofit.com/opinion/nifty-technical-charts-oversold-no-reversal-confirmation",
+      "display_link": "https://www.ndtvprofit.com › Opinion",
+      "date": "Nov 16, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Index Outlook: Sensex, Nifty 50 Can Bounce Before Falling ...",
+      "description": "The Indian benchmark indices continue to get beaten down. Sensex, Nifty 50 and the Nifty Bank index were all down over 2 per cent each.",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/index-outlook-sensex-nifty-50-can-bounce-before-falling-more/article68875203.ece",
+      "display_link": "https://www.thehindubusinessline.com › article68875203",
+      "date": "Nov 16, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Public sector banks News - The Financial Express",
+      "description": "Nifty 50 · BSE Sensex Performance · Stock Market Quotes · Top NSE/BSE Companies Share Price · TOP NSE/BSE COMPANIES SHARE PRICE · Tata Motors share price · Tata ...",
+      "link": "https://www.financialexpress.com/about/public-sector-banks/",
+      "display_link": "https://www.financialexpress.com › About",
+      "date": "Nov 16, 2024",
+      "rank": 15
+    }
+  ]
+}

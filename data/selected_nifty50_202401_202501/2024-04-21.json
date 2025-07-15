@@ -1,0 +1,22 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-04-22 after:2024-04-21 \"nifty\"",
+    "results_cnt": 1530000,
+    "search_time": 0.33,
+    "language": "en",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:45:48.358241Z"
+  },
+  "organic": [
+    {
+      "title": "Which way will Nifty swing this week? These top 8 factors ...",
+      "description": "With the Iran-Israel conflict dominating headlines, Nifty broke a four-week-long winning streak to end the holiday-shortened week 1.65% lower.",
+      "link": "https://m.economictimes.com/markets/stocks/news/which-way-will-nifty-swing-this-week-these-top-8-factors-may-help-you-predict/articleshow/109470644.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks › News",
+      "date": "Apr 21, 2024",
+      "rank": 14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-07 after:2024-01-06 \"nifty\"",
+    "results_cnt": 16,
+    "search_time": 0.28,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:27:56.345823Z"
+  },
+  "organic": [
+    {
+      "title": "Best Indian Index Funds 2025: Nifty 50 & Top Picks",
+      "description": "Find the best Indian index funds for 2025, including Nifty 50 and top performing funds. Learn how to invest in the best index funds for a diversified ...",
+      "link": "https://www.icicibank.com/blogs/mutual-fund/nifty-50-mutual-fund",
+      "display_link": "https://www.icicibank.com › Orange Hub › Mutual Fund",
+      "date": "Jan 6, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Abington, PA",
+      "description": "This franchise- owned Nifty Fifty's is bringing the 1950's atmosphere to Old York Road. Bring your family and friends to enjoy our award-winning milkshakes.",
+      "link": "https://www.niftyfiftys.com/abington-pa/",
+      "display_link": "https://www.niftyfiftys.com › abington-pa",
+      "date": "Jan 6, 2024",
+      "rank": 2
+    }
+  ]
+}

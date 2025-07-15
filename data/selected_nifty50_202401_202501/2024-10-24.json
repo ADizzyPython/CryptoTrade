@@ -1,0 +1,86 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-25 after:2024-10-24 \"nifty\"",
+    "results_cnt": 335000,
+    "search_time": 0.3,
+    "language": "en-JP",
+    "country": "Japan",
+    "location": "India",
+    "timestamp": "2025-07-15T16:16:50.934893Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Future Derivatives & Quotes Options, F&O Analysis",
+      "description": "NIFTY Future Derivatives: Get the latest updates on NIFTY Derivatives, Future Quotes Options, F&O Analysis, Strategy, charts, Historical Reports and Stock ...",
+      "link": "https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY24-10-2024CE24200.00",
+      "display_link": "https://www.nseindia.com › get-quotes › derivatives › i...",
+      "date": "Oct 24, 2024",
+      "rank": 2
+    },
+    {
+      "title": "よくあるご質問「メール設定画面で「お客様からはアクセス ...",
+      "description": "メールサービス一覧. オプションサービス. IMAP 機能 · メール転送機能 · メアドプラス · メールウイルスチェック · 迷惑メールフィルター · 受信拒否 · @nifty ID 宛 ...",
+      "link": "https://mail.nifty.com/cs/mail-faq/detail/ls2if9y8v/",
+      "display_link": "https://mail.nifty.com › detail",
+      "date": "Oct 24, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Market crash? Nifty can fall another 1000 points from here, ...",
+      "description": "The Nifty 50 can fall another 1,000 points from the current levels in the short-to-medium term to 23,300 levels, technical charts suggest, as the fall from ...",
+      "link": "https://www.business-standard.com/markets/news/market-crash-nifty-can-fall-another-1-000-points-from-here-charts-suggest-124102400310_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Oct 24, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty 50 Crosses 25000 Mark- Reasons and Most Impacted ...",
+      "description": "Nifty 50 is a stock market index that represents the weighted average of 50 of the largest and most actively traded companies listed on the National Stock ...",
+      "link": "https://www.icicidirect.com/ilearn/stocks/articles/nifty-crosses-25000-mark",
+      "display_link": "https://www.icicidirect.com › iLearn › stocks Articles",
+      "date": "Oct 24, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Tata Nifty Capital Markets Index Fund Direct - Growth",
+      "description": "The portfolio of Tata Nifty Capital Markets Index Fund includes: BSE: 19.85%; HDFC AMC: 15.21%; MCX: 13.17%; CDSL: 9.22%; 360 One WAM: 7.65%. Top 3 sectoral ...",
+      "link": "https://dhan.co/mutual-funds/tata-nifty-capital-markets-index-fund-direct-growth/",
+      "display_link": "https://dhan.co › mutual-funds › tata-nifty-capital-market...",
+      "date": "Oct 24, 2024",
+      "rank": 10
+    },
+    {
+      "title": "Is NIFTY 50 heading towards 22000? Reasons for the ...",
+      "description": "The Nifty 50 has seen a significant drop over the past three weeks, falling from its peak of 26,277 to around 24,400. This decline has stirred concern among ...",
+      "link": "https://tradebrains.in/is-nifty-50-heading-towards-22000-reasons-for-the-crash-explained/",
+      "display_link": "https://tradebrains.in › Blog",
+      "date": "Oct 24, 2024",
+      "rank": 12
+    },
+    {
+      "title": "Trade Setup For Oct. 24: Nifty 50 Resistance Levels ...",
+      "description": "The Nifty 50 index's resistance level is seen at 24,600–24,700, while support is seen at 24,378, according to analysts. The Nifty 50 ended the day on a negative ...",
+      "link": "https://www.ndtvprofit.com/markets/nifty-50-resistance-support-levels-oct-24-trade-setup",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "Oct 24, 2024",
+      "rank": 14
+    },
+    {
+      "title": "Technical View: Bulls may return and drive Nifty towards ...",
+      "description": "Technical View: Bulls may return and drive Nifty towards 24,500-24,600, but negative trend raises doubts over sustainability. In case of bounce, the Nifty 50 ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/technical-view-bulls-may-return-and-drive-nifty-towards-24500-24600-but-negative-trend-raises-doubts-over-sustainability-12850199.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "Oct 24, 2024",
+      "rank": 17
+    },
+    {
+      "title": "Nifty 50, Sensex close little changed as FMCG, auto stocks ...",
+      "description": "The Nifty declined 36 points to finish at 24,399. The Sensex slipped 17 points to close at 80,065. · FMCG stocks generally declined due to urban demand slowdowns ...",
+      "link": "https://www.cnbctv18.com/market/nifty-50-sensex-close-little-changed-as-fmcg-auto-stocks-offset-financial-gains-19497976.htm",
+      "display_link": "https://www.cnbctv18.com › market",
+      "date": "Oct 24, 2024",
+      "rank": 19
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-05-12 after:2024-05-11 \"nifty\"",
+    "results_cnt": 9,
+    "search_time": 0.28,
+    "language": "en-PH",
+    "country": "Philippines",
+    "location": "India",
+    "timestamp": "2025-07-15T15:48:47.422989Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty India Defence Share Price Today NSE/BSE",
+      "description": "Nifty India Defence Share Price - Get Nifty India Defence stock price today BSE/NSE with Fundamentals, Market Cap, Share holding and Charts.",
+      "link": "https://web.stockedge.com/share/nifty-india-defence/104049",
+      "display_link": "https://web.stockedge.com › share › nifty-india-defence",
+      "date": "May 11, 2024",
+      "rank": 2
+    },
+    {
+      "title": "FINNIFTY Futures: Live Nifty Financial Services Futures ...",
+      "description": "All Index Futures ; Nifty 50 Futures, 25106, -117.4 ; Nifty Bank Futures, 56804.8, -112.8 ; Nifty Financial Services Futures, 26827.9, -118.8 ; Nifty Midcap Select ...",
+      "link": "https://www.icicidirect.com/futures-and-options/finnifty-futures",
+      "display_link": "https://www.icicidirect.com › Futures & Options",
+      "date": "May 11, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty 2 bedroom flat in Goswell Rd",
+      "description": "Nifty 2 bedroom flat in Goswell Rd offers accommodations in London, a 16-minute walk from Liverpool Street Tube Station and 1.2 miles from Sky Garden.",
+      "link": "https://www.booking.com/hotel/gb/nifty-2-bedroom-flat-in-goswell-rd.html",
+      "display_link": "https://www.booking.com › ... › Apartments in London",
+      "date": "May 11, 2024",
+      "rank": 5
+    }
+  ]
+}

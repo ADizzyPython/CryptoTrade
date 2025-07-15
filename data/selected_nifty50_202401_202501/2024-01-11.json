@@ -1,0 +1,94 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-12 after:2024-01-11 \"nifty\"",
+    "results_cnt": 204000,
+    "search_time": 0.51,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T15:28:39.629924Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty 100 Momentum",
+      "description": "Nifty 100 Momentum ; 1. HDFC Bank, 1983.00 ; 2. Bharti Airtel, 1920.90 ; 3. ICICI Bank, 1423.00 ; 4. Bajaj Finance, 918.85 ...",
+      "link": "https://www.screener.in/screens/1072931/nifty-100-momentum/",
+      "display_link": "https://www.screener.in › screens › nifty-100-momentum",
+      "date": "11 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY/1000 Share Price Today, Stock ...",
+      "description": "NIFTY/1000 Share Price Today, Live NSE Stock Price: Get the latest NIFTY/1000 news, company updates, quotes, offers, annual financial reports, graph, ...",
+      "link": "https://www.nseindia.com/get-quotes/equity?symbol=NIFTY/1000",
+      "display_link": "https://www.nseindia.com › get-quotes › equity › symb...",
+      "date": "11 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "NSE Participant wise Open Interest: Buy/Sell Activity in F&O",
+      "description": "Daily FII Buy/Sell in Index Options. Jul 11, Fri. NET BEARISH. FII Call Change. -36,446. BEARISH. FII Put Change. 18,201. BEARISH. Nifty. 25149.85(-0.81%). -40K ...",
+      "link": "https://web.sensibull.com/fii-dii-data/fno",
+      "display_link": "https://web.sensibull.com › fii-dii-data › fno",
+      "date": "11 Jan 2024",
+      "rank": 6
+    },
+    {
+      "title": "DSP Nifty Healthcare ETF",
+      "description": "The Scheme seeks to provide returns that, before expenses, correspond to the total return of the underlying index (Nifty Healthcare. TRI), subject to tracking ...",
+      "link": "https://www.dspim.com/downloads/dsp-nifty-healthcare-etf-nfo-deck2.pdf",
+      "display_link": "https://www.dspim.com › downloads › dsp-nifty-h...",
+      "date": "11 Jan 2024",
+      "rank": 11
+    },
+    {
+      "title": "Scanners on Zerodha Streak",
+      "description": "This scanner will filter the Top Gainers from Nifty 500 stocks in 1-day timeframe. ... The scanner helps identify Nifty 50 top gainers. default-scanner-img.",
+      "link": "https://www.streak.tech/scanners",
+      "display_link": "https://www.streak.tech › scanners",
+      "date": "11 Jan 2024",
+      "rank": 12
+    },
+    {
+      "title": "Nifty50 now second most expensive index after Nasdaq",
+      "description": "The Nifty 50's valuation premium has exceeded 40% on only 1.4% of trading days since January 2005. Notably, it is now the second-most expensive index globally, ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/nifty50-now-second-most-expensive-index-after-nasdaq-heres-why-valuations-are-a-worry/articleshow/106720526.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "11 Jan 2024",
+      "rank": 13
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end marginally higher amid ...",
+      "description": "At close, the Sensex was up 63.47 points or 0.09 percent at 71,721.18, and the Nifty was up 28.50 points or 0.13 percent at 21,647.20. We wrap up today's ...",
+      "link": "https://www.moneycontrol.com/news/business/markets/stock-market-live-sensex-nifty-50-share-price-gift-nifty-latest-updates-11-01-2024-liveblog-12031821.html",
+      "display_link": "https://www.moneycontrol.com › ... › MARKETS",
+      "date": "11 Jan 2024",
+      "rank": 14
+    },
+    {
+      "title": "RIL, Axis Bank help Sensex, Nifty settle in green",
+      "description": "Among sectors, the Nifty Auto index added 1 per cent, and the Nifty PSU Bank index 0.64 per cent. On the contrary, the Nifty FMCG, and IT indices fell 0.2 per ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-today-jan-11-nse-bse-sensex-nifty-fed-inflation-infosys-tcs-q3-results-124011100048_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "11 Jan 2024",
+      "rank": 16
+    },
+    {
+      "title": "PRESS RELEASE",
+      "description": "Nifty equity indices comprise of broad-based benchmark indices, sectoral indices, strategy indices, thematic indices and customised indices. NSE Indices Limited ...",
+      "link": "https://www.niftyindices.com/Press_Release/ind_prs11012024.pdf",
+      "display_link": "https://www.niftyindices.com › ind_prs11012024",
+      "date": "11 Jan 2024",
+      "rank": 17
+    },
+    {
+      "title": "MACD Histogram Cross Above 0 on Nifty weekly options",
+      "description": "This scanner filters out Nifty weekly options whose MACD Histogram has crossed above 0 in 5min timeframe.",
+      "link": "https://www.streak.tech/scanner/macd-histogram-cross-above-0-on-nifty-weekly-options",
+      "display_link": "https://www.streak.tech › scanner › macd-histogram-cro...",
+      "date": "11 Jan 2024",
+      "rank": 19
+    }
+  ]
+}

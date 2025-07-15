@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-08-01 after:2024-07-31 \"nifty\"",
+    "results_cnt": 320000,
+    "search_time": 0.31,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:01:52.200030Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY Bank Option Chain",
+      "description": "NIFTY Bank Option Chain - Latest updates on Live Nifty/NSE 50 Option Chain, Nifty Stock Options prices, Bank Nifty Option Chain, Charts & more on Groww.in.",
+      "link": "https://groww.in/options/nifty-bank",
+      "display_link": "https://groww.in › F&O",
+      "date": "Jul 31, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Nifty50 - Capturing the pulse of the nation",
+      "description": "The Nifty 50 includes fifty of the largest and most actively traded stocks across various sectors listed on the NSE. It serves as a barometer of the Indian ...",
+      "link": "https://www.niftyindices.com/docs/default-source/indices/nifty-50/nifty-50-whitepaper-2024.pdf?sfvrsn=1cd6e35_4",
+      "display_link": "https://www.niftyindices.com › indices › nifty-50",
+      "date": "Jul 31, 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty: Manage Projects & Tasks 4+ - App Store",
+      "description": "Nifty is your ultimate workflow management OS to run projects, teams, tasks, and communications in one place. One app with chats, tasks, timelines, docs, ...",
+      "link": "https://apps.apple.com/us/app/nifty-manage-projects-tasks/id1366408429",
+      "display_link": "https://apps.apple.com › app › nifty-manage-projects-tasks",
+      "date": "Jul 31, 2024",
+      "rank": 4
+    },
+    {
+      "title": "Nifty 17 JUL 2025 CE 26700",
+      "description": "Get the live update of Nifty 17 JUL 2025 CE 26700 Call Option with open interest, analysis, premium, volume, lot size, OI change, strike price on 5paisa.",
+      "link": "https://www.5paisa.com/derivatives/nifty-option-chain/nifty-26700-ce",
+      "display_link": "https://www.5paisa.com › Derivatives › Nifty option chain",
+      "date": "Jul 31, 2024",
+      "rank": 5
+    },
+    {
+      "title": "Nifty IPO Index Share Price Today NSE/BSE",
+      "description": "Nifty IPO Index Share Price - Get Nifty IPO Index stock price today BSE/NSE with Fundamentals, Market Cap, Share holding and Charts.",
+      "link": "https://web.stockedge.com/share/nifty-ipo-index/112250",
+      "display_link": "https://web.stockedge.com › share › nifty-ipo-index",
+      "date": "Jul 31, 2024",
+      "rank": 6
+    },
+    {
+      "title": "Nifty 100 shocker",
+      "description": "The Nifty 100 is made up of the first 50 stocks in the Nifty 50 and the next 50 stocks in the Nifty Next 50, the way these stocks are weighted is quite ...",
+      "link": "https://weekendinvesting.com/nifty-100-shocker/",
+      "display_link": "https://weekendinvesting.com › nifty-100-shocker",
+      "date": "Jul 31, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock market today: Sensex rises 285 points to settle at ...",
+      "description": "Sensex settled at an all-time high of 24,951 after climbing 285 points and Nifty settled at 24,951, up by 93 points. 20 stocks out of 30 in Sensex were gainers ...",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-sensex-rise-over-100-points-to-81580-nifty-at-24900/articleshow/112154074.cms",
+      "display_link": "https://timesofindia.indiatimes.com › articleshow",
+      "date": "Jul 31, 2024",
+      "rank": 17
+    }
+  ]
+}

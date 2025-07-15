@@ -1,0 +1,54 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-18 after:2024-10-17 \"nifty\"",
+    "results_cnt": 336000,
+    "search_time": 0.32,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:15:26.061645Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY 100 Stocks List 2025",
+      "description": "Nifty 100 is a stock market index that tracks the performance of the top 100 companies with the highest market capitalisation in India.",
+      "link": "https://www.bajajfinserv.in/nifty-100",
+      "display_link": "https://www.bajajfinserv.in › Investments",
+      "date": "Oct 17, 2024",
+      "rank": 1
+    },
+    {
+      "title": "Stock market today: Nifty 50 breakdown 50-DEMA support. ...",
+      "description": "They advised bulls to wait as the Nifty 50 index may go down to 24,350 to 24,300 mark if it breaks down below 24,700 support on a closing basis. Investment ...",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-breakdown-50-dema-support-opportunity-for-bottom-fishing-11729152176915.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Oct 17, 2024",
+      "rank": 7
+    },
+    {
+      "title": "Stock Market Today | Sensex tanks 562 pts, Nifty below ...",
+      "description": "Sensex tanks 495 pts, Nifty at 24,750; Why India stock markets fell today? Stock market highlights, market news: The BSE Sensex fell below the 81,000-mark ...",
+      "link": "https://www.business-standard.com/markets/news/sensex-tanks-562-pts-nifty-slips-291-pts-what-s-worrying-d-street-124101700699_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "Oct 17, 2024",
+      "rank": 9
+    },
+    {
+      "title": "Market Outlook for 17 October 2024 - Nifty Prediction for",
+      "description": "Nifty and Bank Nifty consolidate with key resistance levels at 25250 and 52050. Support zones at 24880 and 50900. Watch for breakouts on October 17, 2024.",
+      "link": "https://www.5paisa.com/blog/market-outlook-for-17-october-2024",
+      "display_link": "https://www.5paisa.com › Blog",
+      "date": "Oct 17, 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock ...",
+      "description": "Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open on a tepid note on Thursday amid mixed global market cues.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-october-17-11729129682722.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "Oct 17, 2024",
+      "rank": 16
+    }
+  ]
+}

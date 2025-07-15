@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-12-31 after:2024-12-30 \"nifty\"",
+    "results_cnt": 555000,
+    "search_time": 0.51,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:29:09.048680Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty to repeat historical trends, possibility of low volumes and ...",
+      "description": "Nifty's rollover for December was 77.66%, surpassing the 3-month average of 76.62%. Bank Nifty's rollover was 67.81%, down from 76.82% in November. In December, ...",
+      "link": "https://www.financialexpress.com/market/cafeinvest-nifty-to-repeat-historical-trends-possibility-of-low-volumes-and-lacklustre-moves-says-geojit-financial-3703795/",
+      "display_link": "https://www.financialexpress.com › market › cafeinvest",
+      "date": "30 Dec 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty short-term trend negative. How to trade on Tuesday",
+      "description": "... Nifty is down and the market is expected to slide down to 23500-23400 levels in the short term. Immediate resistance is at 23800 levels, he added.In the ...",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-30-december-2024/liveblog/116781712.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "30 Dec 2024",
+      "rank": 15
+    },
+    {
+      "title": "Nifty Bees: Meaning, Features, Advantages & How to Invest",
+      "description": "Nifty BeES, India's first Benchmark Exchange Traded Scheme, offers investors a cost-effective and diversified way to gain exposure to the Nifty 50 index.",
+      "link": "https://www.bajajbroking.in/blog/what-is-nifty-bees-mf",
+      "display_link": "https://www.bajajbroking.in › ... › Mutual Funds",
+      "date": "30 Dec 2024",
+      "rank": 16
+    }
+  ]
+}

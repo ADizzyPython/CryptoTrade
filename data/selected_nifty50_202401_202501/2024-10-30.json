@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-10-31 after:2024-10-30 \"nifty\"",
+    "results_cnt": 333000,
+    "search_time": 0.36,
+    "language": "en-IN",
+    "country": "India",
+    "location": "India",
+    "timestamp": "2025-07-15T16:17:48.507687Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty India New Age Consumption",
+      "description": "Nifty India New Age Consumption Index aims to track the performance of stocks from the Nifty 500 Index which represent the new age consumption theme.",
+      "link": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-new-age-consumption",
+      "display_link": "https://niftyindices.com › equity › thematic-indices › ni...",
+      "date": "30 Oct 2024",
+      "rank": 2
+    },
+    {
+      "title": "Nifty October futures trade at premium - Oct 30, 2024",
+      "description": "The Nifty October 2024 futures closed at 24366.90, a premium of 26.05 points compared with the Nifty`s closing 24340.85 in the cash market.",
+      "link": "https://www.icicidirect.com/futures-and-options/news/nifty-october-futures-trade-at-premium/1555052",
+      "display_link": "https://www.icicidirect.com › Futures and Options › News",
+      "date": "30 Oct 2024",
+      "rank": 3
+    },
+    {
+      "title": "Stock Market Highlights: Nifty forms small red candle, faces ...",
+      "description": "On Wednesday, Nifty formed a small red candle near the 100-Day Exponential Moving Average (DEMA), indicating strong resistance around 24,470-24,500.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-30-october-2024/liveblog/114754337.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "30 Oct 2024",
+      "rank": 5
+    },
+    {
+      "title": "Trade Setup For Oct 31: Nifty 50 Faces Key Support At ...",
+      "description": "Nifty 50 is oscillating in a broad range, trading between the resistance of 24,480 and the support of 24,200, analysts said. Mohammed Uzair Shaikh.",
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-31-nifty-50-faces-key-support-at-24250-24200",
+      "display_link": "https://www.ndtvprofit.com › Markets",
+      "date": "30 Oct 2024",
+      "rank": 9
+    },
+    {
+      "title": "NIFTY 50 Portfolios | collection of 11 smallcases.",
+      "description": "NIFTY 50 Portfolios ... smallcases that have Nifty 50 ETF as one of its underlying constituents. Unlock all metrics. Login to see the live performance and returns.",
+      "link": "https://www.smallcase.com/collection/nifty-50-portfolios-6607b7b103d65d348d4a663b",
+      "display_link": "https://www.smallcase.com › collection › nifty-50-portf...",
+      "date": "30 Oct 2024",
+      "rank": 10
+    },
+    {
+      "title": "Nifty, Sensex show early decline; volatility to continue till ...",
+      "description": "On Wednesday, Nifty and Sensex opened with a marginal dip. The Nifty 50 index opened at 24,371.45 points, declining by 95.40 points or 0.39 per cent. Meanwhile, ...",
+      "link": "https://www.chinimandi.com/nifty-sensex-show-early-decline-volatility-to-continue-till-results-of-us-elections/",
+      "display_link": "https://www.chinimandi.com › All News",
+      "date": "30 Oct 2024",
+      "rank": 19
+    },
+    {
+      "title": "Market Close Highlights, Oct 30: Sensex sheds 427pts ...",
+      "description": "Market Close Highlights, Oct 30: Sensex sheds 427pts, Nifty ends at 24,340; Smallcap stocks outshine · 3:33 AM. Stock Market Highlights LIVE Updates: On the ...",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-today-sensex-nifty-nse-bse-adani-q2-godavari-bio-ipo-124103000079_1.html",
+      "display_link": "https://www.business-standard.com › Markets › News",
+      "date": "30 Oct 2024",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-09-22 after:2024-09-21 \"nifty\"",
+    "results_cnt": 14,
+    "search_time": 0.29,
+    "language": "en-VN",
+    "country": "Vietnam",
+    "location": "India",
+    "timestamp": "2025-07-15T16:11:34.321664Z"
+  },
+  "organic": [
+    {
+      "title": "Nifty Prediction Next Week: Bears left high and dry! What to ...",
+      "description": "The NSE Nifty surged 375.15 points or 1.48 per cent to close at a record 25,790.95 level on Friday. During the day, the gauge zoomed 433.45 points or 1.70 per ...",
+      "link": "https://www.etnownews.com/markets/nifty-prediction-next-week-bears-left-high-and-dry-what-to-expect-from-bulls-after-gravity-defying-rally-article-113539222",
+      "display_link": "https://www.etnownews.com › markets",
+      "date": "Sep 21, 2024",
+      "rank": 6
+    },
+    {
+      "title": "India's busiest month for IPOs in 14 years will be ...",
+      "description": "The NSE Nifty closed at 25,790.95, a gain of 1.48% or 375.15 points. Meanwhile, the BSE SME IPO index also closed in the green at 99,627.27, a gain of 1.49 ...",
+      "link": "https://www.hindustantimes.com/business/indias-busiest-month-for-ipos-in-14-years-will-be-september-2024-rbi-says-sme-ipos-drive-the-frenzy-101726908820133.html",
+      "display_link": "https://www.hindustantimes.com › Business",
+      "date": "Sep 21, 2024",
+      "rank": 11
+    },
+    {
+      "title": "20 Sep, 2024 top news",
+      "description": "tech view nifty breaks 25500 resistance forms long bull ... gift nifty signals a positive start for d street heres the trading setup for todays session ...",
+      "link": "https://m.economictimes.com/archivelist/year-2024,month-9,starttime-45555.cms",
+      "display_link": "https://m.economictimes.com › archivelist › year-2024,...",
+      "date": "Sep 21, 2024",
+      "rank": 12
+    }
+  ]
+}

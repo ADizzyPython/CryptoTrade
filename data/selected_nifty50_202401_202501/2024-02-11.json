@@ -1,0 +1,46 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-02-12 after:2024-02-11 \"nifty\"",
+    "results_cnt": 284000,
+    "search_time": 0.49,
+    "language": "en-NZ",
+    "country": "New Zealand",
+    "location": "India",
+    "timestamp": "2025-07-15T15:34:14.016425Z"
+  },
+  "organic": [
+    {
+      "title": "NIFTY INDIA DEFENCE Index Weightage & List of Stocks",
+      "description": "What is the current share price of NIFTY INDIA DEFENCE Index? The current share price (as on Jul 11,2025) of NIFTY INDIA DEFENCE Index is ₹ 8,512.3.",
+      "link": "https://www.smart-investing.in/indices-bse-nse.php?index=NIFTYINDEFENCE",
+      "display_link": "https://www.smart-investing.in › indices-bse-nse › inde...",
+      "date": "11 Feb 2024",
+      "rank": 1
+    },
+    {
+      "title": "NIFTY CONSUMER DURABLES Index Stocks List -NSE",
+      "description": "Analyze NIFTY CONSUMER DURABLES Index Stocks Weightage, List and Price. Get Started Now to analyze the fundamentals and valuation of these stocks!",
+      "link": "https://www.smart-investing.in/indices-bse-nse.php?index=NCONSDUR",
+      "display_link": "https://www.smart-investing.in › indices-bse-nse",
+      "date": "11 Feb 2024",
+      "rank": 3
+    },
+    {
+      "title": "Nifty Lifestyle Earnings Date, Reports & Earnings Call",
+      "description": "Stay informed on Nifty Lifestyle's earnings date, reports, and conference call with Futubull. View estimates and historical data for EPS, revenue, and EBIT.",
+      "link": "https://www.futunn.com/en/stock/4262-JP/earnings",
+      "display_link": "https://www.futunn.com › stock › earnings",
+      "date": "11 Feb 2024",
+      "rank": 4
+    },
+    {
+      "title": "Technical outlook – Is another high in sight for the Nifty 50?",
+      "description": "The technical picture in the Nifty Bank index is not as bullish as Nifty 50. The Nifty Bank index is tracing out a bearish sequence of lower highs and lower ...",
+      "link": "https://primeinvestor.in/reports/technical-outlook-another-high-in-sight-for-nifty-50/",
+      "display_link": "https://primeinvestor.in › Markets",
+      "date": "11 Feb 2024",
+      "rank": 6
+    }
+  ]
+}

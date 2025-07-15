@@ -1,0 +1,70 @@
+{
+  "general": {
+    "search_engine": "google",
+    "query": "before:2024-01-31 after:2024-01-30 \"nifty\"",
+    "results_cnt": 287000,
+    "search_time": 0.29,
+    "language": "en-AU",
+    "country": "Australia",
+    "location": "India",
+    "timestamp": "2025-07-15T15:31:28.865279Z"
+  },
+  "organic": [
+    {
+      "title": "What is Nifty - Meaning, Definition and Companies List 2025",
+      "description": "What is Nifty? Nifty is a collection of top-performing 50 equity stocks actively trading in index. Know about top 50 companies with Scripbox.",
+      "link": "https://scripbox.com/pf/what-is-nifty/",
+      "display_link": "https://scripbox.com › Personal Finance",
+      "date": "30 Jan 2024",
+      "rank": 1
+    },
+    {
+      "title": "Live Nifty Bank Index, Share Price, Chart & Stock List.",
+      "description": "NIFTY Bank index was introduced in January 2000 with a base value of 1,000. It was created to monitor the performance of banking stocks listed on the exchange.",
+      "link": "https://upstox.com/indices/nifty-bank-share-price/",
+      "display_link": "https://upstox.com › indices › nifty-bank-share-price",
+      "date": "30 Jan 2024",
+      "rank": 2
+    },
+    {
+      "title": "Live Nifty 100 Index, Share Price, Chart & Stock List.",
+      "description": "NIFTY 100 is an index that represents the top 100 companies listed on the National Stock Exchange of India (NSE). It is part of the broader NIFTY index family ...",
+      "link": "https://upstox.com/indices/nifty-100-share-price/",
+      "display_link": "https://upstox.com › indices › nifty-100-share-price",
+      "date": "30 Jan 2024",
+      "rank": 4
+    },
+    {
+      "title": "Stock Market Highlights:Dark clouds appear on Nifty charts. ...",
+      "description": "Nifty on Tuesday ended 215.5 points lower to form a bearish dark cloud cover candle on the daily chart ahead of the two-day Fed meeting.",
+      "link": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-30-january-2024/liveblog/107244548.cms",
+      "display_link": "https://m.economictimes.com › Markets › Stocks",
+      "date": "30 Jan 2024",
+      "rank": 11
+    },
+    {
+      "title": "Nifty Realty vs Nifty Energy: Which index should one bet on ...",
+      "description": "Nifty Realty is the better-performing index. The index soared over 70 percent in 2023 as against a 42 percent rise in Nifty Energy.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-realty-vs-nifty-energy-which-index-should-one-bet-on-ahead-of-budget-2024-11705645142368.html",
+      "display_link": "https://www.livemint.com › Markets › Stock Markets",
+      "date": "30 Jan 2024",
+      "rank": 16
+    },
+    {
+      "title": "Share Market Highlights 30 January 2024: Nifty, Sensex ...",
+      "description": "The Nifty declined 215.50 points or 0.99 per cent to 21,522.10. Among the Sensex firms, Bajaj Finance fell by 5.03 per cent after its December quarter earnings ...",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-30-january-2023/article67789893.ece",
+      "display_link": "https://www.thehindubusinessline.com › Markets",
+      "date": "30 Jan 2024",
+      "rank": 17
+    },
+    {
+      "title": "The Nifty, Nifty Bank started the week with gains; the short- ...",
+      "description": "The NIFTY opened at 21433.10 with a gap up of 81. The index continued its early morning bullish momentum and started moving higher sharply after the opening ...",
+      "link": "https://elitewealth.in/the-nifty-nifty-bank-started-the-week-with-gains-the-short-term-trend-is-sideways/",
+      "display_link": "https://elitewealth.in › Morning Outlook",
+      "date": "30 Jan 2024",
+      "rank": 18
+    }
+  ]
+}
