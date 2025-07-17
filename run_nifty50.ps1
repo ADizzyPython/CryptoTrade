@@ -8,7 +8,7 @@ param(
     [string]$StartDate = "2024-01-01",
     [string]$EndDate = "2024-12-31",
     [string]$Preset = "balanced",
-    [string]$Model = "openai/gpt-4o",
+    [string]$Model = "google/gemini-2.5-flash-preview-05-20",
     [int]$Capital = 1000000,
     [switch]$NoTech,
     [switch]$NoNews,

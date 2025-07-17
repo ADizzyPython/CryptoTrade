@@ -72,7 +72,7 @@ class TechnicalIndicators:
 @dataclass
 class ModelParameters:
     """Language model parameters"""
-    model_name: str = "openai/gpt-4o"
+    model_name: str = "google/gemini-2.5-flash-preview-05-20"
     temperature: float = 0.0
     max_tokens: int = 512
     seed: int = 42

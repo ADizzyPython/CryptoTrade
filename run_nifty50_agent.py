@@ -70,8 +70,8 @@ def parse_arguments():
                        default='balanced', help='Configuration preset to use (default: balanced)')
     
     # Model arguments
-    parser.add_argument('--model', type=str, default='openai/gpt-4o',
-                       help='Model to use (default: openai/gpt-4o)')
+    parser.add_argument('--model', type=str, default='google/gemini-2.5-flash-preview-05-20',
+                       help='Model to use (default: google/gemini-2.5-flash-preview-05-20)')
     parser.add_argument('--seed', type=int, default=42,
                        help='Random seed (default: 42)')
     
